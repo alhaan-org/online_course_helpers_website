@@ -14,7 +14,7 @@ body {
     position: relative;
     display: flex;
     align-items: center;
-    padding-top: 6rem;
+    padding-top: 12rem;
 }
 
 .hero-section::before {

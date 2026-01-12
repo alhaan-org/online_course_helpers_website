@@ -32,7 +32,7 @@
 
   <body>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg fixed-top" style="z-index: 50;">
+    <nav class="navbar navbar-expand-lg fixed-top " style="z-index: 50;">
       <div class="container-fluid px-4">
         <!-- Logo -->
         <a class="navbar-brand" href="#">
@@ -46,7 +46,7 @@
 
         <!-- Mobile Toggle Button -->
         <button
-          class="navbar-toggler border-0"
+          class="navbar-toggler order-lg-last border-0"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarNav"
@@ -60,7 +60,7 @@
 
         <!-- Navigation Items -->
         <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav ms-auto gap-3">
+          <ul class="navbar-nav mx-auto gap-3 align-items-center">
             <li class="nav-item">
               <a class="nav-link active" href="#">Home</a>
             </li>
@@ -91,7 +91,8 @@
 
     <!-- Hero Section -->
     <?php include 'include/hero_section.php'; ?>
-
+    <!-- Trust Section -->
+    <?php include 'include/trust_section.php'; ?>
     <!-- Bootstrap JS Bundle -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   </body>

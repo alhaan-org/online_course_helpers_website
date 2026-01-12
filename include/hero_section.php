@@ -1,8 +1,8 @@
 <section class="hero-section">
     <div class="container-fluid px-4">
-        <div class="row align-items-center g-4">
+        <div class="row align-items-center justify-content-center g-4">
             <!-- Left Content -->
-            <div class="col-lg-7">
+            <div class="col-lg-7 w-50">
                 <h1 class="hero-title mb-4" style="font-size: clamp(2rem, 5vw, 2.25rem);">
                     Hire Professional Online Course Helpers For Extra College Credits
                 </h1>
@@ -31,7 +31,7 @@
                 <div class="d-flex align-items-center flex-wrap gap-3 mb-4">
                     <small class="trusted-by">Trusted By:</small>
                     <div class="d-flex gap-3 align-items-center">
-                        <img src="assets/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
+                        <img src="../assets/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
                     </div>
                 </div>
 
@@ -44,7 +44,7 @@
             <div class="col-lg-5">
                 <div class="hero-form-card">
                     <div class="limited-offer-badge">
-                        <img src="assets/limited-offer-1024x613.webp" alt="Limited Offer" />
+                        <img src="../assets/limited-offer-1024x613.webp" alt="Limited Offer" />
                     </div>
                     <h4 class="mb-4 text-center fw-bold text-dark">
                         Save Upto 50% On First Order
@@ -81,4 +81,10 @@
             </div>
         </div>
     </div>
+
+    <div class="custom-shape-divider-bottom-1768237457">
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M1200 0L0 0 892.25 114.72 1200 0z" class="shape-fill"></path>
+    </svg>
+</div>
 </section>

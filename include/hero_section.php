@@ -1,8 +1,10 @@
+
+
 <section class="hero-section">
     <div class="container-fluid px-4">
-        <div class="row align-items-center justify-content-center g-4">
+        <div class="row align-items-center g-4 w-100">
             <!-- Left Content -->
-            <div class="col-lg-7 w-50">
+            <div class="col-lg-7">
                 <h1 class="hero-title mb-4" style="font-size: clamp(2rem, 5vw, 2.25rem);">
                     Hire Professional Online Course Helpers For Extra College Credits
                 </h1>

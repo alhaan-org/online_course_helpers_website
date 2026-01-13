@@ -18,7 +18,7 @@
             <img src="../assets/uni-15.webp" alt="..." />
         </div>
     </div>
-    <div class="container">
+    <div class="container mt-5">
         <div class="row align-items-center g-5">
 
             <!-- Right Image Placeholder -->

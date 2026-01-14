@@ -1,6 +1,6 @@
 <section class="hero-section">
-    <div class="container-fluid px-4">
-        <div class="row align-items-center g-4 w-100">
+    <div class="d-flex flex-wrap align-items-center justify-content-center p-5">
+        <div class="row d-flex align-items-center justify-content-between g-4">
             <!-- Left Content -->
             <div class="col-lg-7">
                 <h1 class="hero-title mb-4" style="font-size: clamp(2rem, 5vw, 2.25rem);">

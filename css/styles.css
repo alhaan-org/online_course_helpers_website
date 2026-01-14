@@ -18,6 +18,7 @@ body {
   padding: 12rem 0rem 8rem 5rem;
 }
 
+
 .hero-section::before {
   position: absolute;
   top: 0;
@@ -25,18 +26,16 @@ body {
   left: 0;
   right: 0;
   content: "";
-  background: linear-gradient(
-    135deg,
-    #003d4d 0%,
-    #003042 60%,
-    rgb(0, 39, 54) 20%,
-    #f3ef00 100%
-  );
+  background: linear-gradient(135deg,
+      #003d4d 0%,
+      #003042 60%,
+      rgb(0, 39, 54) 20%,
+      #f3ef00 100%);
   z-index: 1;
   opacity: 0.95;
 }
 
-.hero-section > * {
+.hero-section>* {
   position: relative;
   z-index: 2;
 }
@@ -52,7 +51,7 @@ body {
 
 .limited-offer-badge {
   position: absolute;
-  top: -14%;
+  top: -15%;
   left: 50%;
   transform: translateX(-50%);
   padding: 0.5rem 1.5rem;
@@ -94,6 +93,7 @@ body {
   background-color: transparent !important;
   transition: background-color 0.3s ease;
 }
+
 .navbar.scrolled {
   background-color: rgb(20, 7, 7) !important;
 }
@@ -196,25 +196,25 @@ body {
 }
 
 .custom-shape-divider-bottom-1768237457 {
-    position: absolute;
-    bottom: -1px;
-    left: 0;
-    width: 100%;
-    overflow: hidden;
-    line-height: 0;
-    transform: rotate(180deg);
-    pointer-events: none;
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+  pointer-events: none;
 }
 
 .custom-shape-divider-bottom-1768237457 svg {
-    position: relative;
-    display: block;
-    width: calc(100% + 1.3px);
-    height: 64px;
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 64px;
 }
 
 .custom-shape-divider-bottom-1768237457 .shape-fill {
-    fill: #FFFFFF;
+  fill: #FFFFFF;
 }
 
 .academic-section {
@@ -294,12 +294,13 @@ body {
   width: 100%;
   overflow: hidden;
 }
+
 .slider-images {
   display: flex;
   gap: 10px;
   overflow-x: auto;
   white-space: nowrap;
-  
+
 
   /* Hide scrollbar for Chrome, Safari, Edge, and Opera */
   &::-webkit-scrollbar {
@@ -324,6 +325,7 @@ body {
   0% {
     transform: translateX(0);
   }
+
   100% {
     transform: translateX(-100%);
   }
@@ -340,89 +342,174 @@ body {
 
 
 .yellow-section {
-    background-color: #FFCC00; /* Vibrant yellow from your screenshot */
-    color: #1a1a1a;
-    height: fit-content;
+  background-color: #FFCC00;
+  /* Vibrant yellow from your screenshot */
+  color: #1a1a1a;
+  height: fit-content;
 }
 
 
 
 /* Blue Section Styles */
 .blue-section {
-    background-color: #00334d; 
-    height: fit-content;
+  background-color: #00334d;
+  height: fit-content;
 }
 
 .highlight {
-    background-color: #FFCC00;
-    color: #000;
-    padding: 2px 10px;
+  background-color: #FFCC00;
+  color: #000;
+  padding: 2px 10px;
 }
 
 .custom-img {
-    max-width: 300px;
-    position: relative;
+  max-width: 300px;
+  position: relative;
 }
+
 /* Container that holds all cards */
 .horizontal-scroll-wrapper {
-    display: flex;
-    flex-wrap: nowrap; 
-    overflow-x: auto; 
-    gap: 20px;        
-    padding-bottom: 20px;
-    -webkit-overflow-scrolling: touch;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 20px;
+  padding-bottom: 20px;
+  -webkit-overflow-scrolling: touch;
 }
 
 .horizontal-scroll-wrapper::-webkit-scrollbar {
-    height: 8px;
+  height: 8px;
 }
+
 .horizontal-scroll-wrapper {
-    scrollbar-color: #00334d #FFE066;
-    scrollbar-width: thin;            
+  scrollbar-color: #00334d #FFE066;
+  scrollbar-width: thin;
 }
 
 
 .course-card-container {
-    flex: 0 0 350px; 
-    max-width: 350px;
+  flex: 0 0 350px;
+  max-width: 350px;
 }
 
 .course-card {
-    background: #FFE066;
-    padding: 25px;
-    border-radius: 4px;
-    display: flex;
-    justify-content: space-between;
-    height: 350px;
-    text-align: left;
-    font-size: 12px;
+  background: #FFE066;
+  padding: 25px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  height: 350px;
+  text-align: left;
+  font-size: 12px;
 }
 
 .course-card .card-content {
-    margin-top: 10px;
-    overflow-y: scroll;
-    padding-right: 10px;
-    scrollbar-color: #00334d;
-    scrollbar-base-color: transparent;
+  margin-top: 10px;
+  overflow-y: scroll;
+  padding-right: 10px;
+  scrollbar-color: #00334d;
+  scrollbar-base-color: transparent;
 }
 
 .yellow-section .custom-shape-divider-bottom-1768328670 {
-    position: absolute;
-    left: 0;
-    width: 100%;
-    overflow: hidden;
-    line-height: 0;
-    transform: rotate(180deg);
-    pointer-events: none;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+  pointer-events: none;
 }
 
 .yellow-section .custom-shape-divider-bottom-1768328670 svg {
-    position: relative;
-    display: block;
-    width: calc(112% + 1.3px);
-    height: 93px;
+  position: relative;
+  display: block;
+  width: calc(112% + 1.3px);
+  height: 93px;
 }
 
 .yellow-section .custom-shape-divider-bottom-1768328670 .shape-fill {
-    fill: #00334d;
+  fill: #00334d;
 }
+
+.services-section {
+    background-color: #ffffff;
+}
+
+/* Service Box Styling */
+.service-box {
+    background-color: #00334d; /* Navy Blue from screenshot */
+    color: #ffffff;
+    padding: 40px 30px;
+    border-radius: 8px;
+    height: 100%; /* Ensures all boxes in a row are same height */
+    transition: transform 0.3s ease;
+}
+
+.service-box:hover {
+    transform: translateY(-5px);
+}
+
+/* Icon Styling */
+.service-icon {
+    font-size: 2.5rem;
+    color: #FFCC00; /* Yellow from screenshot */
+    margin-bottom: 20px;
+}
+
+.service-box h3 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.service-box p {
+    font-size: 0.9rem;
+    opacity: 0.9;
+    line-height: 1.6;
+}
+
+/* Button Styling */
+.btn-yellow {
+    background-color: #FFCC00;
+    color: #000;
+    border: none;
+}
+
+.btn-yellow:hover {
+    background-color: #e6b800;
+}
+
+.btn-light-grey {
+    background-color: #e9ecef;
+    color: #00334d;
+    border: none;
+}
+.btn-light-grey:hover {
+    background-color: #333;
+    color: #e9ecef;
+}
+
+.curved {
+  background: #ffffff;
+  position: relative;
+  width: 100%;
+  height: 50px;
+  z-index: 0;
+  box-sizing: border-box;
+}
+
+.curved:before {
+  content: '';
+  background: inherit;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  z-index: -1;
+  transform: translate(0px, -100%);
+  transform-origin: top left;
+  border-top-left-radius: 100% 80px;
+  border-top-right-radius: 100% 80px;
+} 

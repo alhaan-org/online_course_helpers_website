@@ -1,5 +1,3 @@
-
-
 <section class="hero-section">
     <div class="container-fluid px-4">
         <div class="row align-items-center g-4 w-100">

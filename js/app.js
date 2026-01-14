@@ -6,7 +6,7 @@ $(document).ready(function () {
       $(".navbar").removeClass("scrolled");
     }
   });
-
+  
   const $slider = $(".slider-images");
   let isDown = false;
   let startX;

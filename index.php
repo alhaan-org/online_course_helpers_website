@@ -32,7 +32,7 @@
 
   <body>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg fixed-top " style="z-index: 50;">
+    <nav class="navbar navbar-expand-lg fixed-top">
       <div class="container-fluid px-4">
         <!-- Logo -->
         <a class="navbar-brand" href="#">
@@ -95,6 +95,8 @@
     <?php include 'include/trust_section.php'; ?>
     <!-- Benefits Section -->
      <?php include 'include/benefits_section.php'; ?>
+     <!-- Services Section -->
+      <?php include 'include/services_section.php'; ?>
     <!-- Bootstrap JS Bundle -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   </body>

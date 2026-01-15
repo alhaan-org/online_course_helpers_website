@@ -40,7 +40,7 @@
             src="assets/Online-Course-Helpers-768x538.png"
             alt="Online Course Helpers"
             class="img-fluid"
-            style="height: 100px;"
+            style="height: 80px;"
           />
         </a>
 
@@ -97,6 +97,8 @@
      <?php include 'include/benefits_section.php'; ?>
      <!-- Services Section -->
       <?php include 'include/services_section.php'; ?>
+      <!-- Moodle Section -->
+      <?php include 'include/moodle_section.php'; ?>
     <!-- Bootstrap JS Bundle -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   </body>

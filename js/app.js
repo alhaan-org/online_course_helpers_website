@@ -1,15 +1,14 @@
 $(document).ready(function () {
-
   const $slider = $(".slider-images");
-  const $horizontalScroll = $(".course-card")
   const $horizontalScrollWrapper = $(".horizontal-scroll-wrapper");
+  const $horizontalScrollCards = $(".course-card");
   let isDown = false;
   let startX;
   let scrollLeft;
 
   $slider.on("mousedown", function (e) {
     isDown = true;
-    $slider.addClass("active"); 
+    $slider.addClass("active");
     startX = e.pageX - $slider.offset().left;
     scrollLeft = $slider.scrollLeft();
   });
@@ -27,10 +26,27 @@ $(document).ready(function () {
     const walk = (x - startX) * 2;
     $slider.scrollLeft(scrollLeft - walk);
   });
-  // Will work on this.
-  // $horizontalScroll.on("mousedown", function (e) {
-  //   $horizontalScrollWrapper.css("animation", "scroll 20s linear infinite");
-  // });
+
+  
+  $horizontalScrollCards.on("click", () => {
+    let direction = 1;
+    const value = 300;
+    const currentScroll = $horizontalScrollWrapper.scrollLeft();
+  
+    const maxScroll = $horizontalScrollWrapper[0].scrollWidth - $horizontalScrollWrapper.outerWidth();
+
+   
+    if (currentScroll >= maxScroll - 5)
+        direction = -1; 
+  
+    else if (currentScroll <= 0) {
+        direction = 1; 
+    }
+
+    $horizontalScrollWrapper.animate({
+        scrollLeft: currentScroll + (value * direction)
+    }, 300);
+  });
 
   $(window).scroll(function () {
     if ($(this).width() > 992) {
@@ -42,8 +58,4 @@ $(document).ready(function () {
       $(".navbar").removeClass("scrolled");
     }
   });
-  
-  
-
-
 });

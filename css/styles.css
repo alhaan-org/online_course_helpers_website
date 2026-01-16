@@ -193,9 +193,11 @@ body {
   .hero-form-card {
     margin: 5rem 0;
   }
+
   .trusted-by-logo {
     height: 24px;
   }
+
   .limited-offer-badge {
     top: -18%;
   }
@@ -276,6 +278,7 @@ body {
   background-color: #000000;
   color: #e2e2e2;
 }
+
 .btn-darkcyan {
   background-color: #002a4d;
   color: #ffffff;
@@ -284,6 +287,7 @@ body {
   padding: 12px 32px;
   border-radius: 30px;
 }
+
 .btn-darkcyan:hover {
   background-color: #001a30;
   color: #ffffff;
@@ -297,15 +301,7 @@ body {
   align-items: center;
 }
 
-@media (max-width: 768px) {
-  .heading-title {
-    font-size: 28px;
-  }
 
-  .image-placeholder {
-    margin-top: 40px;
-  }
-}
 
 .slider-images-container {
   display: flex;
@@ -458,61 +454,65 @@ body {
 }
 
 .services-section {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
 
 /* Service Box Styling */
 .service-box {
-    background-color: #00334d; /* Navy Blue from screenshot */
-    color: #ffffff;
-    padding: 40px 30px;
-    border-radius: 8px;
-    height: 100%; /* Ensures all boxes in a row are same height */
-    transition: transform 0.3s ease;
+  background-color: #00334d;
+  /* Navy Blue from screenshot */
+  color: #ffffff;
+  padding: 40px 30px;
+  border-radius: 8px;
+  height: 100%;
+  /* Ensures all boxes in a row are same height */
+  transition: transform 0.3s ease;
 }
 
 .service-box:hover {
-    transform: translateY(-5px);
+  transform: translateY(-5px);
 }
 
 /* Icon Styling */
 .service-icon {
-    font-size: 2.5rem;
-    color: #FFCC00; /* Yellow from screenshot */
-    margin-bottom: 20px;
+  font-size: 2.5rem;
+  color: #FFCC00;
+  /* Yellow from screenshot */
+  margin-bottom: 20px;
 }
 
 .service-box h3 {
-    font-size: 1.25rem;
-    font-weight: bold;
-    margin-bottom: 15px;
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 15px;
 }
 
 .service-box p {
-    font-size: 0.9rem;
-    opacity: 0.9;
-    line-height: 1.6;
+  font-size: 0.9rem;
+  opacity: 0.9;
+  line-height: 1.6;
 }
 
 /* Button Styling */
 .btn-yellow {
-    background-color: #FFCC00;
-    color: #000;
-    border: none;
+  background-color: #FFCC00;
+  color: #000;
+  border: none;
 }
 
 .btn-yellow:hover {
-    background-color: #e6b800;
+  background-color: #e6b800;
 }
 
 .btn-light-grey {
-    background-color: #e9ecef;
-    color: #00334d;
-    border: none;
+  background-color: #e9ecef;
+  color: #00334d;
+  border: none;
 }
+
 .btn-light-grey:hover {
-    background-color: #333;
-    color: #e9ecef;
+  background-color: #333;
+  color: #e9ecef;
 }
 
 .curved {
@@ -537,7 +537,7 @@ body {
   transform-origin: top left;
   border-top-left-radius: 100% 80px;
   border-top-right-radius: 100% 80px;
-} 
+}
 
 .curved-1 {
   background: #ffffff;
@@ -561,16 +561,18 @@ body {
   transform-origin: top left;
   border-top-left-radius: 100% 80px;
   border-top-right-radius: 100% 80px;
-} 
+}
+
 /* Section Background */
 .platform-section {
-    background-image: url('../assets/banner3.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: fit-content;
-    position: relative;
-    z-index: 0;
+  background-image: url('../assets/banner3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: fit-content;
+  position: relative;
+  z-index: 0;
 }
+
 .platform-section::before {
   content: '';
   position: absolute;
@@ -586,70 +588,162 @@ body {
 
 /* 3D Flip Card Container */
 .flip-card {
-    background-color: transparent;
-    perspective: 1000px; /* Essential for 3D effect */
-    aspect-ratio: 1 / 1; /* Forces square shape */
+  background-color: transparent;
+  perspective: 1000px;
+  /* Essential for 3D effect */
+  aspect-ratio: 1 / 1;
+  /* Forces square shape */
 }
 
 .flip-card-inner {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    text-align: center;
-    transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
-    transform-style: preserve-3d;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-    border-radius: 12px;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
 }
 
 .flip-card:hover .flip-card-inner {
-    transform: rotateY(180deg);
+  transform: rotateY(180deg);
 }
 
-.flip-card-front, .flip-card-back {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-    border-radius: 12px;
-    border: 1px solid #eee;
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  border-radius: 12px;
+  border: 1px solid #eee;
 }
 
 .flip-card-front {
-    background-color: #ffffff;
-    color: #333;
+  background-color: #ffffff;
+  color: #333;
 }
 
 .flip-card-back {
-    background-color: #00334d; 
-    color: white;
-    transform: rotateY(180deg);
+  background-color: #00334d;
+  color: white;
+  transform: rotateY(180deg);
 }
 
 #flip-card-img {
-    width: 200px;
-    height: 200px;
-    object-fit: contain;
-    aspect-ratio: 1 / 1;
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  aspect-ratio: 1 / 1;
 }
 
 .custom-shape-divider-top-1768582152 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1768582152 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 54px;
+}
+
+.custom-shape-divider-top-1768582152 .shape-fill {
+  fill: #ffffff;
+}
+
+/* Branding Colors */
+.text-navy {
+  color: #00334d;
+}
+
+.text-highlight {
+  background-color: #ffcc00;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.btn-light-grey {
+  background-color: #e9ecef;
+  color: #00334d;
+  border: none;
+}
+
+/* Image Placeholder Styling */
+.hero-image-frame {
+  position: relative;
+  padding: 10px;
+}
+.hero-image-frame .cheap-price-section-image-placeholder {
+  width: clamp(10em, 60vw, 30em);
+  display: flex;
+  aspect-ratio: 1/1;
+  margin: 0 auto;
+}
+.image-placeholder {
+  width: 100%;
+  max-width: 480px;
+  aspect-ratio: 1 / 1.1;
+  background-color: #fce4ec;
+  border-radius: 40px;
+  margin: 0 auto;
+  border: 15px solid #00334d;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.custom-shape-divider-bottom-1768583792 {
     position: absolute;
-    top: 0;
+    bottom: -5px;
     left: 0;
     width: 100%;
     overflow: hidden;
     line-height: 0;
+    transform: rotate(180deg);
 }
 
-.custom-shape-divider-top-1768582152 svg {
+.custom-shape-divider-bottom-1768583792 svg {
     position: relative;
     display: block;
     width: calc(100% + 1.3px);
-    height: 54px;
+    height: 78px;
 }
 
-.custom-shape-divider-top-1768582152 .shape-fill {
-    fill: #ffffff;
+
+.custom-shape-divider-bottom-1768583792 .shape-fill {
+    fill: #FFFFFF;
+}
+
+@media (max-width: 768px) {
+  .heading-title {
+    font-size: 28px;
+  }
+
+  .image-placeholder {
+    margin-top: 40px;
+  }
+
+  .cheap-price-section {
+    text-align: center;
+  }
+
+  .cheap-price-section p {
+    padding-right: 0 !important;
+  }
+
+  .image-placeholder {
+    max-width: 350px;
+    border-width: 10px;
+    margin-top: 30px;
+  }
+
+  .d-flex {
+    justify-content: center;
+  }
 }

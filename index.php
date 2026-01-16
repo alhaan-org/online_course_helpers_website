@@ -4,57 +4,36 @@
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Online Course Helpers - Website</title>
 
-    <!-- Bootstrap CSS -->
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-    />
-    <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-    />
-    <link
-    rel="stylesheet"
-    href="css/styles.css"
-    />
-    <script
-      src="https://code.jquery.com/jquery-3.7.1.js"
-      integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
-      crossorigin="anonymous"
-    ></script>
-    <script src="js/app.js"></script>
-  </head>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Online Course Helpers - Website</title>
 
-  <body>
-    <!-- Navbar -->
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+    crossorigin="anonymous"></script>
+  <script src="js/app.js"></script>
+</head>
+
+<body>
+  <!-- Navbar -->
+  <header>
     <nav class="navbar navbar-expand-lg fixed-top">
       <div class="container-fluid px-4">
         <!-- Logo -->
         <a class="navbar-brand" href="#">
-          <img
-            src="assets/Online-Course-Helpers-768x538.png"
-            alt="Online Course Helpers"
-            class="img-fluid"
-            style="height: 80px;"
-          />
+          <img src="assets/Online-Course-Helpers-768x538.png" alt="Online Course Helpers" class="img-fluid"
+            style="height: 80px;" />
         </a>
 
         <!-- Mobile Toggle Button -->
-        <button
-          class="navbar-toggler order-lg-last border-0"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarNav"
-          aria-controls="navbarNav"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-          style="color: white;"
-        >
+        <button class="navbar-toggler order-lg-last border-0" type="button" data-bs-toggle="collapse"
+          data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"
+          style="color: white;">
           <span class="navbar-toggler-icon" style="filter: invert(1);"></span>
         </button>
 
@@ -88,18 +67,22 @@
         </div>
       </div>
     </nav>
+  </header>
 
-    <!-- Hero Section -->
-    <?php include 'include/hero_section.php'; ?>
-    <!-- Trust Section -->
-    <?php include 'include/trust_section.php'; ?>
-    <!-- Benefits Section -->
-     <?php include 'include/benefits_section.php'; ?>
-     <!-- Services Section -->
-      <?php include 'include/services_section.php'; ?>
-      <!-- Moodle Section -->
-      <?php include 'include/moodle_section.php'; ?>
-    <!-- Bootstrap JS Bundle -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-  </body>
+
+  <!-- Hero Section -->
+  <?php include 'include/hero_section.php'; ?>
+  <!-- Trust Section -->
+  <?php include 'include/trust_section.php'; ?>
+  <!-- Benefits Section -->
+  <?php include 'include/benefits_section.php'; ?>
+  <!-- Services Section -->
+  <?php include 'include/services_section.php'; ?>
+  <!-- Moodle Section -->
+  <?php include 'include/moodle_section.php'; ?>
+  <!-- Cheap Price Section -->
+  <?php include 'include/cheap_price_section.php'; ?>
+  <!-- Bootstrap JS Bundle -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
 </html>

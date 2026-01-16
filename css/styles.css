@@ -276,6 +276,18 @@ body {
   background-color: #000000;
   color: #e2e2e2;
 }
+.btn-darkcyan {
+  background-color: #002a4d;
+  color: #ffffff;
+  font-weight: 600;
+  border: none;
+  padding: 12px 32px;
+  border-radius: 30px;
+}
+.btn-darkcyan:hover {
+  background-color: #001a30;
+  color: #ffffff;
+}
 
 .image-placeholder {
   background: transparent;
@@ -622,3 +634,22 @@ body {
     aspect-ratio: 1 / 1;
 }
 
+.custom-shape-divider-top-1768582152 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1768582152 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 54px;
+}
+
+.custom-shape-divider-top-1768582152 .shape-fill {
+    fill: #ffffff;
+}

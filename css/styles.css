@@ -1,5 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
+:root {
+  --dark-cyan: #002a4d;
+  --dark-cyan-variation: #003d7a;
+  --vibrant-yellow: #ffe600;
+  --vibrant-yellow-variation: #ffc93f;
+  --navy-blue: #00334d;
+  --light-grey: #e9ecef;
+  --darker-gray: #343a40;
+}
+
 * {
   font-family: "Poppins", sans-serif, Helvetica;
 }
@@ -80,12 +90,12 @@ body {
 }
 
 .nav-link:hover {
-  color: #ffb700 !important;
+  color: var(--vibrant-yellow) !important;
 }
 
 .nav-link.active {
-  color: #fbbf24 !important;
-  border-bottom: 2px solid #fbbf24;
+  color: var(--vibrant-yellow-variation) !important;
+  border-bottom: 2px solid var(--vibrant-yellow-variation);
   padding-bottom: 0.25rem;
 }
 
@@ -99,7 +109,7 @@ body {
 }
 
 .hero-title {
-  color: #fffb00;
+  color: var(--vibrant-yellow);
   font-weight: 700;
   line-height: 1.2;
 }
@@ -119,12 +129,12 @@ body {
 }
 
 .feature-icon {
-  color: #fbbf24;
+  color: var(--vibrant-yellow);
   font-size: 1.25rem;
 }
 
 .btn-primary-custom {
-  background-color: #ffc941;
+  background-color: var(--vibrant-yellow-variation);
   color: black;
   font-weight: 700;
   padding: 0.75rem 2rem;
@@ -135,7 +145,7 @@ body {
 }
 
 .btn-primary-custom:hover {
-  background-color: #ffbf00;
+  background-color: var(--vibrant-yellow);
   color: black;
   box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
 }
@@ -165,7 +175,7 @@ body {
 }
 
 .btn-submit {
-  background-color: #fbbf24;
+  background-color: var(--vibrant-yellow);
   color: black;
   font-weight: 700;
   padding: 0.75rem;
@@ -177,7 +187,7 @@ body {
 
 .btn-submit:hover {
   background-color: #111;
-  color: #fbbf24;
+  color: var(--vibrant-yellow-variation);
 }
 
 .trusted-by {
@@ -232,7 +242,7 @@ body {
 }
 
 .highlight {
-  background-color: #ffd000;
+  background-color: var(--vibrant-yellow);
   padding: 2px 6px;
 }
 
@@ -252,8 +262,8 @@ body {
 }
 
 .btn-call {
-  background-color: #d0ff00;
-  color: #333;
+  background-color: var(--vibrant-yellow);
+  color: var(--darker-gray);
   font-weight: 600;
   border: none;
   padding: 12px 32px;
@@ -261,13 +271,13 @@ body {
 }
 
 .btn-call:hover {
-  background-color: #e6b800;
-  color: #333;
+  background-color: var(--vibrant-yellow-variation);
+  color: var(--darker-gray);
 }
 
 .btn-chat {
   background-color: #e2e2e2;
-  color: #333;
+  color: var(--darker-gray);
   font-weight: 600;
   border: none;
   padding: 12px 32px;
@@ -280,7 +290,7 @@ body {
 }
 
 .btn-darkcyan {
-  background-color: #002a4d;
+  background-color: var(--dark-cyan);
   color: #ffffff;
   font-weight: 600;
   border: none;
@@ -289,7 +299,7 @@ body {
 }
 
 .btn-darkcyan:hover {
-  background-color: #001a30;
+  background-color: var(--dark-cyan-variation);
   color: #ffffff;
 }
 
@@ -356,7 +366,7 @@ body {
 
 
 .yellow-section {
-  background-color: #FFCC00;
+  background-color: var(--vibrant-yellow);
   /* Vibrant yellow from your screenshot */
   color: #1a1a1a;
   height: fit-content;
@@ -366,12 +376,12 @@ body {
 
 /* Blue Section Styles */
 .blue-section {
-  background-color: #00334d;
+  background-color: var(--dark-cyan);
   height: fit-content;
 }
 
 .highlight {
-  background-color: #FFCC00;
+  background-color: var(--vibrant-yellow);
   color: #000;
   padding: 2px 10px;
 }
@@ -398,7 +408,7 @@ body {
 }
 
 .horizontal-scroll-wrapper {
-  scrollbar-color: #00334d #FFE066;
+  scrollbar-color: var(--dark-cyan) transparent;
   scrollbar-width: thin;
 }
 
@@ -410,7 +420,7 @@ body {
 }
 
 .course-card {
-  background: #FFE066;
+  background: var(--vibrant-yellow-variation);
   padding: 25px;
   border-radius: 4px;
   display: flex;
@@ -426,7 +436,7 @@ body {
   overflow-y: scroll;
   padding-right: 10px;
   height: 260px;
-  scrollbar-color: #00334d;
+  scrollbar-color: var(--dark-cyan);
   scrollbar-base-color: transparent;
   font-size: 14px;
 }
@@ -450,7 +460,7 @@ body {
 }
 
 .yellow-section .custom-shape-divider-bottom-1768328670 .shape-fill {
-  fill: #00334d;
+  fill: var(--dark-cyan);
 }
 
 .services-section {
@@ -459,7 +469,7 @@ body {
 
 /* Service Box Styling */
 .service-box {
-  background-color: #00334d;
+  background-color: var(--dark-cyan);
   /* Navy Blue from screenshot */
   color: #ffffff;
   padding: 40px 30px;
@@ -476,7 +486,7 @@ body {
 /* Icon Styling */
 .service-icon {
   font-size: 2.5rem;
-  color: #FFCC00;
+  color: var(--vibrant-yellow);
   /* Yellow from screenshot */
   margin-bottom: 20px;
 }
@@ -495,24 +505,24 @@ body {
 
 /* Button Styling */
 .btn-yellow {
-  background-color: #FFCC00;
+  background-color: var(--vibrant-yellow);
   color: #000;
   border: none;
 }
 
 .btn-yellow:hover {
-  background-color: #e6b800;
+  background-color: var(--vibrant-yellow-variation);
 }
 
 .btn-light-grey {
-  background-color: #e9ecef;
-  color: #00334d;
+  background-color: var(--light-grey);
+  color: var(--dark-cyan);
   border: none;
 }
 
 .btn-light-grey:hover {
-  background-color: #333;
-  color: #e9ecef;
+  background-color: var(--darker-gray);
+  color: var(--light-grey);
 }
 
 .curved {
@@ -580,7 +590,7 @@ body {
   left: 0;
   bottom: 0;
   right: 0;
-  background-color: #ffc107;
+  background-color: var(--vibrant-yellow);
   width: 100%;
   z-index: -1;
   opacity: 0.85;
@@ -623,11 +633,11 @@ body {
 
 .flip-card-front {
   background-color: #ffffff;
-  color: #333;
+  color: var(--darker-gray);
 }
 
 .flip-card-back {
-  background-color: #00334d;
+  background-color: var(--dark-cyan);
   color: white;
   transform: rotateY(180deg);
 }
@@ -665,14 +675,14 @@ body {
 }
 
 .text-highlight {
-  background-color: #ffcc00;
+  background-color: var(--vibrant-yellow);
   padding: 2px 8px;
   border-radius: 4px;
 }
 
 .btn-light-grey {
-  background-color: #e9ecef;
-  color: #00334d;
+  background-color: var(--light-grey);
+  color: var(--dark-cyan);
   border: none;
 }
 
@@ -681,43 +691,42 @@ body {
   position: relative;
   padding: 10px;
 }
+
 .hero-image-frame .cheap-price-section-image-placeholder {
   width: clamp(10em, 60vw, 30em);
   display: flex;
   aspect-ratio: 1/1;
   margin: 0 auto;
 }
+
 .image-placeholder {
   width: 100%;
   max-width: 480px;
   aspect-ratio: 1 / 1.1;
-  background-color: #fce4ec;
   border-radius: 40px;
   margin: 0 auto;
-  border: 15px solid #00334d;
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
 }
 
 .custom-shape-divider-bottom-1768583792 {
-    position: absolute;
-    bottom: -5px;
-    left: 0;
-    width: 100%;
-    overflow: hidden;
-    line-height: 0;
-    transform: rotate(180deg);
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
 }
 
 .custom-shape-divider-bottom-1768583792 svg {
-    position: relative;
-    display: block;
-    width: calc(100% + 1.3px);
-    height: 78px;
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 78px;
 }
 
 
 .custom-shape-divider-bottom-1768583792 .shape-fill {
-    fill: #FFFFFF;
+  fill: #FFFFFF;
 }
 
 @media (max-width: 768px) {
@@ -746,4 +755,90 @@ body {
   .d-flex {
     justify-content: center;
   }
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: var(--vibrant-yellow-variation);
+  border-radius: 10px;
+}
+
+.inner-box {
+  max-height: 100vh;
+  overflow-y: auto;
+  padding-right: 15px;
+}
+
+.inner-box-content h2,
+.inner-box-content h3,
+.inner-box-content h4 {
+  color: var(--vibrant-yellow-variation);
+}
+
+.inner-box-content table,
+th,
+td {
+  border: 1px solid #ffffff;
+  padding: 8px;
+  text-align: left;
+}
+
+.bg-darkcyan {
+  position: relative;
+  background-image: url('../assets/banner3.jpg');
+  z-index: 1;
+}
+
+.bg-darkcyan::before {
+  position: absolute;
+  content: '';
+  inset: 0;
+  background-color: var(--dark-cyan);
+  z-index: -1;
+  opacity: calc(0.94);
+}
+
+.review-image {
+  width: 150px;
+}
+
+.left-box {
+  position: relative;
+  background-color: var(--vibrant-yellow);
+  z-index: 1;
+}
+.left-box::before {
+  position: absolute;
+  background-image: url('../assets/Homework_help_1_0cc488f467.png');
+  content: '';
+  inset: 0;
+  z-index: -1;
+}
+
+.payment-icon {
+  height: 40px;
+}
+.payment-info {
+  background-color: var(--light-grey);
+}
+.footer-logo {
+  width: 180px;
+}
+.footer-link a {
+  color: #ffffff;
+  text-decoration: none;
+  transition: 200ms ease-in-out;
+}
+.footer-link a:hover {
+  color: var(--vibrant-yellow);
+}
+.footer-social-icon {
+  color: #ffffff;
+  transition: 200ms ease-in-out;
+}
+.footer-social-icon:hover {
+  color: var(--vibrant-yellow);
 }

@@ -1,6 +1,89 @@
 <?php
-// index.php
-?>
+$all_cards_data = [
+  [
+    'title' => 'Aleks Elementary Course Help',
+    'description' => 'ALEKS Elementary is an online learning platform. It covers topics in
+                maths, science, and language arts. Our expert online Aleks course takers are ready to provide
+                help with every topic.',
+    'platform' => 'aleks',
+  ],
+  [
+    'title' => 'Aleks Middle School Course Help',
+    'description' => 'ALEKS Middle School is a similar online learning platform designed for
+                middle school students. We offer help with the online Alex middle school course, with every part
+                of the online Alex course.',
+    'platform' => 'aleks',
+  ],
+  [
+    'title' => 'Aleks High School Course Help',
+    'description' => 'ALEKS High School is an online learning platform that provides adaptive,
+                personalized instruction for high school students. Get online Alex High School course help,
+                which is designed to help students.',
+    'platform' => 'aleks',
+  ],
+  [
+    'title' => 'PreK- 12 Course Help',
+    'description' => 'The Online Course Helpers offer help with online course in core subjects like math, computer science, and career and technical education (CTE), covering grades from early childhood through high school.',
+    'platform' => 'mcgrawhill',
+  ],
+  [
+    'title' => 'Elementary and Middle School Course Help',
+    'description' => 'We offer a complete guide with online course for elementary and middle school courses. Whether you need help with your assignments or online tests, we provide comprehensive online course help in USA.',
+    'platform' => 'mcgrawhill',
+  ],
+  [
+    'title' => 'High School Course Help',
+    'description' => 'At the Online Course Helpers, our expert online course takers provide help with subjects like algebra, geometry, trigonometry, AP calculus, AP physics, AP chemistry and AP statistics to excel in online courses.',
+    'platform' => 'mcgrawhill',
+  ],
+  [
+    'title' => 'Full Pearson Course Help',
+    'description' => 'If you are feeling overwhelmed, we can manage your whole class for you. Our online course takers will complete everything from homework to tests. Let us handle your course for you.',
+    'platform' => 'pearson',
+  ],
+  [
+    'title' => 'Help with Pearson Quizzes & Tests',
+    'description' => 'Do your tests make you feel nervous? Our online course takers are here to help you prepare and guide you before any quiz or exam, so you don’t feel lost or scared.',
+    'platform' => 'pearson',
+  ],
+  [
+    'title' => 'Pearson Homework Assistance USA',
+    'description' => 'Many students get stuck with their homework. With our help with online course, we give you the correct answers and also explain each one in a way you will understand.',
+    'platform' => 'pearson',
+  ],
+  [
+    'title' => 'Blackboard Program Course Help',
+    'description' => 'A Blackboard Programme Course can support Programme Leads to open a communication channel with their students and share programme-level content. Programme courses must not contain any teaching content or assessments.',
+    'platform' => 'blackboard'
+  ],
+  [
+    'title' => 'Blackboard Custom (Arbitrary) Course Help',
+    'description' => 'A Blackboard Programme Course can support Programme Leads to open a communication channel with their students and share programme-level content. Programme courses must not contain any teaching content or assessments.',
+    'platform' => 'blackboard'
+  ],
+  [
+    'title' => 'Blackbox Sandbox Course Help',
+    'description' => 'A Sandbox is a course used for personal training and testing. You can create a personal Sandbox course in the current Original course format or the new ULTRA format.',
+    'platform' => 'blackboard'
+  ],
+  [
+    'title' => 'Low-Cost Course Help',
+    'description' => 'Sophia provides online course help in USA primarily aimed at undergraduate students. Courses are designed to be flexible, accessible any time and everywhere, and most can be completed at any time.',
+    'platform' => 'sophia'
+  ],
+  [
+    'title' => 'Self-Paced Course Help',
+    'description' => 'Sophia courses are self-paced and designed to earn credit for a specific degree program. The courses taught by professors at Online Course Helpers, earn scholar distinction, ensuring high grades and timely submissions.',
+    'platform' => 'sophia'
+  ],
+  [
+    'title' => 'Online College-Level Course Help',
+    'description' => 'The expert online Course takers at the Online Course Helpers offer complete help with online course for college level offered by Sophia to help students earn credit towards an associate or bachelor\'s degree.',
+    'platform' => 'sophia'
+  ]
+]
+  // Added the array for rendering the content dynamically later
+  ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -24,53 +107,7 @@
 
 <body>
   <!-- Navbar -->
-  <header>
-    <nav class="navbar navbar-expand-lg fixed-top">
-      <div class="container-fluid px-4">
-        <!-- Logo -->
-        <a class="navbar-brand" href="#">
-          <img src="assets/Online-Course-Helpers-768x538.png" alt="Online Course Helpers" class="img-fluid"
-            style="height: 80px;" />
-        </a>
-
-        <!-- Mobile Toggle Button -->
-        <button class="navbar-toggler order-lg-last border-0" type="button" data-bs-toggle="collapse"
-          data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"
-          style="color: white;">
-          <span class="navbar-toggler-icon" style="filter: invert(1);"></span>
-        </button>
-
-        <!-- Navigation Items -->
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav mx-auto gap-3 align-items-center">
-            <li class="nav-item">
-              <a class="nav-link active" href="#">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Services</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Platforms</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Courses</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Education Level</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Blog</a>
-            </li>
-            <li class="nav-item">
-              <button class="btn btn-primary-custom">
-                Live Chat <i class="fa fa-comments ms-2"></i>
-              </button>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-  </header>
+  <?php include 'include/header.php'; ?>
 
   <main>
     <!-- Hero Section -->
@@ -192,21 +229,17 @@
       </div>
       <div class="container mt-5">
         <div class="row align-items-center g-5">
-
           <!-- Right Image Placeholder -->
           <div class="col-lg-6">
             <div class="image-placeholder">
               <img src="../assets/About-Us-1024x956.png" alt="..." class="img-fluid" />
             </div>
           </div>
-
-
           <!-- Left Content -->
           <div class="col-lg-6">
             <h1 class="heading-title">
               Reach New Academic Heights with Our <span class="highlight">Cheap Online Course Help USA</span>
             </h1>
-
             <p class="section-text">
               With the surety of exceptional grades, ask expert online course takers at Online Course Helpers to
               do my online course for me. We offer the best support for your online course challenges at the best
@@ -217,14 +250,11 @@
               Aren't all these offers so fascinating? So, next time when you decide to pay someone to take your
               online course for you, make sure it is Online Course Helpers.
             </p>
-
             <div class="d-flex gap-3 flex-wrap">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat"><i class="fa fa-comments me-2"></i>Live Chat</button>
             </div>
           </div>
-
-
         </div>
       </div>
     </section>
@@ -243,14 +273,13 @@
               <div class="course-card">
                 <h3>Finance Course Help</h3>
                 <div class="card-content">
-
                   <p>We address investment strategies, budgeting, financial planning, and risk analysis. Our
                     experts enable you to understand financial formulas, real-life case studies and assignments.
                     Be it micro or corporate finance, we give you credible academic assistance so that you can
                     excel. Learn more effectively and understand your finances with low-cost, professional
                     advice.</p>
-                  <button class="btn btn-dark">Live Chat</button>
                 </div>
+                <button class="btn btn-dark">Live Chat</button>
               </div>
             </div>
 
@@ -258,15 +287,14 @@
               <div class="course-card">
                 <h3>Business Law Help</h3>
                 <div class="card-content">
-
                   <p>
                     Our Business Law course help simplifies commercial contracts, torts, corporate structures,
                     and others. We facilitate legal case studies, assignments and exam preparation. Understand
                     business ethics, rights, and obligations through easy-to-follow expert guidance. Ideally
                     suited to students desiring to succeed in business law without being confused by legal
                     issues, inexpensive assistance is just a single click away. </p>
-                  <button class="btn btn-dark">Live Chat</button>
                 </div>
+                <button class="btn btn-dark">Live Chat</button>
               </div>
             </div>
 
@@ -274,13 +302,12 @@
               <div class="course-card">
                 <h3>Statistics Help</h3>
                 <div class="card-content">
-
                   <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
                     distributions or assignments, our professionals make complex issues simple. Master real-life
                     data interpretation as you get assistance with projects, quizzes and exams. It is easy and
                     more affordable to score highly in your statistics course with our help.</p>
-                  <button class="btn btn-dark">Live Chat</button>
                 </div>
+                <button class="btn btn-dark">Live Chat</button>
               </div>
             </div>
 
@@ -288,13 +315,12 @@
               <div class="course-card">
                 <h3>Statistics Help</h3>
                 <div class="card-content">
-
                   <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
                     distributions or assignments, our professionals make complex issues simple. Master real-life
                     data interpretation as you get assistance with projects, quizzes and exams. It is easy and
                     more affordable to score highly in your statistics course with our help.</p>
-                  <button class="btn btn-dark">Live Chat</button>
                 </div>
+                <button class="btn btn-dark">Live Chat</button>
               </div>
             </div>
 
@@ -302,13 +328,12 @@
               <div class="course-card">
                 <h3>Statistics Help</h3>
                 <div class="card-content">
-
                   <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
                     distributions or assignments, our professionals make complex issues simple. Master real-life
                     data interpretation as you get assistance with projects, quizzes and exams. It is easy and
                     more affordable to score highly in your statistics course with our help.</p>
-                  <button class="btn btn-dark">Live Chat</button>
                 </div>
+                <button class="btn btn-dark">Live Chat</button>
               </div>
             </div>
 
@@ -320,8 +345,9 @@
                     distributions or assignments, our professionals make complex issues simple. Master real-life
                     data interpretation as you get assistance with projects, quizzes and exams. It is easy and
                     more affordable to score highly in your statistics course with our help.</p>
-                  <button class="btn btn-dark">Live Chat</button>
+
                 </div>
+                <button class="btn btn-dark">Live Chat</button>
               </div>
             </div>
           </div>
@@ -364,24 +390,8 @@
     </script>
 
 
-    <section class="blue-section py-3">
-      <div class="container">
-        <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
-          <div class="content-left text-white w-60">
-            <h1 class="fw-bold mb-4">Can You Do My Course With Guaranteed Top Grades? <span class="highlight">Yes,
-                We Can.</span></h1>
-            <div class="d-flex gap-3">
-              <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
-              <button class="btn btn-chat"><i class="fa fa-comments me-2"></i>Live Chat</button>
-            </div>
-          </div>
-          <div class="image-right mt-4 mt-md-0">
-            <img src="../assets/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
-              class="img-fluid custom-img">
-          </div>
-        </div>
-      </div>
-    </section>
+    <!-- Can you do my Course Section -->
+    <?php include 'include/can_you_do_my_course.php'; ?>
 
     <section class="curved">
       <div class="d-none">content goes here this is dummy content</div>
@@ -456,262 +466,9 @@
 
     </section>
 
-    <!-- Moodle Section -->
-    <section class="platform-section py-5">
-      <div class="custom-shape-divider-top-1768582152">
-        <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-          <path d="M0,0V7.23C0,65.52,268.63,112.77,600,112.77S1200,65.52,1200,7.23V0Z" class="shape-fill"></path>
-        </svg>
-      </div>
-      <div class="container text-center mt-5">
-        <h2 class="fw-bold mb-3">Expert Course Help on Every Major E-learning Platform</h2>
-        <p class="mx-auto mb-5 text-muted" style="max-width: 800px;">
-          We are the leaders of the best course help services on Canvas, WGU, Brightspace, and other platforms, which
-          guarantees our clients an expert level of support, improved grades, and academic success that will not be
-          accompanied by any stress
-        </p>
+    <!-- Elearning Experts Section -->
+    <?php include 'include/elearning_experts.php'; ?>
 
-        <div class="row g-4">
-          <div class="col-6 col-md-4 col-lg-3">
-            <div class="flip-card">
-              <div class="flip-card-inner">
-                <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
-                  <div class="img-placeholder mb-3">
-                    <img id="flip-card-img" src="../assets/brightspace.webp" alt="" />
-                  </div>
-                </div>
-                <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
-                  <h5 class="text-warning">Brightspace</h5>
-                  <p class="small">Use Brightspace course help service to boost grades in your modules,
-                    quizzes, and interactive assignments.</p>
-                  <button class="btn btn-sm btn-outline-light">See More</button>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-6 col-md-4 col-lg-3">
-            <div class="flip-card">
-              <div class="flip-card-inner">
-                <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
-                  <div class="img-placeholder mb-3">
-                    <img id="flip-card-img" src="../assets/mgh.webp" alt="" />
-                  </div>
-                </div>
-                <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
-                  <h5 class="text-warning">Mc Graw Hill</h5>
-                  <p class="small">McGraw Hill course help service is here to assist you in your online
-                    platform requirements, to guarantee fast turnarounds and improved academic performance.
-                  </p>
-                  <button class="btn btn-sm btn-outline-light">See More</button>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-6 col-md-4 col-lg-3">
-            <div class="flip-card">
-              <div class="flip-card-inner">
-                <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
-                  <div class="img-placeholder mb-3">
-                    <img id="flip-card-img" src="../assets/wgu.webp" alt="" />
-                  </div>
-                </div>
-                <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
-                  <h5 class="text-warning">WGU</h5>
-                  <p class="small">Our WGU course help service promotes competency-based degrees where 24/7
-                    expert tutors are available to produce quick results.</p>
-                  <button class="btn btn-sm btn-outline-light">See More</button>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-6 col-md-4 col-lg-3">
-            <div class="flip-card">
-              <div class="flip-card-inner">
-                <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
-                  <div class="img-placeholder mb-3">
-                    <img id="flip-card-img" src="../assets/straighterline.webp" alt="" />
-                  </div>
-                </div>
-                <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
-                  <h5 class="text-warning">Straighter Line</h5>
-                  <p class="small">
-                    Our Straighter Line course help service guarantees quality tutoring and timely task
-                    submissions for consistent grade improvement.</p>
-                  <button class="btn btn-sm btn-outline-light">See More</button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-md-4 col-lg-3">
-            <div class="flip-card">
-              <div class="flip-card-inner">
-                <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
-                  <div class="img-placeholder mb-3">
-                    <img id="flip-card-img" src="../assets/onlineed.webp" alt="" />
-                  </div>
-                </div>
-                <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
-                  <h5 class="text-warning">Onlineed</h5>
-                  <p class="small">
-                    Online Ed course help service is a support facility in professional development that
-                    provides assistance in expert-directed learning and speedy completion of tasks</p>
-                  <button class="btn btn-sm btn-outline-light">See More</button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-md-4 col-lg-3">
-            <div class="flip-card">
-              <div class="flip-card-inner">
-                <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
-                  <div class="img-placeholder mb-3">
-                    <img id="flip-card-img" src="../assets/act-1.webp" alt="" />
-                  </div>
-                </div>
-                <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
-                  <h5 class="text-warning">ACT</h5>
-                  <p class="small">
-                    ACT course help service guarantees smarter preparation, faster answers, and a better
-                    academic reputation; all masterfully handled. </p>
-                  <button class="btn btn-sm btn-outline-light">See More</button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-md-4 col-lg-3">
-            <div class="flip-card">
-              <div class="flip-card-inner">
-                <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
-                  <div class="img-placeholder mb-3">
-                    <img id="flip-card-img" src="../assets/moodle.webp" alt="" />
-                  </div>
-                </div>
-                <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
-                  <h5 class="text-warning">Moodle</h5>
-                  <p class="small">
-                    Our Moodle course help service is all about easy learning and fast delivery, to achieve
-                    the best scores.</p>
-                  <button class="btn btn-sm btn-outline-light">See More</button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-md-4 col-lg-3">
-            <div class="flip-card">
-              <div class="flip-card-inner">
-                <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
-                  <div class="img-placeholder mb-3">
-                    <img id="flip-card-img" src="../assets/cengage.webp" alt="" />
-                  </div>
-                </div>
-                <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
-                  <h5 class="text-warning">Cengage</h5>
-                  <p class="small">
-                    Cengage course help service gives comprehensive support on various disciplines to
-                    achieve excellent performance and submission without stress.</p>
-                  <button class="btn btn-sm btn-outline-light">See More</button>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-6 col-md-4 col-lg-3">
-            <div class="flip-card">
-              <div class="flip-card-inner">
-                <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
-                  <div class="img-placeholder mb-3">
-                    <img id="flip-card-img" src="../assets/sophia-1.webp" alt="" />
-                  </div>
-                </div>
-                <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
-                  <h5 class="text-warning">Sophia</h5>
-                  <p class="small">
-                    Sophia course help service facilitates general education credits that offer quicker
-                    completion and coursework assistance by experts.</p>
-                  <button class="btn btn-sm btn-outline-light">See More</button>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-6 col-md-4 col-lg-3">
-            <div class="flip-card">
-              <div class="flip-card-inner">
-                <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
-                  <div class="img-placeholder mb-3">
-                    <img id="flip-card-img" src="../assets/canvas.webp" alt="" />
-                  </div>
-                </div>
-                <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
-                  <h5 class="text-warning">Canvas</h5>
-                  <p class="small">
-                    Affordable Canvas course help service on quizzes, discussions, and assignments-
-                    streamlined to accelerate and simplify learning.</p>
-                  <button class="btn btn-sm btn-outline-light">See More</button>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-6 col-md-4 col-lg-3">
-            <div class="flip-card">
-              <div class="flip-card-inner">
-                <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
-                  <div class="img-placeholder mb-3">
-                    <img id="flip-card-img" src="../assets/aleks.webp" alt="" />
-                  </div>
-                </div>
-                <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
-                  <h5 class="text-warning">Aleks</h5>
-                  <p class="small">
-                    Our Aleks course help service will help you get the correct solutions to your
-                    deadline-driven math and science assignments.
-                  </p>
-                  <button class="btn btn-sm btn-outline-light">See More</button>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-6 col-md-4 col-lg-3">
-            <div class="flip-card">
-              <div class="flip-card-inner">
-                <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
-                  <div class="img-placeholder mb-3">
-                    <img id="flip-card-img" src="../assets/mathway.webp" alt="" />
-                  </div>
-                </div>
-                <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
-                  <h5 class="text-warning">Mathway</h5>
-                  <p class="small">
-                    Mathway course help service has the mathematical expertise of qualified professionals to
-                    find accurate answers to your mathematics problems swiftly.</p>
-                  <button class="btn btn-sm btn-outline-light">See More</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="d-flex justify-content-center gap-3 mt-5">
-          <button class="btn btn-darkcyan rounded-pill px-4 py-3 fw-bold" style="z-index: 2;">
-            Live Call <i class="fa-solid fa-phone ms-2"></i>
-          </button>
-          <button class="btn btn-chat rounded-pill px-4 py-3 fw-bold" style="z-index: 2;">
-            Whatsapp <i class="fa-brands fa-whatsapp ms-2"></i>
-          </button>
-        </div>
-      </div>
-      <div class="custom-shape-divider-bottom-1768583792">
-        <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-          <path d="M0,0V7.23C0,65.52,268.63,112.77,600,112.77S1200,65.52,1200,7.23V0Z" class="shape-fill">
-          </path>
-        </svg>
-      </div>
-    </section>
     <!-- Cheap Price Section -->
     <section class="cheap-price-section py-5">
       <div class="container">
@@ -1402,69 +1159,9 @@
     </section>
   </main>
 
-  <footer class="pt-5 text-white" style="background-color: #002a4d;">
-    <div class="container">
-      <div class="row g-4 mb-5">
-        <div class="col-lg-3">
-          <img src="../assets/Online-Course-Helpers-768x538.png" alt="Logo" class="footer-logo mb-3">
-          <p class="small opacity-75">Online Course Helpers offers a one-stop solution to students seeking
-            additional credits. Hire professional helpers with full confidentiality.</p>
-        </div>
-        <div class="col-lg-3">
-          <h5 class="text-warning fw-bold mb-4">Our Services</h5>
-          <ul class="list-unstyled small opacity-75 lh-lg">
-            <li class="footer-link"><a href="#">Aleks Course Help</a></li>
-            <li class="footer-link"><a href="#">Pearson Course Help</a></li>
-            <li class="footer-link"><a href="#">McGraw Hill Course Help</a></li>
-            <li class="footer-link"><a href="#">Blackboard Course Help</a></li>
-            <li class="footer-link"><a href="#">Sophia Course Help</a></li>
-            <li class="footer-link"><a href="#">WGU Course Help</a></li>
-            <li class="footer-link"><a href="#">Brightspace Course Help</a></li>
-            <li class="footer-link"><a href="#">Straighterline Course Help</a></li>
-            <li class="footer-link"><a href="#">Cengage Course Help</a></li>
-            <li class="footer-link"><a href="#">ACT Course Help</a></li>
-            <li class="footer-link"><a href="#">Moodle Course Help</a></li>
-            <li class="footer-link"><a href="#">CANVAS Course Help</a></li>
-            <li class="footer-link"><a href="#">Mathway Course Help</a></li>
-          </ul>
-        </div>
-        <div class="col-lg-2">
-          <h5 class="text-warning fw-bold mb-4">Information</h5>
-          <ul class="list-unstyled small opacity-75 lh-lg">
-            <li class="footer-link"><a href="#">Home</a></li>
-            <li class="footer-link"><a href="#">Blog</a></li>
-            <li class="footer-link"><a href="#">Terms and Conditions</a></li>
-            <li class="footer-link"><a href="#">Refund Policy</a></li>
-            <li class="footer-link"><a href="#">Privacy Policy</a></li>
-          </ul>
-        </div>
-        <div class="col-lg-4">
-          <h5 class="text-warning fw-bold mb-4">Contact us</h5>
-          <p class="small mb-2"><i class="fa fa-location text-warning me-2"></i> 110 Central Ave, Jersey City, NJ
-            07307</p>
-          <p class="small mb-2"><i class="fa fa-envelope text-warning me-2"></i> info@onlinecoursehelpers.com</p>
-          <p class="small mb-4"><i class="fa fa-phone text-warning me-2"></i> (+1) 218 419 2935</p>
-          <h5 class="text-warning fw-bold mt-4">Follow us</h5>
-          <div class="d-flex gap-3 fs-5">
-            <i class="fab fa-facebook footer-social-icon"></i>
-            <i class="fab fa-instagram footer-social-icon"></i>
-            <i class="fab fa-pinterest footer-social-icon"></i>
-            <i class="fab fa-twitter footer-social-icon"></i>
-            <i class="fab fa-linkedin footer-social-icon"></i>
-          </div>
-          <div class="img-fluid">
-            <img src="../assets/gaurantee-img-300x65.png" alt="Trust Seal" class="mt-4"
-              style="width: 200px; height: auto;">
-          </div>
-        </div>
-      </div>
-    </div>
-    <div style="background-color: #00334d;" class="py-3">
-      <div class="text-center small opacity-50">Copyright &copy; Online Course Helpers 2025. All rights reserved.
-      </div>
-    </div>
-  </footer>
-  <!-- Bootstrap JS Bundle -->
+
+  <!-- Footer -->
+  <?php include 'include/footer.php'; ?>
 
 
 </body>

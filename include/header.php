@@ -1,6 +1,6 @@
 <header>
     <nav class="navbar navbar-expand-lg fixed-top">
-        <div class="container px-4">
+        <div class="container">
             <!-- Logo -->
             <a class="navbar-brand" href="#">
                 <img src="assets/Online-Course-Helpers-768x538.png" alt="Online Course Helpers" class="img-fluid"
@@ -15,8 +15,8 @@
             </button>
 
             <!-- Navigation Items -->
-            <div class="collapse navbar-collapse flex-end" id="navbarNav">
-                <ul class="navbar-nav  gap-3 align-items-center">
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                <ul class="navbar-nav gap-3 align-items-center">
                     <li class="nav-item">
                         <a class="nav-link active" href="#">Home</a>
                     </li>

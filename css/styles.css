@@ -372,7 +372,28 @@ body {
   height: fit-content;
 }
 
+.swiper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
 
+.yellow-section .swiper-wrapper {
+  display: flex;
+  padding: 0px 10px;
+  gap: 20px;
+}
+
+.yellow-section .swiperpag-control {
+  display: none;
+}
+
+
+.coverflow-swiper .swiper-wrapper {
+  display: flex;
+  height: auto;
+  padding: 0px 10px;
+}
 
 /* Blue Section Styles */
 .blue-section {
@@ -810,6 +831,7 @@ td {
   background-color: var(--vibrant-yellow);
   z-index: 1;
 }
+
 .left-box::before {
   position: absolute;
   background-image: url('../assets/Homework_help_1_0cc488f467.png');
@@ -821,24 +843,30 @@ td {
 .payment-icon {
   height: 40px;
 }
+
 .payment-info {
   background-color: var(--light-grey);
 }
+
 .footer-logo {
   width: 180px;
 }
+
 .footer-link a {
   color: #ffffff;
   text-decoration: none;
   transition: 200ms ease-in-out;
 }
+
 .footer-link a:hover {
   color: var(--vibrant-yellow);
 }
+
 .footer-social-icon {
   color: #ffffff;
   transition: 200ms ease-in-out;
 }
+
 .footer-social-icon:hover {
   color: var(--vibrant-yellow);
 }

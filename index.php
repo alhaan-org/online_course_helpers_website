@@ -14,8 +14,11 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
   <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css" />
   <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
     crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
   <script src="js/app.js"></script>
 </head>
 
@@ -69,7 +72,8 @@
     </nav>
   </header>
 
-  <main> <!-- Hero Section -->
+  <main>
+    <!-- Hero Section -->
     <section class="hero-section">
       <div class="d-flex flex-wrap align-items-center justify-content-center p-5">
         <div class="row d-flex align-items-center justify-content-between g-4">
@@ -233,91 +237,97 @@
           time trying multiple services, you should hire us.
         </p>
 
-        <div class="horizontal-scroll-wrapper">
-          <div class="course-card-container">
-            <div class="course-card">
-              <h3>Finance Course Help</h3>
-              <div class="card-content">
+        <div class="horizontal-scroll-wrapper swiper mySwiper">
+          <div class="swiper-wrapper">
+            <div class="course-card-container swiper-slide">
+              <div class="course-card">
+                <h3>Finance Course Help</h3>
+                <div class="card-content">
 
-                <p>We address investment strategies, budgeting, financial planning, and risk analysis. Our
-                  experts enable you to understand financial formulas, real-life case studies and assignments.
-                  Be it micro or corporate finance, we give you credible academic assistance so that you can
-                  excel. Learn more effectively and understand your finances with low-cost, professional
-                  advice.</p>
-                <button class="btn btn-dark">Live Chat</button>
+                  <p>We address investment strategies, budgeting, financial planning, and risk analysis. Our
+                    experts enable you to understand financial formulas, real-life case studies and assignments.
+                    Be it micro or corporate finance, we give you credible academic assistance so that you can
+                    excel. Learn more effectively and understand your finances with low-cost, professional
+                    advice.</p>
+                  <button class="btn btn-dark">Live Chat</button>
+                </div>
               </div>
             </div>
-          </div>
 
-          <div class="course-card-container">
-            <div class="course-card">
-              <h3>Business Law Help</h3>
-              <div class="card-content">
+            <div class="course-card-container swiper-slide">
+              <div class="course-card">
+                <h3>Business Law Help</h3>
+                <div class="card-content">
 
-                <p>
-                  Our Business Law course help simplifies commercial contracts, torts, corporate structures,
-                  and others. We facilitate legal case studies, assignments and exam preparation. Understand
-                  business ethics, rights, and obligations through easy-to-follow expert guidance. Ideally
-                  suited to students desiring to succeed in business law without being confused by legal
-                  issues, inexpensive assistance is just a single click away. </p>
-                <button class="btn btn-dark">Live Chat</button>
+                  <p>
+                    Our Business Law course help simplifies commercial contracts, torts, corporate structures,
+                    and others. We facilitate legal case studies, assignments and exam preparation. Understand
+                    business ethics, rights, and obligations through easy-to-follow expert guidance. Ideally
+                    suited to students desiring to succeed in business law without being confused by legal
+                    issues, inexpensive assistance is just a single click away. </p>
+                  <button class="btn btn-dark">Live Chat</button>
+                </div>
               </div>
             </div>
-          </div>
 
-          <div class="course-card-container">
-            <div class="course-card">
-              <h3>Statistics Help</h3>
-              <div class="card-content">
-
-                <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
-                  distributions or assignments, our professionals make complex issues simple. Master real-life
-                  data interpretation as you get assistance with projects, quizzes and exams. It is easy and
-                  more affordable to score highly in your statistics course with our help.</p>
-                <button class="btn btn-dark">Live Chat</button>
-              </div>
-            </div>
-          </div>
-
-          <div class="course-card-container">
-            <div class="course-card">
-              <h3>Statistics Help</h3>
-              <div class="card-content">
-
-                <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
-                  distributions or assignments, our professionals make complex issues simple. Master real-life
-                  data interpretation as you get assistance with projects, quizzes and exams. It is easy and
-                  more affordable to score highly in your statistics course with our help.</p>
-                <button class="btn btn-dark">Live Chat</button>
-              </div>
-            </div>
-          </div>
-
-          <div class="course-card-container">
-            <div class="course-card">
-              <h3>Statistics Help</h3>
-              <div class="card-content">
-
-                <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
-                  distributions or assignments, our professionals make complex issues simple. Master real-life
-                  data interpretation as you get assistance with projects, quizzes and exams. It is easy and
-                  more affordable to score highly in your statistics course with our help.</p>
-                <button class="btn btn-dark">Live Chat</button>
-              </div>
-            </div>
-          </div>
-
-          <div class="course-card-container">
-            <div class="course-card">
-              <div class="card-content">
+            <div class="course-card-container swiper-slide">
+              <div class="course-card">
                 <h3>Statistics Help</h3>
-                <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
-                  distributions or assignments, our professionals make complex issues simple. Master real-life
-                  data interpretation as you get assistance with projects, quizzes and exams. It is easy and
-                  more affordable to score highly in your statistics course with our help.</p>
-                <button class="btn btn-dark">Live Chat</button>
+                <div class="card-content">
+
+                  <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
+                    distributions or assignments, our professionals make complex issues simple. Master real-life
+                    data interpretation as you get assistance with projects, quizzes and exams. It is easy and
+                    more affordable to score highly in your statistics course with our help.</p>
+                  <button class="btn btn-dark">Live Chat</button>
+                </div>
               </div>
             </div>
+
+            <div class="course-card-container swiper-slide">
+              <div class="course-card">
+                <h3>Statistics Help</h3>
+                <div class="card-content">
+
+                  <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
+                    distributions or assignments, our professionals make complex issues simple. Master real-life
+                    data interpretation as you get assistance with projects, quizzes and exams. It is easy and
+                    more affordable to score highly in your statistics course with our help.</p>
+                  <button class="btn btn-dark">Live Chat</button>
+                </div>
+              </div>
+            </div>
+
+            <div class="course-card-container swiper-slide">
+              <div class="course-card">
+                <h3>Statistics Help</h3>
+                <div class="card-content">
+
+                  <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
+                    distributions or assignments, our professionals make complex issues simple. Master real-life
+                    data interpretation as you get assistance with projects, quizzes and exams. It is easy and
+                    more affordable to score highly in your statistics course with our help.</p>
+                  <button class="btn btn-dark">Live Chat</button>
+                </div>
+              </div>
+            </div>
+
+            <div class="course-card-container swiper-slide">
+              <div class="course-card">
+                <div class="card-content">
+                  <h3>Statistics Help</h3>
+                  <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
+                    distributions or assignments, our professionals make complex issues simple. Master real-life
+                    data interpretation as you get assistance with projects, quizzes and exams. It is easy and
+                    more affordable to score highly in your statistics course with our help.</p>
+                  <button class="btn btn-dark">Live Chat</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="swiperpag-control mt-5">
+            <div class="swiper-pagination"></div>
           </div>
         </div>
       </div>
@@ -340,6 +350,19 @@
         </div>
       </div>
     </section>
+
+    <!-- Benefits Section Associated Script -->
+    <script>
+      const swiper = new Swiper(".mySwiper", {
+        grabCursor: true,
+        slidesPerView: "3",
+        spaceBetween: true,
+        pagination: {
+          el: ".swiper-pagination",
+        },
+      });
+    </script>
+
 
     <section class="blue-section py-3">
       <div class="container">
@@ -992,54 +1015,123 @@
                   through your education.
                   Your course is done efficiently by our team, maintaining your academic standards.
                 </p>
-
-                <div class="row g-4 justify-content-center">
-                  <div class="col-md-4">
-                    <div class="card h-100 border-0 shadow-lg text-white p-4"
-                      style="background-color: #242f3e; border-radius: 15px;">
-                      <div class="card-body">
-                        <h4 class="text-white fw-bold mb-3">Associate Level Course Help</h4>
-                        <p class="small opacity-75">
-                          Our <span class="text-white">associate-level course help</span> services
-                          assist students in enhancing their knowledge of critical academic concepts.
-                          Our professionals provide quality, well-formatted work in terms of
-                          assignments and case studies.
-                        </p>
+                <div class="coverflow-swiper swiper my3dSwiper">
+                  <div class="g-4 justify-content-center swiper-wrapper">
+                    <div class="swiper-slide">
+                      <div class="card h-50 h-lg-100 border-0 shadow-lg text-white p-4"
+                        style="background-color: #242f3e; border-radius: 15px;">
+                        <div class="card-body">
+                          <h5 class="text-warning fw-bold mb-3">High School Course Help</h5>
+                          <p style="font-size: 12px;"><span style="font-weight: 400">Our </span><a
+                              href="https://onlinecoursehelpers.com/high-school-level-course-help/"
+                              class="text-warning"><span style="font-weight: 400">high school level
+                                course help</span></a><span style="font-weight: 400"> is created to assist students who
+                              want to enter the field of
+                              higher studies and scholarship development. Our professionals offer individualized
+                              guidance
+                              in projects, assignments, and tests, enabling students to develop good analytical and
+                              critical thinking abilities. Through our carefully organized assistance, students can be
+                              confident and can readily move on to the next level of learning.</span></p>
+                        </div>
                       </div>
                     </div>
-                  </div>
 
-                  <div class="col-md-4">
-                    <div class="card h-100 border-0 shadow-lg text-white p-4"
-                      style="background-color: #1a222c; border-radius: 15px; transform: scale(1.05);">
-                      <div class="card-body">
-                        <h4 class="text-white fw-bold mb-3">Undergraduate Level Course Help</h4>
-                        <p class="small opacity-75">
-                          Struggling with your degree course? Our <span
-                            class="text-white border-bottom border-white">undergraduate level course
-                            help</span> is designed for students who strive to achieve academic
-                          excellence without stress.
-                        </p>
+                    <div class="swiper-slide">
+                      <div class="card h-50 h-lg-100 border-0 shadow-lg text-white p-4"
+                        style="background-color: #242f3e; border-radius: 15px;">
+                        <div class="card-body">
+                          <h5 class="text-warning fw-bold mb-3">Undergraduate Level Course Help</h5>
+                          <p style="font-size: 12px;"><span style="font-weight: 400">Struggling with your degree course?
+                              Our </span><a href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"
+                              class="text-warning"><span style="font-weight: 400">undergraduate level course
+                                help</span></a><span style="font-weight: 400"> is designed for students who strive to
+                              achieve academic excellence
+                              without having to stress themselves in the process. We are ready to help with essays,
+                              online
+                              discussions, and exams, and make sure it is accurate, confidential, and ready on
+                              time.</span></p>
+                        </div>
                       </div>
                     </div>
-                  </div>
 
-                  <div class="col-md-4">
-                    <div class="card h-100 border-0 shadow-lg text-white p-4"
-                      style="background-color: #242f3e; border-radius: 15px;">
-                      <div class="card-body">
-                        <h4 class="text-white fw-bold mb-3">Master's Level Course Help</h4>
-                        <p class="small opacity-75">
-                          We have <span class="text-white">masters level course help</span> that best
-                          fits graduate students with advanced theories, data-driven research or
-                          project based studies.
-                        </p>
+                    <div class="swiper-slide">
+                      <div class="card h-50 h-lg-100 border-0 shadow-lg text-white p-4"
+                        style="background-color: #242f3e; border-radius: 15px;">
+                        <div class="card-body">
+                          <h5 class="text-warning fw-bold mb-3">Master's Level Course Help</h5>
+                          <p style="font-size: 12px;"><span style="font-weight: 400">We have a </span><a
+                              href="https://onlinecoursehelpers.com/masters-level-course-help/"
+                              class="text-warning"><span style="font-weight: 400">masters level course
+                                help</span></a><span style="font-weight: 400"> that best fits graduate students with
+                              advanced theories,
+                              data-driven research or project based studies. With professional guidance and individual
+                              academic support, you can comfortably </span><span style="font-weight: 400">complete your
+                              course</span><span style="font-weight: 400"> and succeed in graduation.</span></p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                      <div class="card h-50 h-lg-100 border-0 shadow-lg text-white p-4"
+                        style="background-color: #242f3e; border-radius: 15px;">
+                        <div class="card-body">
+                          <h5 class="text-warning fw-bold mb-3">Associative Level Course Help</h5>
+                          <p style="font-size: 12px;"><span style="font-weight: 400">Our </span><a
+                              href="https://onlinecoursehelpers.com/associate-level-course-help/"
+                              class="text-warning"><span style="font-weight: 400">associate-level course
+                                help</span></a><span style="font-weight: 400"> services assist students in enhancing
+                              their
+                              knowledge of critical
+                              academic concepts. Our professionals in the U.S. provide quality, well-formatted work in
+                              terms of assignments, research projects, and case studies. We assist you in catering to
+                              difficult subjects and excelling in all subjects.</span></p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                      <div class="card h-50 h-md-100 border-0 shadow-lg text-white p-4"
+                        style="background-color: #242f3e; border-radius: 15px;">
+                        <div class="card-body">
+                          <h5 class="text-warning fw-bold mb-3">Doctorate Level Course Help</h5>
+                          <p style="font-size: 12px;"><span style="font-weight: 400">Our </span><a
+                              href="https://onlinecoursehelpers.com/doctorate-level-course-help/"
+                              class="text-warning"><span style="font-weight: 400">doctoral-level course
+                                help</span></a><span style="font-weight: 400"> offers specialized support to
+                              research-oriented students focused
+                              on dissertations, analytical writing, and data interpretation. Each of our projects is
+                              original, accurate, and supported by the best in the U.S. expertise, academic excellence,
+                              and the highest level of scholarly integrity. </span></p>
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
+                <div class="d-none">
+                  <div class="swiper-pagination"></div>
+                </div>
               </div>
     </section>
+
+    <script>
+      // For 3d Coverflow effect
+      const coverflowSwiper = new Swiper(".my3dSwiper", {
+        effect: "coverflow",
+        grabCursor: true,
+        centeredSlides: true,
+        slidesPerView: "3",
+        coverflowEffect: {
+          rotate: 40,
+          stretch: -20,
+          depth: 100,
+          modifier: 1,
+          slideShadows: true,
+        },
+        pagination: {
+          el: ".swiper-pagination",
+        },
+      });
+    </script>
 
     <section class="py-5 bg-white">
       <div class="container text-center">
@@ -1373,7 +1465,8 @@
     </div>
   </footer>
   <!-- Bootstrap JS Bundle -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+
 </body>
 
 </html>

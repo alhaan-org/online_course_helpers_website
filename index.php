@@ -112,10 +112,10 @@ $all_cards_data = [
   <main>
     <!-- Hero Section -->
     <section class="hero-section">
-      <div class="d-flex flex-wrap align-items-center justify-content-center p-5">
-        <div class="row d-flex align-items-center justify-content-between g-4">
+      <div class="container">
+        <div class="row container">
           <!-- Left Content -->
-          <div class="col-lg-7">
+          <div class="col-lg-8">
             <h1 class="hero-title mb-4" style="font-size: clamp(2rem, 5vw, 2.25rem);">
               Hire Professional Online Course Helpers For Extra College Credits
             </h1>
@@ -154,7 +154,7 @@ $all_cards_data = [
           </div>
 
           <!-- Right Form -->
-          <div class="col-lg-5">
+          <div class="col-lg-4">
             <div class="hero-form-card">
               <div class="limited-offer-badge">
                 <img src="../assets/limited-offer-1024x613.webp" alt="Limited Offer" />
@@ -279,7 +279,7 @@ $all_cards_data = [
                     excel. Learn more effectively and understand your finances with low-cost, professional
                     advice.</p>
                 </div>
-                <button class="btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
 
@@ -294,7 +294,7 @@ $all_cards_data = [
                     suited to students desiring to succeed in business law without being confused by legal
                     issues, inexpensive assistance is just a single click away. </p>
                 </div>
-                <button class="btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
 
@@ -307,55 +307,93 @@ $all_cards_data = [
                     data interpretation as you get assistance with projects, quizzes and exams. It is easy and
                     more affordable to score highly in your statistics course with our help.</p>
                 </div>
-                <button class="btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container swiper-slide">
               <div class="course-card">
-                <h3>Statistics Help</h3>
+                <h3>Biology Course Help</h3>
                 <div class="card-content">
-                  <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
-                    distributions or assignments, our professionals make complex issues simple. Master real-life
-                    data interpretation as you get assistance with projects, quizzes and exams. It is easy and
-                    more affordable to score highly in your statistics course with our help.</p>
+                  <p>
+                    Our biology course help simplifies genetics, cell biology, and evolution for all learners. We offer
+                    specific help with assignments, lab reports, and exams, being familiar with DNA to the point of
+                    knowing how to work with ecosystems, too. Discover the intricacies of life through stimulating
+                    advice that makes biology fun. Cheap assistance is now a click away; improve your grades using
+                    science-backed learning. </p>
                 </div>
-                <button class="btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container swiper-slide">
               <div class="course-card">
-                <h3>Statistics Help</h3>
+                <h3>Accounting Course Help</h3>
                 <div class="card-content">
-                  <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
-                    distributions or assignments, our professionals make complex issues simple. Master real-life
-                    data interpretation as you get assistance with projects, quizzes and exams. It is easy and
-                    more affordable to score highly in your statistics course with our help.</p>
+                  <p>
+                    Access stress free <a>accounting course help</a> on issues such as financial statements, ledgers,
+                    and budgeting. Our professionals simplify
+                    accounting principles into easy-to-follow steps to enhance your knowledge. Be it managerial
+                    accounting or tax, we assist you in solving issues with ease. Keep pace with your studies and pass
+                    your exams at an affordable rate, along with the needs of your coursework. </p>
                 </div>
-                <button class="btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container swiper-slide">
               <div class="course-card">
+                <h3>Management Course Help</h3>
                 <div class="card-content">
-                  <h3>Statistics Help</h3>
-                  <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
-                    distributions or assignments, our professionals make complex issues simple. Master real-life
-                    data interpretation as you get assistance with projects, quizzes and exams. It is easy and
-                    more affordable to score highly in your statistics course with our help.</p>
-
+                  <p>
+                    Get professional management course help for strategic planning, leadership, operations, and more. We
+                    discuss all fundamental issues such as HR, marketing and decision making. We help you complete your
+                    assignments, presentations and exams clearly and confidently. Learn and acquire experience, at the
+                    same time as you advance your grades; our affordable services will enable you to be management
+                    savvy.
                 </div>
-                <button class="btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
-          </div>
-
-          <div class="swiperpag-control mt-5">
-            <div class="swiper-pagination"></div>
+            <div class="course-card-container swiper-slide">
+              <div class="course-card">
+                <h3>Calculus Course Help</h3>
+                <div class="card-content">
+                  <p>
+                    Having difficulty with derivatives or integrals? <a>Our math course help</a>
+                    is developed to explain limits, functions and real-life applications to you. We break down such
+                    notions as differentiation and integration to make them more comprehensible. Be it homework or
+                    testing, our professionals will help you to keep up. Study how you learn best and achieve desired
+                    results through professional help at a reasonable price.
+                </div>
+                <button class="mt-5 btn btn-dark">Live Chat</button>
+              </div>
+            </div>
+            <div class="course-card-container swiper-slide">
+              <div class="course-card">
+                <h3>Criminal Justice Course Help</h3>
+                <div class="card-content">
+                  <p>
+                    Require assistance in interpreting law systems, policies and criminology? Our criminal justice
+                    course
+                    help can help you with case studies, laws and criminal theories. We provide help in writing, in test
+                    preparation, in the structure and organization of courts and correctional systems. Learn about
+                    justice
+                    aspects simply and inexpensively with the help of the experienced professionals who understand the
+                    area
+                    in and out.
+                </div>
+                <button class="mt-5 btn btn-dark">Live Chat</button>
+              </div>
+            </div>
           </div>
         </div>
+      </div>
+
+      <div class="swiperpag-control mt-5">
+        <div class="swiper-pagination"></div>
+      </div>
+      </div>
       </div>
       <div>
         <div class="custom-shape-divider-bottom-1768328670">
@@ -380,11 +418,24 @@ $all_cards_data = [
     <!-- Benefits Section Associated Script -->
     <script>
       const swiper = new Swiper(".mySwiper", {
+        initialSlide: 1,
         grabCursor: true,
-        slidesPerView: "3",
-        spaceBetween: true,
+        centeredSlides: true,
+        centeredSlidesBounds: true,
+        slidesPerView: "auto",
+        spaceBetween: 20,
+
         pagination: {
           el: ".swiper-pagination",
+          clickable: true,
+        },
+
+        // RESPONSIVE BREAKPOINTS
+        breakpoints: {
+          768: {
+            slidesPerView: "auto",
+            spaceBetween: 30,
+          }
         },
       });
     </script>
@@ -475,9 +526,9 @@ $all_cards_data = [
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Can You <span class="text-highlight">Take My Online Course</span> For Me At Cheap Price
-            </h1>
+            </h2>
             <p class="lead text-muted mb-5 pe-lg-5">
               Have you ever searched through all of Google, browsing “Can I pay someone to take my online course
               for me? Your search ends here! At Online Course Helpers, we provide professional, safe, and
@@ -767,15 +818,15 @@ $all_cards_data = [
               <div class="container text-center">
                 <h2 class="fw-bold mb-3">Trusted Professionals to Help You Succeed at All Educational Levels
                 </h2>
-                <p class="text-muted mb-5 mx-auto" style="max-width: 800px;">
+                <p class="text-muted mb-5 mx-auto">
                   Enroll in the stress-free program in the USA with experienced course helpers to guide you
                   through your education.
                   Your course is done efficiently by our team, maintaining your academic standards.
                 </p>
                 <div class="coverflow-swiper swiper my3dSwiper">
-                  <div class="g-4 justify-content-center swiper-wrapper">
+                  <div class="h-100 swiper-wrapper">
                     <div class="swiper-slide">
-                      <div class="card h-50 h-lg-100 border-0 shadow-lg text-white p-4"
+                      <div class="coverflow-card card h-50 h-lg-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">High School Course Help</h5>
@@ -794,7 +845,7 @@ $all_cards_data = [
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="card h-50 h-lg-100 border-0 shadow-lg text-white p-4"
+                      <div class="coverflow-card card h-50 h-lg-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">Undergraduate Level Course Help</h5>
@@ -812,7 +863,7 @@ $all_cards_data = [
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="card h-50 h-lg-100 border-0 shadow-lg text-white p-4"
+                      <div class="coverflow-card card h-50 h-lg-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">Master's Level Course Help</h5>
@@ -829,7 +880,7 @@ $all_cards_data = [
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="card h-50 h-lg-100 border-0 shadow-lg text-white p-4"
+                      <div class="coverflow-card card h-50 h-lg-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">Associative Level Course Help</h5>
@@ -847,7 +898,7 @@ $all_cards_data = [
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="card h-50 h-md-100 border-0 shadow-lg text-white p-4"
+                      <div class="coverflow-card card h-50 h-md-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">Doctorate Level Course Help</h5>
@@ -870,24 +921,35 @@ $all_cards_data = [
               </div>
     </section>
 
+
     <script>
-      // For 3d Coverflow effect
       const coverflowSwiper = new Swiper(".my3dSwiper", {
-        effect: "coverflow",
-        grabCursor: true,
+        initialSlide: 1,
         centeredSlides: true,
-        slidesPerView: "3",
-        coverflowEffect: {
-          rotate: 40,
-          stretch: -20,
-          depth: 100,
-          modifier: 1,
-          slideShadows: true,
+        effect: "coverflow",
+        slidesPerView: "auto",
+        spaceBetween: 20,
+        grabCursor: true,
+        breakpoints: {
+          992: {
+            effect: "coverflow",
+            slidesPerView: 3,
+            coverflowEffect: {
+              rotate: 40,
+              stretch: -10,
+              depth: 100,
+              modifier: 1,
+              slideShadows: true,
+            },
+          }
         },
+
         pagination: {
           el: ".swiper-pagination",
+          clickable: true,
         },
       });
+
     </script>
 
     <section class="py-5 bg-white">
@@ -897,7 +959,7 @@ $all_cards_data = [
 
         <div class="row g-4 text-start">
           <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm text-white p-4"
+            <div class="card h-50  border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
@@ -914,7 +976,7 @@ $all_cards_data = [
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm text-white p-4"
+            <div class="card h-50 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
@@ -931,7 +993,7 @@ $all_cards_data = [
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm text-white p-4"
+            <div class="card h-50 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
@@ -948,7 +1010,7 @@ $all_cards_data = [
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm text-white p-4"
+            <div class="card h-50 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
@@ -965,7 +1027,7 @@ $all_cards_data = [
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm text-white p-4"
+            <div class="card h-50 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
@@ -982,7 +1044,7 @@ $all_cards_data = [
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm text-white p-4"
+            <div class="card h-50 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
@@ -1147,9 +1209,9 @@ $all_cards_data = [
     </section>
 
     <section>
-      <div class="payment-info d-flex align-items-center justify-content-around mt-4 px-3 py-4">
+      <div class="payment-info d-flex flex-column flex-lg-row align-items-center justify-content-around mt-4 px-2 py-4">
         <h4 class="fw-bold text-center">Secure payment with</h4>
-        <div class="d-flex gap-5 align-items-center justify-content-between">
+        <div class="d-flex gap-1 gap-lg-4 align-items-center justify-content-between py-3 px-4">
           <img src="../assets/paypal.webp" alt="paypal" class="payment-icon" />
           <img src="../assets/master-card.webp" alt="master-card" class="payment-icon" />
           <img src="../assets/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />

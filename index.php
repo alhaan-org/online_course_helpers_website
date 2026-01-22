@@ -98,10 +98,14 @@ $all_cards_data = [
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
   <link rel="stylesheet" href="css/styles.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">
+  <link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css">
   <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
-    crossorigin="anonymous"></script>
+    crossorigin="anonymous">
+    </script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
+
   <script src="js/app.js"></script>
 </head>
 
@@ -165,19 +169,15 @@ $all_cards_data = [
 
               <form id="contactForm">
                 <div class="mb-3">
-                  <label for="name" class="form-label">Name</label>
                   <input type="text" class="form-control" id="name" placeholder="Name" required />
                 </div>
                 <div class="mb-3">
-                  <label for="email" class="form-label">Email</label>
                   <input type="email" class="form-control" id="email" placeholder="Email" required />
                 </div>
                 <div class="mb-3">
-                  <label for="phone" class="form-label">Phone No</label>
                   <input type="tel" class="form-control" id="phone" placeholder="Phone No" required />
                 </div>
                 <div class="mb-4">
-                  <label for="service" class="form-label">Services</label>
                   <select class="form-select" id="service" required>
                     <option value="" disabled selected>Select Service</option>
                     <option value="1">Online Class</option>
@@ -204,7 +204,7 @@ $all_cards_data = [
     <!-- Trust Section -->
     <section class="academic-section">
       <div class="slider-images-container">
-        <div class="slider-images">
+        <div class="slider-images owl-carousel owl-theme">
           <img src="../assets/uni-1.webp" alt="..." />
           <img src="../assets/uni-2.webp" alt="..." />
           <img src="../assets/uni-3.webp" alt="..." />
@@ -225,6 +225,16 @@ $all_cards_data = [
           <img src="../assets/uni-3.webp" alt="..." />
           <img src="../assets/uni-4.webp" alt="..." />
           <img src="../assets/uni-5.webp" alt="..." />
+          <img src="../assets/uni-6.webp" alt="..." />
+          <img src="../assets/uni-7.webp" alt="..." />
+          <img src="../assets/uni-8.webp" alt="..." />
+          <img src="../assets/uni-9.webp" alt="..." />
+          <img src="../assets/uni-10.webp" alt="..." />
+          <img src="../assets/uni-11 (1).webp" alt="..." />
+          <img src="../assets/uni-12.webp" alt="..." />
+          <img src="../assets/uni-13.webp" alt="..." />
+          <img src="../assets/uni-14.webp" alt="..." />
+          <img src="../assets/uni-15.webp" alt="..." />
         </div>
       </div>
       <div class="container mt-5">
@@ -267,9 +277,9 @@ $all_cards_data = [
           time trying multiple services, you should hire us.
         </p>
 
-        <div class="horizontal-scroll-wrapper swiper mySwiper">
-          <div class="swiper-wrapper">
-            <div class="course-card-container swiper-slide">
+        <div class="horizontal-scroll-wrapper">
+          <div class="owl-carousel scroll-wrapper">
+            <div class="course-card-container">
               <div class="course-card">
                 <h3>Finance Course Help</h3>
                 <div class="card-content">
@@ -283,7 +293,7 @@ $all_cards_data = [
               </div>
             </div>
 
-            <div class="course-card-container swiper-slide">
+            <div class="course-card-container">
               <div class="course-card">
                 <h3>Business Law Help</h3>
                 <div class="card-content">
@@ -298,7 +308,7 @@ $all_cards_data = [
               </div>
             </div>
 
-            <div class="course-card-container swiper-slide">
+            <div class="course-card-container">
               <div class="course-card">
                 <h3>Statistics Help</h3>
                 <div class="card-content">
@@ -311,7 +321,7 @@ $all_cards_data = [
               </div>
             </div>
 
-            <div class="course-card-container swiper-slide">
+            <div class="course-card-container">
               <div class="course-card">
                 <h3>Biology Course Help</h3>
                 <div class="card-content">
@@ -326,7 +336,7 @@ $all_cards_data = [
               </div>
             </div>
 
-            <div class="course-card-container swiper-slide">
+            <div class="course-card-container">
               <div class="course-card">
                 <h3>Accounting Course Help</h3>
                 <div class="card-content">
@@ -341,7 +351,7 @@ $all_cards_data = [
               </div>
             </div>
 
-            <div class="course-card-container swiper-slide">
+            <div class="course-card-container">
               <div class="course-card">
                 <h3>Management Course Help</h3>
                 <div class="card-content">
@@ -355,7 +365,7 @@ $all_cards_data = [
                 <button class="mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
-            <div class="course-card-container swiper-slide">
+            <div class="course-card-container">
               <div class="course-card">
                 <h3>Calculus Course Help</h3>
                 <div class="card-content">
@@ -369,7 +379,7 @@ $all_cards_data = [
                 <button class="mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
-            <div class="course-card-container swiper-slide">
+            <div class="course-card-container">
               <div class="course-card">
                 <h3>Criminal Justice Course Help</h3>
                 <div class="card-content">
@@ -388,10 +398,6 @@ $all_cards_data = [
             </div>
           </div>
         </div>
-      </div>
-
-      <div class="swiperpag-control mt-5">
-        <div class="swiper-pagination"></div>
       </div>
       </div>
       </div>
@@ -414,31 +420,6 @@ $all_cards_data = [
         </div>
       </div>
     </section>
-
-    <!-- Benefits Section Associated Script -->
-    <script>
-      const swiper = new Swiper(".mySwiper", {
-        initialSlide: 1,
-        grabCursor: true,
-        centeredSlides: true,
-        centeredSlidesBounds: true,
-        slidesPerView: "auto",
-        spaceBetween: 20,
-
-        pagination: {
-          el: ".swiper-pagination",
-          clickable: true,
-        },
-
-        // RESPONSIVE BREAKPOINTS
-        breakpoints: {
-          768: {
-            slidesPerView: "auto",
-            spaceBetween: 30,
-          }
-        },
-      });
-    </script>
 
 
     <!-- Can you do my Course Section -->
@@ -1225,7 +1206,7 @@ $all_cards_data = [
   <!-- Footer -->
   <?php include 'include/footer.php'; ?>
 
-
+  <script src="owlcarousel/owl.carousel.min.js"></script>
 </body>
 
 </html>

@@ -17,6 +17,7 @@
 
 body {
   font-family: "Poppins", sans-serif, Helvetica;
+  box-sizing: border-box;
   width: 100%;
 }
 
@@ -62,7 +63,7 @@ body {
 
 .limited-offer-badge {
   position: absolute;
-  top: -15%;
+  top: -22.5%;
   left: 50%;
   transform: translateX(-50%);
   padding: 0.5rem 1.5rem;
@@ -106,7 +107,7 @@ body {
 }
 
 .navbar.scrolled {
-  background-color: rgb(20, 7, 7) !important;
+  background-color: var(--dark-cyan) !important;
 }
 
 .hero-title {
@@ -200,19 +201,7 @@ body {
   height: 48px;
 }
 
-@media (max-width: 991px) {
-  .hero-form-card {
-    margin: 5rem 0;
-  }
 
-  .trusted-by-logo {
-    height: 24px;
-  }
-
-  .limited-offer-badge {
-    top: -18%;
-  }
-}
 
 .custom-shape-divider-bottom-1768237457 {
   position: absolute;
@@ -322,7 +311,7 @@ body {
 
 .slider-images {
   display: flex;
-  gap: 10px;
+  gap: 5px;
   overflow-x: auto;
   white-space: nowrap;
 
@@ -340,7 +329,8 @@ body {
 }
 
 .slider-images img {
-  height: 100px;
+  width: auto !important;
+  height: auto;
   border-radius: 10px;
   object-fit: cover;
   flex-shrink: 0;
@@ -379,8 +369,9 @@ body {
   padding-bottom: 50px;
 }
 
-.yellow-section .swiper-wrapper {
+.yellow-section .owl-carousel {
   display: flex;
+  gap: 10px;
 }
 
 .yellow-section .swiperpag-control {
@@ -417,6 +408,8 @@ body {
   flex-wrap: nowrap;
   overflow: hidden;
   gap: 30px;
+  align-items: center;
+  justify-content: center;
   scroll-snap-type: x mandatory;
   padding-bottom: 20px;
   touch-action: pan-y;
@@ -441,11 +434,11 @@ body {
 
 .course-card {
   background: var(--vibrant-peach);
-  padding: 25px;
+  padding: 15px;
   border-radius: 4px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  align-items: flex-start;
   height: 350px;
   text-align: left;
   scroll-snap-align: start;
@@ -713,7 +706,7 @@ body {
 /* Image Placeholder Styling */
 .hero-image-frame {
   position: relative;
-  padding: 10px;
+  /* padding: 10px; */
 }
 
 .hero-image-frame .cheap-price-section-image-placeholder {
@@ -753,58 +746,7 @@ body {
   fill: #FFFFFF;
 }
 
-@media (max-width: 768px) {
 
-  .btn-call,
-  .btn-chat,
-  .btn-darkcyan {
-    font-size: 10px;
-  }
-
-  .heading-title {
-    font-size: 28px;
-  }
-
-  .image-placeholder {
-    margin-top: 40px;
-  }
-
-  .cheap-price-section {
-    text-align: center;
-  }
-
-  .cheap-price-section p {
-    padding-right: 0 !important;
-  }
-
-  .image-placeholder {
-    max-width: 350px;
-    border-width: 10px;
-    margin-top: 30px;
-  }
-
-  .payment-icon {
-    width: 20px;
-  }
-
-  .my3dSwiper .swiper-slide {
-    width: 85% !important;
-  }
-
-  .my3dSwiper .coverflow-card {
-    height: 400px !important;
-  }
-
-  #flip-card-img {
-    width: 150px;
-    height: 150px;
-  }
-
-  .flip-card-back {
-    padding: 10px;
-    font-size: 11px;
-  }
-}
 
 .custom-scrollbar::-webkit-scrollbar {
   width: 6px;
@@ -898,4 +840,85 @@ td {
 
 .footer-social-icon:hover {
   color: var(--vibrant-yellow);
+}
+
+/* Breakspoints on 992px lesser i.e Tablet, Desktop */
+@media (max-width: 991px) {
+  .hero-section {
+    padding: 5rem 0;
+    align-items: center;
+    text-align: center;
+  }
+
+  .hero-form-card {
+    margin: 5rem 0;
+  }
+
+  .navbar {
+    background-color: var(--dark-cyan) !important;
+  }
+
+  .trusted-by-logo {
+    height: 24px;
+  }
+
+  .limited-offer-badge {
+    top: -18%;
+  }
+}
+
+/* Breakpoints on Mobile Screen */
+@media (max-width: 768px) {
+
+  .btn-call,
+  .btn-chat,
+  .btn-darkcyan {
+    font-size: 10px;
+  }
+
+
+
+  .heading-title {
+    font-size: 28px;
+  }
+
+  .image-placeholder {
+    margin-top: 40px;
+  }
+
+  .cheap-price-section {
+    text-align: center;
+  }
+
+  .cheap-price-section p {
+    padding-right: 0 !important;
+  }
+
+  .image-placeholder {
+    max-width: 350px;
+    border-width: 10px;
+    margin-top: 30px;
+  }
+
+  .payment-icon {
+    width: 50px;
+  }
+
+  .my3dSwiper .swiper-slide {
+    width: 85% !important;
+  }
+
+  .my3dSwiper .coverflow-card {
+    height: 400px !important;
+  }
+
+  #flip-card-img {
+    width: 150px;
+    height: 150px;
+  }
+
+  .flip-card-back {
+    padding: 10px;
+    font-size: 11px;
+  }
 }

@@ -6,7 +6,7 @@
         </svg>
     </div>
     <div class="container text-center mt-5">
-        <h2 class="fw-bold mb-3">Expert Course Help on Every Major E-learning Platform</h2>
+        <h1 class="fw-bold mb-3">Expert Course Help on Every Major E-learning Platform</h1>
         <p class="mx-auto mb-5 text-muted" style="max-width: 800px;">
             We are the leaders of the best course help services on Canvas, WGU, Brightspace, and other platforms, which
             guarantees our clients an expert level of support, improved grades, and academic success that will not be
@@ -26,7 +26,6 @@
                             <h5 class="text-warning">Brightspace</h5>
                             <p class="small">Use Brightspace course help service to boost grades in your modules,
                                 quizzes, and interactive assignments.</p>
-                            <button class="btn btn-sm btn-outline-light">See More</button>
                         </div>
                     </div>
                 </div>
@@ -45,7 +44,6 @@
                             <p class="small">McGraw Hill course help service is here to assist you in your online
                                 platform requirements, to guarantee fast turnarounds and improved academic performance.
                             </p>
-                            <button class="btn btn-sm btn-outline-light">See More</button>
                         </div>
                     </div>
                 </div>
@@ -63,7 +61,6 @@
                             <h5 class="text-warning">WGU</h5>
                             <p class="small">Our WGU course help service promotes competency-based degrees where 24/7
                                 expert tutors are available to produce quick results.</p>
-                            <button class="btn btn-sm btn-outline-light">See More</button>
                         </div>
                     </div>
                 </div>
@@ -82,7 +79,6 @@
                             <p class="small">
                                 Our Straighter Line course help service guarantees quality tutoring and timely task
                                 submissions for consistent grade improvement.</p>
-                            <button class="btn btn-sm btn-outline-light">See More</button>
                         </div>
                     </div>
                 </div>
@@ -100,7 +96,6 @@
                             <p class="small">
                                 Online Ed course help service is a support facility in professional development that
                                 provides assistance in expert-directed learning and speedy completion of tasks</p>
-                            <button class="btn btn-sm btn-outline-light">See More</button>
                         </div>
                     </div>
                 </div>
@@ -118,7 +113,6 @@
                             <p class="small">
                                 ACT course help service guarantees smarter preparation, faster answers, and a better
                                 academic reputation; all masterfully handled. </p>
-                            <button class="btn btn-sm btn-outline-light">See More</button>
                         </div>
                     </div>
                 </div>
@@ -136,7 +130,6 @@
                             <p class="small">
                                 Our Moodle course help service is all about easy learning and fast delivery, to achieve
                                 the best scores.</p>
-                            <button class="btn btn-sm btn-outline-light">See More</button>
                         </div>
                     </div>
                 </div>
@@ -154,7 +147,6 @@
                             <p class="small">
                                 Cengage course help service gives comprehensive support on various disciplines to
                                 achieve excellent performance and submission without stress.</p>
-                            <button class="btn btn-sm btn-outline-light">See More</button>
                         </div>
                     </div>
                 </div>
@@ -173,7 +165,6 @@
                             <p class="small">
                                 Sophia course help service facilitates general education credits that offer quicker
                                 completion and coursework assistance by experts.</p>
-                            <button class="btn btn-sm btn-outline-light">See More</button>
                         </div>
                     </div>
                 </div>
@@ -192,7 +183,6 @@
                             <p class="small">
                                 Affordable Canvas course help service on quizzes, discussions, and assignments-
                                 streamlined to accelerate and simplify learning.</p>
-                            <button class="btn btn-sm btn-outline-light">See More</button>
                         </div>
                     </div>
                 </div>
@@ -212,7 +202,6 @@
                                 Our Aleks course help service will help you get the correct solutions to your
                                 deadline-driven math and science assignments.
                             </p>
-                            <button class="btn btn-sm btn-outline-light">See More</button>
                         </div>
                     </div>
                 </div>
@@ -231,7 +220,6 @@
                             <p class="small">
                                 Mathway course help service has the mathematical expertise of qualified professionals to
                                 find accurate answers to your mathematics problems swiftly.</p>
-                            <button class="btn btn-sm btn-outline-light">See More</button>
                         </div>
                     </div>
                 </div>

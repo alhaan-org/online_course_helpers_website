@@ -16,7 +16,7 @@
 
             <!-- Navigation Items -->
             <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-                <ul class="navbar-nav gap-3 align-items-center">
+                <ul class="navbar-nav gap-0 gap-lg-3 align-items-start align-items-lg-center">
                     <li class="nav-item">
                         <a class="nav-link active" href="#">Home</a>
                     </li>

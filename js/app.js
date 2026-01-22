@@ -1,6 +1,11 @@
 $(document).ready(function () {
   //  Main Functionality Block
-  function colorStateChangeOnScrollDown() {
+  const platformChangeHandler = () => {
+    const $platformChanger = $("#platformChanger");
+    const platformDataAttribute = $platformChanger.attr("data-platform");
+  };
+
+  const colorStateChangeOnScrollDown = () => {
     const $navbar = $(".navbar");
     const $width = $(window).width();
     const $scrollTop = $(window).scrollTop();
@@ -10,7 +15,7 @@ $(document).ready(function () {
     } else {
       $navbar.removeClass("scrolled");
     }
-  }
+  };
 
   $(window).scroll(function () {
     colorStateChangeOnScrollDown();

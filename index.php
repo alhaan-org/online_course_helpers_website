@@ -156,7 +156,6 @@ $all_cards_data = [
               Live Chat <i class="fa fa-comments ms-2"></i>
             </button>
           </div>
-
           <!-- Right Form -->
           <div class="col-lg-4">
             <div class="hero-form-card">
@@ -166,7 +165,6 @@ $all_cards_data = [
               <h4 class="mb-4 text-center fw-bold text-dark">
                 Save Upto 50% On First Order
               </h4>
-
               <form id="contactForm">
                 <div class="mb-3">
                   <input type="text" class="form-control" id="name" placeholder="Name" required />
@@ -549,11 +547,13 @@ $all_cards_data = [
         <p>Get expert help with your online course. We provide 24/7 service and dedicated support with online course
           assignments, quizzes and assessments on all platforms.</p>
         <div class="d-flex flex-wrap justify-content-center gap-2 mb-5" id="platform-filters">
-          <button class="btn btn-dark active py-2 px-3" data-platform="aleks">Aleks</button>
-          <button class="btn btn-secondary py-2 px-3" data-platform="mcgrawhill">McGraw Hill</button>
-          <button class="btn btn-secondary py-2 px-3" data-platform="pearson">Pearson</button>
-          <button class="btn btn-secondary py-2 px-3" data-platform="blackboard">BlackBoard</button>
-          <button class="btn btn-secondary py-2 px-3" data-platform="sophia">Sophia</button>
+          <button id="platformChanger" class="btn btn-dark active py-2 px-3" data-platform="aleks">Aleks</button>
+          <button id="platformChanger" class="btn btn-secondary py-2 px-3" data-platform="mcgrawhill">McGraw
+            Hill</button>
+          <button id="platformChanger" class="btn btn-secondary py-2 px-3" data-platform="pearson">Pearson</button>
+          <button id="platformChanger" class="btn btn-secondary py-2 px-3"
+            data-platform="blackboard">BlackBoard</button>
+          <button id="platformChanger" class="btn btn-secondary py-2 px-3" data-platform="sophia">Sophia</button>
         </div>
 
         <div class="row g-4" id="cards-container">
@@ -1105,11 +1105,11 @@ $all_cards_data = [
               <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q1">
+                    data-bs-toggle="collapse" data-bs-target="#q2">
                     Can I hire someone to take multiple online courses at once?
                   </button>
                 </h2>
-                <div id="q1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                   <div class="accordion-body px-0">Yes! Our specialists can handle the number of courses
                     simultaneously: assignments, quizzes, exams, and everything. All you do is pass on your
                     schedule, and we will take care of everything from beginning to end.</div>
@@ -1120,11 +1120,11 @@ $all_cards_data = [
               <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q1">
+                    data-bs-toggle="collapse" data-bs-target="#q3">
                     How do I know the work will be plagiarism-free?
                   </button>
                 </h2>
-                <div id="q1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                   <div class="accordion-body px-2">We compose all the assignments from scratch and scan every
                     task with high-quality plagiarism software. You will always get original and
                     high-quality work that satisfies your academic requirements.</div>
@@ -1135,11 +1135,11 @@ $all_cards_data = [
               <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q1">
+                    data-bs-toggle="collapse" data-bs-target="#q4">
                     What happens if I’m not satisfied with the results?
                   </button>
                 </h2>
-                <div id="q1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                   <div class="accordion-body px-0">We provide revisions and a money-back guarantee. Not
                     satisfied, we will make it right quickly or refund your money according to our
                     satisfaction policy.</div>

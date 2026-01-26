@@ -49,7 +49,7 @@
                             class="fab fa-instagram footer-social-icon"></i></a>
                     <a href="https://www.pinterest.com/socialmedia0003/"><i
                             class="fab fa-pinterest footer-social-icon"></i></a>
-                    <a href="https://x.com/onlinecourse54"><i class="fab fa-twitter footer-social-icon"></i></a>
+                    <a href="https://x.com/onlinecourse54"><i class="fab fa-x-twitter footer-social-icon"></i></a>
                     <a href="https://www.linkedin.com/company/online-course-helpers/"><i
                             class="fab fa-linkedin footer-social-icon"></i></a>
                 </div>

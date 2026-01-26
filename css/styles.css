@@ -840,12 +840,13 @@ td {
 
 .footer-social-icon:hover {
   color: var(--vibrant-yellow);
+  cursor: pointer;
 }
 
 /* Breakspoints on 992px lesser i.e Tablet, Desktop */
 @media (max-width: 991px) {
   .hero-section {
-    padding: 5rem 0;
+    padding: 9rem 0;
     align-items: center;
     text-align: center;
   }

@@ -26,7 +26,7 @@ body {
   background-image: url("../assets/home-banner.webp");
   min-height: 100vh;
   position: relative;
-  align-items: flex-start;
+  align-items: center;
   padding: 12rem 0;
 }
 
@@ -41,8 +41,8 @@ body {
   background: linear-gradient(135deg,
       #003d4d 0%,
       #003042 60%,
-      rgb(0, 39, 54) 20%,
-      #f3ef00 100%);
+      rgb(0, 39, 54) 80%,
+      #f3ef00 120%);
   z-index: 1;
   opacity: 0.95;
 }
@@ -841,6 +841,11 @@ td {
 .footer-social-icon:hover {
   color: var(--vibrant-yellow);
   cursor: pointer;
+}
+
+.finish-my-course h1,
+.finish-my-course p {
+  color: var(--navy-blue);
 }
 
 /* Breakspoints on 992px lesser i.e Tablet, Desktop */

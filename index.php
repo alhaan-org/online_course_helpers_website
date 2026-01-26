@@ -543,7 +543,7 @@ $all_cards_data = [
       </div>
     </section>
     <!-- Remaining Sections -->
-    <section class="py-5 bg-light">
+    <section class="py-5 finish-my-course" style="background-color: #dadadaff;">
       <div class="container text-center">
         <h1 class="fw-bold mb-4">Finish My Online Course With Top Grades and Guaranteed Credits on Top Platforms</h1>
         <p>Get expert help with your online course. We provide 24/7 service and dedicated support with online course
@@ -563,32 +563,16 @@ $all_cards_data = [
             <div class="col-md-4 card-helpers" style="<?= $data["platform"] === "aleks" ? '' : 'display: none;' ?>"
               data-platform="<?= $data["platform"] ?>">
               <div class="card h-100 border-0 shadow-sm p-4">
-                <h4 class="card-title"><?= $data["title"] ?></h4>
+                <h4 class="card-title fw-bold"><?= $data["title"] ?></h4>
                 <p class="text-muted small"><?= $data["description"] ?></p>
               </div>
             </div>
           <?php endforeach ?>
-          <!-- <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm p-4">
-              <h4 class="card-title">Aleks Middle School Course Help</h4>
-              <p class="text-muted small">ALEKS Middle School is a similar online learning platform designed for
-                middle school students. We offer help with the online Alex middle school course, with every part
-                of the online Alex course.</p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm p-4">
-              <h4 class="card-title">Aleks High School Course Help</h4>
-              <p class="text-muted small">ALEKS High School is an online learning platform that provides adaptive,
-                personalized instruction for high school students. Get online Alex High School course help,
-                which is designed to help students.</p>
-            </div>
-          </div> -->
         </div>
       </div>
     </section>
 
-    <section class="py-5 bg-white">
+    <section class="py-5 px-5 bg-white">
       <div class="d-flex mb-5 px-3">
         <div class="bg-darkcyan text-white p-5 rounded-5 overflow-hidden position-relative">
           <div class="row align-items-center">
@@ -943,7 +927,7 @@ $all_cards_data = [
 
         <div class="row g-4 text-start">
           <div class="col-md-4">
-            <div class="card h-50  border-0 shadow-sm text-white p-4"
+            <div class="card h-60  border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img loading="lazy" src="../assets/reviews-logo-white-1-300x88.webp" alt="Review Logo"
@@ -961,86 +945,95 @@ $all_cards_data = [
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-50 border-0 shadow-sm text-white p-4"
+            <div class="card h-60 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">These guys helped me do my online stats course. All activities were
-                completed within the set deadline, and the outcomes were awesome.</p>
+              <p class="small opacity-75">I have felt supported since the first message. And they also professionally
+                took my course and performed astonishingly. Super polite support team, too. Great experience all around.
+                Highly recommended!.</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
-                  <small class="opacity-50">New York</small>
+                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <small class="opacity-50">Seattle</small>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-50 border-0 shadow-sm text-white p-4"
+            <div class="card h-60 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">These guys helped me do my online stats course. All activities were
-                completed within the set deadline, and the outcomes were awesome.</p>
+              <p class="small opacity-75">Deadlines and tests overwhelmed me. Their group intervened and fully
+                controlled my online course. All was correct, timely and hassle-free. I’m so thankful!</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
-                  <small class="opacity-50">New York</small>
+                  <h6 class="mb-0 fw-bold">
+                    Anna</h6>
+                  <small class="opacity-50">Atlanta</small>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-50 border-0 shadow-sm text-white p-4"
+            <div class="card h-60 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">These guys helped me do my online stats course. All activities were
-                completed within the set deadline, and the outcomes were awesome.</p>
+              <p class="small opacity-75">I had no time to do my course online. This service was replaced fully and
+                performed well. Highly responsive, professional, and worth every penny. Truly stress-relieving and
+                reliable support!
+                .</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
-                  <small class="opacity-50">New York</small>
+                  <h6 class="mb-0 fw-bold">Ella</h6>
+                  <small class="opacity-50">Houston</small>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-50 border-0 shadow-sm text-white p-4"
+            <div class="card h-60 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">These guys helped me do my online stats course. All activities were
-                completed within the set deadline, and the outcomes were awesome.</p>
+              <p class="small opacity-75">I spent my days in hell trying to balance work and studying, and then I
+                discovered this team. They managed all things assignments, discussions, and examinations, and kept me
+                informed. I sailed right through without any hustle. Totally transformed my semester!
+              </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
-                  <small class="opacity-50">New York</small>
+                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <small class="opacity-50">San Diego</small>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-50 border-0 shadow-sm text-white p-4"
+            <div class="card h-60 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">These guys helped me do my online stats course. All activities were
-                completed within the set deadline, and the outcomes were awesome.</p>
+              <p class="small opacity-75">Never tried a service like this before, though I am seriously impressed. They
+                did all this, and they earned me good grades. They would listen and obey instructions as communication
+                was easy.
+              </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
-                  <small class="opacity-50">New York</small>
+                  <h6 class="mb-0 fw-bold">Anna
+                  </h6>
+                  <small class="opacity-50">Miami</small>
                 </div>
               </div>
             </div>

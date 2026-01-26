@@ -1,13 +1,6 @@
 $(document).ready(function () {
-  //  Main Functionality Block
-  const platformChangeHandler = () => {
-    const $platformChanger = $("#platformChanger");
-    const platformDataAttribute = $platformChanger.attr("data-platform");
-  };
-
   const colorStateChangeOnScrollDown = () => {
     const $navbar = $(".navbar");
-    const $width = $(window).width();
     const $scrollTop = $(window).scrollTop();
 
     if ($scrollTop > 10) {
@@ -54,6 +47,22 @@ $(document).ready(function () {
       },
     },
   });
-  // rerun the scroll function on page load
+
+  $("#platform-filters").on("click", ".btn", function () {
+    const selectedPlatform = $(this).data("platform");
+    $(".btn").removeClass("btn-dark active").addClass("btn-secondary");
+    $(this).removeClass("btn-secondary").addClass("btn-dark active");
+
+    filterPlatformCards(selectedPlatform);
+  });
+
+  function filterPlatformCards(platform) {
+    const $allCards = $(".card-helpers");
+    $allCards.hide();
+
+    // Show only the cards that match the platform
+    $allCards.filter('[data-platform="' + platform + '"]').fadeIn(400);
+  }
+
   colorStateChangeOnScrollDown();
 });

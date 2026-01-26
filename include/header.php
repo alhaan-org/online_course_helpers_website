@@ -4,7 +4,7 @@
             <!-- Logo -->
             <a class="navbar-brand" href="#">
                 <img src="assets/Online-Course-Helpers-768x538.png" alt="Online Course Helpers" class="img-fluid"
-                    style="height: 80px;" />
+                    style="height: 80px;" loading="lazy" />
             </a>
 
             <!-- Mobile Toggle Button -->

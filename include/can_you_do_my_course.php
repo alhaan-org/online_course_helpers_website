@@ -11,7 +11,7 @@
             </div>
             <div class="image-right mt-4 mt-md-0">
                 <img src="../assets/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
-                    class="img-fluid custom-img">
+                    class="img-fluid custom-img" loading="lazy">
             </div>
         </div>
     </div>

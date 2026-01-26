@@ -203,36 +203,36 @@ $all_cards_data = [
     <section class="academic-section">
       <div class="slider-images-container">
         <div class="slider-images owl-carousel owl-theme">
-          <img src="../assets/uni-1.webp" alt="..." />
-          <img src="../assets/uni-2.webp" alt="..." />
-          <img src="../assets/uni-3.webp" alt="..." />
-          <img src="../assets/uni-4.webp" alt="..." />
-          <img src="../assets/uni-5.webp" alt="..." />
-          <img src="../assets/uni-6.webp" alt="..." />
-          <img src="../assets/uni-7.webp" alt="..." />
-          <img src="../assets/uni-8.webp" alt="..." />
-          <img src="../assets/uni-9.webp" alt="..." />
-          <img src="../assets/uni-10.webp" alt="..." />
-          <img src="../assets/uni-11 (1).webp" alt="..." />
-          <img src="../assets/uni-12.webp" alt="..." />
-          <img src="../assets/uni-13.webp" alt="..." />
-          <img src="../assets/uni-14.webp" alt="..." />
-          <img src="../assets/uni-15.webp" alt="..." />
-          <img src="../assets/uni-1.webp" alt="..." />
-          <img src="../assets/uni-2.webp" alt="..." />
-          <img src="../assets/uni-3.webp" alt="..." />
-          <img src="../assets/uni-4.webp" alt="..." />
-          <img src="../assets/uni-5.webp" alt="..." />
-          <img src="../assets/uni-6.webp" alt="..." />
-          <img src="../assets/uni-7.webp" alt="..." />
-          <img src="../assets/uni-8.webp" alt="..." />
-          <img src="../assets/uni-9.webp" alt="..." />
-          <img src="../assets/uni-10.webp" alt="..." />
-          <img src="../assets/uni-11 (1).webp" alt="..." />
-          <img src="../assets/uni-12.webp" alt="..." />
-          <img src="../assets/uni-13.webp" alt="..." />
-          <img src="../assets/uni-14.webp" alt="..." />
-          <img src="../assets/uni-15.webp" alt="..." />
+          <img src="../assets/uni-1.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-2.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-3.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-4.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-5.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-6.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-7.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-8.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-9.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-10.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-11 (1).webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-12.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-13.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-14.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-15.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-1.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-2.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-3.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-4.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-5.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-6.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-7.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-8.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-9.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-10.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-11 (1).webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-12.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-13.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-14.webp" alt="..." loading="lazy" />
+          <img src="../assets/uni-15.webp" alt="..." loading="lazy" />
         </div>
       </div>
       <div class="container mt-5">
@@ -240,7 +240,7 @@ $all_cards_data = [
           <!-- Right Image Placeholder -->
           <div class="col-lg-6">
             <div class="image-placeholder">
-              <img src="../assets/About-Us-1024x956.png" alt="..." class="img-fluid" />
+              <img src="../assets/About-Us-1024x956.png" alt="..." class="img-fluid" loading="lazy" />
             </div>
           </div>
           <!-- Left Content -->
@@ -532,7 +532,7 @@ $all_cards_data = [
           <div class="col-lg-5">
             <div class="hero-image-frame">
               <div class="cheap-price-section-image-placeholder">
-                <img src="../assets/Screenshot_5-768x788.png" alt="Cheap Online Course Help" />
+                <img src="../assets/Screenshot_5-768x788.png" alt="Cheap Online Course Help" loading="lazy" />
               </div>
             </div>
           </div>
@@ -557,15 +557,16 @@ $all_cards_data = [
         </div>
 
         <div class="row g-4" id="cards-container">
-          <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm p-4">
-              <h4 class="card-title">Aleks Elementary Course Help</h4>
-              <p class="text-muted small">ALEKS Elementary is an online learning platform. It covers topics in
-                maths, science, and language arts. Our expert online Aleks course takers are ready to provide
-                help with every topic.</p>
+          <?php foreach ($all_cards_data as $data): ?>
+            <div class="col-md-4 card-helpers" style="<?= $data["platform"] === "aleks" ? '' : 'display: none;' ?>"
+              data-platform="<?= $data["platform"] ?>">
+              <div class="card h-100 border-0 shadow-sm p-4">
+                <h4 class="card-title"><?= $data["title"] ?></h4>
+                <p class="text-muted small"><?= $data["description"] ?></p>
+              </div>
             </div>
-          </div>
-          <div class="col-md-4">
+          <?php endforeach ?>
+          <!-- <div class="col-md-4">
             <div class="card h-100 border-0 shadow-sm p-4">
               <h4 class="card-title">Aleks Middle School Course Help</h4>
               <p class="text-muted small">ALEKS Middle School is a similar online learning platform designed for
@@ -580,7 +581,7 @@ $all_cards_data = [
                 personalized instruction for high school students. Get online Alex High School course help,
                 which is designed to help students.</p>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </section>
@@ -589,7 +590,7 @@ $all_cards_data = [
       <div class="d-flex mb-5 px-3">
         <div class="bg-darkcyan text-white p-5 rounded-5 overflow-hidden position-relative">
           <div class="row align-items-center">
-            <div class="col-lg-10 mx-auto">
+            <div class="w-100 ml-3">
               <div class="inner-box custom-scrollbar">
                 <section class="inner-box-content">
                   <h2>Smarter Learning Starts Here: Your Go-To Online Course Helpers</h2>
@@ -943,7 +944,8 @@ $all_cards_data = [
             <div class="card h-50  border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
+                <img loading="lazy" src="../assets/reviews-logo-white-1-300x88.webp" alt="Review Logo"
+                  class="review-image">
               </div>
               <p class="small opacity-75">These guys helped me do my online stats course. All activities were
                 completed within the set deadline, and the outcomes were awesome.</p>

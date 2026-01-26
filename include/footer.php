@@ -2,7 +2,8 @@
     <div class="container">
         <div class="row g-4 mb-5">
             <div class="col-lg-3">
-                <img src="../assets/Online-Course-Helpers-768x538.png" alt="Logo" class="footer-logo mb-3">
+                <img src="../assets/Online-Course-Helpers-768x538.png" alt="Logo" class="footer-logo mb-3"
+                    loading="lazy">
                 <p class="small opacity-75">Online Course Helpers offers a one-stop solution to students seeking
                     additional credits. Hire professional helpers with full confidentiality.</p>
             </div>
@@ -42,11 +43,15 @@
                 <p class="small mb-4"><i class="fa fa-phone text-warning me-2"></i> (+1) 218 419 2935</p>
                 <h5 class="text-warning fw-bold mt-4">Follow us</h5>
                 <div class="d-flex gap-3 fs-5">
-                    <i class="fab fa-facebook footer-social-icon"></i>
-                    <i class="fab fa-instagram footer-social-icon"></i>
-                    <i class="fab fa-pinterest footer-social-icon"></i>
-                    <i class="fab fa-twitter footer-social-icon"></i>
-                    <i class="fab fa-linkedin footer-social-icon"></i>
+                    <a href="https://www.facebook.com/onlinecoursehelperss/"><i
+                            class="fab fa-facebook footer-social-icon"></i></a>
+                    <a href="https://www.instagram.com/onlinecoursehelpers/"><i
+                            class="fab fa-instagram footer-social-icon"></i></a>
+                    <a href="https://www.pinterest.com/socialmedia0003/"><i
+                            class="fab fa-pinterest footer-social-icon"></i></a>
+                    <a href="https://x.com/onlinecourse54"><i class="fab fa-twitter footer-social-icon"></i></a>
+                    <a href="https://www.linkedin.com/company/online-course-helpers/"><i
+                            class="fab fa-linkedin footer-social-icon"></i></a>
                 </div>
                 <div class="img-fluid">
                     <img src="../assets/gaurantee-img-300x65.png" alt="Trust Seal" class="mt-4"

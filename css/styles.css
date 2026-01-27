@@ -6,6 +6,7 @@
   --vibrant-yellow: #ffe600;
   --vibrant-yellow-variation: #ffc93f;
   --vibrant-peach: #ffe376;
+  --vibrant-peach-variation: #facf25;
   --navy-blue: #00334d;
   --light-grey: #e9ecef;
   --darker-gray: #343a40;
@@ -425,7 +426,8 @@ body {
   scroll-snap-type: x mandatory;
   padding-bottom: 20px;
   touch-action: pan-y;
-  -webkit-overflow-scrolling: touch;
+  max-width: 1200px;
+  margin: auto;
 }
 
 .horizontal-scroll-wrapper::-webkit-scrollbar {
@@ -447,7 +449,8 @@ body {
 .course-card {
   background: var(--vibrant-peach);
   padding: 15px;
-  border-radius: 4px;
+  border-radius: 10px;
+  border: 1.5px solid var(--dark-cyan);
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -858,6 +861,19 @@ td {
 .finish-my-course h1,
 .finish-my-course p {
   color: var(--navy-blue);
+}
+
+.accordion-button:focus {
+  box-shadow: none;
+  outline: none;
+  border-color: rgba(0, 0, 0, .125);
+}
+
+
+.accordion-button:not(.collapsed) {
+  background-color: #ffffff;
+  color: #000000;
+  box-shadow: none;
 }
 
 /* Breakspoints on 992px lesser i.e Tablet, Desktop */

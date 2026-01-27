@@ -272,9 +272,10 @@ $all_cards_data = [
     <section class="yellow-section py-5">
       <div class="container text-center">
         <h2 class="fw-bold mb-3">Affordable Help with Online Course for All Domains</h2>
-        <p class="mx-auto mb-5" style="max-width: 800px;">
+        <p class="mx-auto mb-5">
           With our professional course helpers, you can be sure of earning additional credits fast. Instead of wasting
-          time trying multiple services, you should hire us.
+          time trying multiple services that let you down with your credits, you should hire us because we have been
+          recognized as the best course completion help service in the USA.
         </p>
 
         <div class="horizontal-scroll-wrapper">
@@ -425,9 +426,7 @@ $all_cards_data = [
     <!-- Can you do my Course Section -->
     <?php include 'include/can_you_do_my_course.php'; ?>
 
-    <section class="curved">
-      <div class="d-none">content goes here this is dummy content</div>
-    </section>
+
     <!-- Services Section -->
 
     <section class="services-section py-5">
@@ -521,7 +520,7 @@ $all_cards_data = [
               we concentrate on your GPA- because smart students outsource smartly.
             </p>
 
-            <div class="d-flex flex-wrap gap-3">
+            <div class="container-fluid">
               <a href="#" class="btn btn-call rounded-pill px-4 py-3 fw-bold">
                 Live Call <i class="fa-solid fa-phone ms-2"></i>
               </a>
@@ -549,13 +548,14 @@ $all_cards_data = [
         <p>Get expert help with your online course. We provide 24/7 service and dedicated support with online course
           assignments, quizzes and assessments on all platforms.</p>
         <div class="d-flex flex-wrap justify-content-center gap-2 mb-5" id="platform-filters">
-          <button id="platformChanger" class="btn btn-dark active py-2 px-3" data-platform="aleks">Aleks</button>
-          <button id="platformChanger" class="btn btn-secondary py-2 px-3" data-platform="mcgrawhill">McGraw
+          <button id="platformChanger" class="btn btn-primary active py-2 px-3" data-platform="aleks">Aleks</button>
+          <button id="platformChanger" class="btn btn-outline-primary py-2 px-3" data-platform="mcgrawhill">McGraw
             Hill</button>
-          <button id="platformChanger" class="btn btn-secondary py-2 px-3" data-platform="pearson">Pearson</button>
-          <button id="platformChanger" class="btn btn-secondary py-2 px-3"
+          <button id="platformChanger" class="btn btn-outline-primary py-2 px-3"
+            data-platform="pearson">Pearson</button>
+          <button id="platformChanger" class="btn btn-outline-primary py-2 px-3"
             data-platform="blackboard">BlackBoard</button>
-          <button id="platformChanger" class="btn btn-secondary py-2 px-3" data-platform="sophia">Sophia</button>
+          <button id="platformChanger" class="btn btn-outline-primary py-2 px-3" data-platform="sophia">Sophia</button>
         </div>
 
         <div class="row g-4" id="cards-container">
@@ -571,8 +571,8 @@ $all_cards_data = [
         </div>
       </div>
     </section>
-
-    <section class="py-5 px-5 bg-white">
+    <!-- Section  -->
+    <section class="py-5 px-lg-5 px-1 bg-white">
       <div class="d-flex mb-5 px-3">
         <div class="bg-darkcyan text-white p-5 rounded-5 overflow-hidden position-relative">
           <div class="row align-items-center">
@@ -768,7 +768,7 @@ $all_cards_data = [
         </div>
       </div>
     </section>
-
+    <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container">
         <h2 class="fw-bold mb-4 text-white">Want to Complete Your Online Course Fast For Extra Credits? Hire
@@ -781,7 +781,7 @@ $all_cards_data = [
         </div>
     </div>
 </section>
-
+<!-- Section  -->
 <section class=" py-5 bg-light">
               <div class="container text-center">
                 <h2 class="fw-bold mb-3">Trusted Professionals to Help You Succeed at All Educational Levels
@@ -888,7 +888,7 @@ $all_cards_data = [
                 </div>
               </div>
     </section>
-
+    <!-- Section  -->
 
     <script>
       const coverflowSwiper = new Swiper(".my3dSwiper", {
@@ -920,7 +920,7 @@ $all_cards_data = [
       });
 
     </script>
-
+    <!-- Section  -->
     <section class="py-5 bg-white">
       <div class="container text-center">
         <h2 class="fw-bold mb-2">What Students Say About Our Online Course Assistance</h2>
@@ -928,7 +928,7 @@ $all_cards_data = [
 
         <div class="row g-4 text-start">
           <div class="col-md-4">
-            <div class="card h-60  border-0 shadow-sm text-white p-4"
+            <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img loading="lazy" src="../assets/reviews-logo-white-1-300x88.webp" alt="Review Logo"
@@ -946,7 +946,7 @@ $all_cards_data = [
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-60 border-0 shadow-sm text-white p-4"
+            <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
@@ -964,7 +964,7 @@ $all_cards_data = [
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-60 border-0 shadow-sm text-white p-4"
+            <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
@@ -982,7 +982,7 @@ $all_cards_data = [
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-60 border-0 shadow-sm text-white p-4"
+            <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
@@ -1001,7 +1001,7 @@ $all_cards_data = [
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-60 border-0 shadow-sm text-white p-4"
+            <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
@@ -1020,7 +1020,7 @@ $all_cards_data = [
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-60 border-0 shadow-sm text-white p-4"
+            <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="../assets/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
@@ -1047,7 +1047,7 @@ $all_cards_data = [
         </div>
       </div>
     </section>
-
+    <!-- Section  -->
     <section class="py-5 text-white" style="background-color: #00334d;">
       <div class="container">
         <div class="row text-center align-items-center g-4">
@@ -1076,7 +1076,7 @@ $all_cards_data = [
         </div>
       </div>
     </section>
-
+    <!-- FAQ Section -->
     <section class="py-5">
       <div class="container overflow-hidden">
         <div class="row g-0">
@@ -1184,9 +1184,8 @@ $all_cards_data = [
           </div>
         </div>
       </div>
-
     </section>
-
+    <!-- Secure Payment -->
     <section>
       <div class="payment-info d-flex flex-column flex-lg-row align-items-center justify-content-around mt-4 px-2 py-4">
         <h4 class="fw-bold text-center">Secure payment with</h4>

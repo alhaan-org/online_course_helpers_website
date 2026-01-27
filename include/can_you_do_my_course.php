@@ -16,3 +16,6 @@
         </div>
     </div>
 </section>
+<section class="curved">
+    <div class="d-none">content goes here this is dummy content</div>
+</section>

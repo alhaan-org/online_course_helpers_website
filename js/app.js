@@ -17,14 +17,17 @@ $(document).ready(function () {
   $(".scroll-wrapper").owlCarousel({
     dots: false,
     nav: false,
-    margin: 1,
+    margin: 5,
     responsive: {
       0: {
+        loop: true,
         items: 1.3,
         center: true,
       },
 
       992: {
+        loop: true,
+        margin: 15,
         items: 3,
         center: false,
       },
@@ -34,15 +37,21 @@ $(document).ready(function () {
   $(".slider-images").owlCarousel({
     dots: false,
     nav: false,
+    autoPlay: true,
+    autoplayTimeout: 3000,
+    autoplayHoverPause: true,
     margin: 10,
     responsive: {
       0: {
+        loop: true,
         items: 1.3,
         center: true,
       },
 
       1000: {
-        items: 4,
+        loop: true,
+        margin: 1,
+        items: 4.5,
         center: false,
       },
     },
@@ -50,8 +59,8 @@ $(document).ready(function () {
 
   $("#platform-filters").on("click", ".btn", function () {
     const selectedPlatform = $(this).data("platform");
-    $(".btn").removeClass("btn-dark active").addClass("btn-secondary");
-    $(this).removeClass("btn-secondary").addClass("btn-dark active");
+    $(".btn").removeClass("btn-primary active").addClass("btn-outline-primary");
+    $(this).removeClass("btn-outline-primary").addClass("btn-primary active");
 
     filterPlatformCards(selectedPlatform);
   });

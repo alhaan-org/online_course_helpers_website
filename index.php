@@ -510,7 +510,7 @@ $all_cards_data = [
             <h2 class="fw-bold mb-4 text-navy">
               Can You <span class="text-highlight">Take My Online Course</span> For Me At Cheap Price
             </h2>
-            <p class="lead text-muted mb-5 pe-lg-5">
+            <p class="mb-5">
               Have you ever searched through all of Google, browsing “Can I pay someone to take my online course
               for me? Your search ends here! At Online Course Helpers, we provide professional, safe, and
               inexpensive course-taking services that assure performance. Whether it is about working on your
@@ -902,6 +902,7 @@ $all_cards_data = [
           992: {
             effect: "coverflow",
             slidesPerView: 3,
+            loop: true,
             coverflowEffect: {
               rotate: 40,
               stretch: -10,

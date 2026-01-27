@@ -17,7 +17,7 @@ $(document).ready(function () {
   $(".scroll-wrapper").owlCarousel({
     dots: false,
     nav: false,
-    margin: 15,
+    margin: 1,
     responsive: {
       0: {
         items: 1.3,

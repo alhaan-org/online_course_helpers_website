@@ -21,6 +21,20 @@ body {
   width: 100%;
 }
 
+.dropdown-menu .dropdown-item:hover,
+.dropdown-menu .dropdown-item:focus {
+  background-color: #007bff;
+  /* Replace with your custom brand color */
+  color: #ffffff;
+  /* Text color when hovered */
+  outline: none;
+}
+
+/* Optional: Add a smooth transition so it doesn't "snap" */
+.dropdown-item {
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
 .hero-section {
   display: flex;
   background-image: url("../assets/home-banner.webp");
@@ -136,7 +150,7 @@ body {
 }
 
 .btn-primary-custom {
-  background-color: var(--vibrant-yellow-variation);
+  background-color: var(--vibrant-yellow);
   color: black;
   font-weight: 700;
   padding: 0.75rem 2rem;
@@ -147,8 +161,7 @@ body {
 }
 
 .btn-primary-custom:hover {
-  background-color: var(--vibrant-yellow);
-  color: black;
+  background-color: var(--vibrant-yellow-variation);
   box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
 }
 
@@ -407,7 +420,6 @@ body {
   display: flex;
   flex-wrap: nowrap;
   overflow: hidden;
-  gap: 30px;
   align-items: center;
   justify-content: center;
   scroll-snap-type: x mandatory;
@@ -850,6 +862,11 @@ td {
 
 /* Breakspoints on 992px lesser i.e Tablet, Desktop */
 @media (max-width: 991px) {
+  .navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+  }
+
   .hero-section {
     padding: 9rem 0;
     align-items: center;

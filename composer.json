@@ -1,5 +1,5 @@
 {
-    "name": "Online Course Helpers Website",
+    "name": "alhaannexia/online-course-helpers",
     "description": "Online Course Helpers Webiste",
     "require": {
         "php": ">=8.3.6"

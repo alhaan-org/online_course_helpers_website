@@ -1,5 +1,7 @@
 {
+    "name": "Online Course Helpers Website",
+    "description": "Online Course Helpers Webiste",
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.3.6"
     }
 }

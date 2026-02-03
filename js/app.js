@@ -57,10 +57,15 @@ $(document).ready(function () {
     },
   });
 
-  $("#platform-filters").on("click", ".btn", function () {
+  $("#platform-filters-buttons").on("click", ".btn", function () {
     const selectedPlatform = $(this).data("platform");
-    $(".btn").removeClass("btn-primary active").addClass("btn-outline-primary");
-    $(this).removeClass("btn-outline-primary").addClass("btn-primary active");
+
+    $(this)
+      .siblings(".btn")
+      .removeClass("btn-dark active")
+      .addClass("btn-outline-dark");
+
+    $(this).removeClass("btn-outline-dark").addClass("btn-dark active");
 
     filterPlatformCards(selectedPlatform);
   });

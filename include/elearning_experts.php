@@ -6,14 +6,14 @@
         </svg>
     </div>
     <div class="container text-center mt-5">
-        <h1 class="fw-bold mb-3">Expert Course Help on Every Major E-learning Platform</h1>
-        <p class="mx-auto mb-5 text-muted" style="max-width: 800px;">
+        <h1 class="fw-bold mb-3" data-aos="fade-up">Expert Course Help on Every Major E-learning Platform</h1>
+        <p class="mx-auto mb-5 text-muted" style="max-width: 800px;" data-aos="fade-up">
             We are the leaders of the best course help services on Canvas, WGU, Brightspace, and other platforms, which
             guarantees our clients an expert level of support, improved grades, and academic success that will not be
             accompanied by any stress
         </p>
 
-        <div class="row g-4">
+        <div class="row g-4" data-aos="fade-up">
             <div class="col-6 col-md-4 col-lg-3">
                 <div class="flip-card">
                     <div class="flip-card-inner">

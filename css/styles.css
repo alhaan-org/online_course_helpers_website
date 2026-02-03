@@ -1,9 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
 
 :root {
   --dark-cyan: #002a4d;
   --dark-cyan-variation: #003d7a;
-  --vibrant-yellow: #ffe600;
+  --vibrant-yellow: #ffce12;
   --vibrant-yellow-variation: #ca9100;
   --vibrant-peach: #ffe376;
   --vibrant-peach-variation: #facf25;
@@ -13,11 +13,11 @@
 }
 
 * {
-  font-family: "Poppins", sans-serif, Helvetica;
+  font-family: "Lexend", sans-serif, Helvetica;
 }
 
 body {
-  font-family: "Poppins", sans-serif, Helvetica;
+  font-family: "Lexend", sans-serif, Helvetica;
   box-sizing: border-box;
   width: 100%;
 }
@@ -127,7 +127,7 @@ body {
 
 .hero-title {
   color: var(--vibrant-yellow);
-  font-weight: 700;
+  font-weight: 600;
   line-height: 1.2;
 }
 
@@ -152,17 +152,18 @@ body {
 
 .btn-primary-custom {
   background-color: var(--vibrant-yellow);
-  color: black;
+  color: var(--dark-cyan);
   font-weight: 700;
   padding: 0.75rem 2rem;
   border: none;
   border-radius: 9999px;
   font-size: 1rem;
-  transition: all 0.3s ease;
+  transition: all 0.5s ease;
 }
 
 .btn-primary-custom:hover {
-  background-color: var(--vibrant-yellow-variation);
+  background-color: var(--vibrant-yellow);
+  color: black;
   box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
 }
 
@@ -267,7 +268,7 @@ body {
 
 .btn-call {
   background-color: var(--vibrant-yellow);
-  color: var(--darker-gray);
+  color: var(--dark-cyan);
   font-weight: 600;
   border: none;
   padding: 12px 32px;
@@ -275,7 +276,7 @@ body {
 }
 
 .btn-call:hover {
-  background-color: var(--vibrant-yellow-variation);
+  background-color: var(--vibrant-yellow);
   color: var(--darker-gray);
 }
 
@@ -450,7 +451,7 @@ body {
   background: var(--vibrant-peach);
   padding: 15px;
   border-radius: 10px;
-  border: 1.5px solid var(--dark-cyan);
+  color: var(--dark-cyan);
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -534,12 +535,13 @@ body {
 /* Button Styling */
 .btn-yellow {
   background-color: var(--vibrant-yellow);
-  color: #000;
+  color: var(--dark-cyan);
   border: none;
 }
 
 .btn-yellow:hover {
-  background-color: var(--vibrant-yellow-variation);
+  background-color: var(--vibrant-yellow);
+  color: black;
 }
 
 .btn-light-grey {
@@ -781,7 +783,7 @@ body {
 .inner-box-content h2,
 .inner-box-content h3,
 .inner-box-content h4 {
-  color: var(--vibrant-yellow-variation);
+  color: var(--vibrant-yellow);
 }
 
 .inner-box-content table,

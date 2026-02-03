@@ -102,6 +102,7 @@ $all_cards_data = [
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css" />
   <link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">
   <link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css">
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
     crossorigin="anonymous">
     </script>
@@ -118,7 +119,7 @@ $all_cards_data = [
   <main>
     <!-- Hero Section -->
     <section class="hero-section">
-      <div class="container">
+      <div class="container" data-aos="fade-up">
         <div class="row container">
           <!-- Left Content -->
           <div class="col-lg-8">
@@ -203,7 +204,7 @@ $all_cards_data = [
     </section>
     <!-- Trust Section -->
     <section class="academic-section">
-      <div class="slider-images-container">
+      <div class="slider-images-container" data-aos="fade-up">
         <div class="slider-images owl-carousel owl-theme">
           <img src="../assets/uni-1.webp" alt="..." loading="lazy" />
           <img src="../assets/uni-2.webp" alt="..." loading="lazy" />
@@ -240,13 +241,13 @@ $all_cards_data = [
       <div class="container mt-5">
         <div class="row align-items-center g-5">
           <!-- Right Image Placeholder -->
-          <div class="col-lg-6">
+          <div class="col-lg-6" data-aos="fade-up">
             <div class="image-placeholder">
               <img src="../assets/About-Us-1024x956.png" alt="..." class="img-fluid" loading="lazy" />
             </div>
           </div>
           <!-- Left Content -->
-          <div class="col-lg-6">
+          <div class="col-lg-6" data-aos="fade-up">
             <h1 class="heading-title">
               Reach New Academic Heights with Our <span class="highlight">Cheap Online Course Help USA</span>
             </h1>
@@ -270,9 +271,10 @@ $all_cards_data = [
     </section>
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
-      <div class="container text-center">
-        <h2 class="fw-bold mb-3">Affordable Help with Online Course for All Domains</h2>
-        <p class="mx-auto mb-5">
+      <div class="container text-center" data-aos="fade-up">
+        <h1 class="fw-bold mb-3" style="color: #002a4d;">Affordable Help with Online Course for All Domains
+        </h1>
+        <p class="mx-auto mb-5" style="color: #002a4d;">
           With our professional course helpers, you can be sure of earning additional credits fast. Instead of wasting
           time trying multiple services that let you down with your credits, you should hire us because we have been
           recognized as the best course completion help service in the USA.
@@ -430,10 +432,12 @@ $all_cards_data = [
     <!-- Services Section -->
 
     <section class="services-section py-5">
-      <div class="container text-center">
-        <h2 class="fw-bold mb-3">Our Reliable Online Course Help Services: Beyond Just Grades</h2>
-        <p class="mx-auto mb-5 text-muted" style="max-width: 900px;">
-          Our services range from personalized aid in all respects to data protection and grade-enhancing services...
+      <div class="container text-center" data-aos="fade-up">
+        <h1 class="fw-bold mb-3">Our Reliable Online Course Help Services: Beyond Just Grades</h1>
+        <p class="mb-5 text-muted">
+          Our services range from personalized aid in all respects to data protection and grade-enhancing services,
+          which are intended to provide the students with an advantage in all facets of their studies. We offer
+          unlimited benefits when you assign your online courses to our professionals.
         </p>
 
         <div class="row g-4 mb-5">
@@ -441,8 +445,8 @@ $all_cards_data = [
             <div class="service-box">
               <i class="fa-solid fa-headset service-icon"></i>
               <h3>Qualified Course Experts</h3>
-              <p>Learn with subject matter experts who know your syllabus inside out and provide expert-level
-                assistance.
+              <p>Learn with subject matter experts who know your syllabus inside out and provide expert-level assistance
+                in all subjects.
               </p>
             </div>
           </div>
@@ -458,7 +462,7 @@ $all_cards_data = [
               <i class="fa-solid fa-circle-info service-icon"></i>
               <h3>Guaranteed A+ Performance</h3>
               <p>We do not just help you score higher. Expect top grades, on-time submissions, and reliable academic
-                excellence.</p>
+                excellence every time.</p>
             </div>
           </div>
           <div class="col-md-4">
@@ -482,7 +486,7 @@ $all_cards_data = [
               <i class="fa-solid fa-lock service-icon"></i>
               <h3>Complete Privacy & Security</h3>
               <p>We keep your data and your identity secure. We operate encrypted systems and tight confidentiality
-                protocols.</p>
+                protocols to provide you with complete peace of mind.</p>
             </div>
           </div>
         </div>
@@ -494,7 +498,6 @@ $all_cards_data = [
               class="fa-brands fa-whatsapp ms-2"></i></button>
         </div>
       </div>
-
     </section>
 
     <!-- Elearning Experts Section -->
@@ -542,20 +545,19 @@ $all_cards_data = [
       </div>
     </section>
     <!-- Remaining Sections -->
-    <section class="py-5 finish-my-course" style="background-color: #dadadaff;">
+    <section class="py-5 finish-my-course" style="background-color: #dadadaff;" data-aos="fade-up">
       <div class="container text-center">
         <h1 class="fw-bold mb-4">Finish My Online Course With Top Grades and Guaranteed Credits on Top Platforms</h1>
         <p>Get expert help with your online course. We provide 24/7 service and dedicated support with online course
           assignments, quizzes and assessments on all platforms.</p>
-        <div class="d-flex flex-wrap justify-content-center gap-2 mb-5" id="platform-filters">
-          <button id="platformChanger" class="btn btn-primary active py-2 px-3" data-platform="aleks">Aleks</button>
-          <button id="platformChanger" class="btn btn-outline-primary py-2 px-3" data-platform="mcgrawhill">McGraw
+        <div class="d-flex flex-wrap justify-content-center gap-2 mb-5" id="platform-filters-buttons">
+          <button id="platformChanger" class="btn btn-dark active py-2 px-3" data-platform="aleks">Aleks</button>
+          <button id="platformChanger" class="btn btn-outline-dark py-2 px-3" data-platform="mcgrawhill">McGraw
             Hill</button>
-          <button id="platformChanger" class="btn btn-outline-primary py-2 px-3"
-            data-platform="pearson">Pearson</button>
-          <button id="platformChanger" class="btn btn-outline-primary py-2 px-3"
+          <button id="platformChanger" class="btn btn-outline-dark py-2 px-3" data-platform="pearson">Pearson</button>
+          <button id="platformChanger" class="btn btn-outline-dark py-2 px-3"
             data-platform="blackboard">BlackBoard</button>
-          <button id="platformChanger" class="btn btn-outline-primary py-2 px-3" data-platform="sophia">Sophia</button>
+          <button id="platformChanger" class="btn btn-outline-dark py-2 px-3" data-platform="sophia">Sophia</button>
         </div>
 
         <div class="row g-4" id="cards-container">
@@ -770,7 +772,7 @@ $all_cards_data = [
     </section>
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
-      <div class="container">
+      <div class="container" data-aos="fade-up">
         <h2 class="fw-bold mb-4 text-white">Want to Complete Your Online Course Fast For Extra Credits? Hire
           experienced professionals</h2>
         <p>Get expert help with your online course. We provide 24/7 service and dedicated support with online course
@@ -783,7 +785,7 @@ $all_cards_data = [
 </section>
 <!-- Section  -->
 <section class=" py-5 bg-light">
-              <div class="container text-center">
+              <div class="container text-center" data-aos="fade-up">
                 <h2 class="fw-bold mb-3">Trusted Professionals to Help You Succeed at All Educational Levels
                 </h2>
                 <p class="text-muted mb-5 mx-auto">
@@ -922,9 +924,10 @@ $all_cards_data = [
     </script>
     <!-- Section  -->
     <section class="py-5 bg-white">
-      <div class="container text-center">
+      <div class="container text-center" data-aos="fade-up">
         <h2 class="fw-bold mb-2">What Students Say About Our Online Course Assistance</h2>
-        <p class="text-muted mb-5">Real experiences - Real results. See the way we have offered students success.</p>
+        <p class="text-muted mb-5">Real experiences – Real results. See the way we have offered students success in
+          their online courses through expert assistance.</p>
 
         <div class="row g-4 text-start">
           <div class="col-md-4">
@@ -1049,7 +1052,7 @@ $all_cards_data = [
     </section>
     <!-- Section  -->
     <section class="py-5 text-white" style="background-color: #00334d;">
-      <div class="container">
+      <div class="container" data-aos="fade-up">
         <div class="row text-center align-items-center g-4">
           <div class="col-md-4">
             <div class="mb-3 text-white fs-1"><img src="../assets/timely-delivery.webp" alt="On-Time Delivery" />
@@ -1078,7 +1081,7 @@ $all_cards_data = [
     </section>
     <!-- FAQ Section -->
     <section class="py-5">
-      <div class="container overflow-hidden">
+      <div class="container overflow-hidden" data-aos="fade-up">
         <div class="row g-0">
           <div class="left-box col-lg-7 p-5 rounded-start-3">
             <h2 class="fw-bold mb-4">Frequently Asked Questions</h2>

@@ -1,5 +1,5 @@
 <footer class="pt-5 text-white" style="background-color: #002a4d;">
-    <div class="container">
+    <div class="container" data-aos="fade-up">
         <div class="row g-4 mb-5">
             <div class="col-lg-3">
                 <img src="../assets/Online-Course-Helpers-768x538.png" alt="Logo" class="footer-logo mb-3"
@@ -79,3 +79,11 @@
     })();
 </script>
 <!--End of Tawk.to Script-->
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init({
+        duration: 1200,
+        once: true,
+    });
+</script>

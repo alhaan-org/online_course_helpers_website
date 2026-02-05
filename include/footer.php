@@ -1,5 +1,5 @@
 <footer class="pt-5 text-white" style="background-color: #002a4d;">
-    <div class="container" data-aos="fade-up">
+    <div class="container">
         <div class="row g-4 mb-5">
             <div class="col-lg-3">
                 <img src="../assets/Online-Course-Helpers-768x538.png" alt="Logo" class="footer-logo mb-3"
@@ -10,7 +10,7 @@
             <div class="col-lg-3">
                 <h5 class="text-warning fw-bold mb-4">Our Services</h5>
                 <ul class="list-unstyled small opacity-75 lh-lg">
-                    <li class="footer-link"><a href="#">Aleks Course Help</a></li>
+                    <li class="footer-link"><a href="/aleks-course-help">Aleks Course Help</a></li>
                     <li class="footer-link"><a href="#">Pearson Course Help</a></li>
                     <li class="footer-link"><a href="#">McGraw Hill Course Help</a></li>
                     <li class="footer-link"><a href="#">Blackboard Course Help</a></li>
@@ -28,7 +28,7 @@
             <div class="col-lg-2">
                 <h5 class="text-warning fw-bold mb-4">Information</h5>
                 <ul class="list-unstyled small opacity-75 lh-lg">
-                    <li class="footer-link"><a href="#">Home</a></li>
+                    <li class="footer-link"><a href="/">Home</a></li>
                     <li class="footer-link"><a href="#">Blog</a></li>
                     <li class="footer-link"><a href="#">Terms and Conditions</a></li>
                     <li class="footer-link"><a href="#">Refund Policy</a></li>

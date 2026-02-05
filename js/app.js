@@ -57,6 +57,26 @@ $(document).ready(function () {
     },
   });
 
+  $(".support-carousel").owlCarousel({
+    loop: true,
+    margin: 20,
+    nav: false,
+    dots: false,
+    autoplay: true,
+    smartSpeed: 800,
+    responsive: {
+      0: {
+        items: 1,
+      },
+      768: {
+        items: 2,
+      },
+      1024: {
+        items: 3,
+      },
+    },
+  });
+
   $("#platform-filters-buttons").on("click", ".btn", function () {
     const selectedPlatform = $(this).data("platform");
 

@@ -878,6 +878,31 @@ td {
   box-shadow: none;
 }
 
+/* Custom Blue Gradient & Flex Height */
+.support-carousel .owl-stage {
+  display: flex !important;
+  /* Forces equal height for all slides */
+}
+
+.support-carousel .owl-item {
+  display: flex;
+  /* Ensures the inner .item also stretches */
+}
+
+.support-box {
+  background: linear-gradient(180deg, #005fad 0%, #003464 100%);
+  color: #ffffff;
+  height: 50vh;
+  /* Stretches to the height of the tallest box */
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease;
+}
+
+.text-warning {
+  color: var(--vibrant-yellow) !important;
+}
+
 /* Breakspoints on 992px lesser i.e Tablet, Desktop */
 @media (max-width: 991px) {
   .navbar-nav .nav-item.dropdown:hover .dropdown-menu {

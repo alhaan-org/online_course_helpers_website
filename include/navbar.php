@@ -35,8 +35,9 @@
                             data-bs-toggle="dropdown">Platforms</a>
                         <ul class="dropdown-menu shadow border-0" style="max-height: 400px; overflow-y: auto;">
                             <li><a class="dropdown-item" href="/aleks-course-help">Aleks Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Pearson Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">McGraw-Hill Course Help</a></li>
+                            <li><a class="dropdown-item" href="/pearson-course-help">Pearson Course Help</a></li>
+                            <li><a class="dropdown-item" href="/mcgraw-hill-course-help">McGraw-Hill Course Help</a>
+                            </li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
@@ -60,7 +61,7 @@
                         <ul class="dropdown-menu shadow border-0 p-3"
                             style="min-width: 250px; max-height: 400px; overflow-y: auto;">
                             <li><a class="dropdown-item" href="/finance-course-help">Finance Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Statistics Course Help</a></li>
+                            <li><a class="dropdown-item" href="/statistics-course-help">Statistics Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Accounting Course Help</a></li>
                             <li>
                                 <hr class="dropdown-divider">

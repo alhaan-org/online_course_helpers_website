@@ -11,8 +11,8 @@
                 <h5 class="text-warning fw-bold mb-4">Our Services</h5>
                 <ul class="list-unstyled small opacity-75 lh-lg">
                     <li class="footer-link"><a href="/aleks-course-help">Aleks Course Help</a></li>
-                    <li class="footer-link"><a href="#">Pearson Course Help</a></li>
-                    <li class="footer-link"><a href="#">McGraw Hill Course Help</a></li>
+                    <li class="footer-link"><a href="/pearson-course-help">Pearson Course Help</a></li>
+                    <li class="footer-link"><a href="/mcgraw-hill-course-help">McGraw Hill Course Help</a></li>
                     <li class="footer-link"><a href="#">Blackboard Course Help</a></li>
                     <li class="footer-link"><a href="#">Sophia Course Help</a></li>
                     <li class="footer-link"><a href="#">WGU Course Help</a></li>

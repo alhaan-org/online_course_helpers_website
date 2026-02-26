@@ -46,7 +46,7 @@
               </div>
             </div>
 
-            <button class="btn btn-primary-custom">
+            <button class="btn btn-primary-custom" onclick="Tawk_API.toggle()">
               Live Chat <i class="fa fa-comments ms-2"></i>
             </button>
           </div>

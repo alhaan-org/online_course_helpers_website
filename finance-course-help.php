@@ -43,7 +43,7 @@ include 'include/header.php'; ?>
             <div class="d-flex align-items-center flex-wrap gap-3 mb-4">
               <small class="trusted-by">Trusted By:</small>
               <div class="d-flex gap-3 align-items-center">
-                <img src="../assets/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
+                <img src="../assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
               </div>
             </div>
 
@@ -55,7 +55,7 @@ include 'include/header.php'; ?>
           <div class="col-lg-4">
             <div class="hero-form-card">
               <div class="limited-offer-badge">
-                <img src="../assets/limited-offer-1024x613.webp" alt="Limited Offer" />
+                <img src="../assets/img/limited-offer-1024x613.webp" alt="Limited Offer" />
               </div>
               <h4 class="mb-4 text-center fw-bold text-dark">
                 Save Upto 50% On First Order
@@ -98,36 +98,36 @@ include 'include/header.php'; ?>
     <section class="academic-section">
       <div class="slider-images-container" data-aos="fade-up">
         <div class="slider-images owl-carousel owl-theme">
-          <img src="../assets/uni-1.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-2.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-3.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-4.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-5.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-6.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-7.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-8.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-9.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-10.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-12.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-13.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-14.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-15.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-1.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-2.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-3.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-4.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-5.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-6.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-7.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-8.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-9.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-10.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-12.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-13.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-14.webp" alt="..." loading="lazy" />
-          <img src="../assets/uni-15.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-1.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-2.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-3.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-4.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-5.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-6.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-7.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-8.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-9.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-10.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-12.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-13.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-14.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-15.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-1.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-2.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-3.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-4.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-5.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-6.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-7.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-8.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-9.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-10.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-12.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-13.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-14.webp" alt="..." loading="lazy" />
+          <img src="../assets/img/uni-15.webp" alt="..." loading="lazy" />
         </div>
       </div>
 
@@ -137,7 +137,7 @@ include 'include/header.php'; ?>
           <!-- Right Image Placeholder -->
           <div class="col-lg-6" data-aos="fade-up">
             <div class="image-placeholder">
-              <img src="../assets/About-Us-1024x956.png" alt="..." class="img-fluid" loading="lazy" />
+              <img src="../assets/img/About-Us-1024x956.png" alt="..." class="img-fluid" loading="lazy" />
             </div>
           </div>
           <!-- Left Content -->
@@ -315,7 +315,7 @@ include 'include/header.php'; ?>
             </div>
           </div>
           <div class="image-right mt-4 mt-md-0">
-            <img src="../assets/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
+            <img src="../assets/img/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
               class="img-fluid custom-img" loading="lazy">
           </div>
         </div>
@@ -437,7 +437,7 @@ include 'include/header.php'; ?>
           <div class="col-lg-5">
             <div class="hero-image-frame">
               <div class="cheap-price-section-image-placeholder">
-                <img src="../assets/Screenshot_5-768x788.png" alt="Cheap Online Course Help" loading="lazy" />
+                <img src="../assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help" loading="lazy" />
               </div>
             </div>
           </div>
@@ -753,7 +753,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img loading="lazy" src="../assets/reviews-logo-white-1-300x88.webp" alt="Review Logo"
+                <img loading="lazy" src="../assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
                   class="review-image">
               </div>
               <p class="small opacity-75">Top‑Notch Service! I was surprised that the finance course help provided by
@@ -774,7 +774,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="../assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I was not able to complete my course, so their helpers in the USA did all the
                 work, such as assignments, quizzes, and exams. It was worth every penny and stress-free. Highly
@@ -793,7 +793,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="../assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">The Online Course Helper also took me through difficult subjects, and I have
                 been able to receive additional college credits easily. Everything was managed professionally, and I
@@ -813,7 +813,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="../assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I searched for course help and discovered Online Course Helpers. Their group
                 handled my whole course to the end, and I could achieve those extra credits without any stress.
@@ -833,7 +833,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="../assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">The deadlines were overwhelming, and their team managed everything. All
                 assignments, quizzes, and projects were submitted at the right time and without any problems. I am
@@ -852,7 +852,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="../assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">Exceptional results! My workload was effectively handled by their course
                 helpers in the USA. My goal of obtaining the additional credits was achieved, and the whole process was
@@ -882,20 +882,21 @@ include 'include/header.php'; ?>
       <div class="container" data-aos="fade-up">
         <div class="row text-center align-items-center g-4">
           <div class="col-md-4">
-            <div class="mb-3 text-white fs-1"><img src="../assets/timely-delivery.webp" alt="On-Time Delivery" />
+            <div class="mb-3 text-white fs-1"><img src="../assets/img/timely-delivery.webp" alt="On-Time Delivery" />
             </div>
             <h5 class="fw-bold">On-Time Delivery</h5>
             <p class="small opacity-75">We never miss deadlines. Always get high-quality work on time to stay ahead.
             </p>
           </div>
           <div class="col-md-4">
-            <div class="mb-3 text-white fs-1"><img src="../assets/our-writers.webp" alt="100% Unique Work" /></div>
+            <div class="mb-3 text-white fs-1"><img src="../assets/img/our-writers.webp" alt="100% Unique Work" /></div>
             <h5 class="fw-bold">100% Unique Work</h5>
             <p class="small opacity-75">All assignments are human written and plagiarism free. Submit without fear
               of penalty.</p>
           </div>
           <div class="col-md-4">
-            <div class="mb-3 text-white fs-1"><img src="../assets/customer-support.webp" alt="Professional Support" />
+            <div class="mb-3 text-white fs-1"><img src="../assets/img/customer-support.webp"
+                alt="Professional Support" />
             </div>
             <h5 class="fw-bold">Professional Support</h5>
             <p class="small opacity-75">Questions? Updates? We’re here 24/7. Contact us any time and we will be happy to
@@ -1053,10 +1054,10 @@ include 'include/header.php'; ?>
       <div class="payment-info d-flex flex-column flex-lg-row align-items-center justify-content-around mt-4 px-2 py-4">
         <h4 class="fw-bold text-center">Secure payment with</h4>
         <div class="d-flex gap-1 gap-lg-4 align-items-center justify-content-between py-3 px-4">
-          <img src="../assets/paypal.webp" alt="paypal" class="payment-icon" />
-          <img src="../assets/master-card.webp" alt="master-card" class="payment-icon" />
-          <img src="../assets/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />
-          <img src="../assets/visa.webp" alt="visa" class="payment-icon" />
+          <img src="../assets/img/paypal.webp" alt="paypal" class="payment-icon" />
+          <img src="../assets/img/master-card.webp" alt="master-card" class="payment-icon" />
+          <img src="../assets/img/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />
+          <img src="../assets/img/visa.webp" alt="visa" class="payment-icon" />
         </div>
       </div>
     </section>

@@ -19,7 +19,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
                             <div class="img-placeholder mb-3">
-                                <img id="flip-card-img" src="../assets/brightspace.webp" alt="" />
+                                <img id="flip-card-img" src="../assets/img/brightspace.webp" alt="" />
                             </div>
                         </div>
                         <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
@@ -36,7 +36,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
                             <div class="img-placeholder mb-3">
-                                <img id="flip-card-img" src="../assets/mgh.webp" alt="" />
+                                <img id="flip-card-img" src="../assets/img/mgh.webp" alt="" />
                             </div>
                         </div>
                         <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
@@ -54,7 +54,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
                             <div class="img-placeholder mb-3">
-                                <img id="flip-card-img" src="../assets/wgu.webp" alt="" />
+                                <img id="flip-card-img" src="../assets/img/wgu.webp" alt="" />
                             </div>
                         </div>
                         <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
@@ -71,7 +71,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
                             <div class="img-placeholder mb-3">
-                                <img id="flip-card-img" src="../assets/straighterline.webp" alt="" />
+                                <img id="flip-card-img" src="../assets/img/straighterline.webp" alt="" />
                             </div>
                         </div>
                         <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
@@ -88,7 +88,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
                             <div class="img-placeholder mb-3">
-                                <img id="flip-card-img" src="../assets/onlineed.webp" alt="" />
+                                <img id="flip-card-img" src="../assets/img/onlineed.webp" alt="" />
                             </div>
                         </div>
                         <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
@@ -105,7 +105,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
                             <div class="img-placeholder mb-3">
-                                <img id="flip-card-img" src="../assets/act-1.webp" alt="" />
+                                <img id="flip-card-img" src="../assets/img/act-1.webp" alt="" />
                             </div>
                         </div>
                         <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
@@ -122,7 +122,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
                             <div class="img-placeholder mb-3">
-                                <img id="flip-card-img" src="../assets/moodle.webp" alt="" />
+                                <img id="flip-card-img" src="../assets/img/moodle.webp" alt="" />
                             </div>
                         </div>
                         <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
@@ -139,7 +139,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
                             <div class="img-placeholder mb-3">
-                                <img id="flip-card-img" src="../assets/cengage.webp" alt="" />
+                                <img id="flip-card-img" src="../assets/img/cengage.webp" alt="" />
                             </div>
                         </div>
                         <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
@@ -157,7 +157,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
                             <div class="img-placeholder mb-3">
-                                <img id="flip-card-img" src="../assets/sophia-1.webp" alt="" />
+                                <img id="flip-card-img" src="../assets/img/sophia-1.webp" alt="" />
                             </div>
                         </div>
                         <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
@@ -175,7 +175,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
                             <div class="img-placeholder mb-3">
-                                <img id="flip-card-img" src="../assets/canvas.webp" alt="" />
+                                <img id="flip-card-img" src="../assets/img/canvas.webp" alt="" />
                             </div>
                         </div>
                         <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
@@ -193,7 +193,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
                             <div class="img-placeholder mb-3">
-                                <img id="flip-card-img" src="../assets/aleks.webp" alt="" />
+                                <img id="flip-card-img" src="../assets/img/aleks.webp" alt="" />
                             </div>
                         </div>
                         <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
@@ -212,7 +212,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
                             <div class="img-placeholder mb-3">
-                                <img id="flip-card-img" src="../assets/mathway.webp" alt="" />
+                                <img id="flip-card-img" src="../assets/img/mathway.webp" alt="" />
                             </div>
                         </div>
                         <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">

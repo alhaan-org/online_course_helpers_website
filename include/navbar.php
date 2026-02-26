@@ -3,7 +3,7 @@
         <div class="container">
             <!-- Logo -->
             <a class="navbar-brand" href="#">
-                <img src="assets/Online-Course-Helpers-768x538.png" alt="Online Course Helpers" class="img-fluid"
+                <img src="assets/img/Online-Course-Helpers-768x538.png" alt="Online Course Helpers" class="img-fluid"
                     style="height: 80px;" loading="lazy" />
             </a>
 
@@ -38,9 +38,6 @@
                             <li><a class="dropdown-item" href="/pearson-course-help">Pearson Course Help</a></li>
                             <li><a class="dropdown-item" href="/mcgraw-hill-course-help">McGraw-Hill Course Help</a>
                             </li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
                             <li><a class="dropdown-item" href="#">Brightspace Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Blackboard Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Sophia Course Help</a></li>
@@ -63,9 +60,6 @@
                             <li><a class="dropdown-item" href="/finance-course-help">Finance Course Help</a></li>
                             <li><a class="dropdown-item" href="/statistics-course-help">Statistics Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Accounting Course Help</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
                             <li><a class="dropdown-item" href="#">Math Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Computer Science Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Algebra Course Help</a></li>

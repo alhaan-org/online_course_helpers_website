@@ -105,9 +105,9 @@ $all_cards_data = [
             <?php foreach ($all_cards_data as $data): ?>
                 <div class="col-md-4 card-helpers" style="<?= $data["platform"] === "aleks" ? '' : 'display: none;' ?>"
                     data-platform="<?= $data["platform"] ?>">
-                    <div class="card h-100 border-0 shadow-sm p-4">
+                    <div class="card h-100 border-0 shadow-sm p-4 justify-content-center">
                         <h4 class="card-title fw-bold"><?= $data["title"] ?></h4>
-                        <p class="text-muted small"><?= $data["description"] ?></p>
+                        <p class="py-2 text-muted small"><?= $data["description"] ?></p>
                     </div>
                 </div>
             <?php endforeach ?>

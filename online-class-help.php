@@ -157,7 +157,8 @@ include 'include/header.php'; ?>
             </p>
             <div class="d-flex gap-3 flex-wrap">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
-              <button class="btn btn-chat"><i class="fa fa-comments me-2"></i>Live Chat</button>
+              <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
+                Chat</button>
             </div>
           </div>
         </div>
@@ -321,7 +322,8 @@ include 'include/header.php'; ?>
             <h1 class="fw-bold mb-4">Let Our Experts Take Your Online Class for You to Achieve High Scores..</span></h1>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
-              <button class="btn btn-chat"><i class="fa fa-comments me-2"></i>Live Chat</button>
+              <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
+                Chat</button>
             </div>
           </div>
           <div class="image-right mt-4 mt-md-0">
@@ -460,7 +462,8 @@ include 'include/header.php'; ?>
         <p>Get expert help with your ACT course. We provide 24/7 service and dedicated support with ACT course
           assignments, quizzes, and tests for all domains.</p>
         <div class="d-flex justify-content-center gap-3">
-          <a href="#" class="btn btn-chat rounded-pill px-4">Live Chat <i class="fa-solid fa-comment-dots ms-2"></i></a>
+          <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
+              class="fa-solid fa-comment-dots ms-2"></i></a>
           <a href="#" class="btn btn-call rounded-pill px-4">Whatsapp <i class="fa-brands fa-whatsapp ms-2""></i></a>
         </div>
     </div>
@@ -697,7 +700,8 @@ include 'include/header.php'; ?>
 
         <div class="mt-5 d-flex justify-content-center gap-3">
           <button class="btn btn-call fw-bold rounded-pill">Live Call <i class="fa fa-phone ms-2"></i></button>
-          <button class="btn btn-chat fw-bold rounded-pill">Live Chat <i class="fa fa-comments ms-2"></i></button>
+          <button class="btn btn-chat fw-bold rounded-pill" onclick="Tawk_API.toggle()">Live Chat <i
+              class="fa fa-comments ms-2"></i></button>
         </div>
       </div>
     </section>
@@ -887,7 +891,7 @@ include 'include/header.php'; ?>
   <!-- Footer -->
   <?php include 'include/footer.php'; ?>
 
-  <script src="owlcarousel/owl.carousel.min.js"></script>
+  <script src="/assets/owlcarousel/owl.carousel.min.js"></script>
 </body>
 
 </html>

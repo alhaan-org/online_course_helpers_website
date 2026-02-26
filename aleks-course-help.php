@@ -43,7 +43,7 @@ include 'include/header.php'; ?>
             <div class="d-flex align-items-center flex-wrap gap-3 mb-4">
               <small class="trusted-by">Trusted By:</small>
               <div class="d-flex gap-3 align-items-center">
-                <img src="../assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
+                <img src="/assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
               </div>
             </div>
 
@@ -55,7 +55,7 @@ include 'include/header.php'; ?>
           <div class="col-lg-4">
             <div class="hero-form-card">
               <div class="limited-offer-badge">
-                <img src="../assets/img/limited-offer-1024x613.webp" alt="Limited Offer" />
+                <img src="/assets/img/limited-offer-1024x613.webp" alt="Limited Offer" />
               </div>
               <h4 class="mb-4 text-center fw-bold text-dark">
                 Save Upto 50% On First Order
@@ -158,7 +158,8 @@ include 'include/header.php'; ?>
             </p>
             <div class="d-flex gap-3 flex-wrap">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
-              <button class="btn btn-chat"><i class="fa fa-comments me-2"></i>Live Chat</button>
+              <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
+                Chat</button>
             </div>
           </div>
         </div>
@@ -348,7 +349,8 @@ include 'include/header.php'; ?>
               Can You Do My ALEKS Course With Guaranteed Top Grades? Yes, We Can.</h1>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
-              <button class="btn btn-chat"><i class="fa fa-comments me-2"></i>Live Chat</button>
+              <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
+                Chat</button>
             </div>
           </div>
           <div class="image-right mt-4 mt-md-0">
@@ -553,7 +555,8 @@ include 'include/header.php'; ?>
         <p>Get expert help with your Aleks course. We provide 24/7 service and dedicated support with Aleks course
           assignments, quizzes and assessments for domains.</p>
         <div class="d-flex justify-content-center gap-3">
-          <a href="#" class="btn btn-chat rounded-pill px-4">Live Chat <i class="fa-solid fa-comment-dots ms-2"></i></a>
+          <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
+              class="fa-solid fa-comment-dots ms-2"></i></a>
           <a href="#" class="btn btn-call rounded-pill px-4">Whatsapp <i class="fa-brands fa-whatsapp ms-2""></i></a>
         </div>
     </div>
@@ -840,7 +843,8 @@ include 'include/header.php'; ?>
 
         <div class="mt-5 d-flex justify-content-center gap-3">
           <button class="btn btn-call fw-bold rounded-pill">Live Call <i class="fa fa-phone ms-2"></i></button>
-          <button class="btn btn-chat fw-bold rounded-pill">Live Chat <i class="fa fa-comments ms-2"></i></button>
+          <button class="btn btn-chat fw-bold rounded-pill" onclick="Tawk_API.toggle()">Live Chat <i
+              class="fa fa-comments ms-2"></i></button>
         </div>
       </div>
     </section>
@@ -1034,7 +1038,7 @@ include 'include/header.php'; ?>
   <!-- Footer -->
   <?php include 'include/footer.php'; ?>
 
-  <script src="owlcarousel/owl.carousel.min.js"></script>
+  <script src="/assets/owlcarousel/owl.carousel.min.js"></script>
 </body>
 
 </html>

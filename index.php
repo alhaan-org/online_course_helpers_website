@@ -42,7 +42,7 @@
             <div class="d-flex align-items-center flex-wrap gap-3 mb-4">
               <small class="trusted-by">Trusted By:</small>
               <div class="d-flex gap-3 align-items-center">
-                <img src="../assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
+                <img src="/assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
               </div>
             </div>
 
@@ -54,7 +54,7 @@
           <div class="col-lg-4">
             <div class="hero-form-card">
               <div class="limited-offer-badge">
-                <img src="../assets/img/limited-offer-1024x613.webp" alt="Limited Offer" />
+                <img src="/assets/img/limited-offer-1024x613.webp" alt="Limited Offer" />
               </div>
               <h4 class="mb-4 text-center fw-bold text-dark">
                 Save Upto 50% On First Order
@@ -97,36 +97,36 @@
     <section class="academic-section">
       <div class="slider-images-container" data-aos="fade-up">
         <div class="slider-images owl-carousel owl-theme">
-          <img src="../assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-15.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-15.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-1.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-2.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-3.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-4.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-5.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-6.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-7.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-8.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-9.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-10.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-12.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-13.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-14.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-15.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-1.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-2.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-3.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-4.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-5.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-6.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-7.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-8.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-9.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-10.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-12.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-13.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-14.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-15.webp" alt="..." loading="lazy" />
         </div>
       </div>
 
@@ -644,7 +644,8 @@
         <p>Get expert help with your online course. We provide 24/7 service and dedicated support with online course
           assignments, quizzes and assessments on all platforms.</p>
         <div class="d-flex justify-content-center gap-3">
-          <a href="#" class="btn btn-chat rounded-pill px-4">Live Chat <i class="fa-solid fa-comment-dots ms-2"></i></a>
+          <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
+              class="fa-solid fa-comment-dots ms-2"></i></a>
           <a href="#" class="btn btn-call rounded-pill px-4">Whatsapp <i class="fa-brands fa-whatsapp ms-2""></i></a>
         </div>
     </div>
@@ -662,11 +663,11 @@
                 <div class="coverflow-swiper swiper my3dSwiper">
                   <div class="h-100 swiper-wrapper">
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-50 h-lg-100 text-white p-4"
+                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">High School Course Help</h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Our </span><a
+                          <p style="font-size: 13px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/high-school-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">high school level
                                 course help</span></a><span style="font-weight: 400"> is created to assist students who
@@ -681,11 +682,11 @@
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-50 h-lg-100 text-white p-4"
+                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">Undergraduate Level Course Help</h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Struggling with your degree course?
+                          <p style="font-size: 13px;"><span style="font-weight: 400">Struggling with your degree course?
                               Our </span><a href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">undergraduate level course
                                 help</span></a><span style="font-weight: 400"> is designed for students who strive to
@@ -699,11 +700,11 @@
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-50 h-lg-100 text-white p-4"
+                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">Master's Level Course Help</h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">We have a </span><a
+                          <p style="font-size: 13px;"><span style="font-weight: 400">We have a </span><a
                               href="https://onlinecoursehelpers.com/masters-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">masters level course
                                 help</span></a><span style="font-weight: 400"> that best fits graduate students with
@@ -716,11 +717,11 @@
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-50 h-lg-100 text-white p-4"
+                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">Associative Level Course Help</h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Our </span><a
+                          <p style="font-size: 13px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/associate-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">associate-level course
                                 help</span></a><span style="font-weight: 400"> services assist students in enhancing
@@ -734,11 +735,11 @@
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-50 h-md-100 text-white p-4"
+                      <div class="coverflow-card card h-70 h-md-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">Doctorate Level Course Help</h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Our </span><a
+                          <p style="font-size: 13px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/doctorate-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">doctoral-level course
                                 help</span></a><span style="font-weight: 400"> offers specialized support to
@@ -912,7 +913,8 @@
 
         <div class="mt-5 d-flex justify-content-center gap-3">
           <button class="btn btn-call fw-bold rounded-pill">Live Call <i class="fa fa-phone ms-2"></i></button>
-          <button class="btn btn-chat fw-bold rounded-pill">Live Chat <i class="fa fa-comments ms-2"></i></button>
+          <button class="btn btn-chat fw-bold rounded-pill" onclick="Tawk_API.toggle()">Live Chat <i
+              class="fa fa-comments ms-2"></i></button>
         </div>
       </div>
     </section>
@@ -1073,7 +1075,7 @@
   <!-- Footer -->
   <?php include 'include/footer.php'; ?>
 
-  <script src="owlcarousel/owl.carousel.min.js"></script>
+  <script src="/assets/owlcarousel/owl.carousel.min.js"></script>
 </body>
 
 </html>

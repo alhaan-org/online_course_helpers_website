@@ -154,7 +154,8 @@ include 'include/header.php'; ?>
             </p>
             <div class="d-flex gap-3 flex-wrap">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
-              <button class="btn btn-chat"><i class="fa fa-comments me-2"></i>Live Chat</button>
+              <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
+                Chat</button>
             </div>
           </div>
         </div>
@@ -311,7 +312,8 @@ include 'include/header.php'; ?>
               Can You Complete My Finance Course To Earn Me Extra Credits? Yes, We Can Do That At 50% Off.</h1>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
-              <button class="btn btn-chat"><i class="fa fa-comments me-2"></i>Live Chat</button>
+              <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
+                Chat</button>
             </div>
           </div>
           <div class="image-right mt-4 mt-md-0">
@@ -593,7 +595,8 @@ include 'include/header.php'; ?>
         <p>When you decide to pay someone to do your finance course, choose us to take care of the whole process. Our
           team of finance course helpers is at your service 24/7. Hire our experts today.</p>
         <div class="d-flex justify-content-center gap-3">
-          <a href="#" class="btn btn-chat rounded-pill px-4">Live Chat <i class="fa-solid fa-comment-dots ms-2"></i></a>
+          <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
+              class="fa-solid fa-comment-dots ms-2"></i></a>
           <a href="#" class="btn btn-call rounded-pill px-4">Whatsapp <i class="fa-brands fa-whatsapp ms-2""></i></a>
         </div>
     </div>
@@ -873,7 +876,8 @@ include 'include/header.php'; ?>
 
         <div class="mt-5 d-flex justify-content-center gap-3">
           <button class="btn btn-call fw-bold rounded-pill">Live Call <i class="fa fa-phone ms-2"></i></button>
-          <button class="btn btn-chat fw-bold rounded-pill">Live Chat <i class="fa fa-comments ms-2"></i></button>
+          <button class="btn btn-chat fw-bold rounded-pill" onclick="Tawk_API.toggle()">Live Chat <i
+              class="fa fa-comments ms-2"></i></button>
         </div>
       </div>
     </section>
@@ -1067,7 +1071,7 @@ include 'include/header.php'; ?>
   <!-- Footer -->
   <?php include 'include/footer.php'; ?>
 
-  <script src="owlcarousel/owl.carousel.min.js"></script>
+  <script src="/assets/owlcarousel/owl.carousel.min.js"></script>
 </body>
 
 </html>

@@ -38,7 +38,7 @@ body {
 
 .hero-section {
   display: flex;
-  background-image: url("./img/home-banner.webp");
+  background-image: url("/assets/img/home-banner.webp");
   min-height: 100vh;
   position: relative;
   align-items: center;
@@ -394,6 +394,8 @@ body {
 }
 
 
+
+
 .coverflow-swiper .swiper-wrapper {
   display: flex;
   height: auto;
@@ -605,7 +607,7 @@ body {
 
 /* Section Background */
 .platform-section {
-  background-image: url('./img/banner3.jpg');
+  background-image: url('/assets/img/banner3.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: fit-content;
@@ -775,6 +777,9 @@ body {
 }
 
 .inner-box {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
   max-height: 100vh;
   overflow-y: auto;
   padding-right: 15px;
@@ -784,7 +789,9 @@ body {
 .inner-box-content h3,
 .inner-box-content h4 {
   color: var(--vibrant-yellow);
+  margin: 8px 0px;
 }
+
 
 .inner-box-content table,
 th,
@@ -792,11 +799,12 @@ td {
   border: 1px solid #ffffff;
   padding: 8px;
   text-align: left;
+  margin: 15px 0px;
 }
 
 .bg-darkcyan {
   position: relative;
-  background-image: url('./img/banner3.jpg');
+  background-image: url('/assets/img/banner3.jpg');
   z-index: 1;
 }
 
@@ -821,7 +829,7 @@ td {
 
 .left-box::before {
   position: absolute;
-  background-image: url('./img/Homework_help_1_0cc488f467.png');
+  background-image: url('/assets/img/Homework_help_1_0cc488f467.png');
   content: '';
   inset: 0;
   z-index: -1;
@@ -973,7 +981,8 @@ td {
   }
 
   .my3dSwiper .coverflow-card {
-    height: 400px !important;
+    height: 500px !important;
+    min-height: 500px !important;
   }
 
   #flip-card-img {

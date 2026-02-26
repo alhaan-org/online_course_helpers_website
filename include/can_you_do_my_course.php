@@ -6,7 +6,8 @@
                         We Can.</span></h1>
                 <div class="d-flex gap-3">
                     <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
-                    <button class="btn btn-chat"><i class="fa fa-comments me-2"></i>Live Chat</button>
+                    <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
+                        Chat</button>
                 </div>
             </div>
             <div class="image-right mt-4 mt-md-0">

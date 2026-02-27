@@ -13,10 +13,10 @@
                     <li class="footer-link"><a href="/aleks-course-help">Aleks Course Help</a></li>
                     <li class="footer-link"><a href="/pearson-course-help">Pearson Course Help</a></li>
                     <li class="footer-link"><a href="/mcgraw-hill-course-help">McGraw Hill Course Help</a></li>
-                    <li class="footer-link"><a href="#">Blackboard Course Help</a></li>
+                    <li class="footer-link"><a href="/blackboard-course-help">Blackboard Course Help</a></li>
+                    <li class="footer-link"><a href="/brightspace-course-help">Brightspace Course Help</a></li>
                     <li class="footer-link"><a href="#">Sophia Course Help</a></li>
                     <li class="footer-link"><a href="#">WGU Course Help</a></li>
-                    <li class="footer-link"><a href="#">Brightspace Course Help</a></li>
                     <li class="footer-link"><a href="#">Straighterline Course Help</a></li>
                     <li class="footer-link"><a href="#">Cengage Course Help</a></li>
                     <li class="footer-link"><a href="#">ACT Course Help</a></li>

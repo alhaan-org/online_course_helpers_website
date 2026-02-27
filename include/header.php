@@ -3,7 +3,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><?php echo isset($pageTitle) ? $pageTitle : 'Guaranteed Extra Credits with Best Online Course Help'; ?>
     </title>
-
+    <meta name="description"
+        content="<?php echo isset($pageDescription) ? $pageDescription : 'The most reliable online course help in USA to fast-track your route to extra credits. Hire professional online course helpers for timely submissions.' ?>">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"

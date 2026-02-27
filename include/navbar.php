@@ -38,8 +38,9 @@
                             <li><a class="dropdown-item" href="/pearson-course-help">Pearson Course Help</a></li>
                             <li><a class="dropdown-item" href="/mcgraw-hill-course-help">McGraw-Hill Course Help</a>
                             </li>
-                            <li><a class="dropdown-item" href="#">Brightspace Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Blackboard Course Help</a></li>
+                            <li><a class="dropdown-item" href="/brightspace-course-help">Brightspace Course Help</a>
+                            </li>
+                            <li><a class="dropdown-item" href="/blackboard-course-help">Blackboard Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Sophia Course Help</a></li>
                             <li><a class="dropdown-item" href="#">WGU Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Straighterline Course Help</a></li>
@@ -59,7 +60,7 @@
                             style="min-width: 250px; max-height: 400px; overflow-y: auto;">
                             <li><a class="dropdown-item" href="/finance-course-help">Finance Course Help</a></li>
                             <li><a class="dropdown-item" href="/statistics-course-help">Statistics Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Accounting Course Help</a></li>
+                            <li><a class="dropdown-item" href="/accounting-course-help">Accounting Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Math Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Computer Science Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Algebra Course Help</a></li>
@@ -82,7 +83,8 @@
                         <a class="nav-link dropdown-toggle" href="#" id="educationLevelsDrop" role="button"
                             data-bs-toggle="dropdown">Education Level</a>
                         <ul class="dropdown-menu shadow border-0" style="max-height: 400px; overflow-y: auto;">
-                            <li><a class="dropdown-item" href="#">High School Level Course Help</a></li>
+                            <li><a class="dropdown-item" href="/high-school-level-course-help">High School Level Course
+                                    Help</a></li>
                             <li><a class="dropdown-item" href="#">Associate Level Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Undergraduate's Level Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Master's Level Course Help</a></li>

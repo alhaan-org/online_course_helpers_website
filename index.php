@@ -42,7 +42,7 @@
             <div class="d-flex align-items-center flex-wrap gap-3 mb-4">
               <small class="trusted-by">Trusted By:</small>
               <div class="d-flex gap-3 align-items-center">
-                <img src="/assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
+                <img src="assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
               </div>
             </div>
 
@@ -54,7 +54,7 @@
           <div class="col-lg-4">
             <div class="hero-form-card">
               <div class="limited-offer-badge">
-                <img src="/assets/img/limited-offer-1024x613.webp" alt="Limited Offer" />
+                <img src="assets/img/limited-offer-1024x613.webp" alt="Limited Offer" />
               </div>
               <h4 class="mb-4 text-center fw-bold text-dark">
                 Save Upto 50% On First Order
@@ -97,46 +97,45 @@
     <section class="academic-section">
       <div class="slider-images-container" data-aos="fade-up">
         <div class="slider-images owl-carousel owl-theme">
-          <img src="/assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-15.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-15.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
         </div>
       </div>
-
 
       <div class="container mt-5">
         <div class="row align-items-center g-5">
           <!-- Right Image Placeholder -->
           <div class="col-lg-6" data-aos="fade-up">
             <div class="image-placeholder">
-              <img src="../assets/img/About-Us-1024x956.png" alt="..." class="img-fluid" loading="lazy" />
+              <img src="assets/img/About-Us-1024x956.png" alt="..." class="img-fluid" loading="lazy" />
             </div>
           </div>
           <!-- Left Content -->
@@ -185,7 +184,7 @@
                     excel. Learn more effectively and understand your finances with low-cost, professional
                     advice.</p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
               </div>
             </div>
 
@@ -200,7 +199,7 @@
                     suited to students desiring to succeed in business law without being confused by legal
                     issues, inexpensive assistance is just a single click away. </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
               </div>
             </div>
 
@@ -213,7 +212,7 @@
                     data interpretation as you get assistance with projects, quizzes and exams. It is easy and
                     more affordable to score highly in your statistics course with our help.</p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
               </div>
             </div>
 
@@ -228,7 +227,7 @@
                     advice that makes biology fun. Cheap assistance is now a click away; improve your grades using
                     science-backed learning. </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
               </div>
             </div>
 
@@ -243,7 +242,7 @@
                     accounting or tax, we assist you in solving issues with ease. Keep pace with your studies and pass
                     your exams at an affordable rate, along with the needs of your coursework. </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
               </div>
             </div>
 
@@ -258,7 +257,7 @@
                     same time as you advance your grades; our affordable services will enable you to be management
                     savvy.
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
               </div>
             </div>
             <div class="course-card-container">
@@ -272,7 +271,7 @@
                     testing, our professionals will help you to keep up. Study how you learn best and achieve desired
                     results through professional help at a reasonable price.
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
               </div>
             </div>
             <div class="course-card-container">
@@ -289,7 +288,7 @@
                     area
                     in and out.
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
               </div>
             </div>
           </div>
@@ -429,7 +428,7 @@
           <div class="col-lg-5">
             <div class="hero-image-frame">
               <div class="cheap-price-section-image-placeholder">
-                <img src="../assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help" loading="lazy" />
+                <img src="assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help" loading="lazy" />
               </div>
             </div>
           </div>
@@ -801,7 +800,7 @@
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img loading="lazy" src="../assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
+                <img loading="lazy" src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
                   class="review-image">
               </div>
               <p class="small opacity-75">These guys helped me do my online stats course. All activities were
@@ -819,7 +818,7 @@
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I have felt supported since the first message. And they also professionally
                 took my course and performed astonishingly. Super polite support team, too. Great experience all around.
@@ -837,7 +836,7 @@
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">Deadlines and tests overwhelmed me. Their group intervened and fully
                 controlled my online course. All was correct, timely and hassle-free. I’m so thankful!</p>
@@ -855,7 +854,7 @@
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I had no time to do my course online. This service was replaced fully and
                 performed well. Highly responsive, professional, and worth every penny. Truly stress-relieving and
@@ -874,7 +873,7 @@
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I spent my days in hell trying to balance work and studying, and then I
                 discovered this team. They managed all things assignments, discussions, and examinations, and kept me
@@ -893,7 +892,7 @@
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">Never tried a service like this before, though I am seriously impressed. They
                 did all this, and they earned me good grades. They would listen and obey instructions as communication
@@ -923,21 +922,20 @@
       <div class="container" data-aos="fade-up">
         <div class="row text-center align-items-center g-4">
           <div class="col-md-4">
-            <div class="mb-3 text-white fs-1"><img src="../assets/img/timely-delivery.webp" alt="On-Time Delivery" />
+            <div class="mb-3 text-white fs-1"><img src="assets/img/timely-delivery.webp" alt="On-Time Delivery" />
             </div>
             <h5 class="fw-bold">On-Time Delivery</h5>
             <p class="small opacity-75">We never miss deadlines. Always get high-quality work on time to stay ahead.
             </p>
           </div>
           <div class="col-md-4">
-            <div class="mb-3 text-white fs-1"><img src="../assets/img/our-writers.webp" alt="100% Unique Work" /></div>
+            <div class="mb-3 text-white fs-1"><img src="assets/img/our-writers.webp" alt="100% Unique Work" /></div>
             <h5 class="fw-bold">100% Unique Work</h5>
             <p class="small opacity-75">All assignments are human written and plagiarism free. Submit without fear
               of penalty.</p>
           </div>
           <div class="col-md-4">
-            <div class="mb-3 text-white fs-1"><img src="../assets/img/customer-support.webp"
-                alt="Professional Support" />
+            <div class="mb-3 text-white fs-1"><img src="assets/img/customer-support.webp" alt="Professional Support" />
             </div>
             <h5 class="fw-bold">Professional Support</h5>
             <p class="small opacity-75">Questions? Updates? We're here 24/7. Contact us any time.</p>
@@ -1062,10 +1060,10 @@
       <div class="payment-info d-flex flex-column flex-lg-row align-items-center justify-content-around mt-4 px-2 py-4">
         <h4 class="fw-bold text-center">Secure payment with</h4>
         <div class="d-flex gap-1 gap-lg-4 align-items-center justify-content-between py-3 px-4">
-          <img src="../assets/img/paypal.webp" alt="paypal" class="payment-icon" />
-          <img src="../assets/img/master-card.webp" alt="master-card" class="payment-icon" />
-          <img src="../assets/img/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />
-          <img src="../assets/img/visa.webp" alt="visa" class="payment-icon" />
+          <img src="assets/img/paypal.webp" alt="paypal" class="payment-icon" />
+          <img src="assets/img/master-card.webp" alt="master-card" class="payment-icon" />
+          <img src="assets/img/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />
+          <img src="assets/img/visa.webp" alt="visa" class="payment-icon" />
         </div>
       </div>
     </section>
@@ -1075,7 +1073,7 @@
   <!-- Footer -->
   <?php include 'include/footer.php'; ?>
 
-  <script src="/assets/owlcarousel/owl.carousel.min.js"></script>
+  <script src="assets/owlcarousel/owl.carousel.min.js"></script>
 </body>
 
 </html>

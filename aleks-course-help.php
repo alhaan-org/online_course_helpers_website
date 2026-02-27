@@ -3,6 +3,7 @@
 
 <?php
 $pageTitle = "ALEKS Course Help Online | Math, Chemistry & Exams";
+$pageDescription = "Get ALEKS course help online from expert tutors. Hire someone for math homework, quizzes, chemistry, and exams. Fast, reliable ALEKS assignment support.";
 include 'include/header.php'; ?>
 
 <body>
@@ -98,36 +99,36 @@ include 'include/header.php'; ?>
     <section class="academic-section">
       <div class="slider-images-container" data-aos="fade-up">
         <div class="slider-images owl-carousel owl-theme">
-          <img src="../assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-15.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="../assets/img/uni-15.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-1.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-2.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-3.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-4.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-5.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-6.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-7.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-8.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-9.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-10.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
         </div>
       </div>
 
@@ -137,7 +138,7 @@ include 'include/header.php'; ?>
           <!-- Right Image Placeholder -->
           <div class="col-lg-6" data-aos="fade-up">
             <div class="image-placeholder">
-              <img src="../assets/img/About-Us-1024x956.png" alt="..." class="img-fluid" loading="lazy" />
+              <img src="assets/img/About-Us-1024x956.png" alt="..." class="img-fluid" loading="lazy" />
             </div>
           </div>
           <!-- Left Content -->
@@ -354,7 +355,7 @@ include 'include/header.php'; ?>
             </div>
           </div>
           <div class="image-right mt-4 mt-md-0">
-            <img src="../assets/img/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
+            <img src="assets/img/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
               class="img-fluid custom-img" loading="lazy">
           </div>
         </div>
@@ -472,7 +473,7 @@ include 'include/header.php'; ?>
           <div class="col-lg-5">
             <div class="hero-image-frame">
               <div class="cheap-price-section-image-placeholder">
-                <img src="../assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help" loading="lazy" />
+                <img src="assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help" loading="lazy" />
               </div>
             </div>
           </div>
@@ -739,7 +740,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I had no time to do my Aleks course online. This service was replaced fully
                 and performed well. Highly responsive, professional, and worth every penny. Truly stress-relieving and
@@ -758,7 +759,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">My Aleks course went so well!! I placed exactly into the college math class I
                 needed, skipping algebra 1-3 and into statistics!! Without this Aleks course help through The Online
@@ -780,7 +781,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I was looking to pay someone to do my Aleks course for me when I found the
                 Online Course Helpers. Online Course Helpers' online Aleks course service made my academic journey
@@ -803,7 +804,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I used Online Course Helpers for my accounting exam and was amazed by the
                 quality. They followed my rubric perfectly, delivered it in 24 hours, and it passed Turnitin with 0%
@@ -822,7 +823,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">Deadlines and tests overwhelmed me. Their group of professional online Aleks
                 course takers intervened and fully controlled my Aleks course. All was correct, timely and hassle-free.
@@ -853,21 +854,20 @@ include 'include/header.php'; ?>
       <div class="container" data-aos="fade-up">
         <div class="row text-center align-items-center g-4">
           <div class="col-md-4">
-            <div class="mb-3 text-white fs-1"><img src="../assets/img/timely-delivery.webp" alt="On-Time Delivery" />
+            <div class="mb-3 text-white fs-1"><img src="assets/img/timely-delivery.webp" alt="On-Time Delivery" />
             </div>
             <h5 class="fw-bold">On-Time Delivery</h5>
             <p class="small opacity-75">We never miss deadlines. Always get high-quality work on time to stay ahead.
             </p>
           </div>
           <div class="col-md-4">
-            <div class="mb-3 text-white fs-1"><img src="../assets/img/our-writers.webp" alt="100% Unique Work" /></div>
+            <div class="mb-3 text-white fs-1"><img src="assets/img/our-writers.webp" alt="100% Unique Work" /></div>
             <h5 class="fw-bold">100% Unique Work</h5>
             <p class="small opacity-75">All assignments are human written and plagiarism free. Submit without fear
               of penalty.</p>
           </div>
           <div class="col-md-4">
-            <div class="mb-3 text-white fs-1"><img src="../assets/img/customer-support.webp"
-                alt="Professional Support" />
+            <div class="mb-3 text-white fs-1"><img src="assets/img/customer-support.webp" alt="Professional Support" />
             </div>
             <h5 class="fw-bold">Professional Support</h5>
             <p class="small opacity-75">Questions? Updates? We’re here 24/7. Contact us any time and we will be happy to
@@ -1025,10 +1025,10 @@ include 'include/header.php'; ?>
       <div class="payment-info d-flex flex-column flex-lg-row align-items-center justify-content-around mt-4 px-2 py-4">
         <h4 class="fw-bold text-center">Secure payment with</h4>
         <div class="d-flex gap-1 gap-lg-4 align-items-center justify-content-between py-3 px-4">
-          <img src="../assets/img/paypal.webp" alt="paypal" class="payment-icon" />
-          <img src="../assets/img/master-card.webp" alt="master-card" class="payment-icon" />
-          <img src="../assets/img/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />
-          <img src="../assets/img/visa.webp" alt="visa" class="payment-icon" />
+          <img src="assets/img/paypal.webp" alt="paypal" class="payment-icon" />
+          <img src="assets/img/master-card.webp" alt="master-card" class="payment-icon" />
+          <img src="assets/img/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />
+          <img src="assets/img/visa.webp" alt="visa" class="payment-icon" />
         </div>
       </div>
     </section>
@@ -1038,7 +1038,7 @@ include 'include/header.php'; ?>
   <!-- Footer -->
   <?php include 'include/footer.php'; ?>
 
-  <script src="/assets/owlcarousel/owl.carousel.min.js"></script>
+  <script src="assets/owlcarousel/owl.carousel.min.js"></script>
 </body>
 
 </html>

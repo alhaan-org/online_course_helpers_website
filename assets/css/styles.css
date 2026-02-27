@@ -122,7 +122,7 @@ body {
 }
 
 .navbar.scrolled {
-  background-color: var(--dark-cyan) !important;
+  background-color: #003d4d !important;
 }
 
 .hero-title {

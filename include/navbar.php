@@ -41,7 +41,7 @@
                             <li><a class="dropdown-item" href="/brightspace-course-help">Brightspace Course Help</a>
                             </li>
                             <li><a class="dropdown-item" href="/blackboard-course-help">Blackboard Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Sophia Course Help</a></li>
+                            <li><a class="dropdown-item" href="/sophia-course-help">Sophia Course Help</a></li>
                             <li><a class="dropdown-item" href="#">WGU Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Straighterline Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Cengage Course Help</a></li>

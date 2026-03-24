@@ -3,6 +3,7 @@
 
 <?php
 $pageTitle = "USA’s No. 1 Statistics course help for extra credits";
+$pageDescription = "Want to pass your course fast? Get additional credits for all platforms with the most reliable Statistics course help. Timely submissions & top grades.";
 include 'include/header.php'; ?>
 
 <body>

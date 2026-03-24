@@ -3,6 +3,7 @@
 
 <?php
 $pageTitle = "Pearson Course Help Online | Assignments, Quizzes & Exams";
+$pageDescription = "Get expert Pearson Course Help for assignments, quizzes, exams, and course completion. Hire professionals to finish your Pearson class online with ease.";
 include 'include/header.php'; ?>
 
 <body>

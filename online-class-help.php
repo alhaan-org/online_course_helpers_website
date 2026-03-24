@@ -3,6 +3,7 @@
 
 <?php
 $pageTitle = "100% reliable online class help in the USA";
+$pageDescription = "Get top-notch online class help service from professionals who provide dedicated support and guarantee timely submissions.";
 include 'include/header.php'; ?>
 
 <body>

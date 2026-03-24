@@ -3,7 +3,7 @@
 
 <?php
 $pageTitle = "Best Finance Course Help for Easy Additional Credits in USA";
-$pageDescription = "";
+$pageDescription = "Earn extra credits for your accredited finance courses and programs with the best finance course help USA. Fast, reliable, & affordable assistance.";
 include 'include/header.php'; ?>
 
 <body>

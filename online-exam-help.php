@@ -3,6 +3,7 @@
 
 <?php
 $pageTitle = "100% Confidential Online Exam Help USA";
+$pageDescription = "Get the best online exam help in USA from professionals who have proven experience of achieving top grades for students.";
 include 'include/header.php'; ?>
 
 <body>

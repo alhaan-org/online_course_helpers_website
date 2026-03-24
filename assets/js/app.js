@@ -1,19 +1,4 @@
 $(document).ready(function () {
-  const colorStateChangeOnScrollDown = () => {
-    const $navbar = $(".navbar");
-    const $scrollTop = $(window).scrollTop();
-
-    if ($scrollTop > 10) {
-      $navbar.addClass("scrolled");
-    } else {
-      $navbar.removeClass("scrolled");
-    }
-  };
-
-  $(window).scroll(function () {
-    colorStateChangeOnScrollDown();
-  });
-
   $(".scroll-wrapper").owlCarousel({
     dots: false,
     nav: false,

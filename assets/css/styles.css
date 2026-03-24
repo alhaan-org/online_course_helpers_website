@@ -117,13 +117,10 @@ body {
 }
 
 .navbar {
-  background-color: transparent !important;
+  background-color: #003d4d !important;
   transition: background-color 0.3s ease;
 }
 
-.navbar.scrolled {
-  background-color: #003d4d !important;
-}
 
 .hero-title {
   color: var(--vibrant-yellow);

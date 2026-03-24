@@ -535,7 +535,7 @@ include 'include/header.php'; ?>
         </section>
         <!-- Section  -->
         <!-- Support Blue Section  -->
-        <section class=" support-section py-5 bg-light">
+        <section class="support-section py-5 bg-light">
             <div class="container">
                 <div class="row justify-content-center text-center mb-5">
                     <div class="col-lg-9" data-aos="fade-up">
@@ -578,41 +578,27 @@ include 'include/header.php'; ?>
                     <div class="item h-100">
                         <div class="support-box p-4 rounded-4 shadow-sm">
                             <h3 class="h4 fw-bold text-warning mb-3">
-
-                                Sandbox Course Help </h3>
-                            <p class="small"><span style="font-weight: 400">Sandbox courses are practice or test courses
-                                    that allow
-                                    instructors and students to experiment with Blackboard features without affecting
-                                    real course data. Take help from our </span><span
-                                    style="font-weight: 400">Blackboard course takers</span><span
-                                    style="font-weight: 400"> to get a complete </span><span
-                                    style="font-weight: 400">guide with Blackboard course</span><span
-                                    style="font-weight: 400">. </span></p>
-                        </div>
-                    </div>
-                    <div class="item h-100">
-                        <div class="support-box p-4 rounded-4 shadow-sm">
-                            <h3 class="h4 fw-bold text-warning mb-3">
-                                Hybrid (Blended) Course Help </h3>
-                            <p class="small"><span style="font-weight: 400">Hybrid (Blended) courses combine
-                                    face-to-face instruction
-                                    with online learning components. It supports both in-person and online activities.
-                                    If you are taking a hybrid course and in need of </span><span
-                                    style="font-weight: 400">help with Blackboard course</span><span
-                                    style="font-weight: 400">, we are here to help you. </span></p>
+                                Low-Cost Course Help </h3>
+                            <p class="small"><span style="font-weight: 400">Sophia learning offers affordable online
+                                    courses designed
+                                    to reduce the cost of earning college credits. Their monthly membership fee
+                                    (typically around $99/month) allows students to take unlimited courses during their
+                                    membership period. If you want </span><span style="font-weight: 400">help with
+                                    Sophia course</span><span style="font-weight: 400">, we are here to help you.
+                                </span></p>
                         </div>
                     </div>
                     <div class="item h-100">
                         <div class="support-box p-4 rounded-4 shadow-sm">
                             <h3 class="h4 fw-bold text-warning mb-3">
                                 Self-Paced Course Help </h3>
-                            <p class="small"><span style="font-weight: 400">Blackboard self-paced course enables
-                                    students progress
-                                    through the course materials at their own pace without fixed schedules. It provides
-                                    all course content and assessment accessible anytime. If you need help with your
-                                    Blackboard self-paced course, our </span><span style="font-weight: 400">Blackboard
-                                    course help</span><span style="font-weight: 400"> service is your top aid for
-                                    succeeding in your Blackboard courses. </span></p>
+                            <p class="small"><span style="font-weight: 400">All Sophia courses are fully self-paced and
+                                    online,
+                                    allowing learners to study on their own schedule. It offers no fixed class times or
+                                    deadlines (except a 30-day window per course after enrollment). If you don’t have
+                                    enough time and looking for someone to </span><span style="font-weight: 400">take my
+                                    Sophia course</span><span style="font-weight: 400">, Online Course Helpers is your
+                                    trusted resource for getting extra credits. </span></p>
                         </div>
                     </div>
                 </div>
@@ -621,10 +607,10 @@ include 'include/header.php'; ?>
         <!-- Section  -->
         <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
             <div class="container" data-aos="fade-up">
-                <h2 class="fw-bold mb-4 text-white">Need Help with Blackboard Course? Hire Experienced Professionals
+                <h2 class="fw-bold mb-4 text-white">Need Help with Sophia Course? Hire Experienced Professionals
                 </h2>
-                <p>Get expert help with your Blackboard course. We provide 24/7 service and dedicated support with
-                    Blackboard course assignments, quizzes and assessments for all domains.</p>
+                <p>Get expert help with your Sophia course. We provide 24/7 service and dedicated support with
+                    Sophia course assignments, quizzes and assessments for all domains.</p>
                 <div class="d-flex justify-content-center gap-3">
                     <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
                             class="fa-solid fa-comment-dots ms-2"></i></a>
@@ -635,16 +621,14 @@ include 'include/header.php'; ?>
 <!-- Section  -->
     <section class=" py-5 bg-light">
                             <div class="container text-center" data-aos="fade-up">
-                                <h2 class="fw-bold mb-3">Get the Best Brightspace Course Help with Expert Online
-                                    Guidance
+                                <h2 class="fw-bold mb-3">Simplify Your Learning Journey with Trusted Sophia Course Help
                                 </h2>
                                 <p class="text-muted mb-5 mx-auto">
-                                    Turn your Blackboard experience into a hassle-free one with <a href="/">Online
-                                        Course
-                                        Helpers.</a>
-                                    Our professional experts are accurate in all your courses, including assignments,
-                                    exams, forum use, and projects. We keep you on track, on time, and get higher
-                                    grades, and then you are free to do what you really care about to succeed.
+                                    Online Course Helpers make your Sophia experience stress-free. Your full quizzes,
+                                    projects, and essays are properly and on time marked by our committed professionals
+                                    so that you can concentrate on your subjects. We assist you in gaining confidence,
+                                    achieving academic excellence, and acquiring additional credits easily without
+                                    breaking the deadlines.
                                 </p>
                                 <div class="coverflow-swiper swiper my3dSwiper">
                                     <div class="h-100 swiper-wrapper">
@@ -653,20 +637,20 @@ include 'include/header.php'; ?>
                                                 style="background-color: #242f3e; border-radius: 15px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
-                                                        High School Level Blackboard Course Help
+                                                        High School Sophia Course Help
                                                     </h5>
-                                                    <p style="font-size: 13px;"><span
-                                                            style="font-weight: 400">Blackboard course help is offered
-                                                            in </span><a
+                                                    <p style="font-size: 13px;"><span style="font-weight: 400">Our
+                                                        </span><a
                                                             href="https://onlinecoursehelpers.com/high-school-level-course-help/"><span
                                                                 style="font-weight: 400">high school-level course
-                                                                help</span></a><span style="font-weight: 400"> to assist
-                                                            students that have mastered other topics such as Algebra,
-                                                            English, Biology, and History. The Blackboard interactive
-                                                            learning system assists in quizzes, homework, and tests.
-                                                            Through professional supervision, students enhance their
-                                                            knowledge, develop problem-solving skills, and make their
-                                                            studies effective.</span></p>
+                                                                help</span></a><span style="font-weight: 400"> assists
+                                                            the students as they start studying online and in general
+                                                            education. Our experts go step by step in assignments and
+                                                            quizzes, starting with Algebra and English Composition, and
+                                                            then including Introduction to Psychology. Using the
+                                                            flexible platform, we assist high school students in
+                                                            developing good academic practices, confidence, and
+                                                            college-level planning.</span></p>
                                                 </div>
                                             </div>
                                         </div>
@@ -676,19 +660,19 @@ include 'include/header.php'; ?>
                                                 style="background-color: #242f3e; border-radius: 15px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
-                                                        Associate Level Blackboard Course Help </h5>
-                                                    <p style="font-size: 13px;"><span style="font-weight: 400">We have
+                                                        Associate Level Sophia Course Help </h5>
+                                                    <p style="font-size: 13px;"><span style="font-weight: 400">Our
                                                         </span><a
                                                             href="https://onlinecoursehelpers.com/associate-level-course-help/"><span
                                                                 style="font-weight: 400">associate-level course
-                                                                help</span></a><span style="font-weight: 400"> that
-                                                            assists learners in furthering their education in areas like
-                                                            Business, Accounting, and Science. Your assignments,
-                                                            research work, and case studies are handled by our qualified
-                                                            professionals with precision, and academic standards are
-                                                            achieved. Gain credits quicker and become eligible to study
-                                                            all Blackboard courses with the certainty of success.</span>
-                                                    </p>
+                                                                help</span></a><span style="font-weight: 400">s support
+                                                            students undertaking general education or core college
+                                                            programs. We discuss Business, Communication, and Statistics
+                                                            subjects, and provide professional assistance with quizzes,
+                                                            projects, and touchstones. Your course in Sophia is done by
+                                                            our US-based professionals with care and integrity that
+                                                            enables you to receive transferable credits in a short time
+                                                            and with great accuracy.</span></p>
                                                 </div>
                                             </div>
                                         </div>
@@ -698,19 +682,19 @@ include 'include/header.php'; ?>
                                                 style="background-color: #242f3e; border-radius: 15px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
-                                                        Undergraduate Level Blackboard Course Help </h5>
-                                                    <p class="font-size: 13px;"><span style="font-weight: 400">When you
-                                                            are balancing between
-                                                            several courses, deadlines, and tests, then our </span><a
+                                                        Undergraduate Level Sophia Course Help </h5>
+                                                    <p style="font-size: 13px;"><span style="font-weight: 400">Sophia
+                                                            courses can be difficult to
+                                                            balance in general; however, that is not the case when it
+                                                            comes to </span><a
                                                             href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"><span
-                                                                style="font-weight: 400">undergraduate level course
-                                                                help</span></a><span style="font-weight: 400"> is your
-                                                            perfect answer. We can help with an extensive course in such
-                                                            subjects as Economics, Management, Mathematics, and
-                                                            Psychology. From online courses to midterms and final paper
-                                                            projects, we guarantee originality, accuracy, and promptness
-                                                            - we get you the grades and credits you rightfully
-                                                            earn.</span></p>
+                                                                style="font-weight: 400">undergraduate-level course
+                                                                help</span></a><span style="font-weight: 400">. Our
+                                                            services include tailored help in complex courses such as
+                                                            College Algebra, Microeconomics, and Environmental Science.
+                                                            Whether it is an essay-based task or a progress tracker, our
+                                                            professionals can make sure that the course is done right,
+                                                            on time, and without a single case of plagiarism.</span></p>
                                                 </div>
                                             </div>
                                         </div>
@@ -720,18 +704,19 @@ include 'include/header.php'; ?>
                                                 style="background-color: #242f3e; border-radius: 15px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
-                                                        Master’s Level Blackboard Course Help p </h5>
-                                                    <p class="font-size: 13px;"><span style="font-weight: 400">Our
-                                                        </span><a
+                                                        Master’s Level Sophia Course Help </h5>
+                                                    <p style="font-size: 13px;"><span style="font-weight: 400">Our
+                                                            Sophia course help is a
+                                                            designed course to provide direction to </span><a
                                                             href="https://onlinecoursehelpers.com/masters-level-course-help/"><span
                                                                 style="font-weight: 400">masters level course
-                                                                help</span></a><span style="font-weight: 400"> serves
-                                                            graduate students who are engaged in high-level academic
-                                                            tasks like research, data-intensive projects, and case
-                                                            studies. With a team of professionals, we offer systematic
-                                                            support to ensure that you master complicated theories, do
-                                                            good research, and graduate from your program with honour
-                                                            and pride.</span></p>
+                                                                help</span></a><span style="font-weight: 400">. Our
+                                                            Sophia professionals provide professional support to all
+                                                            work, whether it involves data analysis, assessments based
+                                                            on theory, or written case studies. Through graduation,
+                                                            attain excellence, attain all the standards of a graduate,
+                                                            and receive credits that match your academic
+                                                            objectives.</span></p>
                                                 </div>
                                             </div>
                                         </div>
@@ -741,18 +726,19 @@ include 'include/header.php'; ?>
                                                 style="background-color: #242f3e; border-radius: 15px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
-                                                        Doctorate-Level Blackboard Course Help </h5>
-                                                    <p class="font-size: 13px;"><span style="font-weight: 400">Our
+                                                        Doctorate-Level Sophia Course Help </h5>
+                                                    <p style="font-size: 13px;"><span style="font-weight: 400">Our
                                                         </span><a
                                                             href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
                                                                 style="font-weight: 400">doctoral-level course
-                                                                help</span></a><span style="font-weight: 400"> is
-                                                            designed for scholars of intensive or analytical research.
-                                                            We assist in dissertations, journal-type research papers,
-                                                            and quantitative projects with academic accuracy and
-                                                            originality. You can achieve academic integrity, rigorous
-                                                            standards, and an effective completion of your doctoral
-                                                            course on Blackboard under our assistance. </span></p>
+                                                                help</span></a><span style="font-weight: 400"> serves
+                                                            scholars engaged in complicated research or dissertation or
+                                                            advanced-level learning modules. We can help with data
+                                                            analysis, term papers, and submission of milestones, and we
+                                                            are always accurate and original in our work. You can
+                                                            successfully achieve your doctoral-level courses at Sophia
+                                                            with our qualified instructors without compromising academic
+                                                            integrity. </span></p>
                                                 </div>
                                             </div>
                                         </div>
@@ -798,9 +784,9 @@ include 'include/header.php'; ?>
         <!-- Section  -->
         <section class="py-5 bg-white">
             <div class="container text-center" data-aos="fade-up">
-                <h2 class="fw-bold mb-2">What Students Say About Our Online Blackboard Course Help</h2>
+                <h2 class="fw-bold mb-2">What Students Say About Our Online Sophia Course Help</h2>
                 <p class="text-muted mb-5">Real experiences – Real results. See the way we have offered students success
-                    in their Blackboard courses through expert assistance..</p>
+                    in their Blackboard courses through expert assistance.</p>
 
                 <div class="row g-4 text-start">
                     <div class="col-md-4">
@@ -810,10 +796,10 @@ include 'include/header.php'; ?>
                                 <img loading="lazy" src="../assets/img/reviews-logo-white-1-300x88.webp"
                                     alt="Review Logo" class="review-image">
                             </div>
-                            <p class="small opacity-75">My Blackboard coursework has been a hardship since I started
-                                college. I went to the Greek online tutoring service because I needed help doing better
-                                and felt more comfortable completing my schoolwork on time and accurately. I am grateful
-                                for your help with Blackboard course.
+                            <p class="small opacity-75">I asked Online Course Helpers to take my Sophia course for me.
+                                They did a splendid job by submitting all tasks before time. Moreover, my grades were
+                                excellent in these courses, and I have earned extra college credits easily. Thanks to
+                                these professional Sophia course takers.
                             </p>
                             <div class="d-flex align-items-center mt-4">
                                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
@@ -831,10 +817,10 @@ include 'include/header.php'; ?>
                                 <img src="../assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo"
                                     class="review-image">
                             </div>
-                            <p class="small opacity-75">I started looking for an online Blackboard course help service
-                                because I needed to do better at doing my homework. I found Online Course Helpers
-                                services, and I've been performing great ever since. I would like to recommend this
-                                group of professionals to everyone because they are a trustworthy group.
+                            <p class="small opacity-75">It was my first time looking for someone to do my Sophia course
+                                for me, so I was nervous. The Online Course Helpers were a relief for me. Not only did
+                                they get me exceptional grades, but they also ensured the confidentiality of my
+                                information. Highly recommended!
                             </p>
                             <div class="d-flex align-items-center mt-4">
                                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
@@ -852,10 +838,10 @@ include 'include/header.php'; ?>
                                 <img src="../assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo"
                                     class="review-image">
                             </div>
-                            <p class="small opacity-75">Ever since starting college, I have had trouble completing my
-                                Blackboard coursework. I required assistance as quickly as possible to seem like a
-                                better student in my class. I'm happy I found the help with Blackboard course online
-                                learning platform. It has highly qualified staff on board and is very pocket-friendly.
+                            <p class="small opacity-75">I was struggling with my online Sophia course, so I decided to
+                                pay someone to do my Sophia course for me. The expert Sophia course takers at the Online
+                                Course Helpers helped me produce remarkable college credits. I highly recommend their
+                                service.
                             </p>
                             <div class="d-flex align-items-center mt-4">
                                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
@@ -875,10 +861,10 @@ include 'include/header.php'; ?>
                                 <img src="../assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo"
                                     class="review-image">
                             </div>
-                            <p class="small opacity-75">I am delighted to have found Online Course Helpers for my
-                                Blackboard course. Their expert team of online Blackboard takers managed my falling
-                                grades and ended my class with extra credits that I couldn’t have imagined. Thank you,
-                                guys.
+                            <p class="small opacity-75">Sophia course takers agreed to complete my online Sophia course
+                                for me. They exceeded my expectations by submitting perfect assignments before
+                                deadlines. There were no mistakes, no compromise on quality, and no false promises.
+                                Highly satisfied.
                             </p>
                             <div class="d-flex align-items-center mt-4">
                                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
@@ -898,9 +884,9 @@ include 'include/header.php'; ?>
                                 <img src="../assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo"
                                     class="review-image">
                             </div>
-                            <p class="small opacity-75">I asked the Online Course Helpers to help me with my online
-                                Blackboard course, and they readily agreed. They not only submitted all assignments on
-                                time but also improved my grades. I couldn’t be happier. Highly recommended!
+                            <p class="small opacity-75">I wasn’t sure about pay someone to take my Sophia course for me,
+                                but Online Course Helpers completely changed my perspective. Professional, reliable, and
+                                surprisingly affordable!
                             </p>
                             <div class="d-flex align-items-center mt-4">
                                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
@@ -918,11 +904,9 @@ include 'include/header.php'; ?>
                                 <img src="../assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
                                     class="review-image">
                             </div>
-                            <p class="small opacity-75">US Online Course Helpers was a lifesaver. I was struggling to
-                                balance work and school, and was desperately looking for someone to do my Blackboard
-                                course. The Online Course Helpers swept in and took care of my course, and helped me
-                                pass with additional credits. They were professional and reliable, and I couldn't be
-                                happier with the results. Highly recommended services. </p>
+                            <p class="small opacity-75">I did not have enough time for my Sophia course. I searched
+                                online for the best and cheapest Sophia course help service and found Online Course
+                                Helpers. I ordered my course, and the expert did an excellent job. Thank you</p>
                             <div class="d-flex align-items-center mt-4">
                                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                                 <div>
@@ -987,24 +971,24 @@ include 'include/header.php'; ?>
                 <div class="row g-0 d-flex">
                     <div class="left-box col-lg-7 p-5 rounded-start-3">
                         <h2 class="fw-bold mb-4">Frequently Asked Questions</h2>
-                        <p>Explore our most frequently asked questions to learn more about our Blackboard course help.
+                        <p>Explore our most frequently asked questions to learn more about our Sophia course help.
                             It’s fast, secure, and stress-free.</p>
                         <div class="accordion accordion-flush" id="faqAccordion">
                             <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
                                         type="button" data-bs-toggle="collapse" data-bs-target="#q1">
-                                        How does your online Blackboard course help service work?
+                                        How does your online Sophia course help service work?
                                     </button>
                                 </h2>
                                 <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0"
                                     data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-0">Our online Blackboard Course help service is
-                                        designed to provide personalised academic support for students taking Blackboard
-                                        courses. Simply contact Online Course Helpers, the best online Blackboard course
-                                        help service, with details about your Blackboard course, and we’ll match you
-                                        with a qualified tutor who will assist you with understanding course materials,
-                                        completing assignments, passing your exams and earning additional credits.</div>
+                                    <div class="accordion-body px-0">Our online Sophia Course help service is designed
+                                        to provide personalised academic support for students taking Sophia courses.
+                                        Simply contact Online Course Helpers, the best online Sophia course help
+                                        service, with details about your Sophia course, and we’ll match you with a
+                                        qualified tutor who will assist you with understanding course materials,
+                                        completing assignments, passing your exams and earning college credits.</div>
                                 </div>
                             </div>
                         </div>
@@ -1013,7 +997,7 @@ include 'include/header.php'; ?>
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
                                         type="button" data-bs-toggle="collapse" data-bs-target="#q2">
-                                        Is your Blackboard course help service confidential and secure?
+                                        Is your Sophia course help service confidential and secure?
                                     </button>
                                 </h2>
                                 <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
@@ -1028,15 +1012,16 @@ include 'include/header.php'; ?>
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
                                         type="button" data-bs-toggle="collapse" data-bs-target="#q3">
-                                        What subjects do you offer Blackboard course help for?
+                                        What subjects do you offer Sophia course help for?
                                     </button>
                                 </h2>
                                 <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-2">We offer the best Blackboard course help for a wide
-                                        range of subjects, including STEM, business, information technology (IT),
-                                        agriculture, finance, psychology, health sciences and more. Our team of the best
-                                        online Blackboard course takers covers a diverse array of questions to meet your
-                                        needs when you ask us to take your Blackboard course for you.</div>
+                                    <div class="accordion-body px-2">We offer the best Sophia course help for a wide
+                                        range of subjects, including math, business, information technology (IT),
+                                        anatomy and physiology, chemistry, healthcare management, managerial accounting
+                                        and more. Our team of the best online Sophia course takers covers a diverse
+                                        array of questions to meet your needs when you ask us to take your Sophia course
+                                        for you.</div>
                                 </div>
                             </div>
                         </div>
@@ -1045,11 +1030,11 @@ include 'include/header.php'; ?>
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
                                         type="button" data-bs-toggle="collapse" data-bs-target="#q4">
-                                        Can I hire someone to take multiple Blackboard courses at once?
+                                        Can I hire someone to take multiple Sophia courses at once?
                                     </button>
                                 </h2>
                                 <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-0">Yes! Our expert online Blackboard course takers can
+                                    <div class="accordion-body px-0">Yes! Our expert online Sophia course takers can
                                         handle the number of courses simultaneously: assignments, quizzes, exams, and
                                         everything. All you do is pass on your schedule, and we will take care of
                                         everything from beginning to end.</div>
@@ -1066,10 +1051,9 @@ include 'include/header.php'; ?>
                                 </h2>
                                 <div id="q5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body px-0">At the Online Course Helpers, we compose all the
-                                        assignments from
-                                        scratch and scan every task with high-quality plagiarism software. You will
-                                        always get original and
-                                        high-quality work that satisfies your academic requirements.</div>
+                                        assignments from scratch and scan every task with high-quality plagiarism
+                                        software. You will always get original and high-quality work that satisfies your
+                                        academic requirements</div>
                                 </div>
                             </div>
                         </div>
@@ -1083,8 +1067,8 @@ include 'include/header.php'; ?>
                                 </h2>
                                 <div id="q6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body px-0">We provide revisions and a money-back guarantee.
-                                        Not satisfied, we
-                                        will make it right quickly or refund your money according to our policy.</div>
+                                        Not satisfied, we will make it right quickly or refund your money according to
+                                        our policy.</div>
                                 </div>
                             </div>
                         </div>

@@ -176,7 +176,7 @@
           <div class="owl-carousel scroll-wrapper">
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Finance Course Help</h3>
+                <h4>Finance Course Help</h4>
                 <div class="card-content">
                   <p>We address investment strategies, budgeting, financial planning, and risk analysis. Our
                     experts enable you to understand financial formulas, real-life case studies and assignments.
@@ -190,7 +190,7 @@
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Business Law Help</h3>
+                <h4>Business Law Help</h4>
                 <div class="card-content">
                   <p>
                     Our Business Law course help simplifies commercial contracts, torts, corporate structures,
@@ -205,7 +205,7 @@
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Statistics Help</h3>
+                <h4>Statistics Help</h4>
                 <div class="card-content">
                   <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
                     distributions or assignments, our professionals make complex issues simple. Master real-life
@@ -218,7 +218,7 @@
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Biology Course Help</h3>
+                <h4>Biology Course Help</h4>
                 <div class="card-content">
                   <p>
                     Our biology course help simplifies genetics, cell biology, and evolution for all learners. We offer
@@ -233,7 +233,7 @@
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Accounting Course Help</h3>
+                <h4>Accounting Course Help</h4>
                 <div class="card-content">
                   <p>
                     Access stress free <a>accounting course help</a> on issues such as financial statements, ledgers,
@@ -248,7 +248,7 @@
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Management Course Help</h3>
+                <h4>Management Course Help</h4>
                 <div class="card-content">
                   <p>
                     Get professional management course help for strategic planning, leadership, operations, and more. We
@@ -262,7 +262,7 @@
             </div>
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Calculus Course Help</h3>
+                <h4>Calculus Course Help</h4>
                 <div class="card-content">
                   <p>
                     Having difficulty with derivatives or integrals? <a>Our math course help</a>
@@ -276,7 +276,7 @@
             </div>
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Criminal Justice Course Help</h3>
+                <h4>Criminal Justice Course Help</h4>
                 <div class="card-content">
                   <p>
                     Require assistance in interpreting law systems, policies and criminology? Our criminal justice

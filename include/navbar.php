@@ -1,5 +1,5 @@
 <header>
-    <nav class="navbar navbar-expand-lg fixed-top">
+    <nav class="navbar navbar-expand-lg sticky-top">
         <div class="container">
             <!-- Logo -->
             <a class="navbar-brand" href="#">
@@ -18,7 +18,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav mx-auto gap-0 gap-lg-3 align-items-start align-items-lg-center">
                     <li class="nav-item">
-                        <a class="nav-link active" href="/">Home</a>
+                        <a class="nav-link" href="/">Home</a>
                     </li>
 
                     <li class="nav-item dropdown">
@@ -42,8 +42,9 @@
                             </li>
                             <li><a class="dropdown-item" href="/blackboard-course-help">Blackboard Course Help</a></li>
                             <li><a class="dropdown-item" href="/sophia-course-help">Sophia Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">WGU Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Straighterline Course Help</a></li>
+                            <li><a class="dropdown-item" href="/wgu-course-help">WGU Course Help</a></li>
+                            <li><a class="dropdown-item" href="/straighterline-course-help">Straighterline Course
+                                    Help</a></li>
                             <li><a class="dropdown-item" href="#">Cengage Course Help</a></li>
                             <li><a class="dropdown-item" href="#">ACT Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Moodle Course Help</a></li>
@@ -61,7 +62,7 @@
                             <li><a class="dropdown-item" href="/finance-course-help">Finance Course Help</a></li>
                             <li><a class="dropdown-item" href="/statistics-course-help">Statistics Course Help</a></li>
                             <li><a class="dropdown-item" href="/accounting-course-help">Accounting Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Math Course Help</a></li>
+                            <li><a class="dropdown-item" href="/math-course-help">Math Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Computer Science Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Algebra Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Calculus Course Help</a></li>
@@ -92,7 +93,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Blog</a>
+                        <a class="nav-link" href="/blog">Blog</a>
                     </li>
                 </ul>
                 <div class="d-flex align-items-center">

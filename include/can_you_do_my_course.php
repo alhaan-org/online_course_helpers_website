@@ -1,7 +1,7 @@
 <section class="blue-section py-3">
     <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
-            <div class="content-left text-white w-60">
+            <div class="content-left text-white w-60 mb-5">
                 <h1 class="fw-bold mb-4">Can You Do My Course With Guaranteed Top Grades? <span class="highlight">Yes,
                         We Can.</span></h1>
                 <div class="d-flex gap-3">

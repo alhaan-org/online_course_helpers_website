@@ -14,7 +14,7 @@
         <div class="row container">
           <!-- Left Content -->
           <div class="col-lg-8">
-            <h1 class="hero-title mb-4" style="font-size: clamp(2rem, 5vw, 2.25rem);">
+            <h1 class="hero-title mb-4" style="font-size: clamp(2.25rem, 5vw, 2.75rem);">
               Hire Professional Online Course Helpers For Extra College Credits
             </h1>
             <p class="hero-text mb-4">
@@ -141,7 +141,7 @@
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
             <h1 class="heading-title">
-              Reach New Academic Heights with Our <span class="highlight">Cheap Online Course Help USA</span>
+              Reach New Academic Heights with Our Cheap Online Course Help USA
             </h1>
             <p class="section-text">
               With the surety of exceptional grades, ask expert online course takers at Online Course Helpers to
@@ -336,8 +336,9 @@
           <div class="col-md-4">
             <div class="service-box">
               <i class="fa-solid fa-headset service-icon"></i>
-              <h3>Qualified Course Experts</h3>
-              <p>Learn with subject matter experts who know your syllabus inside out and provide expert-level assistance
+              <h3 class="fs-4">Qualified Course Experts</h3>
+              <p class="fs-6">Learn with subject matter experts who know your syllabus inside out and provide
+                expert-level assistance
                 in all subjects.
               </p>
             </div>
@@ -345,39 +346,44 @@
           <div class="col-md-4">
             <div class="service-box">
               <i class="fa-solid fa-clock-rotate-left service-icon"></i>
-              <h3>All-Time Experts Availability</h3>
-              <p>Access to competent professionals available 24/7 to help you when you need it, day or night.</p>
+              <h3 class="fs-4">All-Time Experts Availability</h3>
+              <p class="fs-6">Access to competent professionals available 24/7 to help you when you need it, day or
+                night.</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="service-box">
               <i class="fa-solid fa-circle-info service-icon"></i>
-              <h3>Guaranteed A+ Performance</h3>
-              <p>We do not just help you score higher. Expect top grades, on-time submissions, and reliable academic
+              <h3 class="fs-4">Guaranteed A+ Performance</h3>
+              <p class="fs-6">We do not just help you score higher. Expect top grades, on-time submissions, and reliable
+                academic
                 excellence every time.</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="service-box">
               <i class="fa-solid fa-dollar-sign service-icon"></i>
-              <h3>Affordable Pricing for All</h3>
-              <p>Good assistance should not be expensive. Savour the low prices and high-quality services to meet your
+              <h3 class="fs-4">Affordable Pricing for All</h3>
+              <p class="fs-6">Good assistance should not be expensive. Savour the low prices and high-quality services
+                to meet your
                 study objectives.</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="service-box">
               <i class="fa-solid fa-file-word service-icon"></i>
-              <h3>100% Unique & Original Content</h3>
-              <p>All papers are original, plagiarism-free, and precisely aligned with your course requirements and
+              <h3 class="fs-4">100% Unique & Original Content</h3>
+              <p class="fs-6">All papers are original, plagiarism-free, and precisely aligned with your course
+                requirements and
                 guidelines.</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="service-box">
               <i class="fa-solid fa-lock service-icon"></i>
-              <h3>Complete Privacy & Security</h3>
-              <p>We keep your data and your identity secure. We operate encrypted systems and tight confidentiality
+              <h3 class="fs-4">Complete Privacy & Security</h3>
+              <p class="fs-6">We keep your data and your identity secure. We operate encrypted systems and tight
+                confidentiality
                 protocols to provide you with complete peace of mind.</p>
             </div>
           </div>
@@ -659,14 +665,14 @@
                   through your education.
                   Your course is done efficiently by our team, maintaining your academic standards.
                 </p>
-                <div class="coverflow-swiper swiper my3dSwiper">
-                  <div class="h-100 swiper-wrapper">
+                <div class="coverflow-swiper swiper my3dSwiper py-3">
+                  <div class="h-100 swiper-wrapper ">
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
+                      <div class="coverflow-card card vh-50 vh-md-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">High School Course Help</h5>
-                          <p style="font-size: 13px;"><span style="font-weight: 400">Our </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/high-school-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">high school level
                                 course help</span></a><span style="font-weight: 400"> is created to assist students who
@@ -681,11 +687,11 @@
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
+                      <div class="coverflow-card card vh-50 vh-md-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">Undergraduate Level Course Help</h5>
-                          <p style="font-size: 13px;"><span style="font-weight: 400">Struggling with your degree course?
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Struggling with your degree course?
                               Our </span><a href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">undergraduate level course
                                 help</span></a><span style="font-weight: 400"> is designed for students who strive to
@@ -699,11 +705,11 @@
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
+                      <div class="coverflow-card card vh-50 vh-md-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">Master's Level Course Help</h5>
-                          <p style="font-size: 13px;"><span style="font-weight: 400">We have a </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">We have a </span><a
                               href="https://onlinecoursehelpers.com/masters-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">masters level course
                                 help</span></a><span style="font-weight: 400"> that best fits graduate students with
@@ -716,11 +722,11 @@
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
+                      <div class="coverflow-card card vh-50 vh-md-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">Associative Level Course Help</h5>
-                          <p style="font-size: 13px;"><span style="font-weight: 400">Our </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/associate-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">associate-level course
                                 help</span></a><span style="font-weight: 400"> services assist students in enhancing
@@ -734,11 +740,11 @@
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-md-100 text-white p-4"
+                      <div class="coverflow-card card vh-50 vh-md-100 text-white p-4"
                         style="background-color: #242f3e; border-radius: 15px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">Doctorate Level Course Help</h5>
-                          <p style="font-size: 13px;"><span style="font-weight: 400">Our </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/doctorate-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">doctoral-level course
                                 help</span></a><span style="font-weight: 400"> offers specialized support to
@@ -772,8 +778,8 @@
             slidesPerView: 3,
             loop: true,
             coverflowEffect: {
-              rotate: 40,
-              stretch: -10,
+              rotate: 45,
+              stretch: -2,
               depth: 100,
               modifier: 1,
               slideShadows: true,
@@ -806,7 +812,8 @@
               <p class="small opacity-75">These guys helped me do my online stats course. All activities were
                 completed within the set deadline, and the outcomes were awesome.</p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Ahsan</h6>
                   <small class="opacity-50">New York</small>
@@ -824,7 +831,8 @@
                 took my course and performed astonishingly. Super polite support team, too. Great experience all around.
                 Highly recommended!.</p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Hannah</h6>
                   <small class="opacity-50">Seattle</small>
@@ -841,7 +849,8 @@
               <p class="small opacity-75">Deadlines and tests overwhelmed me. Their group intervened and fully
                 controlled my online course. All was correct, timely and hassle-free. I’m so thankful!</p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
                     Anna</h6>
@@ -861,7 +870,8 @@
                 reliable support!
                 .</p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Ella</h6>
                   <small class="opacity-50">Houston</small>
@@ -880,7 +890,8 @@
                 informed. I sailed right through without any hustle. Totally transformed my semester!
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Hannah</h6>
                   <small class="opacity-50">San Diego</small>
@@ -899,7 +910,8 @@
                 was easy.
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Anna
                   </h6>
@@ -1020,36 +1032,36 @@
             <ul class="list-unstyled">
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Title Page</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Reference Page</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> In-text Citation</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Plagiarism Check</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Unlimited Revisions</span>
-                <span class="badge bg-success rounded-pill px-3">
+                <span class="badge bg-warning text-dark rounded-pill px-3">
                   Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Editing &amp; Proofreading</span>
-                <span class="badge bg-success rounded-pill px-3">
+                <span class="badge bg-warning text-dark rounded-pill px-3">
                   Free</span>
               </li>
             </ul>
             <div class="text-center mt-5">
-              <p>Get all features for <a href="#" class="text-success me-2">FREE</a></p>
+              <p>Get all features for <a href="#" class="text-warning me-2">FREE</a></p>
             </div>
             <div class="text-center mt-3">
-              <button class="btn btn-success fw-bold rounded-pill px-5">Place an order</button>
+              <button class="btn btn-warning fw-bold rounded-pill px-5">Place an order</button>
             </div>
           </div>
         </div>

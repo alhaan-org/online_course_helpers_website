@@ -15,12 +15,12 @@
                     <li class="footer-link"><a href="/mcgraw-hill-course-help">McGraw Hill Course Help</a></li>
                     <li class="footer-link"><a href="/blackboard-course-help">Blackboard Course Help</a></li>
                     <li class="footer-link"><a href="/brightspace-course-help">Brightspace Course Help</a></li>
-                    <li class="footer-link"><a href="#">Sophia Course Help</a></li>
-                    <li class="footer-link"><a href="#">WGU Course Help</a></li>
-                    <li class="footer-link"><a href="#">Straighterline Course Help</a></li>
-                    <li class="footer-link"><a href="#">Cengage Course Help</a></li>
-                    <li class="footer-link"><a href="#">ACT Course Help</a></li>
-                    <li class="footer-link"><a href="#">Moodle Course Help</a></li>
+                    <li class="footer-link"><a href="/sophia-course-help">Sophia Course Help</a></li>
+                    <li class="footer-link"><a href="/wgu-course-help">WGU Course Help</a></li>
+                    <li class="footer-link"><a href="/straighterline-course-help">Straighterline Course Help</a></li>
+                    <li class="footer-link"><a href="/cengage-course-help">Cengage Course Help</a></li>
+                    <li class="footer-link"><a href="/act-course-help">ACT Course Help</a></li>
+                    <li class="footer-link"><a href="/moodle-course-help">Moodle Course Help</a></li>
                     <li class="footer-link"><a href="#">CANVAS Course Help</a></li>
                     <li class="footer-link"><a href="#">Mathway Course Help</a></li>
                 </ul>

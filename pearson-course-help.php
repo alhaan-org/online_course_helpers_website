@@ -726,14 +726,13 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img loading="lazy" src="../assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
+                <img loading="lazy" src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
                   class="review-image">
               </div>
               <p class="small opacity-75">I was really struggling with my Pearson algebra course, but the Online Course
                 Helpers made it so easy! Their team of expert Pearson course takers handled all my Pearson assignments
                 and class tasks, and I ended up with an A. The process was smooth, and their support team was always
                 there to answer my questions. I’m so relieved I found them and will definitely use their services again!
-
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
@@ -748,14 +747,13 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">Balancing work and the Pearson course was tough, and my Pearson course was
                 really getting me down. That’s when I decided to pay someone to do my Pearson course for me, and it was
                 the best decision ever! I found the Online Course Helpers, and they took care of everything, and my
                 grades went through the roof. I didn’t have to worry about deadlines or tough concepts. I’m so grateful
                 for their help!
-
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
@@ -770,7 +768,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I never thought I could pass my Pearson course, but thanks to the Online
                 Course Helpers, I not only passed but got top additional credits! They handled all my Pearson coursework
@@ -791,7 +789,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">The online Pearson course takers were an absolute lifesaver for me. I was
                 overwhelmed with the complex topics in my chemistry course, and I didn't have enough time to study and
@@ -815,7 +813,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">The online Pearson course takers exceeded my expectations! I was in a tough
                 spot, having no idea how to finish my online Pearson course, juggling work and other responsibilities. I
@@ -836,7 +834,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="../assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I was struggling with my online Pearson course and had no idea how to
                 complete my online Pearson course. That's when I found Online Course Helpers. They took over my Pearson
@@ -869,21 +867,20 @@ include 'include/header.php'; ?>
       <div class="container" data-aos="fade-up">
         <div class="row text-center align-items-center g-4">
           <div class="col-md-4">
-            <div class="mb-3 text-white fs-1"><img src="../assets/img/timely-delivery.webp" alt="On-Time Delivery" />
+            <div class="mb-3 text-white fs-1"><img src="assets/img/timely-delivery.webp" alt="On-Time Delivery" />
             </div>
             <h5 class="fw-bold">On-Time Delivery</h5>
             <p class="small opacity-75">We never miss deadlines. Always get high-quality work on time to stay ahead.
             </p>
           </div>
           <div class="col-md-4">
-            <div class="mb-3 text-white fs-1"><img src="../assets/img/our-writers.webp" alt="100% Unique Work" /></div>
+            <div class="mb-3 text-white fs-1"><img src="assets/img/our-writers.webp" alt="100% Unique Work" /></div>
             <h5 class="fw-bold">100% Unique Work</h5>
             <p class="small opacity-75">All assignments are human written and plagiarism free. Submit without fear
               of penalty.</p>
           </div>
           <div class="col-md-4">
-            <div class="mb-3 text-white fs-1"><img src="../assets/img/customer-support.webp"
-                alt="Professional Support" />
+            <div class="mb-3 text-white fs-1"><img src="assets/img/customer-support.webp" alt="Professional Support" />
             </div>
             <h5 class="fw-bold">Professional Support</h5>
             <p class="small opacity-75">Questions? Updates? We’re here 24/7. Contact us any time and we will be happy to
@@ -1042,10 +1039,10 @@ include 'include/header.php'; ?>
       <div class="payment-info d-flex flex-column flex-lg-row align-items-center justify-content-around mt-4 px-2 py-4">
         <h4 class="fw-bold text-center">Secure payment with</h4>
         <div class="d-flex gap-1 gap-lg-4 align-items-center justify-content-between py-3 px-4">
-          <img src="../assets/img/paypal.webp" alt="paypal" class="payment-icon" />
-          <img src="../assets/img/master-card.webp" alt="master-card" class="payment-icon" />
-          <img src="../assets/img/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />
-          <img src="../assets/img/visa.webp" alt="visa" class="payment-icon" />
+          <img src="assets/img/paypal.webp" alt="paypal" class="payment-icon" />
+          <img src="assets/img/master-card.webp" alt="master-card" class="payment-icon" />
+          <img src="assets/img/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />
+          <img src="assets/img/visa.webp" alt="visa" class="payment-icon" />
         </div>
       </div>
     </section>

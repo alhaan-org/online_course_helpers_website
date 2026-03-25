@@ -719,7 +719,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img loading="lazy" src="../assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
+                <img loading="lazy" src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
                   class="review-image">
               </div>
               <p class="small opacity-75">Top-Notch Service! Online Course Helpers' best Aleks course help service is

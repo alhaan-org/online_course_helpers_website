@@ -946,7 +946,7 @@ include 'include/header.php'; ?>
                         <div class="card h-100 border-0 shadow-sm text-white p-4"
                             style="background-color: #00334d; border-radius: 15px;">
                             <div class="mb-3 d-flex justify-content-between align-items-center">
-                                <img src="../assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo"
+                                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo"
                                     class="review-image">
                             </div>
                             <p class="small opacity-75">The whole process was super professional. They helped me gain
@@ -969,7 +969,7 @@ include 'include/header.php'; ?>
                         <div class="card h-100 border-0 shadow-sm text-white p-4"
                             style="background-color: #00334d; border-radius: 15px;">
                             <div class="mb-3 d-flex justify-content-between align-items-center">
-                                <img src="../assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo"
+                                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo"
                                     class="review-image">
                             </div>
                             <p class="small opacity-75">The one thing I loved the most was their affordability. Being a
@@ -992,7 +992,7 @@ include 'include/header.php'; ?>
                         <div class="card h-100 border-0 shadow-sm text-white p-4"
                             style="background-color: #00334d; border-radius: 15px;">
                             <div class="mb-3 d-flex justify-content-between align-items-center">
-                                <img src="../assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo"
+                                <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo"
                                     class="review-image">
                             </div>
                             <p class="small opacity-75">I was worried about plagiarism because my teachers are really
@@ -1012,7 +1012,7 @@ include 'include/header.php'; ?>
                         <div class="card h-100 border-0 shadow-sm text-white p-4"
                             style="background-color: #00334d; border-radius: 15px;">
                             <div class="mb-3 d-flex justify-content-between align-items-center">
-                                <img src="../assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
+                                <img src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
                                     class="review-image">
                             </div>
                             <p class="small opacity-75">I sought them out for assistance in my Brightspace, and I’m
@@ -1045,7 +1045,7 @@ include 'include/header.php'; ?>
             <div class="container" data-aos="fade-up">
                 <div class="row text-center align-items-center g-4">
                     <div class="col-md-4">
-                        <div class="mb-3 text-white fs-1"><img src="../assets/img/timely-delivery.webp"
+                        <div class="mb-3 text-white fs-1"><img src="assets/img/timely-delivery.webp"
                                 alt="On-Time Delivery" />
                         </div>
                         <h5 class="fw-bold">On-Time Delivery</h5>
@@ -1054,7 +1054,7 @@ include 'include/header.php'; ?>
                         </p>
                     </div>
                     <div class="col-md-4">
-                        <div class="mb-3 text-white fs-1"><img src="../assets/img/our-writers.webp"
+                        <div class="mb-3 text-white fs-1"><img src="assets/img/our-writers.webp"
                                 alt="100% Unique Work" /></div>
                         <h5 class="fw-bold">100% Unique Work</h5>
                         <p class="small opacity-75">All assignments are human written and plagiarism free. Submit
@@ -1062,7 +1062,7 @@ include 'include/header.php'; ?>
                             of penalty.</p>
                     </div>
                     <div class="col-md-4">
-                        <div class="mb-3 text-white fs-1"><img src="../assets/img/customer-support.webp"
+                        <div class="mb-3 text-white fs-1"><img src="assets/img/customer-support.webp"
                                 alt="Professional Support" />
                         </div>
                         <h5 class="fw-bold">Professional Support</h5>
@@ -1226,10 +1226,10 @@ include 'include/header.php'; ?>
                 class="payment-info d-flex flex-column flex-lg-row align-items-center justify-content-around mt-4 px-2 py-4">
                 <h4 class="fw-bold text-center">Secure payment with</h4>
                 <div class="d-flex gap-1 gap-lg-4 align-items-center justify-content-between py-3 px-4">
-                    <img src="../assets/img/paypal.webp" alt="paypal" class="payment-icon" />
-                    <img src="../assets/img/master-card.webp" alt="master-card" class="payment-icon" />
-                    <img src="../assets/img/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />
-                    <img src="../assets/img/visa.webp" alt="visa" class="payment-icon" />
+                    <img src="assets/img/paypal.webp" alt="paypal" class="payment-icon" />
+                    <img src="assets/img/master-card.webp" alt="master-card" class="payment-icon" />
+                    <img src="assets/img/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />
+                    <img src="assets/img/visa.webp" alt="visa" class="payment-icon" />
                 </div>
             </div>
         </section>

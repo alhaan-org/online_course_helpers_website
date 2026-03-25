@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row g-4 mb-5">
             <div class="col-lg-3">
-                <img src="../assets/img/Online-Course-Helpers-768x538.png" alt="Logo" class="footer-logo mb-3"
+                <img src="assets/img/Online-Course-Helpers-768x538.png" alt="Logo" class="footer-logo mb-3"
                     loading="lazy">
                 <p class="small opacity-75">Online Course Helpers offers a one-stop solution to students seeking
                     additional credits. Hire professional helpers with full confidentiality.</p>
@@ -54,7 +54,7 @@
                             class="fab fa-linkedin footer-social-icon"></i></a>
                 </div>
                 <div class="img-fluid">
-                    <img src="../assets/img/gaurantee-img-300x65.png" alt="Trust Seal" class="mt-4"
+                    <img src="assets/img/gaurantee-img-300x65.png" alt="Trust Seal" class="mt-4"
                         style="width: 200px; height: auto;">
                 </div>
             </div>

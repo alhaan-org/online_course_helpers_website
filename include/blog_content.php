@@ -7,9 +7,10 @@
             <div class="card" style="width: 25rem;">
                 <img src="assets/img/Finance-class-performance-768x432.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <span><i class="fa fa-calendar"></i>November 13, 2025</span>
-                    <span><i class="fa fa-clock"></i> 10:30 PM</span>
-                    <div class="mt-3"><a href="#" class="fw-bold card-title text-underline text-dark">From Flustered to
+                    <span><i class="fa fa-calendar mr-2"></i>November 13, 2025</span>
+                    <span><i class="fa fa-clock mr-2"></i>10:30 PM</span>
+                    <div class="mt-3"><a href="/finance-class-performance"
+                            class="fw-bold card-title text-underline text-dark">From Flustered to
                             Financially Fierce: Up
                             Your Finance Class Performance</a></div>
                 </div>

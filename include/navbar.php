@@ -45,9 +45,9 @@
                             <li><a class="dropdown-item" href="/wgu-course-help">WGU Course Help</a></li>
                             <li><a class="dropdown-item" href="/straighterline-course-help">Straighterline Course
                                     Help</a></li>
-                            <li><a class="dropdown-item" href="#">Cengage Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">ACT Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Moodle Course Help</a></li>
+                            <li><a class="dropdown-item" href="/cengage-course-help">Cengage Course Help</a></li>
+                            <li><a class="dropdown-item" href="/act-course-help">ACT Course Help</a></li>
+                            <li><a class="dropdown-item" href="/moodle-course-help">Moodle Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Canvas Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Mathway Course Help</a></li>
                             <li><a class="dropdown-item" href="#">OnlineEd Course Help</a></li>
@@ -86,7 +86,8 @@
                         <ul class="dropdown-menu shadow border-0" style="max-height: 400px; overflow-y: auto;">
                             <li><a class="dropdown-item" href="/high-school-level-course-help">High School Level Course
                                     Help</a></li>
-                            <li><a class="dropdown-item" href="#">Associate Level Course Help</a></li>
+                            <li><a class="dropdown-item" href="/associate-level-course-help">Associate Level Course
+                                    Help</a></li>
                             <li><a class="dropdown-item" href="#">Undergraduate's Level Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Master's Level Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Doctorate's Level Course Help</a></li>

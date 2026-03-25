@@ -341,7 +341,7 @@ include 'include/header.php'; ?>
                         </div>
                     </div>
                     <div class="image-right mt-4 mt-md-0">
-                        <img src="/assets/img/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
+                        <img src=assets/img/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
                             class="img-fluid custom-img" loading="lazy">
                     </div>
                 </div>
@@ -469,7 +469,7 @@ include 'include/header.php'; ?>
                     <div class="col-lg-5">
                         <div class="hero-image-frame">
                             <div class="cheap-price-section-image-placeholder">
-                                <img src="/assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help"
+                                <img src=assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help"
                                     loading="lazy" />
                             </div>
                         </div>
@@ -1096,7 +1096,7 @@ include 'include/header.php'; ?>
     <!-- Footer -->
     <?php include 'include/footer.php'; ?>
 
-    <script src="/assets/owlcarousel/owl.carousel.min.js"></script>
+    <script src=assets/owlcarousel/owl.carousel.min.js"></script>
 </body>
 
 </html>

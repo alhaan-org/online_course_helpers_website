@@ -38,7 +38,7 @@ body {
 
 .hero-section {
   display: flex;
-  background-image: url("/assets/img/home-banner.webp");
+  background-image: url("../img/home-banner.webp");
   min-height: 100vh;
   position: relative;
   align-items: center;
@@ -604,7 +604,7 @@ body {
 
 /* Section Background */
 .platform-section {
-  background-image: url('/assets/img/banner3.jpg');
+  background-image: url('../img/banner3.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: fit-content;
@@ -801,7 +801,7 @@ td {
 
 .bg-darkcyan {
   position: relative;
-  background-image: url('/assets/img/banner3.jpg');
+  background-image: url('../img/banner3.jpg');
   z-index: 1;
 }
 
@@ -826,7 +826,7 @@ td {
 
 .left-box::before {
   position: absolute;
-  background-image: url('/assets/img/Homework_help_1_0cc488f467.png');
+  background-image: url('../img/Homework_help_1_0cc488f467.png');
   content: '';
   inset: 0;
   z-index: -1;

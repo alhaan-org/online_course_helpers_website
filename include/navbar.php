@@ -25,8 +25,8 @@
                         <a class="nav-link dropdown-toggle" href="#" id="servicesDrop" role="button"
                             data-bs-toggle="dropdown">Services</a>
                         <ul class="dropdown-menu shadow border-0">
-                            <li><a class="dropdown-item" href="/online-class-help">Online Class Help</a></li>
-                            <li><a class="dropdown-item" href="/online-exam-help">Online Exam Help</a></li>
+                            <li><a class="dropdown-item" href="online-class-help">Online Class Help</a></li>
+                            <li><a class="dropdown-item" href="online-exam-help">Online Exam Help</a></li>
                         </ul>
                     </li>
 
@@ -34,20 +34,20 @@
                         <a class="nav-link dropdown-toggle" href="#" id="platformsDrop" role="button"
                             data-bs-toggle="dropdown">Platforms</a>
                         <ul class="dropdown-menu shadow border-0" style="max-height: 400px; overflow-y: auto;">
-                            <li><a class="dropdown-item" href="/aleks-course-help">Aleks Course Help</a></li>
-                            <li><a class="dropdown-item" href="/pearson-course-help">Pearson Course Help</a></li>
-                            <li><a class="dropdown-item" href="/mcgraw-hill-course-help">McGraw-Hill Course Help</a>
+                            <li><a class="dropdown-item" href="aleks-course-help">Aleks Course Help</a></li>
+                            <li><a class="dropdown-item" href="pearson-course-help">Pearson Course Help</a></li>
+                            <li><a class="dropdown-item" href="mcgraw-hill-course-help">McGraw-Hill Course Help</a>
                             </li>
-                            <li><a class="dropdown-item" href="/brightspace-course-help">Brightspace Course Help</a>
+                            <li><a class="dropdown-item" href="brightspace-course-help">Brightspace Course Help</a>
                             </li>
-                            <li><a class="dropdown-item" href="/blackboard-course-help">Blackboard Course Help</a></li>
-                            <li><a class="dropdown-item" href="/sophia-course-help">Sophia Course Help</a></li>
-                            <li><a class="dropdown-item" href="/wgu-course-help">WGU Course Help</a></li>
-                            <li><a class="dropdown-item" href="/straighterline-course-help">Straighterline Course
+                            <li><a class="dropdown-item" href="blackboard-course-help">Blackboard Course Help</a></li>
+                            <li><a class="dropdown-item" href="sophia-course-help">Sophia Course Help</a></li>
+                            <li><a class="dropdown-item" href="wgu-course-help">WGU Course Help</a></li>
+                            <li><a class="dropdown-item" href="straighterline-course-help">Straighterline Course
                                     Help</a></li>
-                            <li><a class="dropdown-item" href="/cengage-course-help">Cengage Course Help</a></li>
-                            <li><a class="dropdown-item" href="/act-course-help">ACT Course Help</a></li>
-                            <li><a class="dropdown-item" href="/moodle-course-help">Moodle Course Help</a></li>
+                            <li><a class="dropdown-item" href="cengage-course-help">Cengage Course Help</a></li>
+                            <li><a class="dropdown-item" href="act-course-help">ACT Course Help</a></li>
+                            <li><a class="dropdown-item" href="moodle-course-help">Moodle Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Canvas Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Mathway Course Help</a></li>
                             <li><a class="dropdown-item" href="#">OnlineEd Course Help</a></li>
@@ -59,10 +59,10 @@
                             data-bs-toggle="dropdown">Courses</a>
                         <ul class="dropdown-menu shadow border-0 p-3"
                             style="min-width: 250px; max-height: 400px; overflow-y: auto;">
-                            <li><a class="dropdown-item" href="/finance-course-help">Finance Course Help</a></li>
-                            <li><a class="dropdown-item" href="/statistics-course-help">Statistics Course Help</a></li>
-                            <li><a class="dropdown-item" href="/accounting-course-help">Accounting Course Help</a></li>
-                            <li><a class="dropdown-item" href="/math-course-help">Math Course Help</a></li>
+                            <li><a class="dropdown-item" href="finance-course-help">Finance Course Help</a></li>
+                            <li><a class="dropdown-item" href="statistics-course-help">Statistics Course Help</a></li>
+                            <li><a class="dropdown-item" href="accounting-course-help">Accounting Course Help</a></li>
+                            <li><a class="dropdown-item" href="math-course-help">Math Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Computer Science Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Algebra Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Calculus Course Help</a></li>

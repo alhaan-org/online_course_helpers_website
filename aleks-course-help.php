@@ -44,7 +44,7 @@ include 'include/header.php'; ?>
             <div class="d-flex align-items-center flex-wrap gap-3 mb-4">
               <small class="trusted-by">Trusted By:</small>
               <div class="d-flex gap-3 align-items-center">
-                <img src=assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
+                 <img src="assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
               </div>
             </div>
 
@@ -56,7 +56,7 @@ include 'include/header.php'; ?>
           <div class="col-lg-4">
             <div class="hero-form-card">
               <div class="limited-offer-badge">
-                <img src=assets/img/limited-offer-1024x613.webp" alt="Limited Offer" />
+                <img src="assets/img/limited-offer-1024x613.webp" alt="Limited Offer" />
               </div>
               <h4 class="mb-4 text-center fw-bold text-dark">
                 Save Upto 50% On First Order
@@ -99,16 +99,16 @@ include 'include/header.php'; ?>
     <section class="academic-section">
       <div class="slider-images-container" data-aos="fade-up">
         <div class="slider-images owl-carousel owl-theme">
-          <img src=assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src=assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src=assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src=assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src=assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src=assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src=assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src=assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src=assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src=assets/img/uni-10.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-1.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-2.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-3.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-4.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-5.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-6.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-7.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-8.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-9.webp" alt="..." loading="lazy" />
+          <img src="/assets/img/uni-10.webp" alt="..." loading="lazy" />
           <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
           <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
           <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />

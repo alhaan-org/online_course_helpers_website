@@ -1,5 +1,5 @@
 <header>
-    <nav class="navbar navbar-expand-lg sticky-top">
+    <nav class="navbar navbar-expand-lg fixed-top">
         <div class="container">
             <!-- Logo -->
             <a class="navbar-brand" href="#">
@@ -94,7 +94,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/blog">Blog</a>
+                        <a class="nav-link" href="https://onlinecoursehelpers.com/blog/">Blog</a>
                     </li>
                 </ul>
                 <div class="d-flex align-items-center">

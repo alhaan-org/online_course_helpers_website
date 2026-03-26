@@ -1,4 +1,12 @@
 $(document).ready(function () {
+  const navbar = $(".navbar");
+  $(window).scroll(function () {
+    if ($(this).scrollTop() > 50) {
+      navbar.addClass("scrolled");
+    } else {
+      navbar.removeClass("scrolled");
+    }
+  });
   $(".scroll-wrapper").owlCarousel({
     dots: false,
     nav: false,
@@ -6,13 +14,13 @@ $(document).ready(function () {
     responsive: {
       0: {
         loop: true,
-        items: 1.3,
+        items: 1.5,
         center: true,
       },
 
       992: {
         loop: true,
-        margin: 15,
+        margin: 5,
         items: 3,
         center: false,
       },
@@ -25,18 +33,18 @@ $(document).ready(function () {
     autoPlay: true,
     autoplayTimeout: 3000,
     autoplayHoverPause: true,
-    margin: 10,
+    margin: 2,
     responsive: {
       0: {
         loop: true,
-        items: 1.3,
+        items: 1,
         center: true,
       },
 
       1000: {
         loop: true,
         margin: 1,
-        items: 4.5,
+        items: 4,
         center: false,
       },
     },
@@ -83,5 +91,4 @@ $(document).ready(function () {
     $allCards.filter('[data-platform="' + platform + '"]').fadeIn(400);
   }
 
-  colorStateChangeOnScrollDown();
 });

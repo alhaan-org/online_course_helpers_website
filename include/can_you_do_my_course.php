@@ -2,7 +2,8 @@
     <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
             <div class="content-left text-white w-60 mb-5">
-                <h1 class="fw-bold mb-4">Can You Do My Course With Guaranteed Top Grades? <span class="highlight">Yes,
+                <h1 class="fw-medium mb-4">Can You Do My Course With Guaranteed Top Grades? <span
+                        class="fw-semibold highlight">Yes,
                         We Can.</span></h1>
                 <div class="d-flex gap-3">
                     <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>

@@ -88,8 +88,10 @@ $all_cards_data = [
 
 <section class="py-5 finish-my-course" style="background-color: #dadadaff;" data-aos="fade-up">
     <div class="container text-center">
-        <h1 class="fw-bold mb-4">Finish My Online Course With Top Grades and Guaranteed Credits on Top Platforms</h1>
-        <p>Get expert help with your online course. We provide 24/7 service and dedicated support with online course
+        <h1 class="fw-medium mb-4 px-5">Finish My Online Course With Top Grades and Guaranteed Credits on Top Platforms
+        </h1>
+        <p class="px-5">Get expert help with your online course. We provide 24/7 service and dedicated support with
+            online course
             assignments, quizzes and assessments on all platforms.</p>
         <div class="d-flex flex-wrap justify-content-center gap-2 mb-5" id="platform-filters-buttons">
             <button id="platformChanger" class="btn btn-dark active py-2 px-3" data-platform="aleks">Aleks</button>
@@ -105,9 +107,17 @@ $all_cards_data = [
             <?php foreach ($all_cards_data as $data): ?>
                 <div class="col-md-4 card-helpers" style="<?= $data["platform"] === "aleks" ? '' : 'display: none;' ?>"
                     data-platform="<?= $data["platform"] ?>">
-                    <div class="card h-100 border-0 shadow-sm p-4 justify-content-center">
-                        <h4 class="card-title fw-bold"><?= $data["title"] ?></h4>
-                        <p class="py-2 text-muted small"><?= $data["description"] ?></p>
+
+                    <div class="d-flex flex-column h-100 bg-light border-0 shadow-sm py-5 px-5 justify-content-center">
+
+                        <h4 class="text-start fw-semibold mb-2 text-dark text-navy">
+                            <?= $data["title"] ?>
+                        </h4>
+
+                        <p class="text-start text-muted small mb-0 text-navy">
+                            <?= $data["description"] ?>
+                        </p>
+
                     </div>
                 </div>
             <?php endforeach ?>

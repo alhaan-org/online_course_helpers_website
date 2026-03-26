@@ -11,9 +11,9 @@
     <!-- Hero Section -->
     <section class="hero-section">
       <div class="container" data-aos="fade-up">
-        <div class="row container">
+        <div class="row d-lg-flex align-items-center justify-content-center gap-lg-5">
           <!-- Left Content -->
-          <div class="col-lg-8">
+          <div class="col-lg-6">
             <h1 class="hero-title mb-4" style="font-size: clamp(2.25rem, 5vw, 2.75rem);">
               Hire Professional Online Course Helpers For Extra College Credits
             </h1>
@@ -97,36 +97,21 @@
     <section class="academic-section">
       <div class="slider-images-container" data-aos="fade-up">
         <div class="slider-images owl-carousel owl-theme">
-          <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-1.webp" alt="University of Arizona" loading="lazy" />
+          <img src="assets/img/uni-2.webp" alt="University of Buffalo" loading="lazy" />
+          <img src="assets/img/uni-3.webp" alt="University of Pheonix" loading="lazy" />
+          <img src="assets/img/uni-4.webp" alt="Embry Riddle Aeronautical University" loading="lazy" />
+          <img src="assets/img/uni-5.webp" alt="CUNY School of Professional Studies" loading="lazy" />
+          <img src="assets/img/uni-6.webp" alt="Capitol Technology University" loading="lazy" />
+          <img src="assets/img/uni-7.webp" alt="Capella University" loading="lazy" />
+          <img src="assets/img/uni-8.webp" alt="Ashford University" loading="lazy" />
+          <img src="assets/img/uni-9.webp" alt="Florida State University" loading="lazy" />
+          <img src="assets/img/uni-10.webp" alt="ASU" loading="lazy" />
+          <img src="assets/img/uni-11 (1).webp" alt="Oregon State University" loading="lazy" />
+          <img src="assets/img/uni-12.webp" alt="OhioState" loading="lazy" />
+          <img src="assets/img/uni-13.webp" alt="Grand Canyon University" loading="lazy" />
+          <img src="assets/img/uni-14.webp" alt="Chamberlain University" loading="lazy" />
+          <img src="assets/img/uni-15.webp" alt="Walden University" loading="lazy" />
         </div>
       </div>
 
@@ -135,7 +120,7 @@
           <!-- Right Image Placeholder -->
           <div class="col-lg-6" data-aos="fade-up">
             <div class="image-placeholder">
-              <img src="assets/img/About-Us-1024x956.png" alt="..." class="img-fluid" loading="lazy" />
+              <img src="assets/img/About-Us-1024x956.png" alt="About Us" class="img-fluid" loading="lazy" />
             </div>
           </div>
           <!-- Left Content -->
@@ -164,9 +149,9 @@
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3" style="color: #002a4d;">Affordable Help with Online Course for All Domains
+        <h1 class="fw-semibold mb-3" style="color: #002e3a;">Affordable Help with Online Course for All Domains
         </h1>
-        <p class="mx-auto mb-5" style="color: #002a4d;">
+        <p class="mx-auto mb-5 px-5" style="color: #002e3a;">
           With our professional course helpers, you can be sure of earning additional credits fast. Instead of wasting
           time trying multiple services that let you down with your credits, you should hire us because we have been
           recognized as the best course completion help service in the USA.
@@ -176,7 +161,7 @@
           <div class="owl-carousel scroll-wrapper">
             <div class="course-card-container">
               <div class="course-card">
-                <h4>Finance Course Help</h4>
+                <h4 class="fw-bold">Finance Course Help</h4>
                 <div class="card-content">
                   <p>We address investment strategies, budgeting, financial planning, and risk analysis. Our
                     experts enable you to understand financial formulas, real-life case studies and assignments.
@@ -190,7 +175,7 @@
 
             <div class="course-card-container">
               <div class="course-card">
-                <h4>Business Law Help</h4>
+                <h4 class="fw-bold">Business Law Help</h4>
                 <div class="card-content">
                   <p>
                     Our Business Law course help simplifies commercial contracts, torts, corporate structures,
@@ -205,7 +190,7 @@
 
             <div class="course-card-container">
               <div class="course-card">
-                <h4>Statistics Help</h4>
+                <h4 class="fw-bold">Statistics Help</h4>
                 <div class="card-content">
                   <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
                     distributions or assignments, our professionals make complex issues simple. Master real-life
@@ -218,7 +203,7 @@
 
             <div class="course-card-container">
               <div class="course-card">
-                <h4>Biology Course Help</h4>
+                <h4 class="fw-bold">Biology Course Help</h4>
                 <div class="card-content">
                   <p>
                     Our biology course help simplifies genetics, cell biology, and evolution for all learners. We offer
@@ -233,7 +218,7 @@
 
             <div class="course-card-container">
               <div class="course-card">
-                <h4>Accounting Course Help</h4>
+                <h4 class="fw-bold">Accounting Course Help</h4>
                 <div class="card-content">
                   <p>
                     Access stress free <a>accounting course help</a> on issues such as financial statements, ledgers,
@@ -248,7 +233,7 @@
 
             <div class="course-card-container">
               <div class="course-card">
-                <h4>Management Course Help</h4>
+                <h4 class="fw-bold">Management Course Help</h4>
                 <div class="card-content">
                   <p>
                     Get professional management course help for strategic planning, leadership, operations, and more. We
@@ -262,7 +247,7 @@
             </div>
             <div class="course-card-container">
               <div class="course-card">
-                <h4>Calculus Course Help</h4>
+                <h4 class="fw-bold">Calculus Course Help</h4>
                 <div class="card-content">
                   <p>
                     Having difficulty with derivatives or integrals? <a>Our math course help</a>
@@ -276,7 +261,7 @@
             </div>
             <div class="course-card-container">
               <div class="course-card">
-                <h4>Criminal Justice Course Help</h4>
+                <h4 class="fw-bold">Criminal Justice Course Help</h4>
                 <div class="card-content">
                   <p>
                     Require assistance in interpreting law systems, policies and criminology? Our criminal justice
@@ -325,8 +310,8 @@
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3">Our Reliable Online Course Help Services: Beyond Just Grades</h1>
-        <p class="mb-5 text-muted">
+        <h1 class="fw-medium px-5 mb-3">Our Reliable Online Course Help Services: Beyond Just Grades</h1>
+        <p class="mb-5 px-5 text-muted">
           Our services range from personalized aid in all respects to data protection and grade-enhancing services,
           which are intended to provide the students with an advantage in all facets of their studies. We offer
           unlimited benefits when you assign your online courses to our professionals.
@@ -334,17 +319,17 @@
 
         <div class="row g-4 mb-5">
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box p-5">
               <i class="fa-solid fa-headset service-icon"></i>
               <h3 class="fs-4">Qualified Course Experts</h3>
-              <p class="fs-6">Learn with subject matter experts who know your syllabus inside out and provide
+              <p class="small">Learn with subject matter experts who know your syllabus inside out and provide
                 expert-level assistance
                 in all subjects.
               </p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-clock-rotate-left service-icon"></i>
               <h3 class="fs-4">All-Time Experts Availability</h3>
               <p class="fs-6">Access to competent professionals available 24/7 to help you when you need it, day or
@@ -352,7 +337,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-circle-info service-icon"></i>
               <h3 class="fs-4">Guaranteed A+ Performance</h3>
               <p class="fs-6">We do not just help you score higher. Expect top grades, on-time submissions, and reliable
@@ -361,7 +346,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-dollar-sign service-icon"></i>
               <h3 class="fs-4">Affordable Pricing for All</h3>
               <p class="fs-6">Good assistance should not be expensive. Savour the low prices and high-quality services
@@ -370,7 +355,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-file-word service-icon"></i>
               <h3 class="fs-4">100% Unique & Original Content</h3>
               <p class="fs-6">All papers are original, plagiarism-free, and precisely aligned with your course
@@ -379,7 +364,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-lock service-icon"></i>
               <h3 class="fs-4">Complete Privacy & Security</h3>
               <p class="fs-6">We keep your data and your identity secure. We operate encrypted systems and tight
@@ -404,12 +389,12 @@
     <!-- Cheap Price Section -->
     <section class="cheap-price-section py-5">
       <div class="container">
-        <div class="row align-items-start g-5">
+        <div class="row align-items-center g-5">
 
           <div class="col-lg-7">
-            <h2 class="fw-bold mb-4 text-navy">
-              Can You <span class="text-highlight">Take My Online Course</span> For Me At Cheap Price
-            </h2>
+            <h1 class="fw-medium mb-4 text-navy">
+              Can You <span class="fw-medium text-highlight">Take My Online Course</span> For Me At Cheap Price
+            </h1>
             <p class="mb-5">
               Have you ever searched through all of Google, browsing “Can I pay someone to take my online course
               for me? Your search ends here! At Online Course Helpers, we provide professional, safe, and
@@ -445,9 +430,9 @@
     <!-- Remaining Sections -->
     <?php include 'include/platforms_decider.php' ?>
     <!-- Section  -->
-    <section class="py-5 px-lg-5 px-1 bg-white">
+    <section class="py-5 bg-white smart-learning">
       <div class="d-flex mb-5 px-3">
-        <div class="bg-darkcyan text-white p-5 rounded-5 overflow-hidden position-relative">
+        <div class="bg-innerbox-content text-white p-5 rounded-5 overflow-hidden position-relative">
           <div class="row align-items-center">
             <div class="w-100 ml-3">
               <div class="inner-box custom-scrollbar">
@@ -644,9 +629,10 @@
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h2 class="fw-bold mb-4 text-white">Want to Complete Your Online Course Fast For Extra Credits? Hire
-          experienced professionals</h2>
-        <p>Get expert help with your online course. We provide 24/7 service and dedicated support with online course
+        <h1 class="fw-semibold px-5 mb-4 text-warning">Want to Complete Your Online Course Fast For Extra Credits? Hire
+          experienced professionals</h1>
+        <p class="px-5">Get expert help with your online course. We provide 24/7 service and dedicated support with
+          online course
           assignments, quizzes and assessments on all platforms.</p>
         <div class="d-flex justify-content-center gap-3">
           <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
@@ -658,9 +644,10 @@
 <!-- Section  -->
 <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h2 class="fw-bold mb-3">Trusted Professionals to Help You Succeed at All Educational Levels
-                </h2>
-                <p class="text-muted mb-5 mx-auto">
+                <h1 class="fw-semibold mb-3 px-5 text-navy">Trusted Professionals to Help You Succeed at All Educational
+                  Levels
+                </h1>
+                <p class="text-muted mb-5 px-5 mx-auto text-navy">
                   Enroll in the stress-free program in the USA with experienced course helpers to guide you
                   through your education.
                   Your course is done efficiently by our team, maintaining your academic standards.
@@ -668,10 +655,10 @@
                 <div class="coverflow-swiper swiper my3dSwiper py-3">
                   <div class="h-100 swiper-wrapper ">
                     <div class="swiper-slide">
-                      <div class="coverflow-card card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">High School Course Help</h5>
+                          <h4 class="text-warning fw-bold mb-3">High School Course Help</h4>
                           <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/high-school-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">high school level
@@ -687,10 +674,10 @@
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">Undergraduate Level Course Help</h5>
+                          <h4 class="text-warning fw-bold mb-3">Undergraduate Level Course Help</h4>
                           <p style="font-size: 14px;"><span style="font-weight: 400">Struggling with your degree course?
                               Our </span><a href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">undergraduate level course
@@ -705,10 +692,10 @@
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">Master's Level Course Help</h5>
+                          <h4 class="text-warning fw-bold mb-3">Master's Level Course Help</h4>
                           <p style="font-size: 14px;"><span style="font-weight: 400">We have a </span><a
                               href="https://onlinecoursehelpers.com/masters-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">masters level course
@@ -722,10 +709,10 @@
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">Associative Level Course Help</h5>
+                          <h4 class="text-warning fw-bold mb-3">Associative Level Course Help</h4>
                           <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/associate-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">associate-level course
@@ -740,10 +727,10 @@
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">Doctorate Level Course Help</h5>
+                          <h4 class="text-warning fw-bold mb-3">Doctorate Level Course Help</h4>
                           <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/doctorate-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">doctoral-level course
@@ -797,19 +784,19 @@
     <!-- Section  -->
     <section class="py-5 bg-white">
       <div class="container text-center" data-aos="fade-up">
-        <h2 class="fw-bold mb-2">What Students Say About Our Online Course Assistance</h2>
+        <h2 class="fw-semibold mb-2">What Students Say About Our Online Course Assistance</h2>
         <p class="text-muted mb-5">Real experiences – Real results. See the way we have offered students success in
           their online courses through expert assistance.</p>
 
         <div class="row g-4 text-start">
           <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm text-white p-4"
+            <div class="card h-100 border-0 shadow-sm text-white px-4 py-3"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img loading="lazy" src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
                   class="review-image">
               </div>
-              <p class="small opacity-75">These guys helped me do my online stats course. All activities were
+              <p class="opacity-75">These guys helped me do my online stats course. All activities were
                 completed within the set deadline, and the outcomes were awesome.</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
@@ -822,12 +809,12 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm text-white p-4"
+            <div class="card h-100 border-0 shadow-sm text-white px-4 py-3"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">I have felt supported since the first message. And they also professionally
+              <p class="opacity-75">I have felt supported since the first message. And they also professionally
                 took my course and performed astonishingly. Super polite support team, too. Great experience all around.
                 Highly recommended!.</p>
               <div class="d-flex align-items-center mt-4">
@@ -841,12 +828,12 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm text-white p-4"
+            <div class="card h-100 border-0 shadow-sm text-white px-4 py-3"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">Deadlines and tests overwhelmed me. Their group intervened and fully
+              <p class="opacity-75">Deadlines and tests overwhelmed me. Their group intervened and fully
                 controlled my online course. All was correct, timely and hassle-free. I’m so thankful!</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
@@ -860,12 +847,12 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm text-white p-4"
+            <div class="card h-100 border-0 shadow-sm text-white px-4 py-3"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">I had no time to do my course online. This service was replaced fully and
+              <p class="opacity-75">I had no time to do my course online. This service was replaced fully and
                 performed well. Highly responsive, professional, and worth every penny. Truly stress-relieving and
                 reliable support!
                 .</p>
@@ -880,12 +867,12 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm text-white p-4"
+            <div class="card h-100 border-0 shadow-sm text-white px-4 py-3"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">I spent my days in hell trying to balance work and studying, and then I
+              <p class="opacity-75">I spent my days in hell trying to balance work and studying, and then I
                 discovered this team. They managed all things assignments, discussions, and examinations, and kept me
                 informed. I sailed right through without any hustle. Totally transformed my semester!
               </p>
@@ -900,12 +887,12 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm text-white p-4"
+            <div class="card h-100 border-0 shadow-sm text-white px-4 py-3"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">Never tried a service like this before, though I am seriously impressed. They
+              <p class="opacity-75">Never tried a service like this before, though I am seriously impressed. They
                 did all this, and they earned me good grades. They would listen and obey instructions as communication
                 was easy.
               </p>
@@ -966,63 +953,66 @@
             <h2 class="fw-bold mb-4">Frequently Asked Questions</h2>
             <p>Explore our most frequently asked questions to learn more about our online course help. It’s fast,
               secure, and stress-free.</p>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q1">
-                    Is your service confidential and secure?
-                  </button>
-                </h2>
-                <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">Absolutely. We value your privacy. Your information is
-                    never shared, and we work with encrypted systems. Your name and coursework remain 100
-                    percent confidential at all times.</div>
+            <div class="d-flex flex-column gap-3">
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q1">
+                      Is your service confidential and secure?
+                    </button>
+                  </h2>
+                  <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0"
+                    data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">Absolutely. We value your privacy. Your information is
+                      never shared, and we work with encrypted systems. Your name and coursework remain 100
+                      percent confidential at all times.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q2">
-                    Can I hire someone to take multiple online courses at once?
-                  </button>
-                </h2>
-                <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">Yes! Our specialists can handle the number of courses
-                    simultaneously: assignments, quizzes, exams, and everything. All you do is pass on your
-                    schedule, and we will take care of everything from beginning to end.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q2">
+                      Can I hire someone to take multiple online courses at once?
+                    </button>
+                  </h2>
+                  <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">Yes! Our specialists can handle the number of courses
+                      simultaneously: assignments, quizzes, exams, and everything. All you do is pass on your
+                      schedule, and we will take care of everything from beginning to end.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q3">
-                    How do I know the work will be plagiarism-free?
-                  </button>
-                </h2>
-                <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-2">We compose all the assignments from scratch and scan every
-                    task with high-quality plagiarism software. You will always get original and
-                    high-quality work that satisfies your academic requirements.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q3">
+                      How do I know the work will be plagiarism-free?
+                    </button>
+                  </h2>
+                  <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-2">We compose all the assignments from scratch and scan every
+                      task with high-quality plagiarism software. You will always get original and
+                      high-quality work that satisfies your academic requirements.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q4">
-                    What happens if I’m not satisfied with the results?
-                  </button>
-                </h2>
-                <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">We provide revisions and a money-back guarantee. Not
-                    satisfied, we will make it right quickly or refund your money according to our
-                    satisfaction policy.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q4">
+                      What happens if I’m not satisfied with the results?
+                    </button>
+                  </h2>
+                  <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">We provide revisions and a money-back guarantee. Not
+                      satisfied, we will make it right quickly or refund your money according to our
+                      satisfaction policy.</div>
+                  </div>
                 </div>
               </div>
             </div>

@@ -1,17 +1,11 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
 
-    # 1. Set the Custom 404 Page
-    # This points the server to your 404.php file
-    ErrorDocument 404 /404.php
-
-    # 2. Redirect explicit .php requests to extensionless URLs.
-    # (e.g., example.com/contact.php -> example.com/contact)
+    # Redirect explicit .php requests to extensionless URLs.
     RewriteCond %{THE_REQUEST} \s/+(.+)\.php[\s?] [NC]
     RewriteRule ^ %1 [R=301,L]
-    
-    # 3. Internally rewrite extensionless URLs to their .php files.
-    # (e.g., user sees /contact, server runs /contact.php)
+
+    # Internally rewrite extensionless URLs to their .php files.
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME}.php -f
     RewriteRule ^(.+)$ $1.php [L]

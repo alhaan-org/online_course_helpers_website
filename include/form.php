@@ -5,23 +5,23 @@
     <h4 class="mb-4 text-center fw-bold text-dark">
         Save Upto 50% On First Order
     </h4>
-    <form id="contactForm">
+    <form id="contactForm" action="signup.php" method="POST">
         <div class="mb-3">
-            <input type="text" class="form-control" id="name" placeholder="Name" required />
+            <input type="text" name="name" class="form-control" id="name" placeholder="Name" required />
         </div>
         <div class="mb-3">
-            <input type="email" class="form-control" id="email" placeholder="Email" required />
+            <input type="email" name="email" class="form-control" id="email" placeholder="Email" required />
         </div>
         <div class="mb-3">
-            <input type="tel" class="form-control" id="phone" placeholder="Phone No" required />
+            <input type="tel" name="phone" class="form-control" id="phone" placeholder="Phone No" required />
         </div>
         <div class="mb-4">
-            <select class="form-select" id="service" required>
+            <select class="form-select" name="service" id="service" required>
                 <option value="" disabled selected>Select Service</option>
-                <option value="1">Online Class</option>
-                <option value="2">Online Course</option>
-                <option value="3">Assignments</option>
-                <option value="4">Dissertation</option>
+                <option value="Online Class">Online Class</option>
+                <option value="Online Course">Online Course</option>
+                <option value="Assignments">Assignments</option>
+                <option value="Dissertation">Dissertation</option>
             </select>
         </div>
         <button type="submit" class="btn btn-submit">

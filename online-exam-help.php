@@ -14,10 +14,10 @@ include 'include/header.php'; ?>
     <!-- Hero Section -->
     <section class="hero-section">
       <div class="container" data-aos="fade-up">
-        <div class="row container">
+        <div class="row d-lg-flex align-items-center justify-content-between">
           <!-- Left Content -->
           <div class="col-lg-8">
-            <h1 class="hero-title mb-4" style="font-size: clamp(2rem, 5vw, 2.25rem);">
+            <h1 class="hero-title mb-4" style="font-size: clamp(2.25rem, 5vw, 2.75rem);">
               Trusted Online Exam Help to Boost Your Academic Success
             </h1>
             <p class="hero-text mb-4">
@@ -26,7 +26,7 @@ include 'include/header.php'; ?>
               perfection!
             </p>
 
-            <div class="d-flex flex-wrap gap-3 mb-4">
+            <div class="d-flex flex-sm-column flex-lg-row flex-wrap gap-3 mb-4">
               <p class="feature-item">
                 <i class="fa fa-file feature-icon"></i>
                 <span>Original content</span>
@@ -54,37 +54,7 @@ include 'include/header.php'; ?>
           </div>
           <!-- Right Form -->
           <div class="col-lg-4">
-            <div class="hero-form-card">
-              <div class="limited-offer-badge">
-                <img src="assets/img/limited-offer-1024x613.webp" alt="Limited Offer" />
-              </div>
-              <h4 class="mb-4 text-center fw-bold text-dark">
-                Save Upto 50% On First Order
-              </h4>
-              <form id="contactForm">
-                <div class="mb-3">
-                  <input type="text" class="form-control" id="name" placeholder="Name" required />
-                </div>
-                <div class="mb-3">
-                  <input type="email" class="form-control" id="email" placeholder="Email" required />
-                </div>
-                <div class="mb-3">
-                  <input type="tel" class="form-control" id="phone" placeholder="Phone No" required />
-                </div>
-                <div class="mb-4">
-                  <select class="form-select" id="service" required>
-                    <option value="" disabled selected>Select Service</option>
-                    <option value="1">Online Class</option>
-                    <option value="2">Online Course</option>
-                    <option value="3">Assignments</option>
-                    <option value="4">Dissertation</option>
-                  </select>
-                </div>
-                <button type="submit" class="btn btn-submit">
-                  Send
-                </button>
-              </form>
-            </div>
+            <?php include 'include/form.php' ?>
           </div>
         </div>
       </div>
@@ -96,45 +66,30 @@ include 'include/header.php'; ?>
       </div>
     </section>
     <!-- Trust Section -->
-    <section class="academic-section">
-      <div class="slider-images-container" data-aos="fade-up">
+    <section clss="slider-section-university">
+      <div class="container col-12" data-aos="fade-up">
         <div class="slider-images owl-carousel owl-theme">
-          <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-1.webp" alt="University of Arizona" loading="lazy" />
+          <img src="assets/img/uni-2.webp" alt="University of Buffalo" loading="lazy" />
+          <img src="assets/img/uni-3.webp" alt="University of Pheonix" loading="lazy" />
+          <img src="assets/img/uni-4.webp" alt="Embry Riddle Aeronautical University" loading="lazy" />
+          <img src="assets/img/uni-5.webp" alt="CUNY School of Professional Studies" loading="lazy" />
+          <img src="assets/img/uni-6.webp" alt="Capitol Technology University" loading="lazy" />
+          <img src="assets/img/uni-7.webp" alt="Capella University" loading="lazy" />
+          <img src="assets/img/uni-8.webp" alt="Ashford University" loading="lazy" />
+          <img src="assets/img/uni-9.webp" alt="Florida State University" loading="lazy" />
+          <img src="assets/img/uni-10.webp" alt="ASU" loading="lazy" />
+          <img src="assets/img/uni-11 (1).webp" alt="Oregon State University" loading="lazy" />
+          <img src="assets/img/uni-12.webp" alt="OhioState" loading="lazy" />
+          <img src="assets/img/uni-13.webp" alt="Grand Canyon University" loading="lazy" />
+          <img src="assets/img/uni-14.webp" alt="Chamberlain University" loading="lazy" />
+          <img src="assets/img/uni-15.webp" alt="Walden University" loading="lazy" />
         </div>
       </div>
-
-
+    </section>
+    <section class="academic-section">
       <div class="container mt-5">
-        <div class="row align-items-center g-5">
+        <div class="row align-items-center">
           <!-- Right Image Placeholder -->
           <div class="col-lg-6" data-aos="fade-up">
             <div class="image-placeholder">
@@ -174,9 +129,9 @@ include 'include/header.php'; ?>
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3" style="color: #002a4d;">Get the Finest Help with Online Exam for All Subjects
+        <h1 class="fw-semibold mb-3" style="color: #002a4d;">Get the Finest Help with Online Exam for All Subjects
         </h1>
-        <p class="mx-auto mb-5" style="color: #002a4d;">
+        <p class="mx-auto mb-5 px-5" style="color: #002a4d;">
           Our experts can write your exam on any subject. We have a team of the most experienced and skilled exam
           helpers. They have in-depth knowledge and are qualified in their specialised fields. Check out our list of
           subjects below for which students require help with the exams.
@@ -186,7 +141,7 @@ include 'include/header.php'; ?>
           <div class="owl-carousel scroll-wrapper">
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Finance Exam Help</h3>
+                <h4 class="fw-bold">Finance Exam Help</h4>
                 <div class="card-content">
                   <p>
                     Our online <a href="#">finance course help</a> is your primary resource for excelling in your online
@@ -196,13 +151,13 @@ include 'include/header.php'; ?>
                     team is always prepared to provide the support you need to succeed in your online exams.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="rounded-pill mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Business Exam Help</h3>
+                <h4 class="fw-bold">Business Exam Help</h4>
                 <div class="card-content">
                   <p>
                     We at online <a href="#">business course assistance</a>
@@ -217,7 +172,7 @@ include 'include/header.php'; ?>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Nursing Exam Help</h3>
+                <h4 class="fw-bold">Nursing Exam Help</h4>
                 <div class="card-content">
                   <p>
                     Our <a href="#">US nursing course help</a> is your trusted resource for mastering your online
@@ -233,7 +188,7 @@ include 'include/header.php'; ?>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Philosophy Exam Help</h3>
+                <h4 class="fw-bold">Philosophy Exam Help</h4>
                 <div class="card-content">
                   <p>
                     At our online <a href="#">philosophy course help</a> , we have a team of experienced philosophy exam
@@ -249,7 +204,7 @@ include 'include/header.php'; ?>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Accounting Exam Help</h3>
+                <h4 class="fw-bold">Accounting Exam Help</h4>
                 <div class="card-content">
                   <p>
                     Do you find it difficult to understand numbers, formulas or reports? Is your online accounting exam
@@ -264,7 +219,7 @@ include 'include/header.php'; ?>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Statistics Exam Help</h3>
+                <h4 class="fw-bold">Statistics Exam Help</h4>
                 <div class="card-content">
                   <p>
                     <a href="#">Statistics online course help</a>
@@ -279,7 +234,7 @@ include 'include/header.php'; ?>
             </div>
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Algebra Exam Help</h3>
+                <h4 class="fw-bold">Algebra Exam Help</h4>
                 <div class="card-content">
                   <p>
                     The <a href="#">algebra online course assistance</a> is your top aid for succeeding in your online
@@ -293,7 +248,7 @@ include 'include/header.php'; ?>
             </div>
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Nursing Exam Help</h3>
+                <h4 class="fw-bold">Nursing Exam Help</h4>
                 <div class="card-content">
                   <p>
                     Our <a href="#">US Nursing course help</a>
@@ -308,7 +263,7 @@ include 'include/header.php'; ?>
             </div>
             <div class="course-card-container">
               <div class="course-card">
-                <h3>Management Exam Help</h3>
+                <h4 class="fw-bold">Management Exam Help</h4>
                 <div class="card-content">
                   <p>
                     Get the help you need to succeed in your online management exam with our <a href="#">management
@@ -352,7 +307,7 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-bold mb-4">
+            <h1 class="fw-medium mb-4">
               Pass Your Exams with Our Professional Online Exam Assistance in the USA.</span></h1>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
@@ -376,8 +331,8 @@ include 'include/header.php'; ?>
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3">Why Our Online Exam Help USA Is Every Student’s First Choice</h1>
-        <p class="mb-5 text-muted">
+        <h1 class="fw-medium px-5 mb-3">Why Our Online Exam Help USA Is Every Student’s First Choice</h1>
+        <p class="mb-5 px-5 text-muted">
           The main purpose of our online exam assistance is to help students succeed academically. We are leading
           students to achieve their high goals in their fields. Our 24/7 customer support can assist you anytime. You
           can hire us and get instant expert support for guaranteed success.
@@ -385,51 +340,57 @@ include 'include/header.php'; ?>
 
         <div class="row g-4 mb-5">
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-headset service-icon"></i>
-              <h3>Qualified Exam Experts</h3>
-              <p>Learn with subject matter experts who know your syllabus inside out and provide expert-level exam
+              <h3 class="fs-4">Qualified Exam Experts</h3>
+              <p class="fs-6">Learn with subject matter experts who know your syllabus inside out and provide
+                expert-level exam
                 assistance in all subjects.
               </p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-clock-rotate-left service-icon"></i>
-              <h3>All-Time
+              <h3 class="fs-4">All-Time
                 Experts Availability</h3>
-              <p>Access to competent professionals available 24/7 to help you when you need it, day or night.</p>
+              <p class="fs-6">Access to competent professionals available 24/7 to help you when you need it, day or
+                night.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-circle-info service-icon"></i>
-              <h3>Guaranteed A+ Performance</h3>
-              <p>We do not just help you score higher. Expect top grades, on-time submissions, and reliable academic
+              <h3 class="fs-4">Guaranteed A+ Performance</h3>
+              <p class="fs-6">We do not just help you score higher. Expect top grades, on-time submissions, and reliable
+                academic
                 excellence every time.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-dollar-sign service-icon"></i>
-              <h3>Affordable Pricing for All</h3>
-              <p>Good assistance should not be expensive. Savour the low prices and high-quality services to meet your
+              <h3 class="fs-4">Affordable Pricing for All</h3>
+              <p class="fs-6">Good assistance should not be expensive. Savour the low prices and high-quality services
+                to meet your
                 study objectives.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-file-word service-icon"></i>
-              <h3>100% Unique & Original Content</h3>
-              <p>All papers are original, plagiarism-free, and precisely aligned with your course requirements and
+              <h3 class="fs-4">100% Unique & Original Content</h3>
+              <p class="fs-6">All papers are original, plagiarism-free, and precisely aligned with your course
+                requirements and
                 guidelines.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-lock service-icon"></i>
-              <h3>Complete Privacy & Security</h3>
-              <p>We keep your data and your identity secure. We operate encrypted systems and tight confidentiality
+              <h3 class="fs-4">Complete Privacy & Security</h3>
+              <p class="fs-6">We keep your data and your identity secure. We operate encrypted systems and tight
+                confidentiality
                 protocols to provide you with complete peace of mind.</p>
             </div>
           </div>
@@ -489,11 +450,11 @@ include 'include/header.php'; ?>
     </section>
     <!-- Section  -->
     <!-- Support Blue Section  -->
-    <section class=" support-section py-5 bg-light">
+    <section class="support-section py-5 bg-light">
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
           <div class="col-lg-9" data-aos="fade-up">
-            <h2 class="fw-bold text-dark mb-3">Finance Course Helpers for All Course Platforms</h2>
+            <h1 class="fw-semibold text-navy mb-3">Finance Course Helpers for All Course Platforms</h1>
             <p class="text-secondary">Our finance course helpers USA offer confidential, affordable, and reliable
               support. We have been able to cover the entire range of major platforms, such as Aleks Pearson courses,
               etc., to make sure that students can acquire extra credits without any hurdle.</p>
@@ -628,7 +589,8 @@ include 'include/header.php'; ?>
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h2 class="fw-bold mb-4 text-white">Free Yourself from Exam Pressure by Saying Us to Finish My Exam for Me</h2>
+        <h1 class="fw-semibold px-5 mb-4 text-warning">Free Yourself from Exam Pressure by Saying Us to Finish My Exam
+          for Me</h1>
         <p>We are always ready to assist you in your exams. Ask us to complete my exam for me. We will respond to you
           immediately.</p>
         <div class="d-flex justify-content-center gap-3">
@@ -643,20 +605,20 @@ include 'include/header.php'; ?>
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h2 class="fw-bold mb-3">Do My Exam Professionally For All Educational Levels
-                </h2>
-                <p class="text-muted mb-5 mx-auto">
+                <h1 class="fw-semibold mb-3 px-5 text-navy">Do My Exam Professionally For All Educational Levels
+                </h1>
+                <p class="text-muted mb-5 px-5 mx-auto text-navy">
                   Need help with online exam? We support students of all academic levels across 1000+ universities,
                   colleges, and international academic boards and proficiency exams.
                 </p>
-                <div class="coverflow-swiper swiper my3dSwiper">
+                <div class="coverflow-swiper swiper my3dSwiper py-3">
                   <div class="h-100 swiper-wrapper">
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">High School Exam Help</h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Our online </span><a href="#"
+                          <h4 class="text-warning fw-bold mb-3">High School Exam Help</h4>
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Our online </span><a href="#"
                               class="text-warning"><span style="font-weight: 400">high school-level course assistance
                               </span></a><span style="font-weight: 400"> is created to help students who
                               want to enter the field of higher studies and scholarship development. Our professionals
@@ -669,11 +631,11 @@ include 'include/header.php'; ?>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">Undergraduate Level Exam Help</h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Struggling with your degree exam?
+                          <h4 class="text-warning fw-bold mb-3">Undergraduate Level Exam Help</h4>
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Struggling with your degree exam?
                               We offer complete help with undergraduate-level exams for students who strive to achieve
                               academic excellence without having to stress themselves in the process. Furthermore, we
                               offer professional online </span><a href="#" class="text-warning"><span
@@ -686,11 +648,11 @@ include 'include/header.php'; ?>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">Master's Level Exam Help</h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">At the online course helpers, we
+                          <h4 class="text-warning fw-bold mb-3">Master's Level Exam Help</h4>
+                          <p style="font-size: 14px;"><span style="font-weight: 400">At the online course helpers, we
                               offer expert exam help to graduate students with advanced theories, data-driven research
                               or project-based studies. Also, we offer complete </span><a href="#"
                               class="text-warning"><span style="font-weight: 400">master’s level course help
@@ -702,11 +664,11 @@ include 'include/header.php'; ?>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">Associative Level Exam Help</h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Our professionals at the </span><a
+                          <h4 class="text-warning fw-bold mb-3">Associative Level Exam Help</h4>
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Our professionals at the </span><a
                               href="#" class="text-warning"><span style="font-weight: 400">associate level course
                                 help</span></a><span style="font-weight: 400">
                               provide quality, well-formatted work in terms of exams,
@@ -718,11 +680,11 @@ include 'include/header.php'; ?>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">Doctorate Level Exam Help</h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Our&nbsp;</span><a href="#"
+                          <h4 class="text-warning fw-bold mb-3">Doctorate Level Exam Help</h4>
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Our&nbsp;</span><a href="#"
                               class="text-warning"><span style="font-weight: 400">doctoral-level course help
                                 USA&nbsp;</span></a><span style="font-weight: 400">offer specialised exam assistance to
                               research-oriented students
@@ -774,7 +736,7 @@ include 'include/header.php'; ?>
     <!-- Section  -->
     <section class="py-5 bg-white">
       <div class="container text-center" data-aos="fade-up">
-        <h2 class="fw-bold mb-2">What Our Clients Say about Our Online Exam Help</h2>
+        <h2 class="fw-semibold mb-2">What Our Clients Say about Our Online Exam Help</h2>
         <p class="text-muted mb-5">Check out feedback from real students who used online exam help US for their exams.
           See what people think about our services. </p>
 
@@ -792,7 +754,8 @@ include 'include/header.php'; ?>
                 looking for reliable online exam help USA for their exam.
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Brenda Garcia</h6>
                   <small class="opacity-50">New York</small>
@@ -810,7 +773,8 @@ include 'include/header.php'; ?>
                 the exam within the given timeline. Their professional team of expert writers helped me achieve an A
                 grade. I would definitely hire them again.</p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">John Farr</h6>
                   <small class="opacity-50">Seattle</small>
@@ -828,7 +792,8 @@ include 'include/header.php'; ?>
                 best writers. I was stuck with my biology exam, and they helped me to pass my online biology exam with
                 an A grade. Highly recommended.</p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
                     Freddy Griffith</h6>
@@ -849,7 +814,8 @@ include 'include/header.php'; ?>
                 highly effective content.
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Mark Herr</h6>
                   <small class="opacity-50">Houston</small>
@@ -868,7 +834,8 @@ include 'include/header.php'; ?>
                 plagiarism and scored an A+ in my online exam.
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Elizabeth Wiggins</h6>
                   <small class="opacity-50">San Diego</small>
@@ -887,7 +854,8 @@ include 'include/header.php'; ?>
                 Course Helpers provided detailed solutions and helped me improve my aggregate scores.
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
                     Kathy Gessner
@@ -943,107 +911,112 @@ include 'include/header.php'; ?>
           <div class="left-box col-lg-7 p-5 rounded-start-3">
             <h2 class="fw-bold mb-4">Frequently Asked Questions</h2>
             <p>Find answers to some of the most commonly asked questions regarding our online exam help in the USA</p>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q1">
-                    Can you provide online exam assistance on an urgent basis?
-                  </button>
-                </h2>
-                <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">Yes, we can. Our writers can help you finish your exam on an urgent
-                    basis. We generally respond to your issue within 24-48 hours, but as per your urgency, experts can
-                    assist accordingly. Though it depends on the length and requirements of the exams.</div>
+            <div class="d-flex flex-column gap-3">
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q1">
+                      Can you provide online exam assistance on an urgent basis?
+                    </button>
+                  </h2>
+                  <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0"
+                    data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">Yes, we can. Our writers can help you finish your exam on an urgent
+                      basis. We generally respond to your issue within 24-48 hours, but as per your urgency, experts can
+                      assist accordingly. Though it depends on the length and requirements of the exams.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q2">
-                    Do you provide exam help in all subjects?
-                  </button>
-                </h2>
-                <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">Yes, we cover all the subjects. However, if any subject or topic
-                    isn’t covered in the given list, you can take the help of our customer support staff. They are
-                    available 24/7 to resolve your issue.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q2">
+                      Do you provide exam help in all subjects?
+                    </button>
+                  </h2>
+                  <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">Yes, we cover all the subjects. However, if any subject or topic
+                      isn’t covered in the given list, you can take the help of our customer support staff. They are
+                      available 24/7 to resolve your issue.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q3">
-                    How qualified are your exam helpers?
-                  </button>
-                </h2>
-                <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-2">Our online exam assistants hold advanced academic degrees like
-                    Master’s, PhD, or equivalent, and have 10+ years of experience in providing smart and accurate
-                    academic solutions in their respective fields.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q3">
+                      How qualified are your exam helpers?
+                    </button>
+                  </h2>
+                  <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-2">Our online exam assistants hold advanced academic degrees like
+                      Master’s, PhD, or equivalent, and have 10+ years of experience in providing smart and accurate
+                      academic solutions in their respective fields.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q4">
-                    What is the cost of your online exam helper services?
-                  </button>
-                </h2>
-                <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">The cost of our online exam service depends on several factors, such
-                    as subject complexity, type of support needed, exam format, and the overall urgency. Rest assured,
-                    our services are very affordable and come with a lot of freebies. </div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q4">
+                      What is the cost of your online exam helper services?
+                    </button>
+                  </h2>
+                  <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">The cost of our online exam service depends on several factors,
+                      such
+                      as subject complexity, type of support needed, exam format, and the overall urgency. Rest assured,
+                      our services are very affordable and come with a lot of freebies. </div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q5">
-                    Are there any guarantees for a grade if I pay someone to do my online exam?
-                  </button>
-                </h2>
-                <div id="q5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">When students reach out to our experts by saying do my online exam
-                    for me, they commit to providing the best support and resources to enhance their chances of success
-                    in their online exam and ensure proper time management. Our expert assistance is tailored to
-                    streamline one’s student life so they achieve a minimum B and strive for good grades. </div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q5">
+                      Are there any guarantees for a grade if I pay someone to do my online exam?
+                    </button>
+                  </h2>
+                  <div id="q5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">When students reach out to our experts by saying do my online exam
+                      for me, they commit to providing the best support and resources to enhance their chances of
+                      success
+                      in their online exam and ensure proper time management. Our expert assistance is tailored to
+                      streamline one’s student life so they achieve a minimum B and strive for good grades. </div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q6">
-                    Will I get timely updates while my online exam is being taken?
-                  </button>
-                </h2>
-                <div id="q6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">Yes, we keep you updated every moment to ensure that your online
-                    exams are in safe hands. You can also contact our support team for timely updates.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q6">
+                      Will I get timely updates while my online exam is being taken?
+                    </button>
+                  </h2>
+                  <div id="q6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">Yes, we keep you updated every moment to ensure that your online
+                      exams are in safe hands. You can also contact our support team for timely updates.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q7">
-                    How do you keep my identity safe while taking my online exam?
-                  </button>
-                </h2>
-                <div id="q7" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">When you ask, Who can do my online exam, we ensure confidentiality
-                    measures to keep your details private, ensuring no risk to your academic journey
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q7">
+                      How do you keep my identity safe while taking my online exam?
+                    </button>
+                  </h2>
+                  <div id="q7" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">When you ask, Who can do my online exam, we ensure confidentiality
+                      measures to keep your details private, ensuring no risk to your academic journey
+                    </div>
                   </div>
                 </div>
               </div>
@@ -1054,36 +1027,36 @@ include 'include/header.php'; ?>
             <ul class="list-unstyled">
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Title Page</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Reference Page</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> In-text Citation</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Plagiarism Check</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Unlimited Revisions</span>
-                <span class="badge bg-success rounded-pill px-3">
+                <span class="badge bg-warning text-dark rounded-pill px-3">
                   Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Editing &amp; Proofreading</span>
-                <span class="badge bg-success rounded-pill px-3">
+                <span class="badge bg-warning text-dark rounded-pill px-3">
                   Free</span>
               </li>
             </ul>
             <div class="text-center mt-5">
-              <p>Get all features for <a href="#" class="text-success me-2">FREE</a></p>
+              <p>Get all features for <a href="#" class="text-warning me-2">FREE</a></p>
             </div>
             <div class="text-center mt-3">
-              <button class="btn btn-success fw-bold rounded-pill px-5">Place an order</button>
+              <button class="btn btn-warning fw-bold rounded-pill px-5">Place an order</button>
             </div>
           </div>
         </div>

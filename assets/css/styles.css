@@ -66,11 +66,7 @@ body {
   left: 0;
   right: 0;
   content: "";
-  background: linear-gradient(135deg,
-      #002e3a 0%,
-      #004057 60%,
-      rgb(0, 60, 83) 80%,
-      #f3ef00 120%);
+  background: linear-gradient(135deg, #002a4d 0%, #001e36 60%, rgb(0 26 48) 80%, #f3ef00 120%);
   z-index: 1;
   opacity: 0.925;
 }
@@ -140,7 +136,7 @@ body {
 }
 
 .navbar.scrolled {
-  background-color: #002e3a !important;
+  background-color: #002a4d !important;
 }
 
 
@@ -329,7 +325,9 @@ body {
 
 .image-placeholder {
   background: transparent;
-  aspect-ratio: 1 / 1;
+  width: 100%;
+  aspect-ratio: 1 / 1.1;
+  border-radius: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -449,8 +447,7 @@ body {
   scroll-snap-type: x mandatory;
   padding-bottom: 20px;
   touch-action: pan-y;
-  max-width: 1100px;
-  margin: auto;
+  max-width: 100%;
 }
 
 .horizontal-scroll-wrapper::-webkit-scrollbar {
@@ -465,8 +462,10 @@ body {
 
 .course-card-container {
   flex: 0 0 350px;
-  max-width: 350px;
+  max-width: 100%;
   overflow: hidden;
+  align-items: center;
+  justify-content: center;
 }
 
 .course-card {
@@ -585,7 +584,7 @@ body {
   background: #ffffff;
   position: relative;
   width: 100%;
-  height: 50px;
+  height: 40px;
   z-index: 0;
   box-sizing: border-box;
 }
@@ -599,7 +598,7 @@ body {
   width: 100%;
   height: 30px;
   z-index: -1;
-  transform: translate(0px, -100%);
+  transform: translate(0px, -90%);
   transform-origin: top left;
   border-top-left-radius: 100% 80px;
   border-top-right-radius: 100% 80px;
@@ -756,13 +755,7 @@ body {
   margin: 0 auto;
 }
 
-.image-placeholder {
-  width: 100%;
-  max-width: 500px;
-  aspect-ratio: 1 / 1.1;
-  border-radius: 40px;
-  margin: 0 auto;
-}
+
 
 .custom-shape-divider-bottom-1768583792 {
   position: absolute;
@@ -803,7 +796,6 @@ body {
   gap: 10px;
   max-height: 100vh;
   overflow-y: auto;
-  padding-right: 15px;
 }
 
 .inner-box-content h2,
@@ -831,15 +823,12 @@ td {
   z-index: 1;
 }
 
-.smart-learning {
-  padding: 0 8rem;
-}
 
 .bg-innerbox-content::before {
   position: absolute;
   content: '';
   inset: 0;
-  background-color: #002e3a;
+  background-color: #00334d;
   z-index: -1;
   opacity: calc(0.93);
 }
@@ -927,7 +916,7 @@ td {
 .support-box {
   background: linear-gradient(180deg, #005fad 0%, #003464 100%);
   color: #ffffff;
-  height: 50vh;
+  min-height: 400px;
   /* Stretches to the height of the tallest box */
   display: flex;
   flex-direction: column;
@@ -968,7 +957,15 @@ td {
   }
 
   .trusted-by-logo {
-    height: 24px;
+    height: 44px;
+  }
+
+  .navbar-toggler {
+    outline: none;
+  }
+
+  .navbar-toggler:focus {
+    box-shadow: none;
   }
 
   .limited-offer-badge {
@@ -982,7 +979,7 @@ td {
   .btn-call,
   .btn-chat,
   .btn-darkcyan {
-    font-size: 10px;
+    font-size: 15px;
   }
 
   .heading-title {
@@ -1002,7 +999,6 @@ td {
   }
 
   .image-placeholder {
-    max-width: 350px;
     border-width: 10px;
     margin-top: 30px;
   }

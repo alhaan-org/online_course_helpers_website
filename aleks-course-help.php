@@ -14,10 +14,10 @@ include 'include/header.php'; ?>
     <!-- Hero Section -->
     <section class="hero-section">
       <div class="container" data-aos="fade-up">
-        <div class="row container">
+        <div class="row d-lg-flex align-items-center justify-content-between">
           <!-- Left Content -->
           <div class="col-lg-8">
-            <h1 class="hero-title mb-4" style="font-size: clamp(2rem, 5vw, 2.25rem);">
+            <h1 class="hero-title mb-4" style="font-size: clamp(2.25rem, 5vw, 2.75rem);">
               Most Affordable Online Aleks Help in the USA for Extra Credits
             </h1>
             <p class="hero-text mb-4">
@@ -26,7 +26,7 @@ include 'include/header.php'; ?>
               earn additional credits efficiently.
             </p>
 
-            <div class="d-flex flex-wrap gap-3 mb-4">
+            <div class="d-flex flex-sm-column flex-lg-row flex-wrap gap-3 mb-4">
               <p class="feature-item">
                 <i class="fa fa-file feature-icon"></i>
                 <span>Original content</span>
@@ -44,7 +44,7 @@ include 'include/header.php'; ?>
             <div class="d-flex align-items-center flex-wrap gap-3 mb-4">
               <small class="trusted-by">Trusted By:</small>
               <div class="d-flex gap-3 align-items-center">
-                 <img src="assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
+                <img src="assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
               </div>
             </div>
 
@@ -54,37 +54,7 @@ include 'include/header.php'; ?>
           </div>
           <!-- Right Form -->
           <div class="col-lg-4">
-            <div class="hero-form-card">
-              <div class="limited-offer-badge">
-                <img src="assets/img/limited-offer-1024x613.webp" alt="Limited Offer" />
-              </div>
-              <h4 class="mb-4 text-center fw-bold text-dark">
-                Save Upto 50% On First Order
-              </h4>
-              <form id="contactForm">
-                <div class="mb-3">
-                  <input type="text" class="form-control" id="name" placeholder="Name" required />
-                </div>
-                <div class="mb-3">
-                  <input type="email" class="form-control" id="email" placeholder="Email" required />
-                </div>
-                <div class="mb-3">
-                  <input type="tel" class="form-control" id="phone" placeholder="Phone No" required />
-                </div>
-                <div class="mb-4">
-                  <select class="form-select" id="service" required>
-                    <option value="" disabled selected>Select Service</option>
-                    <option value="1">Online Class</option>
-                    <option value="2">Online Course</option>
-                    <option value="3">Assignments</option>
-                    <option value="4">Dissertation</option>
-                  </select>
-                </div>
-                <button type="submit" class="btn btn-submit">
-                  Send
-                </button>
-              </form>
-            </div>
+            <?php include 'include/form.php' ?>
           </div>
         </div>
       </div>
@@ -96,45 +66,30 @@ include 'include/header.php'; ?>
       </div>
     </section>
     <!-- Trust Section -->
-    <section class="academic-section">
-      <div class="slider-images-container" data-aos="fade-up">
+    <section clss="slider-section-university">
+      <div class="container col-12" data-aos="fade-up">
         <div class="slider-images owl-carousel owl-theme">
-          <img src="/assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-1.webp" alt="University of Arizona" loading="lazy" />
+          <img src="assets/img/uni-2.webp" alt="University of Buffalo" loading="lazy" />
+          <img src="assets/img/uni-3.webp" alt="University of Pheonix" loading="lazy" />
+          <img src="assets/img/uni-4.webp" alt="Embry Riddle Aeronautical University" loading="lazy" />
+          <img src="assets/img/uni-5.webp" alt="CUNY School of Professional Studies" loading="lazy" />
+          <img src="assets/img/uni-6.webp" alt="Capitol Technology University" loading="lazy" />
+          <img src="assets/img/uni-7.webp" alt="Capella University" loading="lazy" />
+          <img src="assets/img/uni-8.webp" alt="Ashford University" loading="lazy" />
+          <img src="assets/img/uni-9.webp" alt="Florida State University" loading="lazy" />
+          <img src="assets/img/uni-10.webp" alt="ASU" loading="lazy" />
+          <img src="assets/img/uni-11 (1).webp" alt="Oregon State University" loading="lazy" />
+          <img src="assets/img/uni-12.webp" alt="OhioState" loading="lazy" />
+          <img src="assets/img/uni-13.webp" alt="Grand Canyon University" loading="lazy" />
+          <img src="assets/img/uni-14.webp" alt="Chamberlain University" loading="lazy" />
+          <img src="assets/img/uni-15.webp" alt="Walden University" loading="lazy" />
         </div>
       </div>
-
-
+    </section>
+    <section class="academic-section">
       <div class="container mt-5">
-        <div class="row align-items-center g-5">
+        <div class="row align-items-center">
           <!-- Right Image Placeholder -->
           <div class="col-lg-6" data-aos="fade-up">
             <div class="image-placeholder">

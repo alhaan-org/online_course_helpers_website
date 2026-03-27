@@ -15,8 +15,8 @@
             </button>
 
             <!-- Navigation Items -->
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav mx-auto gap-0 gap-lg-3 align-items-start align-items-lg-center">
+            <div class="navbar-collapse collapse py-3 show" id="navbarNav">
+                <ul class="navbar-nav mx-auto gap-2 gap-lg-3 p-2 align-items-start align-items-lg-center">
                     <li class="nav-item">
                         <a class="nav-link" href="/">Home</a>
                     </li>

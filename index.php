@@ -11,7 +11,7 @@
     <!-- Hero Section -->
     <section class="hero-section">
       <div class="container" data-aos="fade-up">
-        <div class="row d-lg-flex align-items-center justify-content-center gap-lg-5">
+        <div class="row d-lg-flex align-items-center justify-content-between">
           <!-- Left Content -->
           <div class="col-lg-6">
             <h1 class="hero-title mb-4" style="font-size: clamp(2.25rem, 5vw, 2.75rem);">
@@ -24,7 +24,7 @@
               additional credits fast.
             </p>
 
-            <div class="d-flex flex-wrap gap-3 mb-4">
+            <div class="d-flex flex-column flex-lg-row gap-3 mb-4">
               <p class="feature-item">
                 <i class="fa fa-file feature-icon"></i>
                 <span>Original content</span>
@@ -46,43 +46,13 @@
               </div>
             </div>
 
-            <button class="btn btn-primary-custom" onclick="Tawk_API.toggle()">
+            <button class="btn btn-primary-custom px-5 py-3" onclick="Tawk_API.toggle()">
               Live Chat <i class="fa fa-comments ms-2"></i>
             </button>
           </div>
           <!-- Right Form -->
           <div class="col-lg-4">
-            <div class="hero-form-card">
-              <div class="limited-offer-badge">
-                <img src="assets/img/limited-offer-1024x613.webp" alt="Limited Offer" />
-              </div>
-              <h4 class="mb-4 text-center fw-bold text-dark">
-                Save Upto 50% On First Order
-              </h4>
-              <form id="contactForm">
-                <div class="mb-3">
-                  <input type="text" class="form-control" id="name" placeholder="Name" required />
-                </div>
-                <div class="mb-3">
-                  <input type="email" class="form-control" id="email" placeholder="Email" required />
-                </div>
-                <div class="mb-3">
-                  <input type="tel" class="form-control" id="phone" placeholder="Phone No" required />
-                </div>
-                <div class="mb-4">
-                  <select class="form-select" id="service" required>
-                    <option value="" disabled selected>Select Service</option>
-                    <option value="1">Online Class</option>
-                    <option value="2">Online Course</option>
-                    <option value="3">Assignments</option>
-                    <option value="4">Dissertation</option>
-                  </select>
-                </div>
-                <button type="submit" class="btn btn-submit">
-                  Send
-                </button>
-              </form>
-            </div>
+            <?php include 'include/form.php' ?>
           </div>
         </div>
       </div>
@@ -94,8 +64,8 @@
       </div>
     </section>
     <!-- Trust Section -->
-    <section class="academic-section">
-      <div class="slider-images-container" data-aos="fade-up">
+    <section clss="slider-section-university">
+      <div class="container col-12" data-aos="fade-up">
         <div class="slider-images owl-carousel owl-theme">
           <img src="assets/img/uni-1.webp" alt="University of Arizona" loading="lazy" />
           <img src="assets/img/uni-2.webp" alt="University of Buffalo" loading="lazy" />
@@ -114,9 +84,10 @@
           <img src="assets/img/uni-15.webp" alt="Walden University" loading="lazy" />
         </div>
       </div>
-
+    </section>
+    <section class="academic-section">
       <div class="container mt-5">
-        <div class="row align-items-center g-5">
+        <div class="row align-items-center">
           <!-- Right Image Placeholder -->
           <div class="col-lg-6" data-aos="fade-up">
             <div class="image-placeholder">
@@ -139,8 +110,8 @@
               online course for you, make sure it is Online Course Helpers.
             </p>
             <div class="d-flex gap-3 flex-wrap">
-              <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
-              <button class="btn btn-chat"><i class="fa fa-comments me-2"></i>Live Chat</button>
+              <button class="btn btn-call px-5 py-3"><i class="fa fa-phone me-2"></i>Live Call</button>
+              <button class="btn btn-chat px-5 py-3"><i class="fa fa-comments me-2"></i>Live Chat</button>
             </div>
           </div>
         </div>
@@ -215,7 +186,6 @@
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
               </div>
             </div>
-
             <div class="course-card-container">
               <div class="course-card">
                 <h4 class="fw-bold">Accounting Course Help</h4>
@@ -319,7 +289,7 @@
 
         <div class="row g-4 mb-5">
           <div class="col-md-4">
-            <div class="service-box p-5">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-headset service-icon"></i>
               <h3 class="fs-4">Qualified Course Experts</h3>
               <p class="small">Learn with subject matter experts who know your syllabus inside out and provide
@@ -423,17 +393,16 @@
               </div>
             </div>
           </div>
-
         </div>
       </div>
     </section>
     <!-- Remaining Sections -->
     <?php include 'include/platforms_decider.php' ?>
     <!-- Section  -->
-    <section class="py-5 bg-white smart-learning">
-      <div class="d-flex mb-5 px-3">
+    <section class="container bg-white smart-learning">
+      <div class="d-flex mb-5 py-5">
         <div class="bg-innerbox-content text-white p-5 rounded-5 overflow-hidden position-relative">
-          <div class="row align-items-center">
+          <div class="row">
             <div class="w-100 ml-3">
               <div class="inner-box custom-scrollbar">
                 <section class="inner-box-content">
@@ -910,8 +879,9 @@
         </div>
 
         <div class="mt-5 d-flex justify-content-center gap-3">
-          <button class="btn btn-call fw-bold rounded-pill">Live Call <i class="fa fa-phone ms-2"></i></button>
-          <button class="btn btn-chat fw-bold rounded-pill" onclick="Tawk_API.toggle()">Live Chat <i
+          <button class="btn btn-call fw-bold rounded-pill px-5 py-3">Live Call <i
+              class="fa fa-phone ms-2"></i></button>
+          <button class="btn btn-chat fw-bold rounded-pill px-5 py-3" onclick="Tawk_API.toggle()">Live Chat <i
               class="fa fa-comments ms-2"></i></button>
         </div>
       </div>
@@ -941,7 +911,8 @@
           </div>
         </div>
         <div class="text-center mt-4">
-          <button class="btn btn-call fw-bold rounded-pill">Live Call <i class="fa fa-phone ms-2"></i></button>
+          <button class="btn btn-call fw-bold rounded-pill px-5 py-3">Live Call <i
+              class="fa fa-phone ms-2"></i></button>
         </div>
       </div>
     </section>

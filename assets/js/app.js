@@ -14,15 +14,21 @@ $(document).ready(function () {
     responsive: {
       0: {
         loop: true,
-        items: 1.5,
+        items: 1,
         center: true,
+        margin: 10,
       },
-
+      456: {
+        loop: true,
+        items: 1.3,
+        center: true,
+        margin: 10,
+      },
       992: {
         loop: true,
-        margin: 5,
+        margin: 30,
         items: 3,
-        center: false,
+        center: true,
       },
     },
   });

@@ -18,7 +18,7 @@
             <div class="navbar-collapse collapse py-3 show" id="navbarNav">
                 <ul class="navbar-nav mx-auto gap-2 gap-lg-3 p-2 align-items-start align-items-lg-center">
                     <li class="nav-item">
-                        <a class="nav-link" href="/">Home</a>
+                        <a class="nav-link" href="https://intangible.solutions/online-course-helpers/">Home</a>
                     </li>
 
                     <li class="nav-item dropdown">

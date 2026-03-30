@@ -3,6 +3,7 @@
 
 <?php
 $pageTitle = "McGraw Hill Course Help | Connect Homework, Quizzes & Exam";
+$pageDescription = "Get expert McGraw Hill Course Help for Connect assignments, quizzes, exams, and homework. Hire reliable tutors online to complete your coursework on time.";
 include 'include/header.php'; ?>
 
 <body>
@@ -13,10 +14,10 @@ include 'include/header.php'; ?>
     <!-- Hero Section -->
     <section class="hero-section">
       <div class="container" data-aos="fade-up">
-        <div class="row container">
+        <div class="row d-lg-flex align-items-center justify-content-between">
           <!-- Left Content -->
-          <div class="col-lg-8">
-            <h1 class="hero-title mb-4" style="font-size: clamp(2rem, 5vw, 2.25rem);">
+          <div class="col-lg-6">
+            <h1 class="hero-title mb-4" style="font-size: clamp(2.25rem, 5vw, 2.75rem);">
               Online McGraw-Hill Course Help By Qualified Experts in USA
             </h1>
             <p class="hero-text mb-4">
@@ -65,43 +66,28 @@ include 'include/header.php'; ?>
       </div>
     </section>
     <!-- Trust Section -->
-    <section class="academic-section">
-      <div class="slider-images-container" data-aos="fade-up">
+    <section clss="slider-section-university">
+      <div class="container col-12" data-aos="fade-up">
         <div class="slider-images owl-carousel owl-theme">
-          <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-1.webp" alt="University of Arizona" loading="lazy" />
+          <img src="assets/img/uni-2.webp" alt="University of Buffalo" loading="lazy" />
+          <img src="assets/img/uni-3.webp" alt="University of Pheonix" loading="lazy" />
+          <img src="assets/img/uni-4.webp" alt="Embry Riddle Aeronautical University" loading="lazy" />
+          <img src="assets/img/uni-5.webp" alt="CUNY School of Professional Studies" loading="lazy" />
+          <img src="assets/img/uni-6.webp" alt="Capitol Technology University" loading="lazy" />
+          <img src="assets/img/uni-7.webp" alt="Capella University" loading="lazy" />
+          <img src="assets/img/uni-8.webp" alt="Ashford University" loading="lazy" />
+          <img src="assets/img/uni-9.webp" alt="Florida State University" loading="lazy" />
+          <img src="assets/img/uni-10.webp" alt="ASU" loading="lazy" />
+          <img src="assets/img/uni-11 (1).webp" alt="Oregon State University" loading="lazy" />
+          <img src="assets/img/uni-12.webp" alt="OhioState" loading="lazy" />
+          <img src="assets/img/uni-13.webp" alt="Grand Canyon University" loading="lazy" />
+          <img src="assets/img/uni-14.webp" alt="Chamberlain University" loading="lazy" />
+          <img src="assets/img/uni-15.webp" alt="Walden University" loading="lazy" />
         </div>
       </div>
-
-
+    </section>
+    <section class="academic-section">
       <div class="container mt-5">
         <div class="row align-items-center g-5">
           <!-- Right Image Placeholder -->
@@ -138,7 +124,7 @@ include 'include/header.php'; ?>
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3" style="color: #002a4d;">Best Help With McGraw-Hill Course For All Subjects
+        <h1 class="fw-semibold mb-3" style="color: #002a4d;">Best Help With McGraw-Hill Course For All Subjects
         </h1>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Comprehensive support in all McGraw-Hill subjects; get one-on-one help, improve your grades, and earn
@@ -149,8 +135,8 @@ include 'include/header.php'; ?>
           <div class="owl-carousel scroll-wrapper">
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Calculus Course Help</h3>
+                <h4 class="fw-bold">
+                  Calculus Course Help</h4>
                 <div class="card-content">
                   <p>
                     Having difficulty with derivatives or integrals? Our McGraw-Hill<a href="calculus-course-help">
@@ -161,14 +147,14 @@ include 'include/header.php'; ?>
                     professional help at a reasonable price.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Algebra Course Help</h3>
+                <h4 class="fw-bold">
+                  Algebra Course Help</h4>
                 <div class="card-content">
                   <p>
                     Get professional <a href="algebra-course-help"> algebra course help</a> for
@@ -179,14 +165,14 @@ include 'include/header.php'; ?>
                     services will enable you to be algebra savvy.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="rounded-pill mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Chemistry Course Help</h3>
+                <h4 class="fw-bold">
+                  Chemistry Course Help</h4>
                 <div class="card-content">
                   <p>
                     Thinking to pay someone to do my McGraw-Hill course for me? Our McGraw-Hill course help can help you
@@ -196,14 +182,14 @@ include 'include/header.php'; ?>
                     who understand the area in and out, and earn additional credits efficiently.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="rounded-pill mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Accounting Course Help</h3>
+                <h4 class="fw-bold">
+                  Accounting Course Help</h4>
                 <div class="card-content">
                   <p>
                     Access stress-free <a href="accounting-course-help"> accounting course
@@ -214,14 +200,14 @@ include 'include/header.php'; ?>
                     coursework.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="rounded-pill mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Math Course Help</h3>
+                <h4 class="fw-bold">
+                  Math Course Help</h4>
                 <div class="card-content">
                   <p>
                     Our <a href="math-course-help"> math course help</a> simplify every formula
@@ -231,14 +217,14 @@ include 'include/header.php'; ?>
                     is now a click away; you can earn additional credits using the online course helpers.
                   </p>
                 </div>
-                <button class=" mt-5 btn btn-dark">Live Chat</button>
+                <button class="rounded-pill mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Finance Course Help</h3>
+                <h4 class="fw-bold">
+                  Finance Course Help</h4>
                 <div class="card-content">
                   <p>
                     Need professional <a href="finance-course-help"> finance course help</a>? We
@@ -249,13 +235,13 @@ include 'include/header.php'; ?>
                     low-cost, professional advice.
                   </p>
                 </div>
-                <button class=" mt-5 btn btn-dark">Live Chat</button>
+                <button class="rounded-pill mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Business Course Help</h3>
+                <h4 class="fw-bold">
+                  Business Course Help</h4>
                 <div class="card-content">
                   <p>
                     Our business course helps simplify all world problems as well as tricky numbers. Online McGraw-Hill
@@ -265,13 +251,13 @@ include 'include/header.php'; ?>
                     just a single click away.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="rounded-pill mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Humanities and Social Science Course Help</h3>
+                <h4 class="fw-bold">
+                  Humanities and Social Science Course Help</h4>
                 <div class="card-content">
                   <p>
                     Need humanities and social science help? We help with exploring human culture, society,
@@ -282,7 +268,7 @@ include 'include/header.php'; ?>
                     our help.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="rounded-pill mt-5 btn btn-dark">Live Chat</button>
               </div>
             </div>
           </div>
@@ -316,7 +302,7 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-bold mb-4">
+            <h1 class="fw-medium mb-4">
               Can You Do My McGraw-Hill Course With Guaranteed Top Grades? Yes, We Can.</h1>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
@@ -340,7 +326,7 @@ include 'include/header.php'; ?>
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3">Our Reliable McGraw-Hill Course Help Services: Beyond Fast-paced Credits</h1>
+        <h1 class="fw-medium px-5 mb-3">Our Reliable McGraw-Hill Course Help Services: Beyond Fast-paced Credits</h1>
         <p class="mb-5 text-muted">
           Our services range from personalised aid in all respects to data protection and for additional credits, which
           are intended to provide the students with an advantage in all facets of their studies.
@@ -348,52 +334,58 @@ include 'include/header.php'; ?>
 
         <div class="row g-4 mb-5">
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-headset service-icon"></i>
-              <h3>Qualified McGraw-Hill
+              <h3 class="fs-4">Qualified McGraw-Hill
                 Course Experts</h3>
-              <p>Learn with expert McGraw-Hill course takers who know your syllabus inside out and provide expert-level
+              <p class="fs-6">Learn with expert McGraw-Hill course takers who know your syllabus inside out and provide
+                expert-level
                 assistance in all subjects.
               </p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-clock-rotate-left service-icon"></i>
-              <h3>All-Time
+              <h3 class="fs-4">All-Time
                 Experts Availability</h3>
-              <p>Access to competent professionals available 24/7 to help you when you need it, day or night.</p>
+              <p class="fs-6">Access to competent professionals available 24/7 to help you when you need it, day or
+                night.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-circle-info service-icon"></i>
-              <h3>Guaranteed A+ Performance</h3>
-              <p>We do not just help you score higher. Expect top grades, on-time submissions, and reliable academic
+              <h3 class="fs-4">Guaranteed A+ Performance</h3>
+              <p class="fs-6">We do not just help you score higher. Expect top grades, on-time submissions, and reliable
+                academic
                 excellence every time.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-dollar-sign service-icon"></i>
-              <h3>Affordable Pricing for All</h3>
-              <p>Good assistance should not be expensive. Savour the low prices and high-quality services to meet your
+              <h3 class="fs-4">Affordable Pricing for All</h3>
+              <p class="fs-6">Good assistance should not be expensive. Savour the low prices and high-quality services
+                to meet your
                 study objectives.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-file-word service-icon"></i>
-              <h3>100% Unique & Original Content</h3>
-              <p>All papers are original, plagiarism-free, and precisely aligned with your course requirements and
+              <h3 class="fs-4">100% Unique & Original Content</h3>
+              <p class="fs-6">All papers are original, plagiarism-free, and precisely aligned with your course
+                requirements and
                 guidelines.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-lock service-icon"></i>
-              <h3>Complete Privacy & Security</h3>
-              <p>We keep your data and your identity secure. We operate encrypted systems and tight confidentiality
+              <h3 class="fs-4">Complete Privacy & Security</h3>
+              <p class="fs-6">We keep your data and your identity secure. We operate encrypted systems and tight
+                confidentiality
                 protocols to provide you with complete peace of mind.</p>
             </div>
           </div>
@@ -417,9 +409,9 @@ include 'include/header.php'; ?>
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h2 class="fw-bold mb-4 text-navy">
+            <h1 class="fw-semibold mb-4 text-navy">
               Can You Take My Alex Middle School Course For Me At Cheap Price
-            </h2>
+            </h1>
             <p class="mb-5">
               Aleks is an adaptive assessment platform used in middle school math curricula, evaluating skills in
               algebra, geometry, statistics and more through personalized learning modules. This course covers topics in
@@ -447,7 +439,6 @@ include 'include/header.php'; ?>
               </div>
             </div>
           </div>
-
         </div>
       </div>
     </section>
@@ -457,7 +448,8 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
           <div class="col-lg-9" data-aos="fade-up">
-            <h2 class="fw-bold text-dark mb-3">Expert McGraw-Hill Course Help For Various Educational Levels</h2>
+            <h2 class="fw-semibold px-5 text-navy mb-3">Expert McGraw-Hill Course Help For Various Educational Levels
+            </h2>
             <p class="text-secondary">Get expert help with McGraw-Hill course. We provide 24/7 service and dedicated
               support, including online course assignments, quizzes, and assessments, for all educational levels.
             </p>
@@ -535,7 +527,7 @@ include 'include/header.php'; ?>
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h2 class="fw-bold mb-4 text-white">Need Help with McGraw-Hill Course? Hire Experienced Professionals</h2>
+        <h1 class="fw-semibold mb-4 text-warning">Need Help with McGraw-Hill Course? Hire Experienced Professionals</h1>
         <p>Get expert help with your McGraw-Hill course. We provide 24/7 service and dedicated support with McGraw-Hill
           course assignments, quizzes and assessments for domains.</p>
         <div class="d-flex justify-content-center gap-3">
@@ -547,12 +539,14 @@ include 'include/header.php'; ?>
     </section>
 <!-- Section  -->
 
-
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h2 class="fw-bold mb-3">Achieve Academic Excellence with Reliable McGraw-Hill Course Help in the USA
-                </h2>
-                <p class="text-muted mb-5 mx-auto">
+                <h1 class="fw-semibold text-navy px-5 mb-3">Achieve Academic Excellence with Reliable McGraw-Hill Course
+                  Help in
+                  the
+                  USA
+                </h1>
+                <p class="text-muted px-5 mb-5 mx-auto">
                   Your interaction with the McGraw-Hill Connect learning platform is easy and tension-free at <a
                     href="/">Online
                     Course Helpers.</a> Our USA-certified McGraw-Hill professionals help you with all your courses,
@@ -561,15 +555,15 @@ include 'include/header.php'; ?>
                   precise, and done in time, as we assist you in attaining more credits and performing excellently in
                   academic objectives without straining
                 </p>
-                <div class="coverflow-swiper swiper my3dSwiper">
+                <div class="coverflow-swiper swiper my3dSwiper py-5">
                   <div class="h-100 swiper-wrapper">
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
                             High School McGraw-Hill Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Our </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/high-school-level-course-help/"><span
                                 style="font-weight: 400">high school-level course help</span></a><span
                               style="font-weight: 400"> in McGraw-Hill assists students in mastering the basics of math,
@@ -581,12 +575,12 @@ include 'include/header.php'; ?>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
                             Associate Level McGraw-Hill Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">The </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">The </span><a
                               href="https://onlinecoursehelpers.com/associate-level-course-help/"><span
                                 style="font-weight: 400">associate-level course help</span></a><span
                               style="font-weight: 400"> offered by McGraw-Hill is one of the choices that students
@@ -599,12 +593,12 @@ include 'include/header.php'; ?>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
                             Undergraduate Level McGraw-Hill Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">We assist with all </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">We assist with all </span><a
                               href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"><span
                                 style="font-weight: 400">undergraduate level course help</span></a><span
                               style="font-weight: 400">, such as Business Math, College Algebra and Microeconomics. Our
@@ -615,12 +609,12 @@ include 'include/header.php'; ?>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
                             Master’s Level McGraw-Hill Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">In the case of graduate students,
+                          <p style="font-size: 14px;"><span style="font-weight: 400">In the case of graduate students,
                               our </span><a href="https://onlinecoursehelpers.com/masters-level-course-help/"><span
                                 style="font-weight: 400">master's level course help</span></a><span
                               style="font-weight: 400">s us use the McGraw-Hill course, which provides us with
@@ -632,12 +626,12 @@ include 'include/header.php'; ?>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level McGraw-Hill Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">The assistance of our </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">The assistance of our </span><a
                               href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
                                 style="font-weight: 400">doctoral-level course help</span></a><span
                               style="font-weight: 400"> is designed to assist scholars who conduct research or analysis
@@ -689,7 +683,7 @@ include 'include/header.php'; ?>
     <!-- Section  -->
     <section class="py-5 bg-white">
       <div class="container text-center" data-aos="fade-up">
-        <h2 class="fw-bold mb-2">What Students Say About Our Online McGraw-Hill Course Help</h2>
+        <h2 class="fw-semibold text-navy mb-2">What Students Say About Our Online McGraw-Hill Course Help</h2>
         <p class="text-muted mb-5">Real experiences – Real results. See the way we have offered students success in
           their online courses through expert assistance.</p>
 
@@ -708,7 +702,8 @@ include 'include/header.php'; ?>
                 services.
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Ahsan</h6>
                   <small class="opacity-50">New York</small>
@@ -728,7 +723,8 @@ include 'include/header.php'; ?>
                 to worry about my fast-paced credits.
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Hannah</h6>
                   <small class="opacity-50">Seattle</small>
@@ -748,7 +744,8 @@ include 'include/header.php'; ?>
                 assignments and grades. I was able to focus on my job while they took care of my courses, and I have
                 earned extra college credits with ease.</p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
                     Anna
@@ -769,7 +766,8 @@ include 'include/header.php'; ?>
                 Helpers for my calculus course. They are true professionals, and they made the process so easy.
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
                     Ella
@@ -790,7 +788,8 @@ include 'include/header.php'; ?>
                 and were always willing to help with any questions I had. I was able to focus on other things and still
                 get good extra credits. Thank you, Online Course Helpers. </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Hannah</h6>
                   <small class="opacity-50">San Diego</small>
@@ -809,7 +808,8 @@ include 'include/header.php'; ?>
                 online exams, and I saw a huge improvement in my grades. Their team is professional, and the service is
                 worth every penny. Highly recommended! </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
                     Anna
@@ -866,95 +866,104 @@ include 'include/header.php'; ?>
             <h2 class="fw-bold mb-4">Frequently Asked Questions</h2>
             <p>Explore our most frequently asked questions to learn more about our McGraw-Hill course help. It’s fast,
               secure, and stress-free.</p>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q1">
-                    How does your online McGraw-Hill course help service work?
-                  </button>
-                </h2>
-                <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">Our online McGraw Hill Course help service is designed to provide
-                    personalised academic support for students taking McGraw-Hill courses. Simply contact Online Course
-                    Helpers, the best online McGraw-Hill course help service, with details about your McGraw-Hill
-                    course, and we’ll match you with a qualified tutor who will assist you with understanding course
-                    materials, completing assignments, passing your exams and earning additional credits.</div>
+            <div class="d-flex flex-column gap-3">
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q1">
+                      How does your online McGraw-Hill course help service work?
+                    </button>
+                  </h2>
+                  <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0"
+                    data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">Our online McGraw Hill Course help service is designed to provide
+                      personalised academic support for students taking McGraw-Hill courses. Simply contact Online
+                      Course
+                      Helpers, the best online McGraw-Hill course help service, with details about your McGraw-Hill
+                      course, and we’ll match you with a qualified tutor who will assist you with understanding course
+                      materials, completing assignments, passing your exams and earning additional credits.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q2">
-                    Is your McGraw-Hill course help service confidential and secure?
-                  </button>
-                </h2>
-                <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">Absolutely. We value your privacy. Your information is never shared,
-                    and we work with encrypted systems. Your name and coursework remain 100 per cent confidential at all
-                    times.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q2">
+                      Is your McGraw-Hill course help service confidential and secure?
+                    </button>
+                  </h2>
+                  <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">Absolutely. We value your privacy. Your information is never
+                      shared,
+                      and we work with encrypted systems. Your name and coursework remain 100 per cent confidential at
+                      all
+                      times.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q3">
-                    What subjects do you offer McGraw-Hill course help for?
-                  </button>
-                </h2>
-                <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-2">We offer the best McGraw-Hill course help for a wide range of
-                    subjects, including math, business, accounting, calculus, finance, algebra, chemistry and more. Our
-                    team of the best online McGraw-Hill course takers covers a diverse array of questions to meet your
-                    needs when you ask us to take your McGraw-Hill course for you.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q3">
+                      What subjects do you offer McGraw-Hill course help for?
+                    </button>
+                  </h2>
+                  <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-2">We offer the best McGraw-Hill course help for a wide range of
+                      subjects, including math, business, accounting, calculus, finance, algebra, chemistry and more.
+                      Our
+                      team of the best online McGraw-Hill course takers covers a diverse array of questions to meet your
+                      needs when you ask us to take your McGraw-Hill course for you.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q4">
-                    Can I hire someone to take multiple McGraw-Hill courses at once?
-                  </button>
-                </h2>
-                <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">Yes! Our expert online McGraw-Hill course takers can handle the
-                    number of courses simultaneously: assignments, quizzes, exams, and everything. All you do is pass on
-                    your schedule, and we will take care of everything from beginning to end.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q4">
+                      Can I hire someone to take multiple McGraw-Hill courses at once?
+                    </button>
+                  </h2>
+                  <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">Yes! Our expert online McGraw-Hill course takers can handle the
+                      number of courses simultaneously: assignments, quizzes, exams, and everything. All you do is pass
+                      on
+                      your schedule, and we will take care of everything from beginning to end.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q5">
-                    How do I know the work will be plagiarism-free?
-                  </button>
-                </h2>
-                <div id="q5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">At the Online Course Helpers, we compose all the assignments from
-                    scratch and scan every task with high-quality plagiarism software. You will always get original and
-                    high-quality work that satisfies your academic requirements.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q5">
+                      How do I know the work will be plagiarism-free?
+                    </button>
+                  </h2>
+                  <div id="q5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">At the Online Course Helpers, we compose all the assignments from
+                      scratch and scan every task with high-quality plagiarism software. You will always get original
+                      and
+                      high-quality work that satisfies your academic requirements.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q6">
-                    What happens if I’m not satisfied with the results?
-                  </button>
-                </h2>
-                <div id="q6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">We provide revisions and a money-back guarantee. Not satisfied, we
-                    will make it right quickly or refund your money according to our policy.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q6">
+                      What happens if I’m not satisfied with the results?
+                    </button>
+                  </h2>
+                  <div id="q6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">We provide revisions and a money-back guarantee. Not satisfied, we
+                      will make it right quickly or refund your money according to our policy.</div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -964,36 +973,36 @@ include 'include/header.php'; ?>
             <ul class="list-unstyled">
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Title Page</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Reference Page</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> In-text Citation</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Plagiarism Check</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Unlimited Revisions</span>
-                <span class="badge bg-success rounded-pill px-3">
+                <span class="badge bg-warning text-dark rounded-pill px-3">
                   Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Editing &amp; Proofreading</span>
-                <span class="badge bg-success rounded-pill px-3">
+                <span class="badge bg-warning text-dark rounded-pill px-3">
                   Free</span>
               </li>
             </ul>
             <div class="text-center mt-5">
-              <p>Get all features for <a href="#" class="text-success me-2">FREE</a></p>
+              <p>Get all features for <a href="#" class="text-warning me-2">FREE</a></p>
             </div>
             <div class="text-center mt-3">
-              <button class="btn btn-success fw-bold rounded-pill px-5">Place an order</button>
+              <button class="btn btn-warning fw-bold rounded-pill px-5">Place an order</button>
             </div>
           </div>
         </div>

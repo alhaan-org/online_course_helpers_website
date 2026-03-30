@@ -17,7 +17,7 @@ include 'include/header.php'; ?>
         <div class="row d-lg-flex align-items-center justify-content-between">
           <!-- Left Content -->
           <div class="col-lg-6">
-            <h1 class="hero-title mb-4" style="font-size: clamp(2rem, 5vw, 2.25rem);">
+            <h1 class="hero-title mb-4" style="font-size: clamp(2.25rem, 5vw, 2.75rem);">
               USA’s Best Online Pearson Course Help Service By Pearson Experts
             </h1>
             <p class="hero-text mb-4">
@@ -66,25 +66,7 @@ include 'include/header.php'; ?>
     </section>
     <!-- Trust Section -->
     <section clss="slider-section-university">
-      <div class="container col-12" data-aos="fade-up">
-        <div class="slider-images owl-carousel owl-theme">
-          <img src="assets/img/uni-1.webp" alt="University of Arizona" loading="lazy" />
-          <img src="assets/img/uni-2.webp" alt="University of Buffalo" loading="lazy" />
-          <img src="assets/img/uni-3.webp" alt="University of Pheonix" loading="lazy" />
-          <img src="assets/img/uni-4.webp" alt="Embry Riddle Aeronautical University" loading="lazy" />
-          <img src="assets/img/uni-5.webp" alt="CUNY School of Professional Studies" loading="lazy" />
-          <img src="assets/img/uni-6.webp" alt="Capitol Technology University" loading="lazy" />
-          <img src="assets/img/uni-7.webp" alt="Capella University" loading="lazy" />
-          <img src="assets/img/uni-8.webp" alt="Ashford University" loading="lazy" />
-          <img src="assets/img/uni-9.webp" alt="Florida State University" loading="lazy" />
-          <img src="assets/img/uni-10.webp" alt="ASU" loading="lazy" />
-          <img src="assets/img/uni-11 (1).webp" alt="Oregon State University" loading="lazy" />
-          <img src="assets/img/uni-12.webp" alt="OhioState" loading="lazy" />
-          <img src="assets/img/uni-13.webp" alt="Grand Canyon University" loading="lazy" />
-          <img src="assets/img/uni-14.webp" alt="Chamberlain University" loading="lazy" />
-          <img src="assets/img/uni-15.webp" alt="Walden University" loading="lazy" />
-        </div>
-      </div>
+
     </section>
     <section class="academic-section">
       <div class="container mt-5">
@@ -407,9 +389,9 @@ include 'include/header.php'; ?>
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h2 class="fw-bold mb-4 text-navy">
+            <h1 class="fw-bold mb-4 text-navy">
               Get Professional Help With Pearson Quizzes and Tests At Cheap Price
-            </h2>
+            </h1>
             <p class="mb-5">
               If your Pearson course is too hard or you just don’t have time, that’s okay. You can think to pay someone
               to take my Pearson course for me, and we will get started. Our team will handle everything in your course.
@@ -433,7 +415,7 @@ include 'include/header.php'; ?>
           <div class="col-lg-5">
             <div class="hero-image-frame">
               <div class="cheap-price-section-image-placeholder">
-                <img src="/assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help" loading="lazy" />
+                <img src="assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help" loading="lazy" />
               </div>
             </div>
           </div>
@@ -447,7 +429,7 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
           <div class="col-lg-9" data-aos="fade-up">
-            <h2 class="fw-bold text-dark mb-3">Take My Pearson Course To Earn Additional Credits</h2>
+            <h2 class="fw-semibold px-5 text-navy mb-3">Take My Pearson Course To Earn Additional Credits</h2>
             <p class="text-secondary">Thinking to pay someone to take my Pearson course for me? We provide many types of
               help so that your Pearson course becomes easier to manage.
             </p>
@@ -516,8 +498,10 @@ include 'include/header.php'; ?>
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h2 class="fw-bold mb-4 text-white">Need Help with the Pearson Course? Hire Experienced Professional</h2>
-        <p>Get expert help with your Pearson course. We provide 24/7 service and dedicated support with Pearson course
+        <h1 class="fw-semibold mb-4 text-warning px-5">Need Help with the Pearson Course? Hire Experienced Professional
+        </h1>
+        <p class="px-5">Get expert help with your Pearson course. We provide 24/7 service and dedicated support with
+          Pearson course
           assignments, quizzes and assessments for domains.</p>
         <div class="d-flex justify-content-center gap-3">
           <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
@@ -531,66 +515,73 @@ include 'include/header.php'; ?>
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h2 class="fw-bold mb-3">Excel Academically with Expert Pearson Course Help in the USA
-                </h2>
-                <p class="text-muted mb-5 mx-auto">
+                <h1 class="fw-bold mb-3 px-5 text-navy">Excel Academically with Expert Pearson Course Help in the USA
+                </h1>
+                <p class="text-muted px-5 mb-5 mx-auto">
                   Turn your Pearson learning experience into an easy and stress-free experience with <a>Online Course
-                    Helpers</a>. Our professional Pearson experts take you through assignments, quizzes, and exams with
+                    Helpers</a>. Our professional Pearson experts take you through assignments, quizzes, and exams
+                  with
                   absolute accuracy and originality. Students have completed their course on time and to the highest
-                  academic standards, earned some additional credits, and achieved their goals with confidence, all the
+                  academic standards, earned some additional credits, and achieved their goals with confidence, all
+                  the
                   way through.
                 </p>
-                <div class="coverflow-swiper swiper my3dSwiper">
+                <div class="coverflow-swiper swiper my3dSwiper py-5">
                   <div class="h-100 swiper-wrapper">
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
 
                             High School Pearson Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">The </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">The </span><a
                               href="https://onlinecoursehelpers.com/high-school-level-course-help/"><span
                                 style="font-weight: 400">high school-level course help</span></a><span
                               style="font-weight: 400"> is offered to students who have mastered the basics of math,
                               science, and English, based on the interactive learning products of Pearson. Our
                               specialists offer individual care, homework, and test-taking, as well as classwork, from
-                              Algebra and Geometry to Literature and Biology. Step-by-step guidance makes students feel
-                              confident, develop critical thinking, and be ready to succeed at the college level.</span>
+                              Algebra and Geometry to Literature and Biology. Step-by-step guidance makes students
+                              feel
+                              confident, develop critical thinking, and be ready to succeed at the college
+                              level.</span>
                           </p>
                         </div>
                       </div>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style=" background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
 
                             Associate Level Pearson Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Advance your education with us with
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Advance your education with us
+                              with
                             </span><a href="https://onlinecoursehelpers.com/associate-level-course-help/"><span
                                 style="font-weight: 400">associate-level course help</span></a><span
                               style="font-weight: 400">. In Business, Accounting, Chemistry, and Statistics, our
                               U.S.-based experts work on assignments, research, and case studies. You can very easily
-                              enhance your academic knowledge, improve your GPA, and receive valuable college credits in
+                              enhance your academic knowledge, improve your GPA, and receive valuable college credits
+                              in
                               fewer years with customized help.</span></p>
                         </div>
                       </div>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style=" background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
 
                             Undergraduate Level Pearson Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Our </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"><span
                                 style="font-weight: 400">undergraduate level course help</span></a><span
-                              style="font-weight: 400"> concentrates on complicated topics such as the College Algebra,
+                              style="font-weight: 400"> concentrates on complicated topics such as the College
+                              Algebra,
                               Microeconomics, Psychology, and Data Analysis. We assist you in handling courses, online
                               quizzes, and discussion posts in an efficient manner, being precise, confidential, and
                               timely. Allow our professionals to make your Pearson course easy, and you, as a student,
@@ -600,32 +591,33 @@ include 'include/header.php'; ?>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style=" background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
 
                             Master’s Level Pearson Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">In the case of graduate students,
+                          <p style="font-size: 14px;"><span style="font-weight: 400">In the case of graduate students,
                               our </span><a href="https://onlinecoursehelpers.com/masters-level-course-help/"><span
                                 style="font-weight: 400">masters level course help</span></a><span
                               style="font-weight: 400"> offers advanced support in terms of research, analytical
                               reasoning and quantitative projects. Our Pearson professionals provide individualized
                               plans and learning experiences that provide your course with the best graduate quality.
-                              Study complicated theories and graduate with a quality program under good tutelage.</span>
+                              Study complicated theories and graduate with a quality program under good
+                              tutelage.</span>
                           </p>
                         </div>
                       </div>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style=" background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
 
                             Doctorate-Level Pearson Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Our </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
                                 style="font-weight: 400">doctoral-level course help</span></a><span
                               style="font-weight: 400"> provides specialized support to research scholars on
@@ -696,7 +688,8 @@ include 'include/header.php'; ?>
                 there to answer my questions. I’m so relieved I found them and will definitely use their services again!
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Ahsan</h6>
                   <small class="opacity-50">New York</small>
@@ -717,7 +710,8 @@ include 'include/header.php'; ?>
                 for their help!
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Hannah</h6>
                   <small class="opacity-50">Seattle</small>
@@ -736,7 +730,8 @@ include 'include/header.php'; ?>
                 with precision and care. The service is affordable, reliable, and the customer support is fantastic. I
                 couldn’t have done it without them!</p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
                     Anna
@@ -760,7 +755,8 @@ include 'include/header.php'; ?>
 
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
                     Ella
@@ -783,7 +779,8 @@ include 'include/header.php'; ?>
                 what they promised. I am so happy with their service!
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Hannah</h6>
                   <small class="opacity-50">San Diego</small>
@@ -804,7 +801,8 @@ include 'include/header.php'; ?>
                 fast-paced credits. The team of online Pearson course takers was professional, responsive, and
                 knowledgeable. I couldn't have asked for a better experience! </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
                     Annar
@@ -862,95 +860,102 @@ include 'include/header.php'; ?>
             <p>Explore our most frequently asked questions to learn more about our Pearson course help. It’s fast,
               secure,
               and stress-free.</p>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q1">
-                    How does your online Pearson course help service work?
-                  </button>
-                </h2>
-                <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">Our online Pearson class help service is designed to provide
-                    personalised academic support for students taking Pearson courses. Simply contact Online Course
-                    Helpers, the best online Pearson course help service, with details about your Pearson course, and
-                    we’ll match you with a qualified tutor who will assist you with understanding course materials,
-                    completing assignments, passing your exams and earning additional credits. </div>
+            <div class="d-flex flex-column gap-3">
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q1">
+                      How does your online Pearson course help service work?
+                    </button>
+                  </h2>
+                  <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0"
+                    data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">Our online Pearson class help service is designed to provide
+                      personalised academic support for students taking Pearson courses. Simply contact Online Course
+                      Helpers, the best online Pearson course help service, with details about your Pearson course, and
+                      we’ll match you with a qualified tutor who will assist you with understanding course materials,
+                      completing assignments, passing your exams and earning additional credits. </div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q2">
-                    Is your Pearson course help service confidential and secure?
-                  </button>
-                </h2>
-                <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">Absolutely. We value your privacy. Your information is never shared,
-                    and we work with encrypted systems. Your name and coursework remain 100 per cent confidential at all
-                    times.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q2">
+                      Is your Pearson course help service confidential and secure?
+                    </button>
+                  </h2>
+                  <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">Absolutely. We value your privacy. Your information is never
+                      shared,
+                      and we work with encrypted systems. Your name and coursework remain 100 per cent confidential at
+                      all
+                      times.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q3">
-                    What subjects do you offer Pearson class help for?
-                  </button>
-                </h2>
-                <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-2">We offer the best Pearson course help for a wide range of subjects,
-                    including math, business, accounting, calculus, finance, algebra, chemistry and more. Our team of
-                    the best online Pearson course takers covers a diverse array of questions to meet your needs when
-                    you ask us to take your online Alex course for you.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q3">
+                      What subjects do you offer Pearson class help for?
+                    </button>
+                  </h2>
+                  <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-2">We offer the best Pearson course help for a wide range of subjects,
+                      including math, business, accounting, calculus, finance, algebra, chemistry and more. Our team of
+                      the best online Pearson course takers covers a diverse array of questions to meet your needs when
+                      you ask us to take your online Alex course for you.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q4">
-                    Can I hire someone to take multiple Pearson courses at once?
-                  </button>
-                </h2>
-                <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">Yes! Our expert online Pearson course takers can handle the number of
-                    courses simultaneously: assignments, quizzes, exams, and everything. All you do is pass on your
-                    schedule, and we will take care of everything from beginning to end.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q4">
+                      Can I hire someone to take multiple Pearson courses at once?
+                    </button>
+                  </h2>
+                  <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">Yes! Our expert online Pearson course takers can handle the number
+                      of
+                      courses simultaneously: assignments, quizzes, exams, and everything. All you do is pass on your
+                      schedule, and we will take care of everything from beginning to end.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q5">
-                    How do I know the work will be plagiarism-free?
-                  </button>
-                </h2>
-                <div id="q5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">At the Online Course Helpers, we compose all the assignments from
-                    scratch and scan every task with high-quality plagiarism software. You will always get original and
-                    high-quality work that satisfies your academic requirements.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q5">
+                      How do I know the work will be plagiarism-free?
+                    </button>
+                  </h2>
+                  <div id="q5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">At the Online Course Helpers, we compose all the assignments from
+                      scratch and scan every task with high-quality plagiarism software. You will always get original
+                      and
+                      high-quality work that satisfies your academic requirements.</div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q6">
-                    What happens if I’m not satisfied with the results?
-                  </button>
-                </h2>
-                <div id="q6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">We provide revisions and a money-back guarantee. Not satisfied, we
-                    will make it right quickly or refund your money according to our policy.</div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q6">
+                      What happens if I’m not satisfied with the results?
+                    </button>
+                  </h2>
+                  <div id="q6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">We provide revisions and a money-back guarantee. Not satisfied, we
+                      will make it right quickly or refund your money according to our policy.</div>
+                  </div>
                 </div>
               </div>
             </div>

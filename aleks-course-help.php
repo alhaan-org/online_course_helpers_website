@@ -16,7 +16,7 @@ include 'include/header.php'; ?>
       <div class="container" data-aos="fade-up">
         <div class="row d-lg-flex align-items-center justify-content-between">
           <!-- Left Content -->
-          <div class="col-lg-8">
+          <div class="col-lg-6">
             <h1 class="hero-title mb-4" style="font-size: clamp(2.25rem, 5vw, 2.75rem);">
               Most Affordable Online Aleks Help in the USA for Extra Credits
             </h1>
@@ -124,7 +124,7 @@ include 'include/header.php'; ?>
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3" style="color: #002a4d;">Best Help With Aleks Course For All Subjects
+        <h1 class="fw-semibold mb-3" style="color: #002a4d;">Best Help With Aleks Course For All Subjects
         </h1>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Comprehensive support in all Aleks subjects; get one-on-one help, improve your grades, and earn additional
@@ -135,8 +135,8 @@ include 'include/header.php'; ?>
           <div class="owl-carousel scroll-wrapper">
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Calculus Course Help</h3>
+                <h4 class="fw-bold">
+                  Calculus Course Help</h4>
                 <div class="card-content">
                   <p>
                     Having difficulty with derivatives or integrals? Our <a href="/calculus-course-help"
@@ -147,14 +147,14 @@ include 'include/header.php'; ?>
                     at a reasonable price.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  College Algebra Course Help</h3>
+                <h4 class="fw-bold">
+                  College Algebra Course Help</h4>
                 <div class="card-content">
                   <p>
                     Get professional <a href="/algebra-course-help" class="efheadinglink">college algebra course
@@ -165,14 +165,14 @@ include 'include/header.php'; ?>
                     services will enable you to be college algebra savvy.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Organic Chemistry Course Help</h3>
+                <h4 class="fw-bold">
+                  Organic Chemistry Course Help</h4>
                 <div class="card-content">
                   <p>
                     Thinking to pay someone to do my Aleks course for me? Our Aleks course help can help you with
@@ -182,14 +182,14 @@ include 'include/header.php'; ?>
                     the area in and out, and earn additional credits efficiently.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Accounting Course Help</h3>
+                <h4 class="fw-bold">
+                  Accounting Course Help</h4>
                 <div class="card-content">
                   <p>
                     Access stress-free <a href="#">accounting course
@@ -200,14 +200,14 @@ include 'include/header.php'; ?>
                     coursework.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Math Course Help</h3>
+                <h4 class="fw-bold">
+                  Math Course Help</h4>
                 <div class="card-content">
                   <p>
                     Our <a href="#"">math course help</a> simplify every formula
@@ -217,14 +217,14 @@ include 'include/header.php'; ?>
                     click away; you can earn additional credits using the online course helpers.
                   </p>
                 </div>
-                <button class=" mt-5 btn btn-dark">Live Chat</button>
+                <button class=" mt-5 btn btn-dark rounded-pill">Live Chat</button>
                 </div>
               </div>
 
               <div class="course-card-container">
                 <div class="course-card">
-                  <h3>
-                    Finance Course Help</h3>
+                  <h4 class="fw-bold">
+                    Finance Course Help</h4>
                   <div class="card-content">
                     <p>
                       Need professional <a href="#">finance course help</a>? We
@@ -235,13 +235,13 @@ include 'include/header.php'; ?>
                       with low-cost, professional advice.
                     </p>
                   </div>
-                  <button class="mt-5 btn btn-dark">Live Chat</button>
+                  <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
                 </div>
               </div>
               <div class="course-card-container">
                 <div class="course-card">
-                  <h3>
-                    Business Math Course Help</h3>
+                  <h4 class="fw-bold">
+                    Business Math Course Help</h4>
                   <div class="card-content">
                     <p>
                       Our business math course helps simplify all world problems as well as tricky numbers. Online Aleks
@@ -251,13 +251,13 @@ include 'include/header.php'; ?>
                       assistance is just a single click away.
                     </p>
                   </div>
-                  <button class="mt-5 btn btn-dark">Live Chat</button>
+                  <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
                 </div>
               </div>
               <div class="course-card-container">
                 <div class="course-card">
-                  <h3>
-                    Statistics Course Help</h3>
+                  <h4 class="fw-bold">
+                    Statistics Course Help</h4>
                   <div class="card-content">
                     <p>
                       Need <a href="#">statistics course help</a>? We help
@@ -267,7 +267,7 @@ include 'include/header.php'; ?>
                       and more affordable to earn additional credits in your statistics course with our help.
                     </p>
                   </div>
-                  <button class="mt-5 btn btn-dark">Live Chat</button>
+                  <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
                 </div>
               </div>
             </div>
@@ -301,7 +301,7 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-bold mb-4">
+            <h1 class="fw-medium mb-4">
               Can You Do My ALEKS Course With Guaranteed Top Grades? Yes, We Can.</h1>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
@@ -325,60 +325,66 @@ include 'include/header.php'; ?>
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3">Our Reliable Aleks Course Help Services: Beyond Fast-paced Credits</h1>
-        <p class="mb-5 text-muted">
+        <h1 class="fw-medium px-5 mb-3">Our Reliable Aleks Course Help Services: Beyond Fast-paced Credits</h1>
+        <p class="mb-5 px-5 text-muted">
           Our services range from personalised aid in all respects to data protection and for additional credits, which
           are intended to provide the students with an advantage in all facets of their studies.
         </p>
 
         <div class="row g-4 mb-5">
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-headset service-icon"></i>
-              <h3>Qualified
+              <h3 class="fs-4">Qualified
                 Aleks Course Experts</h3>
-              <p>Learn with expert Aleks course takers who know your syllabus inside out and provide expert-level
+              <p class="fs-6">Learn with expert Aleks course takers who know your syllabus inside out and provide
+                expert-level
                 assistance in all subjects.
               </p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-clock-rotate-left service-icon"></i>
-              <h3>All-Time
+              <h3 class="fs-4">All-Time
                 Experts Availability</h3>
-              <p>Access to competent professionals available 24/7 to help you when you need it, day or night.</p>
+              <p class="fs-6">Access to competent professionals available 24/7 to help you when you need it, day or
+                night.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-circle-info service-icon"></i>
-              <h3>Guaranteed A+ Performance</h3>
-              <p>We do not just help you score higher. Expect top grades, on-time submissions, and reliable academic
+              <h3 class="fs-4">Guaranteed A+ Performance</h3>
+              <p class="fs-6">We do not just help you score higher. Expect top grades, on-time submissions, and reliable
+                academic
                 excellence every time.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-dollar-sign service-icon"></i>
-              <h3>Affordable Pricing for All</h3>
-              <p>Good assistance should not be expensive. Savour the low prices and high-quality services to meet your
+              <h3 class="fs-4">Affordable Pricing for All</h3>
+              <p class="fs-6">Good assistance should not be expensive. Savour the low prices and high-quality services
+                to meet your
                 study objectives.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-file-word service-icon"></i>
-              <h3>100% Unique & Original Content</h3>
-              <p>All papers are original, plagiarism-free, and precisely aligned with your course requirements and
+              <h3 class="fs-4">100% Unique & Original Content</h3>
+              <p class="fs-6">All papers are original, plagiarism-free, and precisely aligned with your course
+                requirements and
                 guidelines.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-lock service-icon"></i>
-              <h3>Complete Privacy & Security</h3>
-              <p>We keep your data and your identity secure. We operate encrypted systems and tight confidentiality
+              <h3 class="fs-4">Complete Privacy & Security</h3>
+              <p class="fs-6">We keep your data and your identity secure. We operate encrypted systems and tight
+                confidentiality
                 protocols to provide you with complete peace of mind.</p>
             </div>
           </div>
@@ -442,7 +448,7 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
           <div class="col-lg-9" data-aos="fade-up">
-            <h2 class="fw-bold text-dark mb-3">Expert Aleks Course Helpers For All Education Levels</h2>
+            <h2 class="fw-semibold text-navy mb-3">Expert Aleks Course Helpers For All Education Levels</h2>
             <p class="text-secondary">Get top Aleks course helpers to earn easy credits with full confidentiality. We
               provide 24/7 service and dedicated support, including online course assignments, quizzes, and assessments,
               for all education levels.
@@ -522,24 +528,25 @@ include 'include/header.php'; ?>
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h2 class="fw-bold mb-3">Achieve Academic Success with Reliable ALEKS Course Help for Extra Credits
+                <h2 class="fw-semibold mb-3 px-5 text-navy">Achieve Academic Success with Reliable ALEKS Course Help for
+                  Extra Credits
                 </h2>
-                <p class="text-muted mb-5 mx-auto">
+                <p class="text-muted mb-5 px-5 mx-auto text-navy">
                   <a href="#">Online Course Helpers</a> simplify your experience with ALEKS and make it rewarding. Our
                   U.S.
                   professionals help you through each step to accomplish your course effectively and with honesty.
                   Graduate at your own pace as we assist you in gaining more credits and mastering all the ALEKS
                   subjects, worry-free and guaranteed.
                 </p>
-                <div class="coverflow-swiper swiper my3dSwiper">
+                <div class="coverflow-swiper swiper my3dSwiper py-3">
                   <div class="h-100 swiper-wrapper">
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
                             High School ALEKS Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Our </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/high-school-level-course-help/"
                               class="text-warning"><span style="font-weight: 400">high school-level course
                                 help</span></a><span style="font-weight: 400"> is designed to assist students who have
@@ -553,12 +560,12 @@ include 'include/header.php'; ?>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
                             Associate Level ALEKS Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Get your knowledge of essential
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Get your knowledge of essential
                               academic concepts to the
                               next level with </span><a
                               href="https://onlinecoursehelpers.com/associate-level-course-help/"><span
@@ -572,12 +579,12 @@ include 'include/header.php'; ?>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
                             Undergraduate Level ALEKS Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Our </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"><span
                                 style="font-weight: 400">undergraduate level course help</span></a><span
                               style="font-weight: 400">s make sure that you are up to date with such sophisticated
@@ -590,12 +597,12 @@ include 'include/header.php'; ?>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
                             Master’s Level ALEKS Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Our </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/masters-level-course-help/"><span
                                 style="font-weight: 400">masters level course help</span></a><span
                               style="font-weight: 400"> is also available to learners who address more complex tasks of
@@ -607,12 +614,12 @@ include 'include/header.php'; ?>
                     </div>
 
                     <div class="swiper-slide">
-                      <div class="coverflow-card card h-70 h-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 15px;">
+                      <div class="ccoverflow-card vh-50 vh-md-100 text-white p-4"
+                        style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level ALEKS Course Help </h5>
-                          <p style="font-size: 12px;"><span style="font-weight: 400">Our </span><a
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
                               href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
                                 style="font-weight: 400">doctoral-level course help</span></a><span
                               style="font-weight: 400"> supports research-based scholars. Our ALEKS specialists provide
@@ -665,7 +672,7 @@ include 'include/header.php'; ?>
     <!-- Section  -->
     <section class="py-5 bg-white">
       <div class="container text-center" data-aos="fade-up">
-        <h2 class="fw-bold mb-2">What Students Say About Our Online Aleks Course Help</h2>
+        <h2 class="fw-semibold mb-2">What Students Say About Our Online Aleks Course Help</h2>
         <p class="text-muted mb-5">Real experiences – Real results. See the way we have offered students success in
           their online courses through expert assistance. </p>
 
@@ -683,7 +690,8 @@ include 'include/header.php'; ?>
                 knowledge that will benefit me in the future. Thank you, Online Course Helpers!
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Ahsan</h6>
                   <small class="opacity-50">New York</small>
@@ -702,7 +710,8 @@ include 'include/header.php'; ?>
                 reliable support!
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Hannah</h6>
                   <small class="opacity-50">Seattle</small>
@@ -722,7 +731,8 @@ include 'include/header.php'; ?>
                 problem is wrong on your tests helped tremendously as well. The Online Course Help’s Aleks course help
                 service exceeded my expectations. Highly recommended.</p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
                     Anna
@@ -745,7 +755,8 @@ include 'include/header.php'; ?>
                 my academic goals!
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
                     Ella
@@ -766,7 +777,8 @@ include 'include/header.php'; ?>
                 plagiarism and scored an A+ in my online exam.
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Hannah</h6>
                   <small class="opacity-50">San Diego</small>
@@ -785,7 +797,8 @@ include 'include/header.php'; ?>
                 I’m so thankful!
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
                     Annar
@@ -842,134 +855,143 @@ include 'include/header.php'; ?>
             <h2 class="fw-bold mb-4">Frequently Asked Questions</h2>
             <p>Explore our most frequently asked questions to learn more about our Aleks course help. It’s fast, secure,
               and stress-free.</p>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q1">
-                    How does your online Aleks course help service work?
-                  </button>
-                </h2>
-                <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">Our online Aleks class help service is designed to provide
-                    personalised academic support for students taking Aleks courses. Simply contact Online Course
-                    Helpers, the best online Aleks course help service, with details about your Aleks course, and we’ll
-                    match you with a qualified tutor who will assist you with understanding course materials, completing
-                    assignments, passing your exams and earning additional credits.</div>
+            <div class="d-flex flex-column gap-3">
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q1">
+                      How does your online Aleks course help service work?
+                    </button>
+                  </h2>
+                  <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0"
+                    data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">Our online Aleks class help service is designed to provide
+                      personalised academic support for students taking Aleks courses. Simply contact Online Course
+                      Helpers, the best online Aleks course help service, with details about your Aleks course, and
+                      we’ll
+                      match you with a qualified tutor who will assist you with understanding course materials,
+                      completing
+                      assignments, passing your exams and earning additional credits.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q2">
+                      Is your Aleks course help service confidential and secure?
+                    </button>
+                  </h2>
+                  <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">Absolutely. We value your privacy. Your information is never
+                      shared,
+                      and we work with encrypted systems. Your name and coursework remain 100 per cent confidential at
+                      all
+                      times.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q3">
+                      What subjects do you offer Aleks class help for?
+                    </button>
+                  </h2>
+                  <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-2">We offer the best Aleks course help for a wide range of subjects,
+                      including math, business math, accounting, calculus, finance, statistics, college algebra, organic
+                      chemistry and more. Our team of the best online Aleks course takers covers a diverse array of
+                      questions to meet your needs when you ask us to take your online Alex course for you.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q4">
+                      Can I hire someone to take multiple Aleks courses at once?
+                    </button>
+                  </h2>
+                  <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">Yes! Our expert online Aleks course takers can handle the number of
+                      courses simultaneously: assignments, quizzes, exams, and everything. All you do is pass on your
+                      schedule, and we will take care of everything from beginning to end. </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q5">
+                      How do I know the work will be plagiarism-free?
+                    </button>
+                  </h2>
+                  <div id="q5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">At the Online Course Helpers, we compose all the assignments from
+                      scratch and scan every task with high-quality plagiarism software. You will always get original
+                      and
+                      high-quality work that satisfies your academic requirements.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion accordion-flush" id="faqAccordion">
+                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#q6">
+                      What happens if I’m not satisfied with the results?
+                    </button>
+                  </h2>
+                  <div id="q6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body px-0">We provide revisions and a money-back guarantee. Not satisfied, we
+                      will make it right quickly or refund your money according to our policy.</div>
+                  </div>
                 </div>
               </div>
             </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q2">
-                    Is your Aleks course help service confidential and secure?
-                  </button>
-                </h2>
-                <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">Absolutely. We value your privacy. Your information is never shared,
-                    and we work with encrypted systems. Your name and coursework remain 100 per cent confidential at all
-                    times.</div>
-                </div>
-              </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q3">
-                    What subjects do you offer Aleks class help for?
-                  </button>
-                </h2>
-                <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-2">We offer the best Aleks course help for a wide range of subjects,
-                    including math, business math, accounting, calculus, finance, statistics, college algebra, organic
-                    chemistry and more. Our team of the best online Aleks course takers covers a diverse array of
-                    questions to meet your needs when you ask us to take your online Alex course for you.</div>
-                </div>
-              </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q4">
-                    Can I hire someone to take multiple Aleks courses at once?
-                  </button>
-                </h2>
-                <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">Yes! Our expert online Aleks course takers can handle the number of
-                    courses simultaneously: assignments, quizzes, exams, and everything. All you do is pass on your
-                    schedule, and we will take care of everything from beginning to end. </div>
-                </div>
-              </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q5">
-                    How do I know the work will be plagiarism-free?
-                  </button>
-                </h2>
-                <div id="q5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">At the Online Course Helpers, we compose all the assignments from
-                    scratch and scan every task with high-quality plagiarism software. You will always get original and
-                    high-quality work that satisfies your academic requirements.</div>
-                </div>
-              </div>
-            </div>
-            <div class="accordion accordion-flush" id="faqAccordion">
-              <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
-                    data-bs-toggle="collapse" data-bs-target="#q6">
-                    What happens if I’m not satisfied with the results?
-                  </button>
-                </h2>
-                <div id="q6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body px-0">We provide revisions and a money-back guarantee. Not satisfied, we
-                    will make it right quickly or refund your money according to our policy.</div>
-                </div>
-              </div>
-            </div>
+
           </div>
           <div class="col-lg-5 p-5 text-white rounded-end-3" style="background-color: #00334d;">
             <h3 class="fw-bold mb-4">Free Features includes</h3>
             <ul class="list-unstyled">
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Title Page</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Reference Page</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> In-text Citation</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Plagiarism Check</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Unlimited Revisions</span>
-                <span class="badge bg-success rounded-pill px-3">
+                <span class="badge bg-warning text-dark rounded-pill px-3">
                   Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Editing &amp; Proofreading</span>
-                <span class="badge bg-success rounded-pill px-3">
+                <span class="badge bg-warning text-dark rounded-pill px-3">
                   Free</span>
               </li>
             </ul>
             <div class="text-center mt-5">
-              <p>Get all features for <a href="#" class="text-success me-2">FREE</a></p>
+              <p>Get all features for <a href="#" class="text-warning me-2">FREE</a></p>
             </div>
             <div class="text-center mt-3">
-              <button class="btn btn-success fw-bold rounded-pill px-5">Place an order</button>
+              <button class="btn btn-warning text-dark fw-bold rounded-pill px-5">Place an order</button>
             </div>
           </div>
         </div>

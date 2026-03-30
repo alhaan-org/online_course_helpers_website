@@ -14,9 +14,9 @@ include 'include/header.php'; ?>
     <!-- Hero Section -->
     <section class="hero-section">
       <div class="container" data-aos="fade-up">
-        <div class="row container">
+        <div class="row d-lg-flex align-items-center justify-content-between">
           <!-- Left Content -->
-          <div class="col-lg-8">
+          <div class="col-lg-6">
             <h1 class="hero-title mb-4" style="font-size: clamp(2rem, 5vw, 2.25rem);">
               USA’s Best Online Pearson Course Help Service By Pearson Experts
             </h1>
@@ -25,7 +25,7 @@ include 'include/header.php'; ?>
               the same. Hire us to get the best online Pearson course help in USA now and earn easy additional credits.
             </p>
 
-            <div class="d-flex flex-wrap gap-3 mb-4">
+            <div class="d-flex flex-sm-column flex-lg-row flex-wrap gap-3 mb-4">
               <p class="feature-item">
                 <i class="fa fa-file feature-icon"></i>
                 <span>Original content</span>
@@ -65,43 +65,28 @@ include 'include/header.php'; ?>
       </div>
     </section>
     <!-- Trust Section -->
-    <section class="academic-section">
-      <div class="slider-images-container" data-aos="fade-up">
+    <section clss="slider-section-university">
+      <div class="container col-12" data-aos="fade-up">
         <div class="slider-images owl-carousel owl-theme">
-          <img src="/assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-15.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="/assets/img/uni-15.webp" alt="..." loading="lazy" />
+          <img src="assets/img/uni-1.webp" alt="University of Arizona" loading="lazy" />
+          <img src="assets/img/uni-2.webp" alt="University of Buffalo" loading="lazy" />
+          <img src="assets/img/uni-3.webp" alt="University of Pheonix" loading="lazy" />
+          <img src="assets/img/uni-4.webp" alt="Embry Riddle Aeronautical University" loading="lazy" />
+          <img src="assets/img/uni-5.webp" alt="CUNY School of Professional Studies" loading="lazy" />
+          <img src="assets/img/uni-6.webp" alt="Capitol Technology University" loading="lazy" />
+          <img src="assets/img/uni-7.webp" alt="Capella University" loading="lazy" />
+          <img src="assets/img/uni-8.webp" alt="Ashford University" loading="lazy" />
+          <img src="assets/img/uni-9.webp" alt="Florida State University" loading="lazy" />
+          <img src="assets/img/uni-10.webp" alt="ASU" loading="lazy" />
+          <img src="assets/img/uni-11 (1).webp" alt="Oregon State University" loading="lazy" />
+          <img src="assets/img/uni-12.webp" alt="OhioState" loading="lazy" />
+          <img src="assets/img/uni-13.webp" alt="Grand Canyon University" loading="lazy" />
+          <img src="assets/img/uni-14.webp" alt="Chamberlain University" loading="lazy" />
+          <img src="assets/img/uni-15.webp" alt="Walden University" loading="lazy" />
         </div>
       </div>
-
-
+    </section>
+    <section class="academic-section">
       <div class="container mt-5">
         <div class="row align-items-center g-5">
           <!-- Right Image Placeholder -->
@@ -137,7 +122,7 @@ include 'include/header.php'; ?>
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3" style="color: #002a4d;">Best Help With Pearson Course For All Subjects
+        <h1 class="fw-semibold mb-3" style="color: #002a4d;">Best Help With Pearson Course For All Subjects
         </h1>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Comprehensive support in all Pearson subjects; get one-on-one help, improve your grades, and earn additional
@@ -148,8 +133,8 @@ include 'include/header.php'; ?>
           <div class="owl-carousel scroll-wrapper">
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Pearson Calculus Course Help</h3>
+                <h4 class="fw-bold">
+                  Pearson Calculus Course Help</h4>
                 <div class="card-content">
                   <p>
                     Having difficulty with derivatives or integrals? Our Pearson <a href="/calculus-course-help">
@@ -160,14 +145,14 @@ include 'include/header.php'; ?>
                     help at a reasonable price.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Pearson Algebra Course Help</h3>
+                <h4 class="fw-bold">
+                  Pearson Algebra Course Help</h4>
                 <div class="card-content">
                   <p>
                     Get professional Pearson <a href="/algebra-course-help"> algebra course
@@ -178,14 +163,14 @@ include 'include/header.php'; ?>
                     services will enable you to be algebra savvy.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Pearson Chemistry Course Help</h3>
+                <h4 class="fw-bold">
+                  Pearson Chemistry Course Help</h4>
                 <div class="card-content">
                   <p>
                     Thinking to pay someone to do my Pearson course for me? Our Pearson course help can help you with
@@ -195,14 +180,14 @@ include 'include/header.php'; ?>
                     understand the area in and out, and earn additional credits efficiently.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Pearson Accounting Course Help</h3>
+                <h4 class="fw-bold">
+                  Pearson Accounting Course Help</h4>
                 <div class="card-content">
                   <p>
                     Access stress-free <a href="accounting-course-help"> accounting course
@@ -213,14 +198,14 @@ include 'include/header.php'; ?>
                     coursework.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Pearson Math Course Help</h3>
+                <h4 class="fw-bold">
+                  Pearson Math Course Help</h4>
                 <div class="card-content">
                   <p>
                     Our Pearson <a href="/math-course-help"> math course help</a> simplify every
@@ -230,14 +215,14 @@ include 'include/header.php'; ?>
                     help in USA is now a click away; you can earn additional credits using the online course helpers.
                   </p>
                 </div>
-                <button class=" mt-5 btn btn-dark">Live Chat</button>
+                <button class=" mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
 
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Pearson Finance Course Help</h3>
+                <h4 class="fw-bold">
+                  Pearson Finance Course Help</h4>
                 <div class="card-content">
                   <p class="efscroll">
                     Need professional Pearson<a href="/finance-course-help" class="efheadinglink"> Finance course
@@ -248,13 +233,13 @@ include 'include/header.php'; ?>
                     finances with low-cost, professional advice.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Pearson Business Course Help</h3>
+                <h4 class="fw-bold">
+                  Pearson Business Course Help</h4>
                 <div class="card-content">
                   <p>
                     Our business course helps simplify all world problems as well as tricky numbers. Online Pearson
@@ -264,13 +249,13 @@ include 'include/header.php'; ?>
                     just a single click away.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
             <div class="course-card-container">
               <div class="course-card">
-                <h3>
-                  Pearson Humanities and Social Science Course Help</h3>
+                <h4 class="fw-bold">
+                  Pearson Humanities and Social Science Course Help</h4>
                 <div class="card-content">
                   <p>
                     Need humanities and social science help? We help with exploring human culture, society,
@@ -281,7 +266,7 @@ include 'include/header.php'; ?>
                     affordable to earn additional credits in your humanities and social science courses with our help.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
           </div>
@@ -315,7 +300,7 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-bold mb-4">
+            <h1 class="fw-medium mb-4">
               Can You Do My Pearson Course With Guaranteed Top Grades? Yes, We Can.</h1>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
@@ -339,7 +324,7 @@ include 'include/header.php'; ?>
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3">Our Reliable Pearson Course Help Services: Beyond Fast-paced Credits</h1>
+        <h1 class="fw-medium px-5 mb-3">Our Reliable Pearson Course Help Services: Beyond Fast-paced Credits</h1>
         <p class="mb-5 text-muted">
           Our services range from personalised aid in all respects to data protection and for additional credits, which
           are intended to provide the students with an advantage in all facets of their studies.
@@ -347,52 +332,58 @@ include 'include/header.php'; ?>
 
         <div class="row g-4 mb-5">
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-headset service-icon"></i>
-              <h3>Qualified
+              <h3 class="fs-4">Qualified
                 Pearson Course Experts</h3>
-              <p>Learn with expert Pearson course takers who know your syllabus inside out and provide expert-level
+              <p class="fs-6">Learn with expert Pearson course takers who know your syllabus inside out and provide
+                expert-level
                 assistance in all subjects.
               </p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-clock-rotate-left service-icon"></i>
-              <h3>All-Time
+              <h3 class="fs-4">All-Time
                 Experts Availability</h3>
-              <p>Access to competent professionals available 24/7 to help you when you need it, day or night.</p>
+              <p class="fs-6">Access to competent professionals available 24/7 to help you when you need it, day or
+                night.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-circle-info service-icon"></i>
-              <h3>Guaranteed A+ Performance</h3>
-              <p>We do not just help you score higher. Expect top grades, on-time submissions, and reliable academic
+              <h3 class="fs-4">Guaranteed A+ Performance</h3>
+              <p class="fs-6">We do not just help you score higher. Expect top grades, on-time submissions, and reliable
+                academic
                 excellence every time.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-dollar-sign service-icon"></i>
-              <h3>Affordable Pricing for All</h3>
-              <p>Good assistance should not be expensive. Savour the low prices and high-quality services to meet your
+              <h3 class="fs-4">Affordable Pricing for All</h3>
+              <p class="fs-6">Good assistance should not be expensive. Savour the low prices and high-quality services
+                to meet your
                 study objectives.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-file-word service-icon"></i>
-              <h3>100% Unique & Original Content</h3>
-              <p>All papers are original, plagiarism-free, and precisely aligned with your course requirements and
+              <h3 class="fs-4">100% Unique & Original Content</h3>
+              <p class="fs-6">All papers are original, plagiarism-free, and precisely aligned with your course
+                requirements and
                 guidelines.</p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-lock service-icon"></i>
-              <h3>Complete Privacy & Security</h3>
-              <p>We keep your data and your identity secure. We operate encrypted systems and tight confidentiality
+              <h3 class="fs-4">Complete Privacy & Security</h3>
+              <p class="fs-6">We keep your data and your identity secure. We operate encrypted systems and tight
+                confidentiality
                 protocols to provide you with complete peace of mind.</p>
             </div>
           </div>
@@ -969,36 +960,36 @@ include 'include/header.php'; ?>
             <ul class="list-unstyled">
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Title Page</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Reference Page</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> In-text Citation</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Plagiarism Check</span>
-                <span class="badge bg-success rounded-pill px-3">Free</span>
+                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Unlimited Revisions</span>
-                <span class="badge bg-success rounded-pill px-3">
+                <span class="badge bg-warning text-dark rounded-pill px-3">
                   Free</span>
               </li>
               <li class="d-flex justify-content-between align-items-center mb-3">
                 <span><i class="fa fa-star text-white me-2"></i> Editing &amp; Proofreading</span>
-                <span class="badge bg-success rounded-pill px-3">
+                <span class="badge bg-warning text-dark rounded-pill px-3">
                   Free</span>
               </li>
             </ul>
             <div class="text-center mt-5">
-              <p>Get all features for <a href="#" class="text-success me-2">FREE</a></p>
+              <p>Get all features for <a href="#" class="text-warning me-2">FREE</a></p>
             </div>
             <div class="text-center mt-3">
-              <button class="btn btn-success fw-bold rounded-pill px-5">Place an order</button>
+              <button class="btn btn-warning fw-bold rounded-pill px-5">Place an order</button>
             </div>
           </div>
         </div>

@@ -16,7 +16,7 @@ include 'include/header.php'; ?>
       <div class="container" data-aos="fade-up">
         <div class="row d-lg-flex align-items-center justify-content-between">
           <!-- Left Content -->
-          <div class="col-lg-8">
+          <div class="col-lg-6">
             <h1 class="hero-title mb-4" style="font-size: clamp(2.25rem, 5vw, 2.75rem);">
               Trusted Online Exam Help to Boost Your Academic Success
             </h1>
@@ -166,7 +166,7 @@ include 'include/header.php'; ?>
                     assistance so that they can feel confident when they reach their academic goals.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
 
@@ -182,7 +182,7 @@ include 'include/header.php'; ?>
                     need to excel in your online exams.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
 
@@ -198,7 +198,7 @@ include 'include/header.php'; ?>
                     your online philosophy exams.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
 
@@ -213,7 +213,7 @@ include 'include/header.php'; ?>
                     or your entire class, we give full <a href="#">assistance with accounting course</a>
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
 
@@ -229,7 +229,7 @@ include 'include/header.php'; ?>
                     you need to excel in your online exam.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
             <div class="course-card-container">
@@ -243,7 +243,7 @@ include 'include/header.php'; ?>
                     or any other algebra topic, our team is ready to provide the support you need to excel in your exam.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
             <div class="course-card-container">
@@ -258,7 +258,7 @@ include 'include/header.php'; ?>
                     subject, our team is ready to provide the support you need to excel in your online exams.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
             <div class="course-card-container">
@@ -273,7 +273,7 @@ include 'include/header.php'; ?>
                     marketing, or any other management topic, our team is ready to offer the assistance you need to
                     thrive in your online exam.
                 </div>
-                <button class="mt-5 btn btn-dark">Live Chat</button>
+                <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
             </div>
           </div>

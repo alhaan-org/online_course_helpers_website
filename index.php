@@ -292,7 +292,7 @@
             <div class="service-box py-5 px-4">
               <i class="fa-solid fa-headset service-icon"></i>
               <h3 class="fs-4">Qualified Course Experts</h3>
-              <p class="small">Learn with subject matter experts who know your syllabus inside out and provide
+              <p class="fs-6">Learn with subject matter experts who know your syllabus inside out and provide
                 expert-level assistance
                 in all subjects.
               </p>

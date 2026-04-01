@@ -48,7 +48,7 @@
                             <li><a class="dropdown-item" href="cengage-course-help">Cengage Course Help</a></li>
                             <li><a class="dropdown-item" href="act-course-help">ACT Course Help</a></li>
                             <li><a class="dropdown-item" href="moodle-course-help">Moodle Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Canvas Course Help</a></li>
+                            <li><a class="dropdown-item" href="canvas-course-help">Canvas Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Mathway Course Help</a></li>
                             <li><a class="dropdown-item" href="#">OnlineEd Course Help</a></li>
                         </ul>

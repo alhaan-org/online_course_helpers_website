@@ -15,10 +15,10 @@ include 'include/header.php';
         <!-- Hero Section -->
         <section class="hero-section">
             <div class="container" data-aos="fade-up">
-                <div class="row container">
+                <div class="row d-lg-flex align-items-center justify-content-between">
                     <!-- Left Content -->
-                    <div class="col-lg-8">
-                        <h1 class="hero-title mb-4" style="font-size: clamp(2rem, 5vw, 2.25rem);">
+                    <div class="col-lg-6">
+                        <h1 class="hero-title mb-4" style="font-size: clamp(2.25rem, 5vw, 2.75rem);">
                             Expert Level Blackboard Course Help By Qualified Helpers
                         </h1>
                         <p class="hero-text mb-4">
@@ -68,43 +68,28 @@ include 'include/header.php';
             </div>
         </section>
         <!-- Trust Section -->
-        <section class="academic-section">
-            <div class="slider-images-container" data-aos="fade-up">
+          <section clss="slider-section-university">
+            <div class="container col-12" data-aos="fade-up">
                 <div class="slider-images owl-carousel owl-theme">
-                    <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
+                    <img src="assets/img/uni-1.webp" alt="University of Arizona" loading="lazy" />
+                    <img src="assets/img/uni-2.webp" alt="University of Buffalo" loading="lazy" />
+                    <img src="assets/img/uni-3.webp" alt="University of Pheonix" loading="lazy" />
+                    <img src="assets/img/uni-4.webp" alt="Embry Riddle Aeronautical University" loading="lazy" />
+                    <img src="assets/img/uni-5.webp" alt="CUNY School of Professional Studies" loading="lazy" />
+                    <img src="assets/img/uni-6.webp" alt="Capitol Technology University" loading="lazy" />
+                    <img src="assets/img/uni-7.webp" alt="Capella University" loading="lazy" />
+                    <img src="assets/img/uni-8.webp" alt="Ashford University" loading="lazy" />
+                    <img src="assets/img/uni-9.webp" alt="Florida State University" loading="lazy" />
+                    <img src="assets/img/uni-10.webp" alt="ASU" loading="lazy" />
+                    <img src="assets/img/uni-11 (1).webp" alt="Oregon State University" loading="lazy" />
+                    <img src="assets/img/uni-12.webp" alt="OhioState" loading="lazy" />
+                    <img src="assets/img/uni-13.webp" alt="Grand Canyon University" loading="lazy" />
+                    <img src="assets/img/uni-14.webp" alt="Chamberlain University" loading="lazy" />
+                    <img src="assets/img/uni-15.webp" alt="Walden University" loading="lazy" />
                 </div>
             </div>
-
-
+        </section>
+        <section class="academic-section">
             <div class="container mt-5">
                 <div class="row align-items-center g-5">
                     <!-- Right Image Placeholder -->
@@ -154,8 +139,8 @@ include 'include/header.php';
                     <div class="owl-carousel scroll-wrapper">
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
-                                    Information Technology (IT) Course Help</h3>
+                                <h4 class="fw-bold">
+                                    Information Technology (IT) Course Help</h4>
                                 <div class="card-content">
                                     <p>
                                         Having difficulty with your IT course? Our Blackboard course help is here to
@@ -173,8 +158,8 @@ include 'include/header.php';
 
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
-                                    Psychology Course Help</h3>
+                                <h4 class="fw-bold">
+                                    Psychology Course Help</h4>
                                 <div class="card-content">
                                     <p>
                                         Get professional <a href="/psychology-course-help" class="efheadinglink">
@@ -194,8 +179,8 @@ include 'include/header.php';
 
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
-                                    Agriculture Course Helpp</h3>
+                                <h4 class="fw-bold">
+                                    Agriculture Course Helpp</h4>
                                 <div class="card-content">
                                     <p>
                                         Thinking to pay someone to do my Blackboard course for me? Our Blackboard course
@@ -214,8 +199,8 @@ include 'include/header.php';
 
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
-                                    Accounting Course Help</h3>
+                                <h4 class="fw-bold">
+                                    Accounting Course Help</h4>
                                 <div class="card-content">
                                     <p>
                                         Access stress-free <a href="/accounting-course-help" class="efheadinglink">
@@ -234,8 +219,8 @@ include 'include/header.php';
 
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
-                                    Science, Technology, Engineering and Mathematics (STEM) Course Help</h3>
+                                <h4 class="fw-bold">
+                                    Science, Technology, Engineering and Mathematics (STEM) Course Help</h4>
                                 <div class="card-content">
                                     <p>
                                         Our STEM course help simplify every complex formula and concept, and steps in
@@ -253,8 +238,8 @@ include 'include/header.php';
 
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
-                                    Finance Course Help</h3>
+                                <h4 class="fw-bold">
+                                    Finance Course Help</h4>
                                 <div class="card-content">
                                     <p>
                                         Need professional <a href="/finance-course-help" class="efheadinglink"> finance
@@ -272,8 +257,8 @@ include 'include/header.php';
                         </div>
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
-                                    Business Course Help</h3>
+                                <h4 class="fw-bold">
+                                    Business Course Help</h4>
                                 <div class="card-content">
                                     <p>
                                         Our business course helps simplify all world problems as well as tricky numbers.
@@ -320,7 +305,7 @@ include 'include/header.php';
             <div class="container">
                 <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
                     <div class="content-left text-white w-60">
-                        <h1 class="fw-bold mb-4">
+                        <h1 class="fw-medium mb-4">
                             Can You Do My Blackboard Course With Guaranteed Top Grades? Yes, We Can.</h1>
                         <div class="d-flex gap-3">
                             <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
@@ -330,7 +315,7 @@ include 'include/header.php';
                         </div>
                     </div>
                     <div class="image-right mt-4 mt-md-0">
-                        <img src="/assets/img/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
+                        <img src="assets/img/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
                             class="img-fluid custom-img" loading="lazy">
                     </div>
                 </div>
@@ -345,8 +330,8 @@ include 'include/header.php';
 
         <section class="services-section py-5">
             <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3">Our Reliable Blackboard Course Help Services: Beyond Fast-paced Credits</h1>
-                <p class="mb-5 text-muted">
+                <h1 class="fw-medium px-5 mb-3">Our Reliable Blackboard Course Help Services: Beyond Fast-paced Credits</h1>
+                <p class="mb-5 px-5 text-muted">
                     Our services range from personalised aid in all respects to data protection and for additional
                     credits, which are intended to provide the students with an advantage in all facets of their
                     studies.
@@ -354,56 +339,56 @@ include 'include/header.php';
 
                 <div class="row g-4 mb-5">
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-headset service-icon"></i>
-                            <h3>Qualified
+                            <h3 class="fs-4">Qualified
                                 Blackboard Course Experts</h3>
-                            <p>Learn with expert Blackboard course takers who know your syllabus inside out and provide
+                            <p class="fs-6">Learn with expert Blackboard course takers who know your syllabus inside out and provide
                                 expert-level assistance in all subjects
                             </p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-clock-rotate-left service-icon"></i>
-                            <h3>All-Time
+                            <h3 class="fs-4">All-Time
                                 Experts Availability</h3>
-                            <p>Access to competent professionals available 24/7 to help you when you need it, day or
+                            <p class="fs-6">Access to competent professionals available 24/7 to help you when you need it, day or
                                 night.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-circle-info service-icon"></i>
-                            <h3>Guaranteed A+ Performance</h3>
-                            <p>We do not just help you score higher. Expect top grades, on-time submissions, and
+                            <h3 class="fs-4">Guaranteed A+ Performance</h3>
+                            <p class="fs-6">We do not just help you score higher. Expect top grades, on-time submissions, and
                                 reliable academic
                                 excellence every time.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-dollar-sign service-icon"></i>
-                            <h3>Affordable Pricing for All</h3>
-                            <p>Good assistance should not be expensive. Savour the low prices and high-quality services
+                            <h3 class="fs-4">Affordable Pricing for All</h3>
+                            <p class="fs-6">Good assistance should not be expensive. Savour the low prices and high-quality services
                                 to meet your
                                 study objectives.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-file-word service-icon"></i>
-                            <h3>100% Unique & Original Content</h3>
-                            <p>All papers are original, plagiarism-free, and precisely aligned with your course
+                            <h3 class="fs-4">100% Unique & Original Content</h3>
+                            <p class="fs-6">All papers are original, plagiarism-free, and precisely aligned with your course
                                 requirements and
                                 guidelines.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-lock service-icon"></i>
-                            <h3>Complete Privacy & Security</h3>
-                            <p>We keep your data and your identity secure. We operate encrypted systems and tight
+                            <h3 class="fs-4">Complete Privacy & Security</h3>
+                            <p class="fs-6">We keep your data and your identity secure. We operate encrypted systems and tight
                                 confidentiality
                                 protocols to provide you with complete peace of mind.</p>
                         </div>
@@ -428,7 +413,7 @@ include 'include/header.php';
                 <div class="row align-items-start g-5">
 
                     <div class="col-lg-7">
-                        <h2 class="fw-bold mb-4 text-navy">
+                        <h2 class="fw-semibold mb-4 text-navy">
                             Can You Take My Blackboard Course For Me At Cheap Price
                         </h2>
                         <p class="mb-5">
@@ -456,7 +441,7 @@ include 'include/header.php';
                     <div class="col-lg-5">
                         <div class="hero-image-frame">
                             <div class="cheap-price-section-image-placeholder">
-                                <img src="/assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help"
+                                <img src="assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help"
                                     loading="lazy" />
                             </div>
                         </div>
@@ -471,7 +456,7 @@ include 'include/header.php';
             <div class="container">
                 <div class="row justify-content-center text-center mb-5">
                     <div class="col-lg-9" data-aos="fade-up">
-                        <h2 class="fw-bold text-dark mb-3">Expert Blackboard Course Help For Various Educational Levels
+                        <h2 class="fw-semibold text-navy mb-3">Expert Blackboard Course Help For Various Educational Levels
                         </h2>
                         <p class="text-secondary">Get expert help with Blackboard course. We provide 24/7 service and
                             dedicated support, including online course assignments, quizzes, and assessments, for all
@@ -553,9 +538,9 @@ include 'include/header.php';
         <!-- Section  -->
         <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
             <div class="container" data-aos="fade-up">
-                <h2 class="fw-bold mb-4 text-white">Need Help with Blackboard Course? Hire Experienced Professionals
+                <h2 class="fw-semibold px-5 mb-4 text-white">Need Help with Blackboard Course? Hire Experienced Professionals
                 </h2>
-                <p>Get expert help with your Blackboard course. We provide 24/7 service and dedicated support with
+                <p class="px-5">Get expert help with your Blackboard course. We provide 24/7 service and dedicated support with
                     Blackboard course assignments, quizzes and assessments for all domains.</p>
                 <div class="d-flex justify-content-center gap-3">
                     <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
@@ -567,9 +552,9 @@ include 'include/header.php';
 <!-- Section  -->
     <section class=" py-5 bg-light">
                             <div class="container text-center" data-aos="fade-up">
-                                <h2 class="fw-bold mb-3">Get the Best Brightspace Course Help with Expert Online
+                                <h1 class="text-navy px-5 fw-bold mb-3">Get the Best Brightspace Course Help with Expert Online
                                     Guidance
-                                </h2>
+                                </h1>
                                 <p class="text-muted mb-5 mx-auto">
                                     Turn your Blackboard experience into a hassle-free one with <a href="/">Online
                                         Course
@@ -1080,7 +1065,7 @@ include 'include/header.php';
     <!-- Footer -->
     <?php include 'include/footer.php'; ?>
 
-    <script src="/assets/owlcarousel/owl.carousel.min.js"></script>
+    <script src="assets/owlcarousel/owl.carousel.min.js"></script>
 </body>
 
 </html>

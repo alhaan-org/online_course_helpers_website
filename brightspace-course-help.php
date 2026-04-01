@@ -14,10 +14,10 @@ include 'include/header.php'; ?>
         <!-- Hero Section -->
         <section class="hero-section">
             <div class="container" data-aos="fade-up">
-                <div class="row container">
+                <div class="row d-lg-flex align-items-center justify-content-between">
                     <!-- Left Content -->
-                    <div class="col-lg-8">
-                        <h1 class="hero-title mb-4" style="font-size: clamp(2rem, 5vw, 2.25rem);">
+                    <div class="col-lg-6">
+                        <h1 class="hero-title mb-4" style="font-size: clamp(2.25rem, 5vw, 2.75rem);">
                             Get Professional Brightspace Course Help for Your Online Courses
                         </h1>
                         <p class="hero-text mb-4">
@@ -67,49 +67,34 @@ include 'include/header.php'; ?>
             </div>
         </section>
         <!-- Trust Section -->
-        <section class="academic-section">
-            <div class="slider-images-container" data-aos="fade-up">
+        <section clss="slider-section-university">
+            <div class="container col-12" data-aos="fade-up">
                 <div class="slider-images owl-carousel owl-theme">
-                    <img src="/assets/img/uni-1.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-2.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-3.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-4.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-5.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-6.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-7.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-8.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-9.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-10.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-12.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-13.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-14.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-15.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-1.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-2.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-3.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-4.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-5.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-6.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-7.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-8.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-9.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-10.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-12.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-13.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-14.webp" alt="..." loading="lazy" />
-                    <img src="/assets/img/uni-15.webp" alt="..." loading="lazy" />
+                    <img src="assets/img/uni-1.webp" alt="University of Arizona" loading="lazy" />
+                    <img src="assets/img/uni-2.webp" alt="University of Buffalo" loading="lazy" />
+                    <img src="assets/img/uni-3.webp" alt="University of Pheonix" loading="lazy" />
+                    <img src="assets/img/uni-4.webp" alt="Embry Riddle Aeronautical University" loading="lazy" />
+                    <img src="assets/img/uni-5.webp" alt="CUNY School of Professional Studies" loading="lazy" />
+                    <img src="assets/img/uni-6.webp" alt="Capitol Technology University" loading="lazy" />
+                    <img src="assets/img/uni-7.webp" alt="Capella University" loading="lazy" />
+                    <img src="assets/img/uni-8.webp" alt="Ashford University" loading="lazy" />
+                    <img src="assets/img/uni-9.webp" alt="Florida State University" loading="lazy" />
+                    <img src="assets/img/uni-10.webp" alt="ASU" loading="lazy" />
+                    <img src="assets/img/uni-11 (1).webp" alt="Oregon State University" loading="lazy" />
+                    <img src="assets/img/uni-12.webp" alt="OhioState" loading="lazy" />
+                    <img src="assets/img/uni-13.webp" alt="Grand Canyon University" loading="lazy" />
+                    <img src="assets/img/uni-14.webp" alt="Chamberlain University" loading="lazy" />
+                    <img src="assets/img/uni-15.webp" alt="Walden University" loading="lazy" />
                 </div>
             </div>
-
-
+        </section>
+        <section class="academic-section">
             <div class="container mt-5">
                 <div class="row align-items-center g-5">
                     <!-- Right Image Placeholder -->
                     <div class="col-lg-6" data-aos="fade-up">
                         <div class="image-placeholder">
-                            <img src="/assets/img/About-Us-1024x956.png" alt="..." class="img-fluid" loading="lazy" />
+                            <img src="assets/img/About-Us-1024x956.png" alt="..." class="img-fluid" loading="lazy" />
                         </div>
                     </div>
                     <!-- Left Content -->
@@ -142,9 +127,10 @@ include 'include/header.php'; ?>
         <!-- Benefits Section -->
         <section class="yellow-section py-5">
             <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3" style="color: #002a4d;">Affordable Brightspace Course Takers For All Domains
+                <h1 class="fw-semibold mb-3" style="color: #002a4d;">Affordable Brightspace Course Takers For All
+                    Domains
                 </h1>
-                <p class="mx-auto mb-5" style="color: #002a4d;">
+                <p class="mx-auto mb-5 px-5" style="color: #002a4d;">
                     Comprehensive support in all Brightspace subjects; get one-on-one help, improve your grades, and
                     earn fast-paced credits confidently.
                 </p>
@@ -153,12 +139,10 @@ include 'include/header.php'; ?>
                     <div class="owl-carousel scroll-wrapper">
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
-
-                                    Health Sciences and Nursing Course Help</h3>
+                                <h4 class="fw-bold">
+                                    Health Sciences and Nursing Course Help</h4>
                                 <div class="card-content">
                                     <p>
-
                                         Need health sciences and nursing course help? We offer an in-depth exploration
                                         of the scientific study related to health and medicine, including nursing, with
                                         a focus on providing direct patient care and promoting health. Whether you need
@@ -176,9 +160,8 @@ include 'include/header.php'; ?>
 
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
-
-                                    Information Technology (IT) Course Help</h3>
+                                <h4 class="fw-bold">
+                                    Information Technology (IT) Course Help</h4>
                                 <div class="card-content">
                                     <p>
                                         Having difficulty with your IT course? Our Brightspace course help is here to
@@ -196,9 +179,8 @@ include 'include/header.php'; ?>
 
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
-
-                                    Psychology Course Help</h3>
+                                <h4 class="fw-bold">
+                                    Psychology Course Help</h4>
                                 <div class="card-content">
                                     <p>
                                         Get professional <a href="/psychology-course-help">
@@ -218,12 +200,10 @@ include 'include/header.php'; ?>
 
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
-
-                                    Chemistry Course Help</h3>
+                                <h4 class="fw-bold">
+                                    Chemistry Course Help</h4>
                                 <div class="card-content">
                                     <p>
-
                                         Thinking to pay someone to do my Brightspace course for me? Our Brightspace
                                         course help can help you with carbon’s central role, covalent bonds and
                                         structure and properties. We provide help in writing, in test preparation, and
@@ -240,9 +220,8 @@ include 'include/header.php'; ?>
 
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
-
-                                    Managerial Accounting Course Help</h3>
+                                <h4 class="fw-bold">
+                                    Managerial Accounting Course Help</h4>
                                 <div class="card-content">
                                     <p>
                                         Access to a stress-free managerial <a href="/accounting-course-help"> accounting
@@ -262,9 +241,8 @@ include 'include/header.php'; ?>
 
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
-
-                                    Math Course Help</h3>
+                                <h4 class="fw-bold">
+                                    Math Course Help</h4>
                                 <div class="card-content">
                                     <p>
                                         Our <a href="/math-course-help"> math course help</a>
@@ -282,9 +260,9 @@ include 'include/header.php'; ?>
                         </div>
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
+                                <h4 class="fw-bold">
 
-                                    Finance Course Help</h3>
+                                    Finance Course Help</h4>
                                 <div class="card-content">
                                     <p>
                                         Need professional <a href="/finance-course-help"> finance
@@ -302,9 +280,8 @@ include 'include/header.php'; ?>
                         </div>
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h3>
-
-                                    Business Course Help</h3>
+                                <h4 class="fw-bold">
+                                    Business Course Help</h4>
                                 <div class="card-content">
                                     <p>
                                         Our business course helps simplify all the world's problems, as well as tricky
@@ -351,7 +328,7 @@ include 'include/header.php'; ?>
             <div class="container">
                 <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
                     <div class="content-left text-white w-60">
-                        <h1 class="fw-bold mb-4">
+                        <h1 class="fw-medium mb-4">
                             Can You Do My Brightspace Course With Guaranteed Top Grades? Yes, We Can.</h1>
                         <div class="d-flex gap-3">
                             <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
@@ -361,7 +338,7 @@ include 'include/header.php'; ?>
                         </div>
                     </div>
                     <div class="image-right mt-4 mt-md-0">
-                        <img src="/assets/img/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
+                        <img src="assets/img/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
                             class="img-fluid custom-img" loading="lazy">
                     </div>
                 </div>
@@ -376,8 +353,9 @@ include 'include/header.php'; ?>
 
         <section class="services-section py-5">
             <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3">Our Reliable Brightspace Course Help Services: Beyond Fast-paced Credits</h1>
-                <p class="mb-5 text-muted">
+                <h1 class="fw-medium px-5 mb-3">Our Reliable Brightspace Course Help Services: Beyond Fast-paced Credits
+                </h1>
+                <p class="mb-5 px-5 text-muted">
                     Our services range from personalised aid in all respects to data protection and for additional
                     credits, which are intended to provide the students with an advantage in all facets of their
                     studies.
@@ -385,56 +363,61 @@ include 'include/header.php'; ?>
 
                 <div class="row g-4 mb-5">
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-headset service-icon"></i>
-                            <h3>Qualified
+                            <h3 class="fs-4">Qualified
                                 Brightspace Course Experts</h3>
-                            <p>Learn with expert Brightspace course takers who know your syllabus inside out and provide
+                            <p class="fs-6">Learn with expert Brightspace course takers who know your syllabus inside
+                                out and provide
                                 expert-level assistance in all subjects.
                             </p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-clock-rotate-left service-icon"></i>
-                            <h3>All-Time
-                                Experts Availability</h3>
-                            <p>Access to competent professionals available 24/7 to help you when you need it, day or
+                            <h3 class="fs-4">All-Time Experts Availability</h3>
+                            <p class="fs-6">Access to competent professionals available 24/7 to help you when you need
+                                it, day or
                                 night.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-circle-info service-icon"></i>
-                            <h3>Guaranteed A+ Performance</h3>
-                            <p>We do not just help you score higher. Expect top grades, on-time submissions, and
-                                reliable academic
+                            <h3 class="fs-4">Guaranteed A+ Performance</h3>
+                            <p class="fs-6">We do not just help you score higher. Expect top grades, on-time
+                                submissions, and reliable
+                                academic
                                 excellence every time.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-dollar-sign service-icon"></i>
-                            <h3>Affordable Pricing for All</h3>
-                            <p>Good assistance should not be expensive. Savour the low prices and high-quality services
+                            <h3 class="fs-4">Affordable Pricing for All</h3>
+                            <p class="fs-6">Good assistance should not be expensive. Savour the low prices and
+                                high-quality services
                                 to meet your
                                 study objectives.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-file-word service-icon"></i>
-                            <h3>100% Unique & Original Content</h3>
-                            <p>All papers are original, plagiarism-free, and precisely aligned with your course
+                            <h3 class="fs-4">100% Unique & Original Content</h3>
+                            <p class="fs-6">All papers are original, plagiarism-free, and precisely aligned with your
+                                course
                                 requirements and
                                 guidelines.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-lock service-icon"></i>
-                            <h3>Complete Privacy & Security</h3>
-                            <p>We keep your data and your identity secure. We operate encrypted systems and tight
+                            <h3 class="fs-4">Complete Privacy & Security</h3>
+                            <p class="fs-6">We keep your data and your identity secure. We operate encrypted systems and
+                                tight
                                 confidentiality
                                 protocols to provide you with complete peace of mind.</p>
                         </div>
@@ -487,7 +470,7 @@ include 'include/header.php'; ?>
                     <div class="col-lg-5">
                         <div class="hero-image-frame">
                             <div class="cheap-price-section-image-placeholder">
-                                <img src="/assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help"
+                                <img src="assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help"
                                     loading="lazy" />
                             </div>
                         </div>
@@ -573,9 +556,11 @@ include 'include/header.php'; ?>
         <!-- Section  -->
         <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
             <div class="container" data-aos="fade-up">
-                <h2 class="fw-bold mb-4 text-white">Need Help with Brightspace Course? Hire Experienced Professionals
-                </h2>
-                <p>Get expert help with your Brightspace course. We provide 24/7 service and dedicated support with
+                <h1 class="fw-semibold px-5 mb-4 text-warning">Need Help with Brightspace Course? Hire Experienced
+                    Professionals
+                </h1>
+                <p class="px-5">Get expert help with your Brightspace course. We provide 24/7 service and dedicated
+                    support with
                     Brightspace course assignments, quizzes and assessments for all domains.</p>
                 <div class="d-flex justify-content-center gap-3">
                     <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
@@ -587,10 +572,11 @@ include 'include/header.php'; ?>
 <!-- Section  -->
     <section class=" py-5 bg-light">
                             <div class="container text-center" data-aos="fade-up">
-                                <h2 class="fw-bold mb-3">Get the Best Brightspace Course Help with Expert Online
+                                <h1 class="fw-semibold mb-3 px-5 text-navy">Get the Best Brightspace Course Help with
+                                    Expert Online
                                     Guidance
-                                </h2>
-                                <p class="text-muted mb-5 mx-auto">
+                                </h1>
+                                <p class="text-muted mb-5 px-5 mx-auto text-navy">
                                     <a class="text-warning">Online Course Helpers</a>, the best online Brightspace
                                     course helper in the USA,
                                     can
@@ -599,16 +585,16 @@ include 'include/header.php'; ?>
                                     Study and work on the details at the same time to get additional credits, save time,
                                     and be successful without any stress.
                                 </p>
-                                <div class="coverflow-swiper swiper my3dSwiper">
+                                <div class="coverflow-swiper swiper my3dSwiper py-3">
                                     <div class="h-100 swiper-wrapper">
                                         <div class="swiper-slide">
-                                            <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                                                style="background-color: #242f3e; border-radius: 15px;">
+                                            <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                                                style="background-color: #242f3e; border-radius: 5px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
 
                                                         High School Brightspace Course Help </h5>
-                                                    <p style="font-size: 13px;"><span
+                                                    <p style="font-size: 14px;"><span
                                                             style="font-weight: 400">Brightspace course is
                                                             available in
                                                             our </span><a
@@ -627,8 +613,8 @@ include 'include/header.php'; ?>
                                         </div>
 
                                         <div class="swiper-slide">
-                                            <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                                                style="background-color: #242f3e; border-radius: 15px;">
+                                            <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                                                style="background-color: #242f3e; border-radius: 5px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
 
@@ -651,11 +637,11 @@ include 'include/header.php'; ?>
 
                                         <div class="swiper-slide">
                                             <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                                                style="background-color: #242f3e; border-radius: 15px;">
+                                                style="background-color: #242f3e; border-radius: 5px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
                                                         Undergraduate Level Brightspace Course Help </h5>
-                                                    <p style="font-size: 13px;"><span style="font-weight: 400">Balancing
+                                                    <p style="font-size: 14px;"><span style="font-weight: 400">Balancing
                                                             a course does not have
                                                             to be stressful, and with our </span><a
                                                             href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"><span
@@ -671,8 +657,8 @@ include 'include/header.php'; ?>
                                         </div>
 
                                         <div class="swiper-slide">
-                                            <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
-                                                style="background-color: #242f3e; border-radius: 15px;">
+                                            <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                                                style="background-color: #242f3e; border-radius: 5px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
                                                         Master’s Level Brightspace Course Help </h5>
@@ -694,8 +680,8 @@ include 'include/header.php'; ?>
                                         </div>
 
                                         <div class="swiper-slide">
-                                            <div class="coverflow-card card h-70 h-md-100 text-white p-4"
-                                                style="background-color: #242f3e; border-radius: 15px;">
+                                            <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                                                style="background-color: #242f3e; border-radius: 5px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
                                                         Doctorate-Level Brightspace Course Help </h5>
@@ -775,7 +761,8 @@ include 'include/header.php'; ?>
                                 their services to anyone!
                             </p>
                             <div class="d-flex align-items-center mt-4">
-                                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                                    style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                                 <div>
                                     <h6 class="mb-0 fw-bold">Ahsan</h6>
                                     <small class="opacity-50">New York</small>
@@ -797,7 +784,8 @@ include 'include/header.php'; ?>
                                 in my grades. I couldn't be happier with the outcome.
                             </p>
                             <div class="d-flex align-items-center mt-4">
-                                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                                    style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                                 <div>
                                     <h6 class="mb-0 fw-bold">Hannah</h6>
                                     <small class="opacity-50">Seattle</small>
@@ -817,7 +805,8 @@ include 'include/header.php'; ?>
                                 me through challenging concepts with ease. Thanks to their assistance, I aced my exams
                                 and assignments!</p>
                             <div class="d-flex align-items-center mt-4">
-                                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                                    style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                                 <div>
                                     <h6 class="mb-0 fw-bold">
                                         Anna
@@ -841,7 +830,8 @@ include 'include/header.php'; ?>
                                 help, I was able to excel in the course and achieve my academic goals!
                             </p>
                             <div class="d-flex align-items-center mt-4">
-                                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                                    style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                                 <div>
                                     <h6 class="mb-0 fw-bold">
                                         Ella
@@ -864,7 +854,8 @@ include 'include/header.php'; ?>
                                 With their help, I not only passed my online course but also gained valuable knowledge
                                 that will benefit me in the future. Thank you, Online Course Helpers!</p>
                             <div class="d-flex align-items-center mt-4">
-                                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                                    style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                                 <div>
                                     <h6 class="mb-0 fw-bold">Hannah</h6>
                                     <small class="opacity-50">San Diego</small>
@@ -885,7 +876,8 @@ include 'include/header.php'; ?>
                                 pass with flying colours. They were professional and reliable, and I couldn't be happier
                                 with the results. Highly recommended services. </p>
                             <div class="d-flex align-items-center mt-4">
-                                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                                    style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                                 <div>
                                     <h6 class="mb-0 fw-bold">
                                         Anna
@@ -950,143 +942,159 @@ include 'include/header.php'; ?>
                         <h2 class="fw-bold mb-4">Frequently Asked Questions</h2>
                         <p>Explore our most frequently asked questions to learn more about our Brightspace course help.
                             It’s fast, secure, and stress-free.</p>
-                        <div class="accordion accordion-flush" id="faqAccordion">
-                            <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#q1">
-                                        How does your online Brightspace course help service work?
-                                    </button>
-                                </h2>
-                                <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0"
-                                    data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-0">Our online Brightspace Course help service is
-                                        designed to provide personalised academic support for students taking
-                                        Brightspace courses. Simply contact Online Course Helpers, the best online
-                                        Brightspace course help service, with details about your Brightspace course, and
-                                        we’ll match you with a qualified tutor who will assist you with understanding
-                                        course materials, completing assignments, passing your exams and earning extra
-                                        credits.</div>
+                        <div class="d-flex flex-column gap-3">
+                            <div class="accordion accordion-flush" id="faqAccordion">
+                                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
+                                            type="button" data-bs-toggle="collapse" data-bs-target="#q1">
+                                            How does your online Brightspace course help service work?
+                                        </button>
+                                    </h2>
+                                    <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0"
+                                        data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body px-0">Our online Brightspace Course help service is
+                                            designed to provide personalised academic support for students taking
+                                            Brightspace courses. Simply contact Online Course Helpers, the best online
+                                            Brightspace course help service, with details about your Brightspace course,
+                                            and
+                                            we’ll match you with a qualified tutor who will assist you with
+                                            understanding
+                                            course materials, completing assignments, passing your exams and earning
+                                            extra
+                                            credits.</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion accordion-flush" id="faqAccordion">
+                                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
+                                            type="button" data-bs-toggle="collapse" data-bs-target="#q2">
+                                            Is your Brightspace course help service confidential and secure?
+                                        </button>
+                                    </h2>
+                                    <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body px-0">Absolutely. We value your privacy. Your
+                                            information
+                                            is never shared, and we work with encrypted systems. Your name and
+                                            coursework
+                                            remain 100 per cent confidential at all times.</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion accordion-flush" id="faqAccordion">
+                                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
+                                            type="button" data-bs-toggle="collapse" data-bs-target="#q3">
+                                            What subjects do you offer Brightspace course help for?
+                                        </button>
+                                    </h2>
+                                    <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body px-2">We offer the best Brightspace course help for a
+                                            wide range of subjects, including math, business, information technology
+                                            (IT),
+                                            psychology, chemistry, health science and nursing, managerial accounting and
+                                            more. Our team of the best online Brightspace course takers covers a diverse
+                                            array of questions to meet your needs when you ask us to take your
+                                            Brightspace
+                                            course for you.</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion accordion-flush" id="faqAccordion">
+                                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
+                                            type="button" data-bs-toggle="collapse" data-bs-target="#q4">
+                                            Can I hire someone to take multiple Brightspace courses at once?
+                                        </button>
+                                    </h2>
+                                    <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body px-0">Yes! Our expert online Brightspace course
+                                            takers
+                                            can handle the number of courses simultaneously: assignments, quizzes,
+                                            exams,
+                                            and everything. All you do is pass on your schedule, and we will take care
+                                            of
+                                            everything from beginning to end.</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion accordion-flush" id="faqAccordion">
+                                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
+                                            type="button" data-bs-toggle="collapse" data-bs-target="#q5">
+                                            How do I know the work will be plagiarism-free?
+                                        </button>
+                                    </h2>
+                                    <div id="q5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body px-0">At the Online Course Helpers, we compose all
+                                            the
+                                            assignments from
+                                            scratch and scan every task with high-quality plagiarism software. You will
+                                            always get original and
+                                            high-quality work that satisfies your academic requirements.</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion accordion-flush" id="faqAccordion">
+                                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
+                                            type="button" data-bs-toggle="collapse" data-bs-target="#q6">
+                                            What happens if I’m not satisfied with the results?
+                                        </button>
+                                    </h2>
+                                    <div id="q6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body px-0">We provide revisions and a money-back
+                                            guarantee.
+                                            Not satisfied, we
+                                            will make it right quickly or refund your money according to our policy.
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="accordion accordion-flush" id="faqAccordion">
-                            <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#q2">
-                                        Is your Brightspace course help service confidential and secure?
-                                    </button>
-                                </h2>
-                                <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-0">Absolutely. We value your privacy. Your information
-                                        is never shared, and we work with encrypted systems. Your name and coursework
-                                        remain 100 per cent confidential at all times.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion accordion-flush" id="faqAccordion">
-                            <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#q3">
-                                        What subjects do you offer Brightspace course help for?
-                                    </button>
-                                </h2>
-                                <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-2">We offer the best Brightspace course help for a
-                                        wide range of subjects, including math, business, information technology (IT),
-                                        psychology, chemistry, health science and nursing, managerial accounting and
-                                        more. Our team of the best online Brightspace course takers covers a diverse
-                                        array of questions to meet your needs when you ask us to take your Brightspace
-                                        course for you.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion accordion-flush" id="faqAccordion">
-                            <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#q4">
-                                        Can I hire someone to take multiple Brightspace courses at once?
-                                    </button>
-                                </h2>
-                                <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-0">Yes! Our expert online Brightspace course takers
-                                        can handle the number of courses simultaneously: assignments, quizzes, exams,
-                                        and everything. All you do is pass on your schedule, and we will take care of
-                                        everything from beginning to end.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion accordion-flush" id="faqAccordion">
-                            <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#q5">
-                                        How do I know the work will be plagiarism-free?
-                                    </button>
-                                </h2>
-                                <div id="q5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-0">At the Online Course Helpers, we compose all the
-                                        assignments from
-                                        scratch and scan every task with high-quality plagiarism software. You will
-                                        always get original and
-                                        high-quality work that satisfies your academic requirements.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion accordion-flush" id="faqAccordion">
-                            <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#q6">
-                                        What happens if I’m not satisfied with the results?
-                                    </button>
-                                </h2>
-                                <div id="q6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-0">We provide revisions and a money-back guarantee.
-                                        Not satisfied, we
-                                        will make it right quickly or refund your money according to our policy.</div>
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
                     <div class="col-lg-5 p-5 text-white rounded-end-3" style="background-color: #00334d;">
                         <h3 class="fw-bold mb-4">Free Features includes</h3>
                         <ul class="list-unstyled">
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <span><i class="fa fa-star text-white me-2"></i> Title Page</span>
-                                <span class="badge bg-success rounded-pill px-3">Free</span>
+                                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
                             </li>
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <span><i class="fa fa-star text-white me-2"></i> Reference Page</span>
-                                <span class="badge bg-success rounded-pill px-3">Free</span>
+                                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
                             </li>
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <span><i class="fa fa-star text-white me-2"></i> In-text Citation</span>
-                                <span class="badge bg-success rounded-pill px-3">Free</span>
+                                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
                             </li>
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <span><i class="fa fa-star text-white me-2"></i> Plagiarism Check</span>
-                                <span class="badge bg-success rounded-pill px-3">Free</span>
+                                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
                             </li>
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <span><i class="fa fa-star text-white me-2"></i> Unlimited Revisions</span>
-                                <span class="badge bg-success rounded-pill px-3">
+                                <span class="badge bg-warning text-dark rounded-pill px-3">
                                     Free</span>
                             </li>
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <span><i class="fa fa-star text-white me-2"></i> Editing &amp; Proofreading</span>
-                                <span class="badge bg-success rounded-pill px-3">
+                                <span class="badge bg-warning text-dark rounded-pill px-3">
                                     Free</span>
                             </li>
                         </ul>
                         <div class="text-center mt-5">
-                            <p>Get all features for <a href="#" class="text-success me-2">FREE</a></p>
+                            <p>Get all features for <a href="#" class="text-warning me-2">FREE</a></p>
                         </div>
                         <div class="text-center mt-3">
-                            <button class="btn btn-success fw-bold rounded-pill px-5">Place an order</button>
+                            <button class="btn btn-warning fw-bold rounded-pill px-5">Place an order</button>
                         </div>
                     </div>
                 </div>
@@ -1111,7 +1119,7 @@ include 'include/header.php'; ?>
     <!-- Footer -->
     <?php include 'include/footer.php'; ?>
 
-    <script src="/assets/owlcarousel/owl.carousel.min.js"></script>
+    <script src="assets/owlcarousel/owl.carousel.min.js"></script>
 </body>
 
 </html>

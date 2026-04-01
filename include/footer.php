@@ -21,8 +21,8 @@
                     <li class="footer-link"><a href="cengage-course-help">Cengage Course Help</a></li>
                     <li class="footer-link"><a href="act-course-help">ACT Course Help</a></li>
                     <li class="footer-link"><a href="moodle-course-help">Moodle Course Help</a></li>
-                    <li class="footer-link"><a href="#">CANVAS Course Help</a></li>
-                    <li class="footer-link"><a href="#">Mathway Course Help</a></li>
+                    <li class="footer-link"><a href="canvas-course-help">CANVAS Course Help</a></li>
+                    <li class="footer-link"><a href="mathway-course-help">Mathway Course Help</a></li>
                 </ul>
             </div>
             <div class="col-lg-2">

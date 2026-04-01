@@ -49,8 +49,8 @@
                             <li><a class="dropdown-item" href="act-course-help">ACT Course Help</a></li>
                             <li><a class="dropdown-item" href="moodle-course-help">Moodle Course Help</a></li>
                             <li><a class="dropdown-item" href="canvas-course-help">Canvas Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Mathway Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">OnlineEd Course Help</a></li>
+                            <li><a class="dropdown-item" href="mathway-course-help">Mathway Course Help</a></li>
+                            <li><a class="dropdown-item" href="online-ed-course-help">OnlineEd Course Help</a></li>
                         </ul>
                     </li>
 
@@ -84,13 +84,16 @@
                         <a class="nav-link dropdown-toggle" href="#" id="educationLevelsDrop" role="button"
                             data-bs-toggle="dropdown">Education Level</a>
                         <ul class="dropdown-menu shadow border-0" style="max-height: 400px; overflow-y: auto;">
-                            <li><a class="dropdown-item" href="/high-school-level-course-help">High School Level Course
+                            <li><a class="dropdown-item" href="high-school-level-course-help">High School Level Course
                                     Help</a></li>
-                            <li><a class="dropdown-item" href="/associate-level-course-help">Associate Level Course
+                            <li><a class="dropdown-item" href="associate-level-course-help">Associate Level Course
                                     Help</a></li>
-                            <li><a class="dropdown-item" href="#">Undergraduate's Level Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Master's Level Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Doctorate's Level Course Help</a></li>
+                            <li><a class="dropdown-item" href="undergraduate-level-course-help">Undergraduate's Level
+                                    Course Help</a></li>
+                            <li><a class="dropdown-item" href="masters-level-course-help">Master's Level Course Help</a>
+                            </li>
+                            <li><a class="dropdown-item" href="doctorate-level-course-help">Doctorate's Level Course
+                                    Help</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">

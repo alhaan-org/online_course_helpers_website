@@ -529,8 +529,10 @@ include 'include/header.php';
         <!-- Section  -->
         <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
             <div class="container" data-aos="fade-up">
-                <h2 class="fw-bold mb-4 text-white">Need Help with CANVAS course? Hire Experienced Professionals</h2>
-                <p>Get expert help with your CANVAS course. We provide 24/7 service and dedicated support with CANVAS
+                <h1 class="fw-semibold mb-4 text-warning">Need Help with CANVAS course? Hire Experienced Professionals
+                </h1>
+                <p class="px-5">Get expert help with your CANVAS course. We provide 24/7 service and dedicated support
+                    with CANVAS
                     course assignments, quizzes, and tests for all domains.
                 </p>
                 <div class="d-flex justify-content-center gap-3">

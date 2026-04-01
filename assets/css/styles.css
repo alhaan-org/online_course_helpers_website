@@ -86,9 +86,10 @@ body {
 }
 
 .my3dSwiper .coverflow-card {
-  height: 20rem !important;
-  min-height: 20rem !important;
+  height: 25rem !important;
+  min-height: 25rem !important;
 }
+
 
 .limited-offer-badge {
   position: absolute;

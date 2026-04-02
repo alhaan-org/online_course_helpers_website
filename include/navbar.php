@@ -63,8 +63,10 @@
                             <li><a class="dropdown-item" href="statistics-course-help">Statistics Course Help</a></li>
                             <li><a class="dropdown-item" href="accounting-course-help">Accounting Course Help</a></li>
                             <li><a class="dropdown-item" href="math-course-help">Math Course Help</a></li>
-                            <li><a class="dropdown-item" href="computer-science-course">Computer Science Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Algebra Course Help</a></li>
+                            <li><a class="dropdown-item" href="computer-science-course-help">Computer Science Course
+                                    Help</a>
+                            </li>
+                            <li><a class="dropdown-item" href="algebra-course-help">Algebra Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Calculus Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Psychology Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Law Course Help</a></li>

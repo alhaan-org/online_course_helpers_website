@@ -35,10 +35,6 @@ body {
   width: 100%;
 }
 
-.dropdown-menu .dropdown-item {
-  padding: 15px 5px;
-  font-weight: 600;
-}
 
 .dropdown-menu .dropdown-item:hover,
 .dropdown-menu .dropdown-item:focus {

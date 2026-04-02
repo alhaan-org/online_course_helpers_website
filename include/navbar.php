@@ -57,13 +57,13 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="coursesDrop" role="button"
                             data-bs-toggle="dropdown">Courses</a>
-                        <ul class="dropdown-menu shadow border-0 p-3"
+                        <ul class="dropdown-menu shadow border-0"
                             style="min-width: 250px; max-height: 400px; overflow-y: auto;">
                             <li><a class="dropdown-item" href="finance-course-help">Finance Course Help</a></li>
                             <li><a class="dropdown-item" href="statistics-course-help">Statistics Course Help</a></li>
                             <li><a class="dropdown-item" href="accounting-course-help">Accounting Course Help</a></li>
                             <li><a class="dropdown-item" href="math-course-help">Math Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Computer Science Course Help</a></li>
+                            <li><a class="dropdown-item" href="computer-science-course">Computer Science Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Algebra Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Calculus Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Psychology Course Help</a></li>

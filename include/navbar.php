@@ -67,7 +67,7 @@
                                     Help</a>
                             </li>
                             <li><a class="dropdown-item" href="algebra-course-help">Algebra Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Calculus Course Help</a></li>
+                            <li><a class="dropdown-item" href="calculus-course-help">Calculus Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Psychology Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Law Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Criminal Justice Course Help</a></li>

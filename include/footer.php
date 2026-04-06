@@ -29,10 +29,13 @@
                 <h5 class="text-warning fw-bold mb-4">Information</h5>
                 <ul class="list-unstyled small opacity-75 lh-lg">
                     <li class="footer-link"><a href="/">Home</a></li>
-                    <li class="footer-link"><a href="#">Blog</a></li>
-                    <li class="footer-link"><a href="#">Terms and Conditions</a></li>
-                    <li class="footer-link"><a href="#">Refund Policy</a></li>
-                    <li class="footer-link"><a href="#">Privacy Policy</a></li>
+                    <li class="footer-link"><a href="https://onlinecoursehelpers.com/blog/">Blog</a></li>
+                    <li class="footer-link"><a href="https://onlinecoursehelpers.com/terms-conditions/">Terms and
+                            Conditions</a></li>
+                    <li class="footer-link"><a href="https://onlinecoursehelpers.com/refund-policy/">Refund Policy</a>
+                    </li>
+                    <li class="footer-link"><a href="https://onlinecoursehelpers.com/privacy-policy/">Privacy Policy</a>
+                    </li>
                 </ul>
             </div>
             <div class="col-lg-4">

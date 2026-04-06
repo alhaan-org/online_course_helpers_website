@@ -68,10 +68,11 @@
                             </li>
                             <li><a class="dropdown-item" href="algebra-course-help">Algebra Course Help</a></li>
                             <li><a class="dropdown-item" href="calculus-course-help">Calculus Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Psychology Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Law Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Criminal Justice Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Biology Course Help</a></li>
+                            <li><a class="dropdown-item" href="psychology-course-help">Psychology Course Help</a></li>
+                            <li><a class="dropdown-item" href="law-course-help">Law Course Help</a></li>
+                            <li><a class="dropdown-item" href="criminal-justice-course-help">Criminal Justice Course
+                                    Help</a></li>
+                            <li><a class="dropdown-item" href="biology-course-help">Biology Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Management Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Philosophy Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Nursing Course Help</a></li>

@@ -14,10 +14,10 @@ include 'include/header.php'; ?>
         <!-- Hero Section -->
         <section class="hero-section">
             <div class="container" data-aos="fade-up">
-                <div class="row container">
+                <div class="row d-lg-flex align-items-center justify-content-between">
                     <!-- Left Content -->
-                    <div class="col-lg-8">
-                        <h1 class="hero-title mb-4" style="font-size: clamp(2rem, 5vw, 2.25rem);">
+                    <div class="col-lg-6">
+                        <h1 class="hero-title mb-4" style="font-size: clamp(2.25rem, 5vw, 2.75rem);">
                             Best Math Help Provider in the USA for Extra Credits
                         </h1>
                         <p class="hero-text mb-4">
@@ -68,43 +68,28 @@ include 'include/header.php'; ?>
             </div>
         </section>
         <!-- Trust Section -->
-        <section class="academic-section">
-            <div class="slider-images-container" data-aos="fade-up">
+        <section clss="slider-section-university">
+            <div class="container col-12" data-aos="fade-up">
                 <div class="slider-images owl-carousel owl-theme">
-                    <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-                    <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
+                    <img src="assets/img/uni-1.webp" alt="University of Arizona" loading="lazy" />
+                    <img src="assets/img/uni-2.webp" alt="University of Buffalo" loading="lazy" />
+                    <img src="assets/img/uni-3.webp" alt="University of Pheonix" loading="lazy" />
+                    <img src="assets/img/uni-4.webp" alt="Embry Riddle Aeronautical University" loading="lazy" />
+                    <img src="assets/img/uni-5.webp" alt="CUNY School of Professional Studies" loading="lazy" />
+                    <img src="assets/img/uni-6.webp" alt="Capitol Technology University" loading="lazy" />
+                    <img src="assets/img/uni-7.webp" alt="Capella University" loading="lazy" />
+                    <img src="assets/img/uni-8.webp" alt="Ashford University" loading="lazy" />
+                    <img src="assets/img/uni-9.webp" alt="Florida State University" loading="lazy" />
+                    <img src="assets/img/uni-10.webp" alt="ASU" loading="lazy" />
+                    <img src="assets/img/uni-11 (1).webp" alt="Oregon State University" loading="lazy" />
+                    <img src="assets/img/uni-12.webp" alt="OhioState" loading="lazy" />
+                    <img src="assets/img/uni-13.webp" alt="Grand Canyon University" loading="lazy" />
+                    <img src="assets/img/uni-14.webp" alt="Chamberlain University" loading="lazy" />
+                    <img src="assets/img/uni-15.webp" alt="Walden University" loading="lazy" />
                 </div>
             </div>
-
-
+        </section>
+        <section class="academic-section">
             <div class="container mt-5">
                 <div class="row align-items-center g-5">
                     <!-- Right Image Placeholder -->
@@ -140,7 +125,7 @@ include 'include/header.php'; ?>
         <!-- Benefits Section -->
         <section class="yellow-section py-5">
             <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3" style="color: #002a4d;">Comprehensive Help with Math Course in the USA
+                <h1 class="fw-semibold mb-3" style="color: #002a4d;">Comprehensive Help with Math Course in the USA
                 </h1>
                 <p class="mx-auto mb-5" style="color: #002a4d;">
                     Having a hard time with math subjects? Our Math course assistance covers all sub-domains of this
@@ -151,7 +136,7 @@ include 'include/header.php'; ?>
                     <div class="owl-carousel scroll-wrapper">
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h4>
+                                <h4 class="fw-bold">
                                     Geometry Course Help</h4>
                                 <div class="card-content">
                                     <p>
@@ -173,7 +158,7 @@ include 'include/header.php'; ?>
 
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h4>
+                                <h4 class="fw-bold">
                                     Calculus Course Help</h4>
                                 <div class="card-content">
                                     <p>
@@ -190,7 +175,7 @@ include 'include/header.php'; ?>
 
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h4>
+                                <h4 class="fw-bold">
                                     Statistics & Probability Course Help</h4>
                                 <div class="card-content">
                                     <p>
@@ -208,7 +193,7 @@ include 'include/header.php'; ?>
 
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h4>
+                                <h4 class="fw-bold">
                                     Trigonometry Course Help</h4>
                                 <div class="card-content">
                                     <p>
@@ -225,7 +210,7 @@ include 'include/header.php'; ?>
 
                         <div class="course-card-container">
                             <div class="course-card">
-                                <h4>
+                                <h4 class="fw-bold">
                                     Discrete Mathematics Course Help</h4>
                                 <div class="card-content">
                                     <p>
@@ -270,8 +255,8 @@ include 'include/header.php'; ?>
             <div class="container">
                 <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
                     <div class="content-left text-white w-60">
-                        <h2 class="fw-bold mb-4">
-                            Want to Pay Someone to Complete Your Math Course with Top Grades? Trust Our Experts!</h2>
+                        <h1 class="fw-medium mb-4">
+                            Want to Pay Someone to Complete Your Math Course with Top Grades? Trust Our Experts!</h1>
                         <div class="d-flex gap-3">
                             <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
                             <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i
@@ -295,8 +280,8 @@ include 'include/header.php'; ?>
 
         <section class="services-section py-5">
             <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3">Take My Math Course Risk-free at Cheap Rates</h1>
-                <p class="mb-5 text-muted">
+                <h1 class="fw-medium px-5 mb-3">Take My Math Course Risk-free at Cheap Rates</h1>
+                <p class="mb-5 px-5 text-muted">
                     Through our low-cost math course helpers, we are confident that every learner is able to access
                     professional assistance without straining their economic resources. It could be the solving of
                     assignments, or exam preparation, we do it all carefully and accurately. Through our reliable math
@@ -305,58 +290,63 @@ include 'include/header.php'; ?>
                 </p>
                 <div class="row g-4 mb-5">
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-headset service-icon"></i>
-                            <h3>Qualified
+                            <h3 class="fs-4">Qualified
                                 Aleks Course Experts</h3>
-                            <p>
+                            <p class="fs-6">
                                 Learn with expert Aleks course takers who know your syllabus inside out and provide
                                 expert-level assistance in all subjects.
                             </p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-clock-rotate-left service-icon"></i>
-                            <h3>All-Time
+                            <h3 class="fs-4">All-Time
                                 Experts Availability</h3>
-                            <p>Access to competent professionals available 24/7 to help you when you need it, day or
+                            <p class="fs-6">Access to competent professionals available 24/7 to help you when you need
+                                it, day or
                                 night.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-circle-info service-icon"></i>
-                            <h3>Guaranteed A+ Performance</h3>
-                            <p>We do not just help you score higher. Expect top grades, on-time submissions, and
+                            <h3 class="fs-4">Guaranteed A+ Performance</h3>
+                            <p class="fs-6">We do not just help you score higher. Expect top grades, on-time
+                                submissions, and
                                 reliable academic
                                 excellence every time.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-dollar-sign service-icon"></i>
-                            <h3>Affordable Pricing for All</h3>
-                            <p>Good assistance should not be expensive. Savour the low prices and high-quality
+                            <h3 class="fs-4">Affordable Pricing for All</h3>
+                            <p class="fs-6">Good assistance should not be expensive. Savour the low prices and
+                                high-quality
                                 services
                                 to meet your
                                 study objectives.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-file-word service-icon"></i>
-                            <h3>100% Unique & Original Content</h3>
-                            <p>All papers are original, plagiarism-free, and precisely aligned with your course
+                            <h3 class="fs-4">100% Unique & Original Content</h3>
+                            <p class="fs-6">All papers are original, plagiarism-free, and precisely aligned with your
+                                course
                                 requirements and
                                 guidelines.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-box">
+                        <div class="service-box py-5 px-4">
                             <i class="fa-solid fa-lock service-icon"></i>
-                            <h3>Complete Privacy & Security</h3>
-                            <p>We keep your data and your identity secure. We operate encrypted systems and tight
+                            <h3 class="fs-4">Complete Privacy & Security</h3>
+                            <p class="fs-6">We keep your data and your identity secure. We operate encrypted systems and
+                                tight
                                 confidentiality
                                 protocols to provide you with complete peace of mind.</p>
                         </div>
@@ -418,7 +408,8 @@ include 'include/header.php'; ?>
             <div class="container">
                 <div class="row justify-content-center text-center mb-5">
                     <div class="col-lg-9" data-aos="fade-up">
-                        <h2 class="fw-bold text-dark mb-3">Achieve Success at All Education Levels with Our Math Course
+                        <h2 class="fw-semibold px-5 text-navy mb-3">Achieve Success at All Education Levels with Our
+                            Math Course
                             Assistance
                         </h2>
                         <p class="text-secondary">Our professionals simplify things when deadlines are impossible.
@@ -599,10 +590,12 @@ include 'include/header.php'; ?>
         <!-- Section  -->
         <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
             <div class="container" data-aos="fade-up">
-                <h2 class="fw-bold mb-4 text-white">Hire Our Experts in USA to Finish Your Math Course For Additional
+                <h1 class="fw-semibold mb-4 text-warning px-5">Hire Our Experts in USA to Finish Your Math Course For
+                    Additional
                     Credits
-                </h2>
-                <p>With our money-back guarantee, additional credits are risk-free. Get started today and see the
+                </h1>
+                <p class="px-5">With our money-back guarantee, additional credits are risk-free. Get started today and
+                    see the
                     difference!</p>
                 <div class="d-flex justify-content-center gap-3">
                     <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
@@ -614,24 +607,24 @@ include 'include/header.php'; ?>
 <!-- Section  -->
     <section class=" py-5 bg-light">
                             <div class="container text-center" data-aos="fade-up">
-                                <h2 class="fw-bold mb-3">Can You Do my math course for All Educational Levels? Yes, Why
+                                <h1 class="fw-bold mb-3">Can You Do my math course for All Educational Levels? Yes, Why
                                     Not!
-                                </h2>
+                                </h1>
                                 <p class="text-muted mb-5 mx-auto">
                                     What is the big deal with submissions that are due when our math course helpers can
                                     handle them? You may wish to complete your math course fast; we have the right team
                                     for your course.
                                 </p>
-                                <div class="coverflow-swiper swiper my3dSwiper">
+                                <div class="coverflow-swiper swiper my3dSwiper py-5">
                                     <div class="h-100 swiper-wrapper">
                                         <div class="swiper-slide">
-                                            <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
+                                            <div class="coverflow-card vh-100 text-white p-4"
                                                 style="background-color: #242f3e; border-radius: 15px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
                                                         High School Level Math Course Help
                                                     </h5>
-                                                    <p style="font-size: 13px;"><span style="font-weight: 400">The core
+                                                    <p style="font-size: 14px;"><span style="font-weight: 400">The core
                                                             issues, such as algebra,
                                                             geometry, and trigonometry, can be made easier with our
                                                         </span><a
@@ -647,12 +640,12 @@ include 'include/header.php'; ?>
                                         </div>
 
                                         <div class="swiper-slide">
-                                            <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
+                                            <div class="coverflow-card vh-100 text-white p-4"
                                                 style="background-color: #242f3e; border-radius: 15px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
                                                         Associate Level Math Course Help </h5>
-                                                    <p style="font-size: 13px;"><span style="font-weight: 400">Our
+                                                    <p style="font-size: 14px;"><span style="font-weight: 400">Our
                                                         </span><a
                                                             href="https://onlinecoursehelpers.com/associate-level-course-help/"><span
                                                                 style="font-weight: 400">associate level course
@@ -667,12 +660,12 @@ include 'include/header.php'; ?>
                                         </div>
 
                                         <div class="swiper-slide">
-                                            <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
+                                            <div class="coverflow-card vh-100 text-white p-4"
                                                 style="background-color: #242f3e; border-radius: 15px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
                                                         Undergraduate Level Math Course Help </h5>
-                                                    <p style="font-size: 13px;"><span style="font-weight: 400"><a
+                                                    <p style="font-size: 14px;"><span style="font-weight: 400"><a
                                                                 href="https://onlinecoursehelpers.com/undergraduate-level-course-help/">Undergraduate
                                                                 level courses help</a> include such complicated math
                                                             subjects as calculus, linear algebra, and probability. Our
@@ -690,12 +683,12 @@ include 'include/header.php'; ?>
                                         </div>
 
                                         <div class="swiper-slide">
-                                            <div class="coverflow-card card h-70 h-lg-100 text-white p-4"
+                                            <div class="coverflow-card vh-100 text-white p-4"
                                                 style="background-color: #242f3e; border-radius: 15px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
                                                         Master’s Level Math Course Help </h5>
-                                                    <p style="font-size: 13px;"><span style="font-weight: 400">Advanced
+                                                    <p style="font-size: 14px;"><span style="font-weight: 400">Advanced
                                                             subjects of math, such as
                                                             applied mathematics, data analysis, and optimization, are
                                                             easy when tackled with our </span><a
@@ -709,12 +702,12 @@ include 'include/header.php'; ?>
                                         </div>
 
                                         <div class="swiper-slide">
-                                            <div class="coverflow-card card h-70 h-md-100 text-white p-4"
+                                            <div class="coverflow-card vh-100 text-white p-4"
                                                 style="background-color: #242f3e; border-radius: 15px;">
                                                 <div class="card-body">
                                                     <h5 class="text-warning fw-bold mb-3">
                                                         Doctorate-Level Math Course Help </h5>
-                                                    <p style="font-size: 13px;"><span style="font-weight: 400">The
+                                                    <p style="font-size: 14px;"><span style="font-weight: 400">The
                                                             doctoral students have
                                                             specific problems with the research, dissertation, and
                                                             mathematical theory. Our </span><a
@@ -786,7 +779,9 @@ include 'include/header.php'; ?>
                                 on time, and I was able to concentrate on other things.
                             </p>
                             <div class="d-flex align-items-center mt-4">
-                                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                                    style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
+
                                 <div>
                                     <h6 class="mb-0 fw-bold">Ahsan</h6>
                                     <small class="opacity-50">New York</small>
@@ -806,7 +801,8 @@ include 'include/header.php'; ?>
                                 reliable!
                             </p>
                             <div class="d-flex align-items-center mt-4">
-                                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                                    style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                                 <div>
                                     <h6 class="mb-0 fw-bold">Hannah</h6>
                                     <small class="opacity-50">Seattle</small>
@@ -827,7 +823,8 @@ include 'include/header.php'; ?>
                                 expectations.
                             </p>
                             <div class="d-flex align-items-center mt-4">
-                                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                                    style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                                 <div>
                                     <h6 class="mb-0 fw-bold">
                                         Anna
@@ -848,7 +845,8 @@ include 'include/header.php'; ?>
                                 complete my course, and they did it with accuracy and simplicity. Job well done!
                             </p>
                             <div class="d-flex align-items-center mt-4">
-                                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                                    style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                                 <div>
                                     <h6 class="mb-0 fw-bold">
                                         Ella
@@ -870,7 +868,8 @@ include 'include/header.php'; ?>
                                 any stress. Could not have been any better!
                             </p>
                             <div class="d-flex align-items-center mt-4">
-                                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                                    style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                                 <div>
                                     <h6 class="mb-0 fw-bold">Hannah</h6>
                                     <small class="opacity-50">San Diego</small>
@@ -890,7 +889,8 @@ include 'include/header.php'; ?>
                                 did so reliably. There were no problems with my extra credits, and I earned them quite
                                 easily.</p>
                             <div class="d-flex align-items-center mt-4">
-                                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                                    style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                                 <div>
                                     <h6 class="mb-0 fw-bold">
                                         Anna
@@ -955,142 +955,156 @@ include 'include/header.php'; ?>
                         <h2 class="fw-bold mb-4">Frequently Asked Questions</h2>
                         <p>Our combination of quality, confidentiality and affordability is what makes math course help
                             the preferred choice of students all over the USA.</p>
-                        <div class="accordion accordion-flush" id="faqAccordion">
-                            <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#q1">
-                                        1. Do you offer math course help for all academic levels?
-                                    </button>
-                                </h2>
-                                <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0"
-                                    data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-0">Yes, we offer high school support up to the
-                                        doctoral level. It may be algebra foundations, undergraduate calculus, or other
-                                        more advanced courses in mathematics, the math course help we provide guarantees
-                                        proper direction and the opportunity to rightly achieve additional credits.
+                        <div class="d-flex flex-column gap-3">
+                            <div class="accordion accordion-flush" id="faqAccordion">
+                                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
+                                            type="button" data-bs-toggle="collapse" data-bs-target="#q1">
+                                            1. Do you offer math course help for all academic levels?
+                                        </button>
+                                    </h2>
+                                    <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0"
+                                        data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body px-0">Yes, we offer high school support up to the
+                                            doctoral level. It may be algebra foundations, undergraduate calculus, or
+                                            other
+                                            more advanced courses in mathematics, the math course help we provide
+                                            guarantees
+                                            proper direction and the opportunity to rightly achieve additional credits.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion accordion-flush" id="faqAccordion">
+                                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
+                                            type="button" data-bs-toggle="collapse" data-bs-target="#q2">
+                                            2. Can I pay someone to do my math assignment or complete my course?
+                                        </button>
+                                    </h2>
+                                    <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body px-0">Definitely! When there are too many deadlines,
+                                            students prefer to pay someone to write their course. You provide your
+                                            assignments, quizzes, and exams to our professional math assistants and
+                                            spend
+                                            your time on other important things without any stress.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion accordion-flush" id="faqAccordion">
+                                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
+                                            type="button" data-bs-toggle="collapse" data-bs-target="#q3">
+                                            3. How fast can you finish my math course if I’m running out of time?
+                                        </button>
+                                    </h2>
+                                    <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body px-2">We deal with immediate deadlines as well. In
+                                            case
+                                            you require someone to complete your course within a short period, our
+                                            experts
+                                            can handle the tasks in a short time and still ensure accuracy and the best
+                                            results
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion accordion-flush" id="faqAccordion">
+                                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
+                                            type="button" data-bs-toggle="collapse" data-bs-target="#q4">
+                                            4. Is it safe to hire a math course helper online?
+                                        </button>
+                                    </h2>
+                                    <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body px-0">Yes, it’s completely safe. We base our service
+                                            on
+                                            trust and privacy; our services also keep your information confidential.
+                                            Moreover, you can rely on us to finish your course without any risks thanks
+                                            to
+                                            our money-back guarantee.</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion accordion-flush" id="faqAccordion">
+                                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
+                                            type="button" data-bs-toggle="collapse" data-bs-target="#q5">
+                                            5. What kind of subjects and topics are included in your math course help?
+                                        </button>
+                                    </h2>
+                                    <div id="q5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body px-0">Our math course help includes a broad spectrum
+                                            of
+                                            subjects such as algebra, geometry, trigonometry, calculus, probability, and
+                                            statistics. You need step-by-step homework instructions or exam assistance,
+                                            and
+                                            we can offer complete course assistance.</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion accordion-flush" id="faqAccordion">
+                                <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
+                                            type="button" data-bs-toggle="collapse" data-bs-target="#q6">
+                                            6. Do you provide support for online platforms like Pearson and Aleks?
+                                        </button>
+                                    </h2>
+                                    <div id="q6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body px-0">Yes! Pearson math course help, Aleks math
+                                            course
+                                            help, and such platforms as Canvas, Cengage, and Blackboard are also handled
+                                            by
+                                            our team. Every system is different, and our helpers ensure that you pass in
+                                            each of them.</div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="accordion accordion-flush" id="faqAccordion">
-                            <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#q2">
-                                        2. Can I pay someone to do my math assignment or complete my course?
-                                    </button>
-                                </h2>
-                                <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-0">Definitely! When there are too many deadlines,
-                                        students prefer to pay someone to write their course. You provide your
-                                        assignments, quizzes, and exams to our professional math assistants and spend
-                                        your time on other important things without any stress.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion accordion-flush" id="faqAccordion">
-                            <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#q3">
-                                        3. How fast can you finish my math course if I’m running out of time?
-                                    </button>
-                                </h2>
-                                <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-2">We deal with immediate deadlines as well. In case
-                                        you require someone to complete your course within a short period, our experts
-                                        can handle the tasks in a short time and still ensure accuracy and the best
-                                        results
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion accordion-flush" id="faqAccordion">
-                            <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#q4">
-                                        4. Is it safe to hire a math course helper online?
-                                    </button>
-                                </h2>
-                                <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-0">Yes, it’s completely safe. We base our service on
-                                        trust and privacy; our services also keep your information confidential.
-                                        Moreover, you can rely on us to finish your course without any risks thanks to
-                                        our money-back guarantee.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion accordion-flush" id="faqAccordion">
-                            <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#q5">
-                                        5. What kind of subjects and topics are included in your math course help?
-                                    </button>
-                                </h2>
-                                <div id="q5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-0">Our math course help includes a broad spectrum of
-                                        subjects such as algebra, geometry, trigonometry, calculus, probability, and
-                                        statistics. You need step-by-step homework instructions or exam assistance, and
-                                        we can offer complete course assistance.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion accordion-flush" id="faqAccordion">
-                            <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white fw-bold text-dark px-0"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#q6">
-                                        6. Do you provide support for online platforms like Pearson and Aleks?
-                                    </button>
-                                </h2>
-                                <div id="q6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body px-0">Yes! Pearson math course help, Aleks math course
-                                        help, and such platforms as Canvas, Cengage, and Blackboard are also handled by
-                                        our team. Every system is different, and our helpers ensure that you pass in
-                                        each of them.</div>
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
                     <div class="col-lg-5 p-5 text-white rounded-end-3" style="background-color: #00334d;">
                         <h3 class="fw-bold mb-4">Free Features includes</h3>
                         <ul class="list-unstyled">
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <span><i class="fa fa-star text-white me-2"></i> Title Page</span>
-                                <span class="badge bg-success rounded-pill px-3">Free</span>
+                                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
                             </li>
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <span><i class="fa fa-star text-white me-2"></i> Reference Page</span>
-                                <span class="badge bg-success rounded-pill px-3">Free</span>
+                                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
                             </li>
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <span><i class="fa fa-star text-white me-2"></i> In-text Citation</span>
-                                <span class="badge bg-success rounded-pill px-3">Free</span>
+                                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
                             </li>
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <span><i class="fa fa-star text-white me-2"></i> Plagiarism Check</span>
-                                <span class="badge bg-success rounded-pill px-3">Free</span>
+                                <span class="badge bg-warning text-dark rounded-pill px-3">Free</span>
                             </li>
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <span><i class="fa fa-star text-white me-2"></i> Unlimited Revisions</span>
-                                <span class="badge bg-success rounded-pill px-3">
+                                <span class="badge bg-warning text-dark rounded-pill px-3">
                                     Free</span>
                             </li>
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <span><i class="fa fa-star text-white me-2"></i> Editing &amp; Proofreading</span>
-                                <span class="badge bg-success rounded-pill px-3">
+                                <span class="badge bg-warning text-dark rounded-pill px-3">
                                     Free</span>
                             </li>
                         </ul>
                         <div class="text-center mt-5">
-                            <p>Get all features for <a href="#" class="text-success me-2">FREE</a></p>
+                            <p>Get all features for <a href="#" class="text-warning me-2">FREE</a></p>
                         </div>
                         <div class="text-center mt-3">
-                            <button class="btn btn-success fw-bold rounded-pill px-5">Place an order</button>
+                            <button class="btn btn-warning fw-bold rounded-pill px-5">Place an order</button>
                         </div>
                     </div>
                 </div>

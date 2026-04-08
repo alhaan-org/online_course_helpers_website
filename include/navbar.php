@@ -76,10 +76,10 @@
                             <li><a class="dropdown-item" href="management-course-help">Management Course Help</a></li>
                             <li><a class="dropdown-item" href="philosophy-course-help">Philosophy Course Help</a></li>
                             <li><a class="dropdown-item" href="nursing-course-help">Nursing Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Business Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Marketing Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Programming Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Chemistry Course Help</a></li>
+                            <li><a class="dropdown-item" href="business-course-help">Business Course Help</a></li>
+                            <li><a class="dropdown-item" href="marketing-course-help">Marketing Course Help</a></li>
+                            <li><a class="dropdown-item" href="programming-course-help">Programming Course Help</a></li>
+                            <li><a class="dropdown-item" href="chemistry-course-help">Chemistry Course Help</a></li>
                         </ul>
                     </li>
 

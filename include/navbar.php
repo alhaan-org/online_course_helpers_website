@@ -73,9 +73,9 @@
                             <li><a class="dropdown-item" href="criminal-justice-course-help">Criminal Justice Course
                                     Help</a></li>
                             <li><a class="dropdown-item" href="biology-course-help">Biology Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Management Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Philosophy Course Help</a></li>
-                            <li><a class="dropdown-item" href="#">Nursing Course Help</a></li>
+                            <li><a class="dropdown-item" href="management-course-help">Management Course Help</a></li>
+                            <li><a class="dropdown-item" href="philosophy-course-help">Philosophy Course Help</a></li>
+                            <li><a class="dropdown-item" href="nursing-course-help">Nursing Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Business Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Marketing Course Help</a></li>
                             <li><a class="dropdown-item" href="#">Programming Course Help</a></li>

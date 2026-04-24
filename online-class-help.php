@@ -303,9 +303,9 @@ include 'include/header.php'; ?>
       <div class="container text-center" data-aos="fade-up">
         <h1 class="fw-medium px-5 mb-3">Trusted Online Class Help for Busy & Ambitious Students</h1>
         <p class="mb-5 px-5 text-muted">
-          With over years of experience in providing help with online classes to students in the USA, The Online Course
-          Helpers is one of the most prestigious and reliable online class help services in the USA, delivering
-          excellent work due to the professionalism of their team.
+          With over years of experience in providing <a href="https://onlinecoursehelpers.com">help with online
+            courses</a> to students in the USA, The Online Course Helpers is one of the most prestigious and reliable
+          online class help services in the USA, delivering excellent work due to the professionalism of their team.
         </p>
 
         <div class="row g-4 mb-5">
@@ -376,7 +376,7 @@ include 'include/header.php'; ?>
     </section>
 
     <!-- Elearning Experts Section -->
-    <?php include 'include/elearning_experts.php'; ?>
+    <?php include 'include/elearning-class-help.php'; ?>
 
     <!-- Cheap Price Section -->
     <section class="cheap-price-section py-5">
@@ -391,10 +391,11 @@ include 'include/header.php'; ?>
               Do you find your online class annoyingly tedious? You are not alone. Countless students approach us
               saying, “Can I pay someone to take my online class for me?” because they are exhausted. But worry not! Our
               answer is always a Yes when someone asks for help. You can confidently trust our expert writers to take
-              your online class on your behalf. Their skills and experience give them the confidence to navigate the
-              platforms seamlessly and maintain transparency in communication. We handle full modules, from quizzes to
-              exams and one-on-one discussions. When you ask someone to take your class for you online, you are not only
-              getting them for a specific task. You are investing in your future.
+              your online class on your behalf. We not only turn in assignments but also <a href="online-exam-help">take
+                your online exam</a> right within your portal. Their skills and experience give them the confidence to
+              navigate the platforms seamlessly and maintain transparency in communication. We handle full modules, from
+              quizzes to exams and one-on-one discussions. When you ask someone to take your class for you online, you
+              are not only getting them for a specific task. You are investing in your future.
             </p>
 
             <div class="container-fluid">
@@ -424,9 +425,8 @@ include 'include/header.php'; ?>
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
         <h1 class="fw-semibold px-5 mb-4 text-warning">Need Help With Online Class? We are the Perfect Solution</h1>
-        <p class="px-5">Get expert help with your ACT course. We provide 24/7 service and dedicated support with ACT
-          course
-          assignments, quizzes, and tests for all domains.</p>
+        <p class="px-5">Get expert help with your online class with just a single click. We provide 24/7 service and
+          dedicated support with online classes, assignments, quizzes, and tests for all domains.</p>
         <div class="d-flex justify-content-center gap-3">
           <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
               class="fa-solid fa-comment-dots ms-2"></i></a>
@@ -434,8 +434,10 @@ include 'include/header.php'; ?>
         </div>
     </div>
 </section>
+
 <!-- Support Blue Section  -->
-<section class=" support-section py-5 bg-light">
+
+    <section class=" support-section py-5 bg-light">
               <div class="container">
                 <div class="row justify-content-center text-center mb-5">
                   <div class="col-lg-9" data-aos="fade-up">
@@ -451,7 +453,7 @@ include 'include/header.php'; ?>
                 <div class="owl-carousel owl-theme support-carousel">
                   <div class="item h-100">
                     <div class="support-box p-4 rounded-4 shadow-sm">
-                      <h3 class="h4 fw-bold text-warning mb-3">Associate Level Course Help</h3>
+                      <h3 class="h4 fw-bold text-warning mb-3">Associate Level Class Help</h3>
                       <p class="small"><span style="font-weight: 400">We assist students in enhancing their knowledge of
                           critical
                           academic concepts. Our professionals in the US provide quality, well-formatted work in terms
@@ -459,12 +461,12 @@ include 'include/header.php'; ?>
                           to handle? Don’t worry, we offer </span><a
                           href="https://onlinecoursehelpers.com/associate-level-course-help/"><span
                             style="font-weight: 400">associate-level course help USA</span></a><span
-                          style="font-weight: 400"> make your course simple, clear and stress-free. </span></p>
+                          style="font-weight: 400"> make your class simple, clear and stress-free. </span></p>
                     </div>
                   </div>
                   <div class="item h-100">
                     <div class="support-box p-4 rounded-4 shadow-sm">
-                      <h3 class="h4 fw-bold text-warning mb-3">Undergraduate Level Course Help</h3>
+                      <h3 class="h4 fw-bold text-warning mb-3">Undergraduate Level Class Help</h3>
                       <p class="small"><span style="font-weight: 400">Struggling with your degree class? We offer
                           complete help with
                           undergraduate-level classes for students who strive to achieve academic excellence without
@@ -478,7 +480,7 @@ include 'include/header.php'; ?>
                   </div>
                   <div class="item h-100">
                     <div class="support-box p-4 rounded-4 shadow-sm">
-                      <h3 class="h4 fw-bold text-warning mb-3">Master Level Course Help</h3>
+                      <h3 class="h4 fw-bold text-warning mb-3">Master Level Class Help</h3>
                       <p class="small"><span style="font-weight: 400">At the online course helpers, we offer help to
                           graduate students
                           with advanced theories, data-driven research or project-based studies. Also, we offer complete
@@ -491,7 +493,7 @@ include 'include/header.php'; ?>
                   </div>
                   <div class="item h-100">
                     <div class="support-box p-4 rounded-4 shadow-sm">
-                      <h3 class="h4 fw-bold text-warning mb-3">Doctorate Level Course Help</h3>
+                      <h3 class="h4 fw-bold text-warning mb-3">Doctorate Level Class Help</h3>
                       <p class="small"><span style="font-weight: 400">Our&nbsp;</span><a
                           href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
                             style="font-weight: 400">doctoral-level course help&nbsp;</span></a><span
@@ -503,7 +505,7 @@ include 'include/header.php'; ?>
                   </div>
                   <div class="item h-100">
                     <div class="support-box p-4 rounded-4 shadow-sm">
-                      <h3 class="h4 fw-bold text-warning mb-3">High School Level Course Help</h3>
+                      <h3 class="h4 fw-bold text-warning mb-3">High School Level Class Help</h3>
                       <p class="small"><span style="font-weight: 400">Our&nbsp;</span><a
                           href="https://onlinecoursehelpers.com/high-school-level-course-help/"><span
                             style="font-weight: 400">high school-level course service&nbsp;</span></a><span
@@ -533,19 +535,13 @@ include 'include/header.php'; ?>
                 <img loading="lazy" src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
                   class="review-image">
               </div>
-              <p class="small opacity-75">The Online Course Helpers are a great service. They have helped many
-                students
-                with their online classes, and they have even helped students with difficult courses. They are
-                great at
-                responding to emails and will work hard to resolve any questions you have. They are also very
-                flexible
-                and will help you with any class or course, even if you aren't currently taking it. I would
-                recommend
-                this service to anyone looking for help with online class at pocket-friendly rates.</p>
+              <p class="small opacity-75">I was totally drowning in my online nursing class module until I decided to
+                pay someone to take my online class for me. I found this platform. They handled my tricky assignments
+                while I was working double shifts. I honestly don't know how I would’ve passed without their help!</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Edward Marshall</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -565,7 +561,7 @@ include 'include/header.php'; ?>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Hilma Reed</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -577,18 +573,14 @@ include 'include/header.php'; ?>
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">Captivating Work! I used various websites for online class help
-                before, but
-                Online Course Helpers is the best I've ever used. Their management class taker was exceptional
-                and
-                delivered my work unadulterated. The delivery was on time, and customer service was
-                satisfactory. All in
-                all, it was great.</p>
+              <p class="small opacity-75">Captivating Work! I used various websites for online class help before, but
+                Online Course Helpers is the best I've ever used. Their online class taker was exceptional and delivered
+                my work unadulterated. The delivery was on time, and customer service was satisfactory. All in all, it
+                was great.</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">
-                    Anna</h6>
+                  <h6 class="mb-0 fw-bold">Mary Vaughn</h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
               </div>
@@ -600,15 +592,13 @@ include 'include/header.php'; ?>
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">Completing multiple assignments at a time while managing my
-                professional life
-                was extremely difficult until I came across the Online Course Helpers. Not only did my online
-                assignments help me achieve straight A’s in my online biology class.
-              </p>
+              <p class="small opacity-75">The 24/7 support is a total win. I had a late-night panic over a quiz for my
+                online chemistry class, but they stepped in and fixed it immediately. It feels so good to finally be
+                completely stress-free again!</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ella</h6>
+                  <h6 class="mb-0 fw-bold">Kevin Vasquez</h6>
                   <small class="opacity-50">Houston</small>
                 </div>
               </div>
@@ -631,7 +621,7 @@ include 'include/header.php'; ?>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Jeanette Flowers</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -643,20 +633,16 @@ include 'include/header.php'; ?>
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">The Online Course Helpers are very helpful, and they help me with my
-                online
-                class. I needed a high grade to pass the class, and they helped me get a top grade. The best
-                part is
-                that they do not require you to pay anything in advance. They just want to help you succeed in
-                your
-                online classes. Their team managed my whole course without any issue, as they sign in through
-                VPN and do
+              <p class="small opacity-75">The Online Course Helpers are very helpful, and they help me with my online
+                class. I needed a high grade to pass the class, and they helped me get a top grade. The best part is
+                that they do not require you to pay anything in advance. They just want to help you succeed in your
+                online classes. Their team managed my whole class without any issue, as they sign in through VPN and do
                 not let professors identify whether it's you or someone else.
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Anna
+                  <h6 class="mb-0 fw-bold">Benjamin Chavez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>
@@ -672,6 +658,7 @@ include 'include/header.php'; ?>
         </div>
       </div>
     </section>
+
     <!-- Section  -->
     <section class="py-5 text-white" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
@@ -708,8 +695,7 @@ include 'include/header.php'; ?>
         <div class="row g-0">
           <div class="left-box col-lg-7 p-5 rounded-start-3">
             <h2 class="fw-bold mb-4">Frequently Asked Questions</h2>
-            <p>Let’s see some of your most frequently asked questions about our online class-taking service. It’s fast,
-              secure and stress-free.</p>
+            <p>Find answers to all your questions about our online class help service in the USA. </p>
             <div class="d-flex flex-column gap-3">
               <div class="accordion accordion-flush" id="faqAccordion">
                 <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
@@ -721,10 +707,9 @@ include 'include/header.php'; ?>
                   </h2>
                   <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0"
                     data-bs-parent="#faqAccordion">
-                    <div class="accordion-body px-0">100% discretion guaranteed. At the Online Course Helpers, we take
-                      the
-                      confidentiality and security of your information very seriously. None of your information is ever
-                      shared with anyone.</div>
+                    <div class="accordion-body px-0">Yes! It is completely safe to hire someone to take your online
+                      class. At the Online Course Helpers, we take the confidentiality and security of your information
+                      very seriously. None of your information is ever shared with anyone.</div>
                   </div>
                 </div>
               </div>
@@ -737,7 +722,7 @@ include 'include/header.php'; ?>
                     </button>
                   </h2>
                   <div id="q2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                    <div class="accordion-body px-0">The cost varies based on course complexity, duration, and the level
+                    <div class="accordion-body px-0">The cost varies based on class complexity, duration, and the level
                       of assistance required.</div>
                   </div>
                 </div>

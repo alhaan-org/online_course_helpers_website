@@ -50,7 +50,7 @@
                             <li><a class="dropdown-item" href="moodle-course-help">Moodle Course Help</a></li>
                             <li><a class="dropdown-item" href="canvas-course-help">Canvas Course Help</a></li>
                             <li><a class="dropdown-item" href="mathway-course-help">Mathway Course Help</a></li>
-                            <li><a class="dropdown-item" href="online-ed-course-help">OnlineEd Course Help</a></li>
+                            <li><a class="dropdown-item" href="onlineed-course-help">OnlineEd Course Help</a></li>
                         </ul>
                     </li>
 

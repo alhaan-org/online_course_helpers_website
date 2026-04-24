@@ -293,7 +293,7 @@ include 'include/header.php';
                 <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
                     <div class="content-left text-white w-60">
                         <h1 class="fw-medium mb-4">
-                            Is There a Way for You to Do My Associate Level Course? Absolutely, Yes!</h1>
+                            Is There a Way for You to Do My Masters Level Course? Absolutely, Yes!</h1>
                         <div class="d-flex gap-3">
                             <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
                             <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i

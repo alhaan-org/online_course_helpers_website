@@ -144,7 +144,8 @@ include 'include/header.php'; ?>
                 <h4 class="fw-bold">Finance Exam Help</h4>
                 <div class="card-content">
                   <p>
-                    Our online <a href="#">finance course help</a> is your primary resource for excelling in your online
+                    Our online <a href="finance-course-help">finance course help</a> is your primary resource for
+                    excelling in your online
                     finance exams. Our team of experienced finance exam doers is here to offer personalised support,
                     advice, and guidance for students navigating the complex world of finance. Whether you're grappling
                     with financial statements, investment analysis, risk management, or any other finance topic, our
@@ -160,7 +161,7 @@ include 'include/header.php'; ?>
                 <h4 class="fw-bold">Business Exam Help</h4>
                 <div class="card-content">
                   <p>
-                    We at online <a href="#">business course assistance</a>
+                    We at online <a href="business-course-help">business course assistance</a>
                     know the pressure associated with taking business exams online. We aim to assist students to succeed
                     and remove stress as we offer professional support for their exam requirements. We provide tailored
                     assistance so that they can feel confident when they reach their academic goals.
@@ -175,7 +176,8 @@ include 'include/header.php'; ?>
                 <h4 class="fw-bold">Nursing Exam Help</h4>
                 <div class="card-content">
                   <p>
-                    Our <a href="#">US nursing course help</a> is your trusted resource for mastering your online
+                    Our US <a href="nursing-course-help">nursing course help</a> is your trusted resource for mastering
+                    your online
                     nursing exams. Our team of experienced nursing exam helpers is here to provide online personalised
                     support and guidance while taking the exam for you. Whether you're struggling with anatomy and
                     physiology, pharmacology, or any other nursing subject, our team is ready to provide the support you
@@ -191,7 +193,8 @@ include 'include/header.php'; ?>
                 <h4 class="fw-bold">Philosophy Exam Help</h4>
                 <div class="card-content">
                   <p>
-                    At our online <a href="#">philosophy course help</a> , we have a team of experienced philosophy exam
+                    At our online <a href="philosophy-course-help">philosophy course help</a> , we have a team of
+                    experienced philosophy exam
                     helpers who are here to provide personalised support, guidance, and assistance for students
                     exploring the fascinating world of Philosophy. Whether you're struggling with ethics, metaphysics,
                     or any other branch of Philosophy, our team is ready to provide the support you need to excel in
@@ -210,7 +213,8 @@ include 'include/header.php'; ?>
                     Do you find it difficult to understand numbers, formulas or reports? Is your online accounting exam
                     stressing you out? You are not the only one. Many students feel the same way. Accounting is a tricky
                     subject, and managing everything on your own can feel too much. Whether it’s one assignment, exam,
-                    or your entire class, we give full <a href="#">assistance with accounting course</a>
+                    or your entire class, we give full <a href="accounting-course-help">assistance with accounting
+                      course</a>
                   </p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
@@ -222,7 +226,7 @@ include 'include/header.php'; ?>
                 <h4 class="fw-bold">Statistics Exam Help</h4>
                 <div class="card-content">
                   <p>
-                    <a href="#">Statistics online course help</a>
+                    <a href="statistics-course-help">Statistics online course help</a>
                     offer personalised support and guidance for students taking online statistics exams. We are
                     committed to helping you achieve academic success in statistics. Whether you're struggling with
                     probability, data analysis, or any other statistics topic, our team is ready to provide the support
@@ -237,7 +241,8 @@ include 'include/header.php'; ?>
                 <h4 class="fw-bold">Algebra Exam Help</h4>
                 <div class="card-content">
                   <p>
-                    The <a href="#">algebra online course assistance</a> is your top aid for succeeding in your online
+                    The <a href="algebra-course-help">algebra online course assistance</a> is your top aid for
+                    succeeding in your online
                     algebra exam. Our team of experienced algebra exam assistants is here to provide personalised
                     support and suggestions. Whether you are struggling with linear equations, polynomials, functions,
                     or any other algebra topic, our team is ready to provide the support you need to excel in your exam.
@@ -251,7 +256,7 @@ include 'include/header.php'; ?>
                 <h4 class="fw-bold">Nursing Exam Help</h4>
                 <div class="card-content">
                   <p>
-                    Our <a href="#">US Nursing course help</a>
+                    Our <a href="nursing-course-help">US Nursing course help</a>
                     is your trusted resource for mastering your online nursing exams. Our team of experienced nursing
                     exam helpers is here to provide online personalised support and guidance while taking the exam for
                     you. Whether you're struggling with anatomy and physiology, pharmacology, or any other nursing
@@ -266,12 +271,13 @@ include 'include/header.php'; ?>
                 <h4 class="fw-bold">Management Exam Help</h4>
                 <div class="card-content">
                   <p>
-                    Get the help you need to succeed in your online management exam with our <a href="#">management
-                      course help US</a>
-                    . We provide personalised support and guidance to students as they navigate the complex world of
-                    management. Whether you're struggling with strategic management, human resource management,
-                    marketing, or any other management topic, our team is ready to offer the assistance you need to
-                    thrive in your online exam.
+                    Get the help you need to succeed in your online management exam with our <a
+                      href="management-course-help">management
+                      course help</a> US. We provide personalised support and guidance to students as they navigate the
+                    complex world of management. Whether you're struggling with strategic management, human resource
+                    management, marketing, or any other management topic, our team is ready to offer the assistance you
+                    need to thrive in your online exam.
+                  </p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
               </div>
@@ -638,8 +644,8 @@ include 'include/header.php'; ?>
                           <p style="font-size: 14px;"><span style="font-weight: 400">Struggling with your degree exam?
                               We offer complete help with undergraduate-level exams for students who strive to achieve
                               academic excellence without having to stress themselves in the process. Furthermore, we
-                              offer professional online </span><a href="#" class="text-warning"><span
-                                style="font-weight: 400">undergraduate-level course assistance
+                              offer professional online </span><a href="undergraduate-level-course-help"
+                              class="text-warning"><span style="font-weight: 400">undergraduate-level course assistance
                                 help</span></a><span style="font-weight: 400"> where our experts are ready to help you
                               with essays, online discussions, and tests, and make sure it is accurate, confidential,
                               and ready on time.</span></p>
@@ -654,8 +660,9 @@ include 'include/header.php'; ?>
                           <h4 class="text-warning fw-bold mb-3">Master's Level Exam Help</h4>
                           <p style="font-size: 14px;"><span style="font-weight: 400">At the online course helpers, we
                               offer expert exam help to graduate students with advanced theories, data-driven research
-                              or project-based studies. Also, we offer complete </span><a href="#"
-                              class="text-warning"><span style="font-weight: 400">master’s level course help
+                              or project-based studies. Also, we offer complete </span><a
+                              href="masters-level-course-help" class="text-warning"><span
+                                style="font-weight: 400">master’s level course help
                                 online</span></a><span style="font-weight: 400"> to help you tackle whatever problems
                               come your way. With professional guidance and individual academic support, you can
                               comfortably complete your exam and succeed in graduation.</span></p>
@@ -669,7 +676,8 @@ include 'include/header.php'; ?>
                         <div class="card-body">
                           <h4 class="text-warning fw-bold mb-3">Associative Level Exam Help</h4>
                           <p style="font-size: 14px;"><span style="font-weight: 400">Our professionals at the </span><a
-                              href="#" class="text-warning"><span style="font-weight: 400">associate level course
+                              href="associate-level-course-help" class="text-warning"><span
+                                style="font-weight: 400">associate level course
                                 help</span></a><span style="font-weight: 400">
                               provide quality, well-formatted work in terms of exams,
                               assignments, research projects, and case studies. Is your associate-level exam too hard to
@@ -684,8 +692,9 @@ include 'include/header.php'; ?>
                         style="background-color: #242f3e; border-radius: 5px;">
                         <div class="card-body">
                           <h4 class="text-warning fw-bold mb-3">Doctorate Level Exam Help</h4>
-                          <p style="font-size: 14px;"><span style="font-weight: 400">Our&nbsp;</span><a href="#"
-                              class="text-warning"><span style="font-weight: 400">doctoral-level course help
+                          <p style="font-size: 14px;"><span style="font-weight: 400">Our&nbsp;</span><a
+                              href="doctoral-level-course-help" class="text-warning"><span
+                                style="font-weight: 400">doctoral-level course help
                                 USA&nbsp;</span></a><span style="font-weight: 400">offer specialised exam assistance to
                               research-oriented students
                               focused on analytical writing and data interpretation. Each of our exams is original,

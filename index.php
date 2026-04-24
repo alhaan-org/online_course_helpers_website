@@ -117,11 +117,12 @@
         </div>
       </div>
     </section>
+
     <!-- Benefits Section -->
+
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002e3a;">Affordable Help with Online Course for All Domains
-        </h1>
+        <h1 class="fw-semibold mb-3" style="color: #002e3a;">Affordable Help with Online Course for All Domains</h1>
         <p class="mx-auto mb-5 px-5" style="color: #002e3a;">
           With our professional course helpers, you can be sure of earning additional credits fast. Instead of wasting
           time trying multiple services that let you down with your credits, you should hire us because we have been
@@ -130,72 +131,180 @@
 
         <div class="horizontal-scroll-wrapper">
           <div class="owl-carousel scroll-wrapper">
-            <div class="course-card-container">
-              <div class="course-card">
-                <h4 class="fw-bold">Finance Course Help</h4>
-                <div class="card-content">
-                  <p>We address investment strategies, budgeting, financial planning, and risk analysis. Our
-                    experts enable you to understand financial formulas, real-life case studies and assignments.
-                    Be it micro or corporate finance, we give you credible academic assistance so that you can
-                    excel. Learn more effectively and understand your finances with low-cost, professional
-                    advice.</p>
-                </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
-              </div>
-            </div>
 
-            <div class="course-card-container">
-              <div class="course-card">
-                <h4 class="fw-bold">Business Law Help</h4>
-                <div class="card-content">
-                  <p>
-                    Our Business Law course help simplifies commercial contracts, torts, corporate structures,
-                    and others. We facilitate legal case studies, assignments and exam preparation. Understand
-                    business ethics, rights, and obligations through easy-to-follow expert guidance. Ideally
-                    suited to students desiring to succeed in business law without being confused by legal
-                    issues, inexpensive assistance is just a single click away. </p>
-                </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
-              </div>
-            </div>
-
-            <div class="course-card-container">
-              <div class="course-card">
-                <h4 class="fw-bold">Statistics Help</h4>
-                <div class="card-content">
-                  <p>We help with probability, data analysis, testing hypotheses and so on. Be it learning
-                    distributions or assignments, our professionals make complex issues simple. Master real-life
-                    data interpretation as you get assistance with projects, quizzes and exams. It is easy and
-                    more affordable to score highly in your statistics course with our help.</p>
-                </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
-              </div>
-            </div>
-
-            <div class="course-card-container">
-              <div class="course-card">
-                <h4 class="fw-bold">Biology Course Help</h4>
-                <div class="card-content">
-                  <p>
-                    Our biology course help simplifies genetics, cell biology, and evolution for all learners. We offer
-                    specific help with assignments, lab reports, and exams, being familiar with DNA to the point of
-                    knowing how to work with ecosystems, too. Discover the intricacies of life through stimulating
-                    advice that makes biology fun. Cheap assistance is now a click away; improve your grades using
-                    science-backed learning. </p>
-                </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
-              </div>
-            </div>
             <div class="course-card-container">
               <div class="course-card">
                 <h4 class="fw-bold">Accounting Course Help</h4>
                 <div class="card-content">
                   <p>
-                    Access stress free <a>accounting course help</a> on issues such as financial statements, ledgers,
-                    and budgeting. Our professionals simplify
-                    accounting principles into easy-to-follow steps to enhance your knowledge. Be it managerial
-                    accounting or tax, we assist you in solving issues with ease. Keep pace with your studies and pass
-                    your exams at an affordable rate, along with the needs of your coursework. </p>
+                    Accounting is a subject that requires a deep understanding of the topic. It is an analysis of
+                    financial transactions and their assessment, recording, and interpretation. It demands an in-depth
+                    knowledge of financial terms, rules, and concepts. So, you should be very focused while attending
+                    your accounting class online. Due to the technical nature of the subject and the necessity for
+                    accuracy and certainty, completing accounting classes may be difficult for a few students.
+                    Therefore, a significant number of individuals are in search of expert help whom they can request to
+                    “<a href="accounting-course-help">do my accounting course for me</a>”. Experts at the Online Course
+                    Helpers are available 24/7 with the
+                    perfect answer to all your queries related to your online accounting course.
+                  </p>
+                </div>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+              </div>
+            </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h4 class="fw-bold">Algebra Course Help</h4>
+                <div class="card-content">
+                  <p>
+                    Stressed about your online algebra course? Don’t worry, you can now pay someone to handle it for
+                    you! At the Online Course Helpers, we provide comprehensive <a href="algebra-course-help">help with
+                      algebra course</a>. Whether you
+                    need assistance with homework or full course completion, our team of experts is ready to support
+                    you. Simply tell us your difficulties, and our specialists will log into your online algebra course
+                    to complete your homework and exams. We guarantee high-quality results and extra college credits, no
+                    matter the complexity of the problems.
+                  </p>
+                </div>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+              </div>
+            </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h4 class="fw-bold">Business Course Help</h4>
+                <div class="card-content">
+                  <p>Business is a field that studies how businesses and organizations operate and function over time,
+                    encompassing various disciplines such as management, finance, economics, operations, and marketing.
+                    This can all become overwhelming as you work alongside and wish to seek help with assignments, exams
+                    or simply attend courses on your behalf. Do not worry! Online Course Helpers has made it easy for
+                    you to sit back and focus on what is important, while our online <a
+                      href="business-course-help">business course helpers</a> will assist
+                    you in your online business course.</p>
+                </div>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+              </div>
+            </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h4 class="fw-bold">Chemistry Course Help</h4>
+                <div class="card-content">
+                  <p>It is a scientific study of matter, molecules, and atoms, examining their composition, properties,
+                    structure, and the changes they undergo, such as chemical reactions. Even the periodic table can
+                    become confusing to the point where one wishes to give up. Therefore, you can seek our help by
+                    simply searching “<a href="chemistry-course-help">take my chemistry course</a>”, wherever it gets
+                    hard to make sense. We handle your labs, equations and exams with absolute precision.</p>
+                </div>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+              </div>
+            </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h4 class="fw-bold">Computer Science Course Help</h4>
+                <div class="card-content">
+                  <p>Computer science is the study of computer technology, including hardware and software. Because
+                    computers dominate many aspects of modern life, computer science is a popular area of study for
+                    college students. If you're a college student taking a challenging computer science course and you
+                    need extra <a href="computer-science-course-help">help with computer science course</a>, or grasping
+                    important concepts, Online Course Helpers has a team of computer science experts to help. Whether
+                    you're just starting to learn about computer science, taking advanced courses or want to earn
+                    additional credits, we'll match you with the right expert to help you succeed.</p>
+                </div>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+              </div>
+            </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h4 class="fw-bold">Psychology Course Help</h4>
+                <div class="card-content">
+                  <p>Learning psychology helps people understand how the human brain works, why we think the way we do,
+                    and what makes us act in certain ways. It's an interesting subject, but it can also be very hard,
+                    especially for students studying online. That's why we created its trusted online
+                    <a href="psychology-course-help">psychology course help</a> service to make studying psychology
+                    easier and stress-free for every student. Our goal is to give you real help so students can focus on
+                    their goals without worrying about deadlines. We have a team of trained experts who take care of
+                    your full online psychology course.
+                  </p>
+                </div>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+              </div>
+            </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h4 class="fw-bold">Philosophy Course Help</h4>
+                <div class="card-content">
+                  <p>Online philosophy courses require deep thinking, extensive reading, and clear written arguments.
+                    Students often struggle with abstract concepts, discussion posts, and analytical essays while
+                    managing other courses or responsibilities. As philosophical theories become more complex, even
+                    small delays can increase academic pressure across the course. Our <a
+                      href="philosophy-course-help">online philosophy course helpers</a> don't just do your work, they
+                    help you understand it, too. They make sure every answer is written clearly and simply so it's easy
+                    to read and matches your professor's expectations. Online Course Helpers gives you comfort, privacy,
+                    and great grades, all in one place.</p>
+                </div>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+              </div>
+            </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h4 class="fw-bold">Nursing Course Help</h4>
+                <div class="card-content">
+                  <p>Nursing is one of the most beautiful professions in the world. It’s about care, compassion, and
+                    saving lives. But studying nursing is not always easy. Many students in the USA struggle with long
+                    study hours, medical terms, and complicated subjects like anatomy or pharmacology. Balancing study,
+                    work, and daily life can be stressful. That’s why Online Course Helpers is here to help. By using
+                    our <a href="nursing-course-help">online nursing course help</a>, you can earn additional college
+                    credits with ease.
+                  </p>
+                </div>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+              </div>
+            </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h4 class="fw-bold">Marketing Course Help</h4>
+                <div class="card-content">
+                  <p>Marketing students face constant pressure to understand fast-evolving strategies, digital tools,
+                    and consumer behavior models. To counter students' academic hurdles, our online <a
+                      href="marketing-course-help">marketing course
+                      help</a> service is available. We thoroughly understand that marketing isn’t just about learning
+                    theories, but rather it is about applying concepts in real business situations. Our highly-qualified
+                    experts simplify complex marketing topics. Therefore, students can assimilate information better and
+                    earn college credits more quickly.</p>
+                </div>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+              </div>
+            </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h4 class="fw-bold">Programming Course Help</h4>
+                <div class="card-content">
+                  <p>Coding involves many small details, long projects, and strict deadlines that can make it hard to
+                    manage everything together. Many students find it difficult to focus on all their subjects,
+                    especially when they are also working or managing other responsibilities. That is why we offer easy
+                    and trustworthy online <a href="programming-course-help">programming course help</a> for those who
+                    take online courses through US
+                    universities and colleges and want to earn extra college credits stress-free.</p>
+                </div>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+              </div>
+            </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h4 class="fw-bold">Math Course Help</h4>
+                <div class="card-content">
+                  <p>Math can feel very hard when numbers, formulas, and equations start to add up. Many students feel
+                    stressed when they have too many online courses, quizzes or online math lessons at the same time. At
+                    Online Course Helpers, we understand this problem deeply, and that's why we offer simple and clear
+                    online <a href="math-course-help">math course help</a> in USA.</p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
               </div>
@@ -205,69 +314,124 @@
               <div class="course-card">
                 <h4 class="fw-bold">Management Course Help</h4>
                 <div class="card-content">
-                  <p>
-                    Get professional management course help for strategic planning, leadership, operations, and more. We
-                    discuss all fundamental issues such as HR, marketing and decision making. We help you complete your
-                    assignments, presentations and exams clearly and confidently. Learn and acquire experience, at the
-                    same time as you advance your grades; our affordable services will enable you to be management
-                    savvy.
+                  <p>Are you struggling to balance your online management course? Do complex topics such as
+                    organisational behaviour, human resources and leadership theories leave you confused or mentally
+                    stressed? If yes, then we have a solution for you. Our <a href="management-course-help">online
+                      management course help</a> is designed to
+                    assist students in their academic journey and make studies smoother, smarter and result-oriented.
+                  </p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
               </div>
             </div>
+
             <div class="course-card-container">
               <div class="course-card">
                 <h4 class="fw-bold">Calculus Course Help</h4>
                 <div class="card-content">
-                  <p>
-                    Having difficulty with derivatives or integrals? <a>Our math course help</a>
-                    is developed to explain limits, functions and real-life applications to you. We break down such
-                    notions as differentiation and integration to make them more comprehensible. Be it homework or
-                    testing, our professionals will help you to keep up. Study how you learn best and achieve desired
-                    results through professional help at a reasonable price.
+                  <p>Is it getting hard to focus on your online calculus course while you work a full-time job? Unable
+                    to wrap your head around challenging maths integrals, and looking for an online <a
+                      href="calculus-course-help">calculus course helper</a> to assist you with hard-to-solve questions?
+                    If yes, then you are at the right place. Hire our services today and get a study partner as soon as
+                    possible.</p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
               </div>
             </div>
+
             <div class="course-card-container">
               <div class="course-card">
                 <h4 class="fw-bold">Criminal Justice Course Help</h4>
                 <div class="card-content">
-                  <p>
-                    Require assistance in interpreting law systems, policies and criminology? Our criminal justice
-                    course
-                    help can help you with case studies, laws and criminal theories. We provide help in writing, in test
-                    preparation, in the structure and organization of courts and correctional systems. Learn about
-                    justice
-                    aspects simply and inexpensively with the help of the experienced professionals who understand the
-                    area
-                    in and out.
+                  <p>Studying criminal justice online can become stressful and exhausting at times, but with our
+                    professionals who always look forward to seeing you grow, it becomes much easier to handle with
+                    professional experts who are available 24/7. Many students come online to search for "<a
+                      href="criminal-justice-course-help">take my criminal justice course for me</a>," in hopes of
+                    finding someone worthy of being paid a decent amount in exchange for completing their course. With
+                    us, life can be easy! What are you waiting for? Hire our services now to earn additional credits in
+                    your criminal justice course!</p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
               </div>
             </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h4 class="fw-bold">Finance Course Help</h4>
+                <div class="card-content">
+                  <p>Finance is one of the toughest subjects in the academic field, encompassing detailed formulas,
+                    financial models, and real world case studies. Are you the one student who finds difficulty managing
+                    the complex finance subject alone? Many students struggle to balance studies, part time jobs, and
+                    personal commitments amidst all this chaos. Our online <a href="finance-course-help">finance course
+                      help</a> steps in and make the academic journey easier, smarter, and more successful.</p>
+                </div>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+              </div>
+            </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h4 class="fw-bold">Business Law Course Help</h4>
+                <div class="card-content">
+                  <p>Business law as a field of study requires strong analytical skills, a deep comprehension, and
+                    critical thinking to interpret complex business legal systems, precedents, and statutes. Our online
+                    <a href="law-course-help">law course help</a> provide a structured learning experience that serves
+                    as a bridge between studies and
+                    personal responsibilities. Our experts specialize in different areas of the business law discipline
+                    and have a strong background in this field. Connect with our experts and develop the crucial skills
+                    that are must-have at the global level.
+                  </p>
+                </div>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+              </div>
+            </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h4 class="fw-bold">Statistics Course Help</h4>
+                <div class="card-content">
+                  <p>In statistics, there are so many formulas, data tables, and detailed calculations that it's easy to
+                    get confused. That's why we bring you the best online <a href="statistics-course-help">statistics
+                      course help</a> in the USA. We make it
+                    easy for students who are struggling with their online statistics course without stress. Our team
+                    includes expert statisticians and academic professionals who understand how online university
+                    portals work. Whether your course is on Canvas, Blackboard, or any other platform, we log in safely
+                    and complete every task for you.</p>
+                </div>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+              </div>
+            </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h4 class="fw-bold">Biology Course Help</h4>
+                <div class="card-content">
+                  <p>Biology encompasses a wide range of fields in itself. Biology is vast, widespread, and deep. It may
+                    sound complicated, and it definitely is a challenging field, encompassing a wealth of scientific
+                    knowledge and fundamental processes in physiology, genetics, and ecology. No need to search for
+                    online <a href="biology-course-help">biology course helpers</a>; instead, sign up now and get our
+                    professional help with the best highly-qualified experts in the US.</p>
+                </div>
+                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+              </div>
+            </div>
+
           </div>
         </div>
       </div>
-      </div>
-      </div>
-      <div>
-        <div class="custom-shape-divider-bottom-1768328670">
-          <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-            <path
-              d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z"
-              opacity=".25" class="shape-fill">
-            </path>
-            <path
-              d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z"
-              opacity=".5" class="shape-fill">
-            </path>
-            <path
-              d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z"
-              class="shape-fill">
-            </path>
-          </svg>
-        </div>
+
+      <div class="custom-shape-divider-bottom-1768328670">
+        <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+          <path
+            d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z"
+            opacity=".25" class="shape-fill"></path>
+          <path
+            d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z"
+            opacity=".5" class="shape-fill"></path>
+          <path
+            d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z"
+            class="shape-fill"></path>
+        </svg>
       </div>
     </section>
 
@@ -396,8 +560,10 @@
         </div>
       </div>
     </section>
+
     <!-- Remaining Sections -->
     <?php include 'include/platforms_decider.php' ?>
+
     <!-- Section  -->
     <section class="container bg-white smart-learning">
       <div class="d-flex mb-5 py-5">
@@ -611,7 +777,8 @@
     </div>
 </section>
 <!-- Section  -->
-<section class=" py-5 bg-light">
+
+  <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
                 <h1 class="fw-semibold mb-3 px-5 text-navy">Trusted Professionals to Help You Succeed at All Educational
                   Levels
@@ -765,13 +932,13 @@
                 <img loading="lazy" src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
                   class="review-image">
               </div>
-              <p class="opacity-75">These guys helped me do my online stats course. All activities were
-                completed within the set deadline, and the outcomes were awesome.</p>
+              <p class="opacity-75">These guys helped me do my online course. All activities were completed within the
+                set deadline, and the outcomes were awesome.</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Julia Crawford</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -783,14 +950,14 @@
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="opacity-75">I have felt supported since the first message. And they also professionally
-                took my course and performed astonishingly. Super polite support team, too. Great experience all around.
+              <p class="opacity-75">I have felt supported since the first message. And they also professionally took my
+                online course and performed astonishingly. Super polite support team, too. Great experience all around.
                 Highly recommended!.</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Nathan Speer</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -802,14 +969,13 @@
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="opacity-75">Deadlines and tests overwhelmed me. Their group intervened and fully
-                controlled my online course. All was correct, timely and hassle-free. I’m so thankful!</p>
+              <p class="opacity-75">Deadlines and tests overwhelmed me. Their group intervened and fully controlled my
+                online course. All was correct, timely and hassle-free. I’m so thankful!</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">
-                    Anna</h6>
+                  <h6 class="mb-0 fw-bold">Katherine Twombly</h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
               </div>
@@ -821,15 +987,14 @@
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="opacity-75">I had no time to do my course online. This service was replaced fully and
-                performed well. Highly responsive, professional, and worth every penny. Truly stress-relieving and
-                reliable support!
-                .</p>
+              <p class="opacity-75">I had no time to do my course online. This service was replaced fully and performed
+                well. Highly responsive, professional, and worth every penny. Truly stress-relieving and reliable
+                support!</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ella</h6>
+                  <h6 class="mb-0 fw-bold">Allen Chavez</h6>
                   <small class="opacity-50">Houston</small>
                 </div>
               </div>
@@ -841,15 +1006,14 @@
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="opacity-75">I spent my days in hell trying to balance work and studying, and then I
-                discovered this team. They managed all things assignments, discussions, and examinations, and kept me
-                informed. I sailed right through without any hustle. Totally transformed my semester!
-              </p>
+              <p class="opacity-75">I spent my days in hell trying to balance work and studying, and then I discovered
+                this team. They managed all things assignments, discussions, and examinations, and kept me informed. I
+                sailed right through without any hustle. Totally transformed my semester!</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Karen Duncan</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -861,16 +1025,14 @@
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="opacity-75">Never tried a service like this before, though I am seriously impressed. They
-                did all this, and they earned me good grades. They would listen and obey instructions as communication
-                was easy.
-              </p>
+              <p class="opacity-75">Never tried to pay someone to finish my online course like this before, though I am
+                seriously impressed. They did all this, and they earned me good grades. They would listen and obey
+                instructions as communication was easy.</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Anna
-                  </h6>
+                  <h6 class="mb-0 fw-bold">Sammie Patton</h6>
                   <small class="opacity-50">Miami</small>
                 </div>
               </div>
@@ -886,6 +1048,7 @@
         </div>
       </div>
     </section>
+
     <!-- Section  -->
     <section class="py-5 text-white" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">

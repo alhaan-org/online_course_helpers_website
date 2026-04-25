@@ -1,6 +1,6 @@
 <div class="hero-form-card">
     <div class="limited-offer-badge">
-        <img src="assets/img/limited-offer-1024x613.webp" alt="Limited Offer" />
+        <img src="assets/img/limited-offer.webp" alt="Limited Offer" />
     </div>
     <h4 class="mb-4 text-center fw-bold text-dark">
         Save Upto 50% On First Order

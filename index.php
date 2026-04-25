@@ -42,7 +42,7 @@
             <div class="d-flex align-items-center flex-wrap gap-3 mb-4">
               <small class="trusted-by">Trusted By:</small>
               <div class="d-flex gap-3 align-items-center">
-                <img src="assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
+                <img src="assets/img/trusted-logo.png" alt="Leader Badge" class="trusted-by-logo" />
               </div>
             </div>
 
@@ -91,7 +91,8 @@
           <!-- Right Image Placeholder -->
           <div class="col-lg-6" data-aos="fade-up">
             <div class="image-placeholder">
-              <img src="assets/img/About-Us-1024x956.png" alt="About Us" class="img-fluid" loading="lazy" />
+              <img src="assets/img/online-course-help.webp" alt="Online Course Help USA" class="img-fluid"
+                loading="lazy" />
             </div>
           </div>
           <!-- Left Content -->
@@ -436,8 +437,26 @@
     </section>
 
 
-    <!-- Can you do my Course Section -->
-    <?php include 'include/can_you_do_my_course.php'; ?>
+    <section class="blue-section py-3">
+      <div class="container">
+        <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
+          <div class="content-left text-white w-60 mb-5">
+            <h1 class="fw-medium mb-4">Can You Do My Course With Guaranteed Top Grades? <span
+                class="fw-semibold highlight">Yes,
+                We Can.</span></h1>
+            <div class="d-flex gap-3">
+              <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+              <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
+                Chat</button>
+            </div>
+          </div>
+          <div class="image-right mt-4 mt-md-0">
+            <img src="assets/img/help-with-online-course.webp" alt="Do My Course For Me" class="img-fluid custom-img"
+              loading="lazy">
+          </div>
+        </div>
+      </div>
+    </section>
 
 
     <!-- Services Section -->
@@ -553,7 +572,7 @@
           <div class="col-lg-5">
             <div class="hero-image-frame">
               <div class="cheap-price-section-image-placeholder">
-                <img src="assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help" loading="lazy" />
+                <img src="assets/img/take-my-online-course.webp" alt="Take My Online Course" loading="lazy" />
               </div>
             </div>
           </div>
@@ -929,7 +948,7 @@
             <div class="card h-100 border-0 shadow-sm text-white px-4 py-3"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img loading="lazy" src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
+                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo"
                   class="review-image">
               </div>
               <p class="opacity-75">These guys helped me do my online course. All activities were completed within the
@@ -967,7 +986,7 @@
             <div class="card h-100 border-0 shadow-sm text-white px-4 py-3"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/sitejabber-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="opacity-75">Deadlines and tests overwhelmed me. Their group intervened and fully controlled my
                 online course. All was correct, timely and hassle-free. I’m so thankful!</p>
@@ -985,7 +1004,7 @@
             <div class="card h-100 border-0 shadow-sm text-white px-4 py-3"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/sitejabber-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="opacity-75">I had no time to do my course online. This service was replaced fully and performed
                 well. Highly responsive, professional, and worth every penny. Truly stress-relieving and reliable
@@ -1023,7 +1042,7 @@
             <div class="card h-100 border-0 shadow-sm text-white px-4 py-3"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="opacity-75">Never tried to pay someone to finish my online course like this before, though I am
                 seriously impressed. They did all this, and they earned me good grades. They would listen and obey
@@ -1198,7 +1217,7 @@
         <div class="d-flex gap-1 gap-lg-4 align-items-center justify-content-between py-3 px-4">
           <img src="assets/img/paypal.webp" alt="paypal" class="payment-icon" />
           <img src="assets/img/master-card.webp" alt="master-card" class="payment-icon" />
-          <img src="assets/img/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />
+          <img src="assets/img/stripe-icon.webp" alt="stripe" class="payment-icon" />
           <img src="assets/img/visa.webp" alt="visa" class="payment-icon" />
         </div>
       </div>

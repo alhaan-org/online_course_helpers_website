@@ -3,7 +3,7 @@
         <div class="container">
             <!-- Logo -->
             <a class="navbar-brand" href="#">
-                <img src="assets/img/Online-Course-Helpers-768x538.png" alt="Online Course Helpers" class="img-fluid"
+                <img src="assets/img/online-course-helpers-logo.png" alt="Online Course Helpers" class="img-fluid"
                     style="height: 80px;" loading="lazy" />
             </a>
 

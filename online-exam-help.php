@@ -44,7 +44,7 @@ include 'include/header.php'; ?>
             <div class="d-flex align-items-center flex-wrap gap-3 mb-4">
               <small class="trusted-by">Trusted By:</small>
               <div class="d-flex gap-3 align-items-center">
-                <img src="assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
+                <img src="assets/img/trusted-logo.png" alt="Leader Badge" class="trusted-by-logo" />
               </div>
             </div>
 
@@ -93,7 +93,8 @@ include 'include/header.php'; ?>
           <!-- Right Image Placeholder -->
           <div class="col-lg-6" data-aos="fade-up">
             <div class="image-placeholder">
-              <img src="assets/img/About-Us-1024x956.png" alt="..." class="img-fluid" loading="lazy" />
+              <img src="assets/img/online-exam-course-help.webp" alt="Online Exam Course Help" class="img-fluid"
+                loading="lazy" />
             </div>
           </div>
           <!-- Left Content -->
@@ -317,7 +318,7 @@ include 'include/header.php'; ?>
             </div>
           </div>
           <div class="image-right mt-4 mt-md-0">
-            <img src="assets/img/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
+            <img src="assets/img/help-with-online-exam-course.webp" alt="Help with Online Exam Course"
               class="img-fluid custom-img" loading="lazy">
           </div>
         </div>
@@ -442,7 +443,7 @@ include 'include/header.php'; ?>
           <div class="col-lg-5">
             <div class="hero-image-frame">
               <div class="cheap-price-section-image-placeholder">
-                <img src="assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help" loading="lazy" />
+                <img src="assets/img/take-my-online-exam-course.webp" alt="Take My Online Exam Course" loading="lazy" />
               </div>
             </div>
           </div>
@@ -451,7 +452,7 @@ include 'include/header.php'; ?>
       </div>
     </section>
     <!-- Section  -->
-   
+
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
@@ -614,8 +615,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img loading="lazy" src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
-                  class="review-image">
+                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I couldn't be more satisfied with the experience I had with Online Course
                 Helpers. They assisted me in passing a complex algebra exam like a breeze. The quality of work they
@@ -655,7 +655,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/sitejabber-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">Online Course Helpers is a professional online exam help service, with the
                 best writers. I was stuck with my biology exam, and they helped me to pass my online biology exam with
@@ -675,7 +675,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/sitejabber-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I hired expert from this platform to do my exam for me. They are highly
                 professional. They provide highly quality exam answers at a reasonable price. The good thing about these
@@ -716,7 +716,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I am so grateful to the experts for US exam help, as they have done a
                 commendable job with my case study-based midterm business law exam. The expert exam helper at the Online
@@ -938,7 +938,7 @@ include 'include/header.php'; ?>
         <div class="d-flex gap-1 gap-lg-4 align-items-center justify-content-between py-3 px-4">
           <img src="assets/img/paypal.webp" alt="paypal" class="payment-icon" />
           <img src="assets/img/master-card.webp" alt="master-card" class="payment-icon" />
-          <img src="assets/img/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />
+          <img src="assets/img/stripe-icon.webp" alt="stripe" class="payment-icon" />
           <img src="assets/img/visa.webp" alt="visa" class="payment-icon" />
         </div>
       </div>

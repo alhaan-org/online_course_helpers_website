@@ -46,7 +46,7 @@ include 'include/header.php'; ?>
             <div class="d-flex align-items-center flex-wrap gap-3 mb-4">
               <small class="trusted-by">Trusted By:</small>
               <div class="d-flex gap-3 align-items-center">
-                <img src="assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
+                <img src="assets/img/trusted-logo.png" alt="Leader Badge" class="trusted-by-logo" />
               </div>
             </div>
 
@@ -110,7 +110,8 @@ include 'include/header.php'; ?>
           <!-- Right Image Placeholder -->
           <div class="col-lg-6" data-aos="fade-up">
             <div class="image-placeholder">
-              <img src="assets/img/About-Us-1024x956.png" alt="..." class="img-fluid" loading="lazy" />
+              <img src="assets/img/online-statistics-course-help.webp" alt="Online Statistics Course Help"
+                class="img-fluid" loading="lazy" />
             </div>
           </div>
           <!-- Left Content -->
@@ -288,7 +289,7 @@ include 'include/header.php'; ?>
             </div>
           </div>
           <div class="image-right mt-4 mt-md-0">
-            <img src="assets/img/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
+            <img src="assets/img/help-with-online-statistics-course.webp" alt="Help with Online Statistics Course"
               class="img-fluid custom-img" loading="lazy">
           </div>
         </div>
@@ -404,7 +405,8 @@ include 'include/header.php'; ?>
           <div class="col-lg-5">
             <div class="hero-image-frame">
               <div class="cheap-price-section-image-placeholder">
-                <img src="assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help" loading="lazy" />
+                <img src="assets/img/take-my-online-statistics-course.webp" alt="Take My Online Statistics Course"
+                  loading="lazy" />
               </div>
             </div>
           </div>
@@ -733,8 +735,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img loading="lazy" src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
-                  class="review-image">
+                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I was taking several classes, and statistics was the most difficult. Online
                 Class Helper intervened and dealt with assignments and exams. I completed my course without any problems
@@ -772,7 +773,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/sitejabber-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">Zero stress! They handled my quizzes, projects, and final exam in statistics
                 without any problem. I got additional credits, and the entire procedure was very simple.</p>
@@ -791,7 +792,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/sitejabber-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">Reliable is the word. I needed somebody to finish my course, and their
                 assistants did it in a quick and accurate way. I could not be happier with the result.
@@ -829,7 +830,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">The best customer service ever! The team helped me in managing my projects and
                 quizzes easily and never left me behind. I had improved grades and no stress during the term.
@@ -1031,7 +1032,7 @@ include 'include/header.php'; ?>
         <div class="d-flex gap-1 gap-lg-4 align-items-center justify-content-between py-3 px-4">
           <img src="assets/img/paypal.webp" alt="paypal" class="payment-icon" />
           <img src="assets/img/master-card.webp" alt="master-card" class="payment-icon" />
-          <img src="assets/img/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />
+          <img src="assets/img/stripe-icon.webp" alt="stripe" class="payment-icon" />
           <img src="assets/img/visa.webp" alt="visa" class="payment-icon" />
         </div>
       </div>

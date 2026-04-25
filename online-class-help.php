@@ -43,7 +43,7 @@ include 'include/header.php'; ?>
             <div class="d-flex align-items-center flex-wrap gap-3 mb-4">
               <small class="trusted-by d-sm-none d-md-block">Trusted By:</small>
               <div class="d-flex gap-3 align-items-center">
-                <img src="assets/img/banner-logo-new.png" alt="Leader Badge" class="trusted-by-logo" />
+                <img src="assets/img/trusted-logo.png" alt="Leader Badge" class="trusted-by-logo" />
               </div>
             </div>
 
@@ -92,7 +92,8 @@ include 'include/header.php'; ?>
           <!-- Right Image Placeholder -->
           <div class="col-lg-6" data-aos="fade-up">
             <div class="image-placeholder">
-              <img src="assets/img/About-Us-1024x956.png" alt="About Us" class="img-fluid" loading="lazy" />
+              <img src="assets/img/online-class-course-help.webp" alt="Online Class Course Help" class="img-fluid"
+                loading="lazy" />
             </div>
           </div>
           <!-- Left Content -->
@@ -277,7 +278,7 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">Let Our Experts Take Your Online Class for You to Achieve High Scores..</span>
+            <h1 class="fw-medium mb-4">Let Our Experts Take Your Online Class for You to Achieve High Scores.</span>
             </h1>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
@@ -286,7 +287,7 @@ include 'include/header.php'; ?>
             </div>
           </div>
           <div class="image-right mt-4 mt-md-0">
-            <img src="assets/img/pay-someone-to-do-assignment-reviews-2.webp" alt="Support Specialist"
+            <img src="assets/img/help-with-online-class-course.webp" alt="Help with Online Class Course"
               class="img-fluid custom-img" loading="lazy">
           </div>
         </div>
@@ -411,7 +412,8 @@ include 'include/header.php'; ?>
           <div class="col-lg-5">
             <div class="hero-image-frame">
               <div class="cheap-price-section-image-placeholder">
-                <img src="assets/img/Screenshot_5-768x788.png" alt="Cheap Online Course Help" loading="lazy" />
+                <img src="assets/img/take-my-online-class-course.webp" alt="Take My Online Class Course"
+                  loading="lazy" />
               </div>
             </div>
           </div>
@@ -532,14 +534,14 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img loading="lazy" src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo"
-                  class="review-image">
+                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I was totally drowning in my online nursing class module until I decided to
                 pay someone to take my online class for me. I found this platform. They handled my tricky assignments
                 while I was working double shifts. I honestly don't know how I would’ve passed without their help!</p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Edward Marshall</h6>
                   <small class="opacity-50">New York</small>
@@ -559,7 +561,8 @@ include 'include/header.php'; ?>
                 become much
                 easier as they are taking care of all my online classes.</p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Hilma Reed</h6>
                   <small class="opacity-50">Seattle</small>
@@ -571,14 +574,15 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white px-4 py-3"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/sitejabber-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">Captivating Work! I used various websites for online class help before, but
                 Online Course Helpers is the best I've ever used. Their online class taker was exceptional and delivered
                 my work unadulterated. The delivery was on time, and customer service was satisfactory. All in all, it
                 was great.</p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Mary Vaughn</h6>
                   <small class="opacity-50">Atlanta</small>
@@ -590,13 +594,14 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white px-4 py-3"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="assets/img/sitejabber-logo-white-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/sitejabber-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">The 24/7 support is a total win. I had a late-night panic over a quiz for my
                 online chemistry class, but they stepped in and fixed it immediately. It feels so good to finally be
                 completely stress-free again!</p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Kevin Vasquez</h6>
                   <small class="opacity-50">Houston</small>
@@ -619,7 +624,8 @@ include 'include/header.php'; ?>
                 to excel in class and achieve my academic goals!
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Jeanette Flowers</h6>
                   <small class="opacity-50">San Diego</small>
@@ -631,7 +637,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white px-4 py-3"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img src="assets/img/reviews-logo-white-1-300x88.webp" alt="Review Logo" class="review-image">
+                <img src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">The Online Course Helpers are very helpful, and they help me with my online
                 class. I needed a high grade to pass the class, and they helped me get a top grade. The best part is
@@ -640,7 +646,8 @@ include 'include/header.php'; ?>
                 not let professors identify whether it's you or someone else.
               </p>
               <div class="d-flex align-items-center mt-4">
-                <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
+                <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
+                  style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">Benjamin Chavez
                   </h6>
@@ -836,7 +843,7 @@ include 'include/header.php'; ?>
         <div class="d-flex gap-1 gap-lg-4 align-items-center justify-content-between py-3 px-4">
           <img src="assets/img/paypal.webp" alt="paypal" class="payment-icon" />
           <img src="assets/img/master-card.webp" alt="master-card" class="payment-icon" />
-          <img src="assets/img/2560px-Stripe_Logo2C_revised_2016.webp" alt="stripe" class="payment-icon" />
+          <img src="assets/img/stripe-icon.webp" alt="stripe" class="payment-icon" />
           <img src="assets/img/visa.webp" alt="visa" class="payment-icon" />
         </div>
       </div>

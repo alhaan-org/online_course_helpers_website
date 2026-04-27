@@ -2,7 +2,9 @@
   <div class="container">
     <div class="row g-4 mb-5">
       <div class="col-lg-3">
-        <img src="assets/img/online-course-helpers-logo.png" alt="Logo" class="footer-logo mb-3" loading="lazy">
+        <a href="/">
+          <img src="assets/img/online-course-helpers-logo.png" alt="Online Course Helpers" class="footer-logo mb-3" loading="lazy">
+        </a>
         <p class="small opacity-75">Online Course Helpers offers a one-stop solution to students seeking
           additional credits. Hire professional helpers with full confidentiality.</p>
       </div>

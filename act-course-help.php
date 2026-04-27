@@ -66,44 +66,12 @@ include 'include/header.php';
         </svg>
       </div>
     </section>
-    <!-- Trust Section -->
+
+    <!-- University Slider Section -->
+    <?php include 'include/university-slider.php'; ?>
+
+    <!-- Academic Section -->
     <section class="academic-section">
-      <div class="slider-images-container" data-aos="fade-up">
-        <div class="slider-images owl-carousel owl-theme">
-          <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
-        </div>
-      </div>
-
-
       <div class="container mt-5">
         <div class="row align-items-center g-5">
           <!-- Right Image Placeholder -->
@@ -138,6 +106,7 @@ include 'include/header.php';
         </div>
       </div>
     </section>
+    
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
@@ -322,7 +291,7 @@ include 'include/header.php';
           <div class="col-md-4">
             <div class="service-box py-5 px-4">
               <i class="fa-solid fa-clock-rotate-left service-icon"></i>
-              <h3>All-Time                Experts Availability</h3>
+              <h3>All-Time Experts Availability</h3>
               <p>Access to competent professionals available 24/7 to help you when you need it, day or
                 night.</p>
             </div>
@@ -673,8 +642,7 @@ include 'include/header.php';
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo"
-                  class="review-image">
+                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">The ACT course help that I have received from the Online Course
                 Helpers for my ACT preparation was exceptional. I improved my score by 5 points!

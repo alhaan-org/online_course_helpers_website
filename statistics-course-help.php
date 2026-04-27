@@ -67,44 +67,12 @@ include 'include/header.php'; ?>
         </svg>
       </div>
     </section>
-    <!-- Trust Section -->
+
+    <!-- University Slider Section -->
+    <?php include 'include/university-slider.php'; ?>
+
+    <!-- Academic Section -->
     <section class="academic-section">
-      <div class="slider-images-container" data-aos="fade-up">
-        <div class="slider-images owl-carousel owl-theme">
-          <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-1.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-2.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-3.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-4.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-5.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-6.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-7.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-8.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-9.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-10.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-11 (1).webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-12.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-13.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-14.webp" alt="..." loading="lazy" />
-          <img src="assets/img/uni-15.webp" alt="..." loading="lazy" />
-        </div>
-      </div>
-
-
       <div class="container mt-5">
         <div class="row align-items-center g-5">
           <!-- Right Image Placeholder -->
@@ -314,17 +282,16 @@ include 'include/header.php'; ?>
 
         <div class="row g-4 mb-5">
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-headset service-icon"></i>
-              <h3>Qualified
-                Aleks Course Experts</h3>
-              <p>Learn with expert Aleks course takers who know your syllabus inside out and provide expert-level
+              <h3>Qualified Statistics Course Experts</h3>
+              <p>Learn with expert statistics course takers who know your syllabus inside out and provide expert-level
                 assistance in all subjects.
               </p>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-clock-rotate-left service-icon"></i>
               <h3>All-Time
                 Experts Availability</h3>
@@ -332,7 +299,7 @@ include 'include/header.php'; ?>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-circle-info service-icon"></i>
               <h3>Guaranteed A+ Performance</h3>
               <p>We do not just help you score higher. Expect top grades, on-time submissions, and reliable academic
@@ -340,7 +307,7 @@ include 'include/header.php'; ?>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-dollar-sign service-icon"></i>
               <h3>Affordable Pricing for All</h3>
               <p>Good assistance should not be expensive. Savour the low prices and high-quality services to meet your
@@ -348,7 +315,7 @@ include 'include/header.php'; ?>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-file-word service-icon"></i>
               <h3>100% Unique & Original Content</h3>
               <p>All papers are original, plagiarism-free, and precisely aligned with your course requirements and
@@ -356,7 +323,7 @@ include 'include/header.php'; ?>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div class="service-box py-5 px-4">
               <i class="fa-solid fa-lock service-icon"></i>
               <h3>Complete Privacy & Security</h3>
               <p>We keep your data and your identity secure. We operate encrypted systems and tight confidentiality

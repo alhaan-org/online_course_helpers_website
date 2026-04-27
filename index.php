@@ -63,28 +63,11 @@
         </svg>
       </div>
     </section>
-    <!-- Trust Section -->
-    <section clss="slider-section-university">
-      <div class="container col-12" data-aos="fade-up">
-        <div class="slider-images owl-carousel owl-theme">
-          <img src="assets/img/uni-1.webp" alt="University of Arizona" loading="lazy" />
-          <img src="assets/img/uni-2.webp" alt="University of Buffalo" loading="lazy" />
-          <img src="assets/img/uni-3.webp" alt="University of Pheonix" loading="lazy" />
-          <img src="assets/img/uni-4.webp" alt="Embry Riddle Aeronautical University" loading="lazy" />
-          <img src="assets/img/uni-5.webp" alt="CUNY School of Professional Studies" loading="lazy" />
-          <img src="assets/img/uni-6.webp" alt="Capitol Technology University" loading="lazy" />
-          <img src="assets/img/uni-7.webp" alt="Capella University" loading="lazy" />
-          <img src="assets/img/uni-8.webp" alt="Ashford University" loading="lazy" />
-          <img src="assets/img/uni-9.webp" alt="Florida State University" loading="lazy" />
-          <img src="assets/img/uni-10.webp" alt="ASU" loading="lazy" />
-          <img src="assets/img/uni-11 (1).webp" alt="Oregon State University" loading="lazy" />
-          <img src="assets/img/uni-12.webp" alt="OhioState" loading="lazy" />
-          <img src="assets/img/uni-13.webp" alt="Grand Canyon University" loading="lazy" />
-          <img src="assets/img/uni-14.webp" alt="Chamberlain University" loading="lazy" />
-          <img src="assets/img/uni-15.webp" alt="Walden University" loading="lazy" />
-        </div>
-      </div>
-    </section>
+
+    <!-- University Slider Section -->
+    <?php include 'include/university-slider.php'; ?>
+    
+    <!-- Academic Section -->
     <section class="academic-section">
       <div class="container mt-5">
         <div class="row align-items-center">

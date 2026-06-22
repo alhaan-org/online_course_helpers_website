@@ -84,10 +84,10 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Fast Results Through Help with Nursing Course in the USA
 
-            </h1>
+            </h2>
             <p class="section-text">
               The high level of nursing research requires concentration and commitment, but the exams and
               schedules cause stress. Help with nursing course offers high-quality support, which
@@ -111,10 +111,10 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">
           Affordable Nursing Course Helpers Offer Low-Cost Support for Additional Credits
 
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Nursing course assistants make complicated topics easier to understand and relieve the burden of
           time constraints and tests. All tasks are handled professionally, accurately, and confidentially,
@@ -272,11 +272,11 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
+            <h2 class="fw-medium mb-4">
               Pay Someone to Do Your Nursing Course with Trusted Experts Who Deliver Accuracy,
               Originality, and Extra Credits on Time
 
-            </h1>
+            </h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -299,11 +299,11 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">
+        <h2 class="fw-medium px-5 mb-3">
 
           Complete Your Nursing Course Easily with Affordable Assistance for Additional Credits
 
-        </h1>
+        </h2>
         <p class="mb-5 text-muted">
 
 
@@ -399,11 +399,11 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Finish Your Nursing Course Successfully with Professional Helpers Offering Guaranteed
               Accuracy and Privacy
 
-            </h1>
+            </h2>
             <p class="mb-5">
               Finish your nursing course through professional course helpers who focus on student
               achievement. All assignments, quizzes, and examinations are completed with precision and on
@@ -566,7 +566,7 @@ include 'include/header.php';
                   style="font-weight: 400">course assistance</span><span style="font-weight: 400">
                   helps nursing students complete their online education on time. Quizzes, projects,
                   and tests are processed using </span><a
-                  href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400"> with
                   precision, privacy, and quality. You can learn to
                   make credits with ease and pass your nursing course through trusted professionals.
@@ -621,9 +621,9 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">
+        <h2 class="fw-semibold mb-4 text-warning px-5">
           Achieve Success in Your Nursing Course with Professional Course Assistance Nationwide
-        </h1>
+        </h2>
         <p class="px-5">
           Our course assistance helps students across the USA stay ahead. All tasks are completed on time,
           whether it is a nursing project or a nursing quiz. Helpers ensure that all functions are accurate,
@@ -642,10 +642,10 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy"> Get Success Easily with Professional Nursing
+                <h2 class="fw-bold mb-3 px-5 text-navy"> Get Success Easily with Professional Nursing
                   Course Helpers USA
 
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   Nursing course helpers USA would offer reliable assistance to students of all
                   academic levels. All tasks are completed correctly and on time, whether quizzes,
@@ -746,7 +746,7 @@ include 'include/header.php';
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level Nursing Course Help </h5>
                           <p style="font-size: 14px;"><span style="font-weight: 400">The
-                            </span><a href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                            </span><a href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctoral-level course
                                 help</span></a><span style="font-weight: 400"> assists
                               students at the dissertation, experimental, and publication
@@ -830,7 +830,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -852,7 +852,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -875,7 +875,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -921,7 +921,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -944,7 +944,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

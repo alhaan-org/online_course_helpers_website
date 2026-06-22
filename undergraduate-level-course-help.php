@@ -81,9 +81,9 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Best Online Help with Undergraduate Level Courses Across USA for Extra Credits
-            </h1>
+            </h2>
             <p class="section-text">
               Searching for the most efficient and reliable help with undergraduate-level courses? Our
               team of professionals in the USA provides undergraduate-level online course help to students
@@ -103,9 +103,9 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">Reliable Help to Finish Your Undergraduate Level
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">Reliable Help to Finish Your Undergraduate Level
           Course Online
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Need someone to finish my undergraduate level course for me? Our professional staff offers low-cost
           and good-quality course assistance to undergraduate students throughout the USA.
@@ -275,9 +275,9 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
+            <h2 class="fw-medium mb-4">
               Smart Students Don’t Struggle — They Pay Someone to Complete Their Undergraduate Level
-              Course and Win Extra Credits!</h1>
+              Course and Win Extra Credits!</h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -300,8 +300,8 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">Why Students Prefer Us to Take Their Undergraduate Level Course
-        </h1>
+        <h2 class="fw-medium px-5 mb-3">Why Students Prefer Us to Take Their Undergraduate Level Course
+        </h2>
         <p class="mb-5 text-muted">
           Have you ever wondered, “Is it possible to get someone to take my undergraduate-level course for
           me?” Our professional team is the right choice. We undertake all tasks, including tests and online
@@ -394,9 +394,9 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Complete Your Undergraduate Level Course with Expert Help in the USA
-            </h1>
+            </h2>
             <p class="mb-5">
               Through our services, students have a chance to complete their undergraduate level courses
               with ease and at a low cost, regardless of their academic background. Our professional
@@ -555,7 +555,7 @@ include 'include/header.php';
               <h3 class="h4 fw-bold text-warning mb-3">
                 StraighterLine Undergraduate Level Course Help </h3>
               <p class="small"><span style="font-weight: 400">We provide full support with our </span><a
-                  href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400"> to
                   students who want to accomplish their undergraduate
                   level course successfully. Our academic assistants guarantee accuracy, low cost, and
@@ -608,9 +608,9 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">Additional Credits are Easy When Our Undergraduate Level
+        <h2 class="fw-semibold mb-4 text-warning px-5">Additional Credits are Easy When Our Undergraduate Level
           Course Helpers are by Your Side!
-        </h1>
+        </h2>
         <p class="px-5">Have problems completing your homework or online studies? Our undergraduate level course
           helper assists in completing all tasks accurately, confidentially, and within the required
           timeframe.
@@ -627,9 +627,9 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy">Our Comprehensive Services Assist For All
+                <h2 class="fw-bold mb-3 px-5 text-navy">Our Comprehensive Services Assist For All
                   Educational Levels
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   Our course assistants in the USA are willing to take your
                   undergraduate-level course and ensure the best outcomes. Moreover, you can also
@@ -794,7 +794,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -815,7 +815,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -837,7 +837,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -881,7 +881,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -902,7 +902,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

@@ -84,10 +84,10 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Easy Extra Credits with Our Help with Programming Course in USA
 
-            </h1>
+            </h2>
             <p class="section-text">
               We provide accuracy, consistency, and timely service to students across the USA who believe
               in our online course assistance. It can be coding tasks, debugging projects, or even
@@ -109,10 +109,10 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">
           Trusted Programming Course Help for Students Across the USA at a Cheap Price
 
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Our programming course help is known to be highly reliable and accurate. We handle assignments,
           exams, and projects in a confidential and timely manner. Your programming course is smoothly
@@ -270,10 +270,10 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
+            <h2 class="fw-medium mb-4">
               Best Programming Support – Pay Someone to Do Your Programming Course in the USA
 
-            </h1>
+            </h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -296,10 +296,10 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">
+        <h2 class="fw-medium px-5 mb-3">
           Complete Your Programming Course Easily with Expert Help in the USA
 
-        </h1>
+        </h2>
         <p class="mb-5 text-muted">
           We simplify programming studies, making it as easy as taking your programming course with our
           professionals. There is accuracy and confidentiality when it comes to assignments, coding projects,
@@ -392,9 +392,9 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Reliable Experts to Take Your Programming Course in the USA
-            </h1>
+            </h2>
             <p class="mb-5">
               Our program support is reliable and ensures high academic outcomes and integrity. Every
               assignment, coding problem, or online discussion is done on time. Use our experts to take
@@ -465,7 +465,7 @@ include 'include/header.php';
 
                 McGraw-Hill Programming Course Help </h3>
               <p class="small"><span style="font-weight: 400">Our </span><a
-                  href="https://onlinecoursehelpers.com/mcgraw-hill-course-help/"><span
+                  href="https://onlinecoursehelpers.com/mcgrawhill-course-help/"><span
                     style="font-weight: 400">McGraw-Hill course help</span></a><span style="font-weight: 400"> is
                   correct and reliable in projects, assignments, and
                   online tests. We offer efficient support that helps students achieve good results
@@ -555,7 +555,7 @@ include 'include/header.php';
               <h3 class="h4 fw-bold text-warning mb-3">
                 Straighterline Programming Course Help </h3>
               <p class="small"><span style="font-weight: 400">We are offering </span><a
-                  href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400"> at
                   affordable, and efficient costs. Our professionals
                   handle your assignments accurately, so you can earn more credit and pass your
@@ -604,9 +604,9 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">
+        <h2 class="fw-semibold mb-4 text-warning px-5">
           Do Your Programming Course Easily with Expert Help In USA
-        </h1>
+        </h2>
         <p class="px-5">
           We have full-time professionals ready to offer your programming course in the USA 24/7. Register now
           and gain more credits with a reliable programming support at half price.
@@ -623,9 +623,9 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy"> Let’s Take Your Programming Course Across All
+                <h2 class="fw-bold mb-3 px-5 text-navy"> Let’s Take Your Programming Course Across All
                   Levels
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   Wondering who can take your programming course seamlessly? We have US-based
                   professionals whose work is precise in assignments, quizzes, and exams, ensuring
@@ -722,7 +722,7 @@ include 'include/header.php';
                           <p style="font-size: 14px;"><span style="font-weight: 400">The
                               dissertations, research and
                               specialty programming research are assisted by our</span><a
-                              href="https://onlinecoursehelpers.com/doctorate-level-course-help/">
+                              href="https://onlinecoursehelpers.com/doctoral-level-course-help/">
                               <span style="font-weight: 400">doctorate level course
                                 help</span></a><span style="font-weight: 400">. With
                             </span><span style="font-weight: 400">professional
@@ -800,7 +800,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -820,7 +820,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -841,7 +841,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -886,7 +886,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -908,7 +908,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

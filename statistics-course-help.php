@@ -84,9 +84,9 @@ include 'include/header.php'; ?>
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Get Professional Help with Statistics Course to Ace Your Grades
-            </h1>
+            </h2>
             <p class="section-text">
               Our statistics course help is meant to eliminate the anxiety of online classes. From regression and
               probability to complex data analysis, our professionals assist with a course to enable you to concentrate
@@ -107,8 +107,8 @@ include 'include/header.php'; ?>
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3" style="color: #002a4d;">Most Affordable Statistics Course Help For All Subjects
-        </h1>
+        <h2 class="fw-bold mb-3" style="color: #002a4d;">Most Affordable Statistics Course Help For All Subjects
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           We provide statistics course help in USA at an unbeatable price, covering all subjects, ensuring students
           achieve additional credits.
@@ -248,8 +248,8 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-bold mb-4">
-              Struggling with deadlines? Get Statistics Course Help now!</h1>
+            <h2 class="fw-bold mb-4">
+              Struggling with deadlines? Get Statistics Course Help now!</h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -272,72 +272,72 @@ include 'include/header.php'; ?>
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3">Avail Our Affordable Statistics Course Help and Get Extra Credits Fast</h1>
-        <p class="mb-5 text-muted">
-          We know how difficult it is to meet deadlines and budgets, which is why our statistics course help USA is
-          student-friendly. Whether it is Pearson or Alek, our professionals take care of all that and make it
-          affordable. No matter what the task, our helpers ensure to take care of your concern about finishing your
-          statistics course fast, without overspending, and still achieve the grades you deserve.
-        </p>
+        <h2 class="fw-bold mb-3">Avail Our Affordable Statistics Course Help and Get Extra Credits Fast</h2>
+          <p class="mb-5 text-muted">
+            We know how difficult it is to meet deadlines and budgets, which is why our statistics course help USA is
+            student-friendly. Whether it is Pearson or Alek, our professionals take care of all that and make it
+            affordable. No matter what the task, our helpers ensure to take care of your concern about finishing your
+            statistics course fast, without overspending, and still achieve the grades you deserve.
+          </p>
 
-        <div class="row g-4 mb-5">
-          <div class="col-md-4">
-            <div class="service-box py-5 px-4">
-              <i class="fa-solid fa-headset service-icon"></i>
-              <h3>Qualified Statistics Course Experts</h3>
-              <p>Learn with expert statistics course takers who know your syllabus inside out and provide expert-level
-                assistance in all subjects.
-              </p>
+          <div class="row g-4 mb-5">
+            <div class="col-md-4">
+              <div class="service-box py-5 px-4">
+                <i class="fa-solid fa-headset service-icon"></i>
+                <h3>Qualified Statistics Course Experts</h3>
+                <p>Learn with expert statistics course takers who know your syllabus inside out and provide expert-level
+                  assistance in all subjects.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="service-box py-5 px-4">
+                <i class="fa-solid fa-clock-rotate-left service-icon"></i>
+                <h3>All-Time
+                  Experts Availability</h3>
+                <p>Access to competent professionals available 24/7 to help you when you need it, day or night.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="service-box py-5 px-4">
+                <i class="fa-solid fa-circle-info service-icon"></i>
+                <h3>Guaranteed A+ Performance</h3>
+                <p>We do not just help you score higher. Expect top grades, on-time submissions, and reliable academic
+                  excellence every time.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="service-box py-5 px-4">
+                <i class="fa-solid fa-dollar-sign service-icon"></i>
+                <h3>Affordable Pricing for All</h3>
+                <p>Good assistance should not be expensive. Savour the low prices and high-quality services to meet your
+                  study objectives.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="service-box py-5 px-4">
+                <i class="fa-solid fa-file-word service-icon"></i>
+                <h3>100% Unique & Original Content</h3>
+                <p>All papers are original, plagiarism-free, and precisely aligned with your course requirements and
+                  guidelines.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="service-box py-5 px-4">
+                <i class="fa-solid fa-lock service-icon"></i>
+                <h3>Complete Privacy & Security</h3>
+                <p>We keep your data and your identity secure. We operate encrypted systems and tight confidentiality
+                  protocols to provide you with complete peace of mind.</p>
+              </div>
             </div>
           </div>
-          <div class="col-md-4">
-            <div class="service-box py-5 px-4">
-              <i class="fa-solid fa-clock-rotate-left service-icon"></i>
-              <h3>All-Time
-                Experts Availability</h3>
-              <p>Access to competent professionals available 24/7 to help you when you need it, day or night.</p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-box py-5 px-4">
-              <i class="fa-solid fa-circle-info service-icon"></i>
-              <h3>Guaranteed A+ Performance</h3>
-              <p>We do not just help you score higher. Expect top grades, on-time submissions, and reliable academic
-                excellence every time.</p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-box py-5 px-4">
-              <i class="fa-solid fa-dollar-sign service-icon"></i>
-              <h3>Affordable Pricing for All</h3>
-              <p>Good assistance should not be expensive. Savour the low prices and high-quality services to meet your
-                study objectives.</p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-box py-5 px-4">
-              <i class="fa-solid fa-file-word service-icon"></i>
-              <h3>100% Unique & Original Content</h3>
-              <p>All papers are original, plagiarism-free, and precisely aligned with your course requirements and
-                guidelines.</p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-box py-5 px-4">
-              <i class="fa-solid fa-lock service-icon"></i>
-              <h3>Complete Privacy & Security</h3>
-              <p>We keep your data and your identity secure. We operate encrypted systems and tight confidentiality
-                protocols to provide you with complete peace of mind.</p>
-            </div>
-          </div>
-        </div>
 
-        <div class="d-flex justify-content-center gap-3">
-          <button class="btn btn-yellow rounded-pill px-5 py-3 fw-bold">Live Call <i
-              class="fa-solid fa-phone ms-2"></i></button>
-          <button class="btn btn-light-grey rounded-pill px-5 py-3 fw-bold">Whatsapp <i
-              class="fa-brands fa-whatsapp ms-2"></i></button>
-        </div>
+          <div class="d-flex justify-content-center gap-3">
+            <button class="btn btn-yellow rounded-pill px-5 py-3 fw-bold">Live Call <i
+                class="fa-solid fa-phone ms-2"></i></button>
+            <button class="btn btn-light-grey rounded-pill px-5 py-3 fw-bold">Whatsapp <i
+                class="fa-brands fa-whatsapp ms-2"></i></button>
+          </div>
       </div>
     </section>
 
@@ -401,7 +401,7 @@ include 'include/header.php'; ?>
             <div class="support-box p-4 rounded-4 shadow-sm">
               <h3 class="h4 fw-bold text-warning mb-3">
                 Straighterline Accounting Course Help Support </h3>
-              <p class="small"><a href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+              <p class="small"><a href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400"> is a
                   reliable service at a low cost. Our statistics course helpers are 24/7 available for students across
                   the USA.</span></p>
@@ -454,7 +454,7 @@ include 'include/header.php'; ?>
               <h3 class="h4 fw-bold text-warning mb-3">
                 McGraw-Hill Accounting Course Help </h3>
               <p class="small"><span style="font-weight: 400">Our </span><a
-                  href="https://onlinecoursehelpers.com/mcgraw-hill-course-help/"><span
+                  href="https://onlinecoursehelpers.com/mcgrawhill-course-help/"><span
                     style="font-weight: 400">McGraw-Hill course help</span></a><span style="font-weight: 400">s provide
                   accuracy and consistency in assignments, projects, and exams. Our professional help saves time,
                   reduces stress, and creates reliable results among students. With affordable </span><span
@@ -643,7 +643,7 @@ include 'include/header.php'; ?>
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate Level Statistics Course Help </h5>
                           <p style="font-size: 12px;"><span style="font-weight: 400">Our <a
-                                href="https://onlinecoursehelpers.com/doctorate-level-course-help/">doctoral level
+                                href="https://onlinecoursehelpers.com/doctoral-level-course-help/">doctoral level
                                 course help</a> provides detailed help on dissertations, case studies, and advanced
                               statistical theory to succeed in research and studies. Our professionals guide learners in
                               the most effective way possible, and this gives their work the best academic
@@ -711,7 +711,7 @@ include 'include/header.php'; ?>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -730,7 +730,7 @@ include 'include/header.php'; ?>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -748,7 +748,7 @@ include 'include/header.php'; ?>
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -787,7 +787,7 @@ include 'include/header.php'; ?>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -806,7 +806,7 @@ include 'include/header.php'; ?>
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

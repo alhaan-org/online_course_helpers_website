@@ -78,18 +78,20 @@ include 'include/header.php'; ?>
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Full Pearson Course Help USA – Your Trusted Partner for Pearson Course Help
-            </h1>
+
+            </h2>
             <p class="section-text">
               Full Pearson courses could refer to one of Pearson’s many academic or professional qualifications, such as
               their Edexcel International GCSEs or BTEC qualifications for school-aged learners, or a Pearson+ course
               for college and professional development in subjects like business and programming. Alternatively, it
               might refer to an entire suite of materials and support for a specific subject, like Pearson English
-              Journey for English language learning. The exact “full course” depends on the specific subject, level, and
+              Journey for English language learning. The exact "full course" depends on the specific subject, level, and
               purpose you are looking for from Pearson. If your schedule is packed or you feel too tired to focus, we
-              can manage your whole class for you. The Pearson course takers at the Online Course Helpers will complete
-              everything from homework to tests. You just have to relax, let us handle all the hard work for you.
+              can manage your whole class for you. We offer comprehensive <a
+                href="https://onlinecoursehelpers.com/">help with online course</a>, where we will complete everything
+              from homework to tests. You just have to relax, let us handle all the hard work for you.
             </p>
             <div class="d-flex gap-3 flex-wrap">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
@@ -103,8 +105,8 @@ include 'include/header.php'; ?>
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">Best Help With Pearson Course For All Subjects
-        </h1>
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">Best Help With Pearson Course For All Subjects
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Comprehensive support in all Pearson subjects; get one-on-one help, improve your grades, and earn additional
           credits confidently.
@@ -281,8 +283,8 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
-              Can You Do My Pearson Course With Guaranteed Top Grades? Yes, We Can.</h1>
+            <h2 class="fw-medium mb-4">
+              Can You Do My Pearson Course With Guaranteed Top Grades? Yes, We Can.</h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -305,7 +307,7 @@ include 'include/header.php'; ?>
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">Our Reliable Pearson Course Help Services: Beyond Fast-paced Credits</h1>
+        <h2 class="fw-medium px-5 mb-3">Our Reliable Pearson Course Help Services: Beyond Fast-paced Credits</h2>
         <p class="mb-5 text-muted">
           Our services range from personalised aid in all respects to data protection and for additional credits, which
           are intended to provide the students with an advantage in all facets of their studies.
@@ -388,17 +390,19 @@ include 'include/header.php'; ?>
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Get Professional Help With Pearson Quizzes and Tests At Cheap Price
-            </h1>
+            </h2>
             <p class="mb-5">
               If your Pearson course is too hard or you just don’t have time, that’s okay. You can think to pay someone
               to take my Pearson course for me, and we will get started. Our team will handle everything in your course.
               You won’t need to log in or complete anything. We’ll keep everything on track and make sure all work is
               finished correctly. At Online Course Helpers, we provide professional, safe, and inexpensive help with
               Pearson course that assure performance. We provide reliable help with Pearson quizzes and tests to ensure
-              you perform at your best. Choose us as your Pearson coursework partner to earn additional credits,
-              absolute confidentiality, and genuine academic specialists working on your course carefully.
+              you perform at your best. Choose us by searching “<a
+                href="https://onlinecoursehelpers.com/online-exam-help">take my online exam</a>” as your Pearson
+              coursework partner to earn additional credits, absolute confidentiality, and genuine academic specialists
+              working on your course carefully.
             </p>
 
             <div class="container-fluid">
@@ -498,11 +502,10 @@ include 'include/header.php'; ?>
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">Need Help with the Pearson Course? Hire Experienced Professional
-        </h1>
-        <p class="px-5">Get expert help with your Pearson course. We provide 24/7 service and dedicated support with
-          Pearson course
-          assignments, quizzes and assessments for domains.</p>
+        <h2 class="fw-semibold mb-4 text-warning px-5">Need Help with the Pearson Course? Hire Experienced Professionals
+        </h2>
+        <p class="px-5">We provide 24/7 <a href="https://onlinecoursehelpers.com/online-class-help">online class help
+            service</a> and dedicated support with Pearson course assignments, quizzes and assessments for domains. </p>
         <div class="d-flex justify-content-center gap-3">
           <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
               class="fa-solid fa-comment-dots ms-2"></i></a>
@@ -515,8 +518,8 @@ include 'include/header.php'; ?>
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy">Excel Academically with Expert Pearson Course Help in the USA
-                </h1>
+                <h2 class="fw-bold mb-3 px-5 text-navy">Excel Academically with Expert Pearson Course Help in the USA
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   Turn your Pearson learning experience into an easy and stress-free experience with <a>Online Course
                     Helpers</a>. Our professional Pearson experts take you through assignments, quizzes, and exams
@@ -618,7 +621,7 @@ include 'include/header.php'; ?>
 
                             Doctorate-Level Pearson Course Help </h5>
                           <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
-                              href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                              href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctoral-level course help</span></a><span
                               style="font-weight: 400"> provides specialized support to research scholars on
                               dissertations, analytical studies and data driven research projects. We offer academic
@@ -683,14 +686,14 @@ include 'include/header.php'; ?>
               </div>
               <p class="small opacity-75">I was really struggling with my Pearson algebra course, but the Online Course
                 Helpers made it so easy! Their team of expert Pearson course takers handled all my Pearson assignments
-                and class tasks, and I ended up with an A. The process was smooth, and their support team was always
-                there to answer my questions. I’m so relieved I found them and will definitely use their services again!
+                and tasks, and I ended up with an A. The process was smooth, and their support team was always there to
+                answer my questions. I’m so relieved I found them and will definitely use their services again!
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Dennis Watson</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -712,7 +715,7 @@ include 'include/header.php'; ?>
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Doris Krupp</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -733,7 +736,7 @@ include 'include/header.php'; ?>
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Steve Washington
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -758,7 +761,7 @@ include 'include/header.php'; ?>
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Ella
+                    Todd Sloan
                   </h6>
                   <small class="opacity-50">Houston</small>
                 </div>
@@ -781,7 +784,7 @@ include 'include/header.php'; ?>
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Edward Jackson</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -793,18 +796,17 @@ include 'include/header.php'; ?>
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">I was struggling with my online Pearson course and had no idea how to
-                complete my online Pearson course. That's when I found Online Course Helpers. They took over my Pearson
-                course,
+              <p class="small opacity-75">I was struggling with my online Pearson course and had no idea how to complete
+                my online Pearson course. That's when I found Online Course Helpers. They took over my Pearson course,
                 and the results were incredible! Not only did they help me pass, but I also ended up with excellent,
                 fast-paced credits. The team of online Pearson course takers was professional, responsive, and
-                knowledgeable. I couldn't have asked for a better experience! </p>
+                knowledgeable. I couldn't have asked for a better experience!</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Annar
+                    Jackson Hanford
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>
@@ -870,7 +872,7 @@ include 'include/header.php'; ?>
                   </h2>
                   <div id="q1" class="accordion-collapse collapse bg-white text-dark px-0"
                     data-bs-parent="#faqAccordion">
-                    <div class="accordion-body px-0">Our online Pearson class help service is designed to provide
+                    <div class="accordion-body px-0">Our online Pearson course help service is designed to provide
                       personalised academic support for students taking Pearson courses. Simply contact Online Course
                       Helpers, the best online Pearson course help service, with details about your Pearson course, and
                       we’ll match you with a qualified tutor who will assist you with understanding course materials,
@@ -900,14 +902,14 @@ include 'include/header.php'; ?>
                   <h2 class="accordion-header">
                     <button class="accordion-button collapsed bg-white fw-bold text-dark px-0" type="button"
                       data-bs-toggle="collapse" data-bs-target="#q3">
-                      What subjects do you offer Pearson class help for?
+                      What subjects do you offer Pearson course help for?
                     </button>
                   </h2>
                   <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                     <div class="accordion-body px-2">We offer the best Pearson course help for a wide range of subjects,
                       including math, business, accounting, calculus, finance, algebra, chemistry and more. Our team of
                       the best online Pearson course takers covers a diverse array of questions to meet your needs when
-                      you ask us to take your online Alex course for you.</div>
+                      you ask us to take your online Pearson course for you.</div>
                   </div>
                 </div>
               </div>
@@ -921,8 +923,7 @@ include 'include/header.php'; ?>
                   </h2>
                   <div id="q4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                     <div class="accordion-body px-0">Yes! Our expert online Pearson course takers can handle the number
-                      of
-                      courses simultaneously: assignments, quizzes, exams, and everything. All you do is pass on your
+                      of courses simultaneously: assignments, quizzes, exams, and everything. All you do is pass on your
                       schedule, and we will take care of everything from beginning to end.</div>
                   </div>
                 </div>
@@ -938,8 +939,7 @@ include 'include/header.php'; ?>
                   <div id="q5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                     <div class="accordion-body px-0">At the Online Course Helpers, we compose all the assignments from
                       scratch and scan every task with high-quality plagiarism software. You will always get original
-                      and
-                      high-quality work that satisfies your academic requirements.</div>
+                      and high-quality work that satisfies your academic requirements.</div>
                   </div>
                 </div>
               </div>
@@ -953,7 +953,7 @@ include 'include/header.php'; ?>
                   </h2>
                   <div id="q6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                     <div class="accordion-body px-0">We provide revisions and a money-back guarantee. Not satisfied, we
-                      will make it right quickly or refund your money according to our policy.</div>
+                      will make it right quickly or refund your money according to our satisfaction policy.</div>
                   </div>
                 </div>
               </div>

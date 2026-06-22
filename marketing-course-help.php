@@ -83,10 +83,10 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Reliable Marketing Course Helpers Delivering Results Nationwide
 
-            </h1>
+            </h2>
             <p class="section-text">
               The USA benefits from skilled marketing course helpers who help students manage complex
               workloads. Our experts are very specific, private, and timely in assignments, essays,
@@ -107,9 +107,9 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">
           Affordable Marketing Course Help Assisting Students Excel For Extra Credits
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Our marketing course assistance helps students stay on top of their studies and manage their hectic
           lives. We ensure the accuracy, confidentiality, and timeliness of assignments, quizzes, and online
@@ -267,10 +267,10 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
+            <h2 class="fw-medium mb-4">
               Trusted Help with Marketing Course for Students Seeking Better Results in USA for Additional
               Credits
-            </h1>
+            </h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -293,9 +293,9 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">
+        <h2 class="fw-medium px-5 mb-3">
           Do Your Marketing Course Smarter and Score Higher in the USA
-        </h1>
+        </h2>
         <p class="mb-5 text-muted">
           It is not simple to balance marketing studies with life, but it is easy with our specialists. We
           help with quizzes, essays, and research assignments and make sure that they are correct and
@@ -388,9 +388,9 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Finish Your Marketing Course Quickly and Secure Better Grades in the USA
-            </h1>
+            </h2>
             <p class="mb-5">
               You do not have to be slowed down by deadlines and complicated marketing topics. You
               complete your marketing course through our professionals, who are careful and precise in
@@ -548,7 +548,7 @@ include 'include/header.php';
             <div class="support-box p-4 rounded-4 shadow-sm">
               <h3 class="h4 fw-bold text-warning mb-3">
                 StraighterLine Marketing Course Help </h3>
-              <p class="small"><a href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+              <p class="small"><a href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400">
                   assists the students to do marketing studies online
                   accurately and confidentially. Our professionals handle assignments and quizzes on
@@ -602,10 +602,10 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">
+        <h2 class="fw-semibold mb-4 text-warning px-5">
           Achieve Academic Excellence – Complete Your Marketing Course Stress-Free with Expert Help
 
-        </h1>
+        </h2>
         <p class="px-5">
           Balancing marketing research and hectic schedules is not that easy, and our professionals make it
           easy. We provide proper, punctual, and confidential assistance regarding projects, essays, and
@@ -626,10 +626,10 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy"> Pay Someone to Do Your Marketing Course for All
+                <h2 class="fw-bold mb-3 px-5 text-navy"> Pay Someone to Do Your Marketing Course for All
                   Educatioinal Levels
 
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   It is very difficult to balance marketing studies with real life, but our
                   specialists make it easier. We write assignments, quizzes, and online exams with
@@ -733,7 +733,7 @@ include 'include/header.php';
 
                             Doctorate-Level Marketing Course Help </h5>
                           <p style="font-size: 14px;"><span style="font-weight: 400">Our
-                            </span><a href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                            </span><a href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctoral-level course
                                 help</span></a><span style="font-weight: 400"> is also a
                               comprehensive one for students who are research-oriented in
@@ -815,7 +815,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -836,7 +836,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -858,7 +858,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -904,7 +904,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -926,7 +926,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

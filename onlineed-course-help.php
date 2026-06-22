@@ -81,9 +81,9 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Build Strong Academic Foundations with Affordable OnlineEd Course Help in USA
-            </h1>
+            </h2>
             <p class="section-text">
               Students find it difficult to follow the digital course on OnlineEd, especially in relation
               to complicated or time-consuming subjects. The help provided by our OnlineEd course helpers
@@ -107,9 +107,9 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">Comprehensive Help with OnlineEd Course from
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">Comprehensive Help with OnlineEd Course from
           Certified Experts
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Need reliable assistance to cope with your OnlineEd course? Our OnlineEd course help in the USA is
           an online course service that introduces you to professional people that can make even the most
@@ -271,8 +271,8 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
-              Need to Do Your OnlineEd Course? Let Our Experts Handle It for You</h1>
+            <h2 class="fw-medium mb-4">
+              Need to Do Your OnlineEd Course? Let Our Experts Handle It for You</h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -295,9 +295,9 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">Complete Academic Assistance through OnlineEd Course Help for Better
+        <h2 class="fw-medium px-5 mb-3">Complete Academic Assistance through OnlineEd Course Help for Better
           Grades
-        </h1>
+        </h2>
         <p class="mb-5 text-muted">
           Our OnlineEd course help is premised on the values of trust, confidentiality, and uninterrupted
           academic excellence. Each learner is provided with personalized support which eases the learning
@@ -389,9 +389,9 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Pay Someone to Do Your OnlineEd Course and Achieve Academic Success Easily
-            </h1>
+            </h2>
             <p class="mb-5">
               OnlineEd courses in middle school may seem like a lot of work, and when it comes to dealing
               with several subjects. Our qualified experts handle your course, and you submit them on time
@@ -517,9 +517,9 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">Want to Finish Your OnlineEd Course Without the Stress?
+        <h2 class="fw-semibold mb-4 text-warning px-5">Want to Finish Your OnlineEd Course Without the Stress?
           Let Us Help
-        </h1>
+        </h2>
         <p class="px-5">Juggling between classes and deadlines can be tiresome. This is the reason why our
           trained OnlineEd course helpers are in place to see your course through to the end.
         </p>
@@ -535,9 +535,9 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy">Have Professionals Take Your OnlineEd Course for
+                <h2 class="fw-bold mb-3 px-5 text-navy">Have Professionals Take Your OnlineEd Course for
                   You Confidentially
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   The complicated lessons and strict deadlines should not slow you down. We have
                   course helpers who can guide you to finish your OnlineEd course and achieve your
@@ -648,7 +648,7 @@ include 'include/header.php';
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level OnlineEd Course Help </h5>
                           <p style="font-size: 14px;"><span style="font-weight: 400">Our
-                            </span><a href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                            </span><a href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctoral-level course
                                 help</span></a><span style="font-weight: 400"> is
                               designed to focus on scholars who do intensive quantitative
@@ -728,7 +728,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -749,7 +749,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -771,7 +771,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -816,7 +816,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -838,7 +838,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

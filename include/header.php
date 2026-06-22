@@ -14,7 +14,7 @@
     <meta property="og:description"
         content="<?php echo isset($pageDescription) ? $pageDescription : 'The most reliable online course help in USA to fast-track your route to extra credits. Hire professional online course helpers for timely submissions.' ?>">
     <meta property="og:type" content="Website">
-    <meta property="og:url" content="https://onlinecoursehelpers.com">
+    <meta property="og:url" content="<?php echo $current_url; ?>">
     <meta property="og:image" content="https://onlinecoursehelpers.com/assets/img/favicon.png">
     <meta name="theme-color" content="#002a4d">
     <link rel="canonical" href="<?php echo $current_url; ?>">

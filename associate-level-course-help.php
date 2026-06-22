@@ -84,9 +84,9 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               A Professional Help with Associate Level Course
-            </h1>
+            </h2>
             <p class="section-text">
               Looking for the best help with associate level online course? Consider yourself lucky,
               because we are offering to be there for you to help you deal with all your complex concepts.
@@ -108,8 +108,8 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3" style="color: #002a4d;">Take My Associate Level Course for all Subjects
-        </h1>
+        <h2 class="fw-bold mb-3" style="color: #002a4d;">Take My Associate Level Course for all Subjects
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           When you decide that I’m going to pay someone to do my associate level course, we assign a course
           helper to be there for you to complete your course, doesn’t matter the subject.
@@ -329,8 +329,8 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-bold mb-4">
-              Is There a Way for You to Do My Associate Level Course? Absolutely, Yes!</h1>
+            <h2 class="fw-bold mb-4">
+              Is There a Way for You to Do My Associate Level Course? Absolutely, Yes!</h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -353,7 +353,7 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3">Hire the Most Reliable Associate Level Course Helper to Boost Your Grades</h1>
+        <h2 class="fw-bold mb-3">Hire the Most Reliable Associate Level Course Helper to Boost Your Grades</h2>
         <p class="mb-5 text-muted">
           Our editorial board is filled with expert associate level course helpers who offer their 24/7
           customer service to support students with all their academic problems, including online quizzes,
@@ -510,7 +510,7 @@ include 'include/header.php';
                   write
                   well-structured, clear, and original content. We enable students to reflect on their
                   strong understanding of the course material when they seek </span><a
-                  href="https://onlinecoursehelpers.com/mcgraw-hill-course-help/"><span
+                  href="https://onlinecoursehelpers.com/mcgrawhill-course-help/"><span
                     style="font-weight: 400">McGraw-Hill course help</span></a><span style="font-weight: 400"> from us.
                 </span></p>
             </div>
@@ -600,7 +600,7 @@ include 'include/header.php';
                   succeed in
                   quizzes with top grades, and write plagiarism-free tasks, we offer them our
                   affordable and trusted </span><a
-                  href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">StraighterLine course help</span></a><span
                   style="font-weight: 400">.</span></p>
             </div>
@@ -613,7 +613,7 @@ include 'include/header.php';
                   succeed in
                   quizzes with top grades, and write plagiarism-free tasks, we offer them our
                   affordable and trusted </span><a
-                  href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">StraighterLine course help</span></a><span
                   style="font-weight: 400">.</span></p>
             </div>
@@ -749,7 +749,7 @@ include 'include/header.php';
                             Master’s Level Course Help </h5>
                           <p style="font-size: 13px;"><span style="font-weight: 400">Get your
                               grades boosted and
-                              achieve <a href="_wp_link_placeholder" data-wplink-edit="true">enhancement</a> in your
+                              achieveenhancement in your
                               academic
                               writing. We offer </span><a
                               href="https://onlinecoursehelpers.com/masters-level-course-help/"><span
@@ -768,7 +768,7 @@ include 'include/header.php';
                             Doctorate Level Course Help </h5>
                           <p style="font-size: 13px;"><span style="font-weight: 400">Searching
                               for a trusted </span><a
-                              href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                              href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">Doctorate level course
                                 help</span></a><span style="font-weight: 400">? Our
                               services ensure that every submission is original,
@@ -821,7 +821,7 @@ include 'include/header.php';
       <div class="container text-center" data-aos="fade-up">
         <h2 class="fw-bold mb-2">Reviews from Clients Who Asked for Associate Level Course Help</h2>
         <p class="text-muted mb-5">Students across the US are welcome to receive our service. We have been
-          inclusive with our approach for a long time. Wanna know what our clients think of us? The following
+          inclusive with our approach for a long time. WShelly Benitez know what our clients think of us? The following
           are some of their thoughts.</p>
 
         <div class="row g-4 text-start">
@@ -838,7 +838,7 @@ include 'include/header.php';
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -857,7 +857,7 @@ include 'include/header.php';
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -878,7 +878,7 @@ include 'include/header.php';
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -918,7 +918,7 @@ include 'include/header.php';
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -937,7 +937,7 @@ include 'include/header.php';
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

@@ -81,9 +81,9 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Help with Calculus Course – Your Shortcut to Additional Credits
-            </h1>
+            </h2>
             <p class="section-text">
               Are you having trouble meeting deadlines or complicated formulas? Our help with calculus
               course service guarantees that all assignments, quizzes, and exams are done accurately. Our
@@ -104,9 +104,9 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">
           The Most Reliable Calculus Course Help in the USA
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Our team is providing low-cost, private, and expert help on all subjects and platforms. Students
           across the country are confident in our service to complete your course accurately, to acquire more
@@ -295,9 +295,9 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
+            <h2 class="fw-medium mb-4">
               Struggling to Keep Up? Let Professionals Take Your Calculus Course with Accuracy!
-            </h1>
+            </h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -320,9 +320,9 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">
+        <h2 class="fw-medium px-5 mb-3">
           Pay Someone to Do Your Calculus Course and Get Expert Help Instantly
-        </h1>
+        </h2>
         <p class="mb-5 text-muted">
           Students in the USA use our professional calculus course helpers USA to handle their entire courses
           effectively. It could be quizzes, assignments, or projects, but our team makes sure that it is done
@@ -415,9 +415,9 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Finish Your Calculus Course Without Any Stress
-            </h1>
+            </h2>
             <p class="mb-5">
               With our calculus helpers in USA, deadlines, complicated equations and lack of time should
               not stop you. We offer all the professional assistance on such platforms as Aleks and
@@ -487,7 +487,7 @@ include 'include/header.php';
               <h3 class="h4 fw-bold text-warning mb-3">
                 McGraw-Hill Calculus Course Help </h3>
               <p class="small"><span style="font-weight: 400">Through our </span><a
-                  href="https://onlinecoursehelpers.com/mcgraw-hill-course-help/"><span
+                  href="https://onlinecoursehelpers.com/mcgrawhill-course-help/"><span
                     style="font-weight: 400">McGraw-Hill course help</span></a><span style="font-weight: 400"> students
                   can get the reliable support on assignment,
                   tests, and online examinations. We can solve difficult calculus problems such as
@@ -568,7 +568,7 @@ include 'include/header.php';
                 Straighterline Calculus Course Help Support </h3>
               <p class="small"><span style="font-weight: 400">Students in the USA find the process of
                   studying calculus
-                  through our </span><a href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  through our </span><a href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400"> to be
                   both affordable and available. We handle it all,
                   such as assignments and final exams, and we do them with academic accuracy. Get
@@ -620,9 +620,9 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">
+        <h2 class="fw-semibold mb-4 text-warning px-5">
           Let Us Take Your Calculus Course the Smart Way with Trusted Professionals Who Deliver Results
-        </h1>
+        </h2>
         <p class="px-5">
           Say goodbye to academic pressure! Your course is done all the way through by our professionals. All
           the assignments and examinations are done to the best of standards. Our 100 percent risk-free
@@ -640,9 +640,9 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy"> Finish Your Calculus Course Smoothly and Unlock
+                <h2 class="fw-bold mb-3 px-5 text-navy"> Finish Your Calculus Course Smoothly and Unlock
                   Additional Credits Today!
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   We make doing your course right effortless, combining precision, dependable
                   guidance, and genuine care for your success.
@@ -807,8 +807,7 @@ include 'include/header.php';
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo"
-                  class="review-image">
+                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">I was also studying a variety of disciplines, and calculus was
                 the most challenging one. Online Course Helpers intervened and took care of my
@@ -819,7 +818,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -839,7 +838,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -860,7 +859,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -903,7 +902,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -925,7 +924,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

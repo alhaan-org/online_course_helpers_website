@@ -80,9 +80,9 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Our Help with Algebra Course in USA is Your Key to Extra Credits
-            </h1>
+            </h2>
             <p class="section-text">
               Our Algebra course help is considered to be reliable and stress-free by students all over
               the USA. Whether it is a complicated algebraic equation or complex problem solving, our
@@ -104,9 +104,9 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">
           Trusted Algebra Course Helpers in USA with Comprehensive Subject Expertise
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Our Algebra course helpers offer cost-efficient and precise services to students in the USA. We
           simplify the achievement of extra credits for accredited accounting courses, enabling you to move
@@ -270,9 +270,9 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
+            <h2 class="fw-medium mb-4">
               Want the Best Algebra Course Help? Grab It Before Discount Ends!
-            </h1>
+            </h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -295,9 +295,9 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">
+        <h2 class="fw-medium px-5 mb-3">
           Need Help to Do Your Algebra Course? Get Trusted Algebra Assistance for Assured Results!
-        </h1>
+        </h2>
         <p class="mb-5 text-muted">
           Our Algebra course helpers in USA have a high degree of accuracy, confidentiality and prompt
           delivery when it comes to online learning of Algebra. Whether it is complex assignments or exams,
@@ -389,9 +389,9 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Pay Someone to Do Your Algebra Course and Watch Your Grades Rise!
-            </h1>
+            </h2>
             <p class="mb-5">
               Algebra course helpers are professional members of our team who handle all the assignments,
               tests, and manage the entire course. Feel calm that your Algebra is being done with some
@@ -462,7 +462,7 @@ include 'include/header.php';
               <h3 class="h4 fw-bold text-warning mb-3">
                 McGraw-Hill Algebra Course Help </h3>
               <p class="small"><span style="font-weight: 400">We have our </span><a
-                  href="https://onlinecoursehelpers.com/mcgraw-hill-course-help/"><span
+                  href="https://onlinecoursehelpers.com/mcgrawhill-course-help/"><span
                     style="font-weight: 400">McGraw-Hill course help</span></a><span style="font-weight: 400"> which
                   provides the correct step-by-step instructions
                   regarding projects, homework, and online examinations. We make complex ideas such as
@@ -594,9 +594,9 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">
+        <h2 class="fw-semibold mb-4 text-warning px-5">
           Take Your Algebra Course in the USA for All Platforms!
-        </h1>
+        </h2>
         <p class="px-5">
           We have 24/7 USA-based helpers who are willing to assist you to complete your Algebra course fast
           and with confidence. Act now and ensure that you get your additional credits through our reliable
@@ -614,9 +614,9 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy"> Let Experts Finish Your Algebra Course Smoothly
+                <h2 class="fw-bold mb-3 px-5 text-navy"> Let Experts Finish Your Algebra Course Smoothly
                   and On Time
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   Stop stressing over deadlines. Our algebra course helpers in USA make it easy to
                   finish your algebra course without complications. From equations to assignments,
@@ -785,7 +785,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -805,7 +805,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -826,7 +826,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -869,7 +869,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -890,7 +890,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

@@ -79,9 +79,9 @@ include 'include/header.php'; ?>
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Ace Your Academic Journey with Our Cheap Online Exam Help USA
-            </h1>
+            </h2>
             <p class="section-text">
               Online courses were designed with flexibility in mind, providing an opportunity for students who can’t
               always attend physically. Online degree programs are convenient, but when exam time arrives, the pressure
@@ -105,8 +105,8 @@ include 'include/header.php'; ?>
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">Get the Finest Help with Online Exam for All Subjects
-        </h1>
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">Get the Finest Help with Online Exam for All Subjects
+        </h2>
         <p class="mx-auto mb-5 px-5" style="color: #002a4d;">
           Our experts can write your exam on any subject. We have a team of the most experienced and skilled exam
           helpers. They have in-depth knowledge and are qualified in their specialised fields. Check out our list of
@@ -289,8 +289,8 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
-              Pass Your Exams with Our Professional Online Exam Assistance in the USA.</span></h1>
+            <h2 class="fw-medium mb-4">
+              Pass Your Exams with Our Professional Online Exam Assistance in the USA.</span></h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -313,7 +313,7 @@ include 'include/header.php'; ?>
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">Why Our Online Exam Help USA Is Every Student’s First Choice</h1>
+        <h2 class="fw-medium px-5 mb-3">Why Our Online Exam Help USA Is Every Student’s First Choice</h2>
         <p class="mb-5 px-5 text-muted">
           The main purpose of our online exam assistance is to help students succeed academically. We are leading
           students to achieve their high goals in their fields. Our 24/7 customer support can assist you anytime. You
@@ -436,8 +436,8 @@ include 'include/header.php'; ?>
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold px-5 mb-4 text-warning">Free Yourself from Exam Pressure by Saying Us to Finish My Exam
-          for Me</h1>
+        <h2 class="fw-semibold px-5 mb-4 text-warning">Free Yourself from Exam Pressure by Saying Us to Finish My Exam
+          for Me</h2>
         <p>We are always ready to assist you in your exams. Ask us to complete my exam for me. We will respond to you
           immediately.</p>
         <div class="d-flex justify-content-center gap-3">
@@ -452,8 +452,8 @@ include 'include/header.php'; ?>
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-semibold mb-3 px-5 text-navy">Do My Exam Professionally For All Educational Levels
-                </h1>
+                <h2 class="fw-semibold mb-3 px-5 text-navy">Do My Exam Professionally For All Educational Levels
+                </h2>
                 <p class="text-muted mb-5 px-5 mx-auto text-navy">
                   Need help with online exam? We support students of all academic levels across 1000+ universities,
                   colleges, and international academic boards and proficiency exams.

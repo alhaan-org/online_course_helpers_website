@@ -75,15 +75,15 @@ include 'include/header.php';
           <!-- Right Image Placeholder -->
           <div class="col-lg-6" data-aos="fade-up">
             <div class="image-placeholder">
-              <img src="assets/img/online-computer-science-course-help.webp" alt="Online Computer Science Course Help"
+              <img src="assets/img/online-computer-course-help.webp" alt="Online Computer Science Course Help"
                 class="img-fluid" loading="lazy" />
             </div>
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Top-Rated Computer Course Help in USA for Fast Extra Credits
-            </h1>
+            </h2>
             <p class="section-text">
               In case you are struggling to juggle your studies, our computer course help USA is the
               solution. We offer professional assistance in all key spheres of programming, web
@@ -107,10 +107,10 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">
           Affordable Help with Computer Course from Expert Tutors
 
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Do not allow deadlines to slow you down. Get course assistance now and let our experienced computer
           helpers in the USA do your projects, quizzes, and complete courses with 100 percent accuracy and at
@@ -295,9 +295,9 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
+            <h2 class="fw-medium mb-4">
               Let our Professionals Do Your Computer Course for You on Time!
-            </h1>
+            </h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -320,9 +320,9 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">
+        <h2 class="fw-medium px-5 mb-3">
           Why Students Rely on Our Computer Course Helpers in the USA
-        </h1>
+        </h2>
         <p class="mb-5 text-muted">
           We have professional computer course helpers in USA who ensure that our course is handled with care
           and accuracy. It is assignments, exams, or some sort of practical project; our professionals make
@@ -416,9 +416,9 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Let our Professionals Take Your Computer Course and Finish it on Time!
-            </h1>
+            </h2>
             <p class="mb-5">
               We have professional computer course helpers in USA who ensure that our course is handled
               with care and accuracy. It is assignments, exams, or some sort of practical project; our
@@ -586,7 +586,7 @@ include 'include/header.php';
                 Straighterline Computer Course Help Support </h3>
               <p class="small"><span style="font-weight: 400">Students are able to have a step-by-step
                   learning process
-                  through </span><a href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  through </span><a href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400">, where
                   they can have real-time support. We do coding
                   projects, web tests, and software development work with our tutors, and they ensure
@@ -640,9 +640,9 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">
+        <h2 class="fw-semibold mb-4 text-warning px-5">
           Can I Pay Someone to Complete My Computer Course? Hire Trusted Experts Today
-        </h1>
+        </h2>
         <p class="px-5">
           Our computer course helpers in the USA are certified to manage advanced courses at all levels. Sign
           up now and get our professional assistance, sit and have us do your computer course, and you are
@@ -660,9 +660,9 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy"> Finish My Computer Course Fast for Additional
+                <h2 class="fw-bold mb-3 px-5 text-navy"> Finish My Computer Course Fast for Additional
                   Credits
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   Hire our computer course helper USA to bypass all hurdles in completing your course.
                   Now obtain professional course help and enjoy stress-free computer credits!
@@ -828,7 +828,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -848,7 +848,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -869,7 +869,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -912,7 +912,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -934,7 +934,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

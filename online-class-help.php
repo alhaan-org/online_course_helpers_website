@@ -78,9 +78,9 @@ include 'include/header.php'; ?>
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Level Up Your Academia With Our Cheap Online Class Help USA
-            </h1>
+            </h2>
             <p class="section-text">
               If you are someone who struggles to keep up with your grades and never finds time to excel in your
               professional skills. Then you are in the same boat as students who need online class assistance to get
@@ -102,8 +102,8 @@ include 'include/header.php'; ?>
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">Get The Best Online Class Assistance For All Subjects
-        </h1>
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">Get The Best Online Class Assistance For All Subjects
+        </h2>
         <p class="mx-auto mb-5 px-5" style="color: #002a4d;">
           At the Online Class Helpers, we have some of the best tutors for a vast array of subjects. Our experts include
           graduates from some of the top colleges in the USA. With our professional online class doers, you can be sure
@@ -258,8 +258,8 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">Let Our Experts Take Your Online Class for You to Achieve High Scores.</span>
-            </h1>
+            <h2 class="fw-medium mb-4">Let Our Experts Take Your Online Class for You to Achieve High Scores.</span>
+            </h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -282,7 +282,7 @@ include 'include/header.php'; ?>
 
     <section class="services-section py-sm-1 py-md-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">Trusted Online Class Help for Busy & Ambitious Students</h1>
+        <h2 class="fw-medium px-5 mb-3">Trusted Online Class Help for Busy & Ambitious Students</h2>
         <p class="mb-5 px-5 text-muted">
           With over years of experience in providing <a href="https://onlinecoursehelpers.com">help with online
             courses</a> to students in the USA, The Online Course Helpers is one of the most prestigious and reliable
@@ -365,9 +365,9 @@ include 'include/header.php'; ?>
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-medium mb-4 text-navy">
+            <h2 class="fw-medium mb-4 text-navy">
               Can I Pay Someone To Take My Online Class At Unbeatable Rates?
-            </h1>
+            </h2>
             <p class="mb-5">
               Do you find your online class annoyingly tedious? You are not alone. Countless students approach us
               saying, “Can I pay someone to take my online class for me?” because they are exhausted. But worry not! Our
@@ -406,7 +406,7 @@ include 'include/header.php'; ?>
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold px-5 mb-4 text-warning">Need Help With Online Class? We are the Perfect Solution</h1>
+        <h2 class="fw-semibold px-5 mb-4 text-warning">Need Help With Online Class? We are the Perfect Solution</h2>
         <p class="px-5">Get expert help with your online class with just a single click. We provide 24/7 service and
           dedicated support with online classes, assignments, quizzes, and tests for all domains.</p>
         <div class="d-flex justify-content-center gap-3">
@@ -415,7 +415,7 @@ include 'include/header.php'; ?>
           <a href="#" class="btn btn-call rounded-pill px-4">Whatsapp <i class="fa-brands fa-whatsapp ms-2""></i></a>
         </div>
     </div>
-</section>
+    </section>
 
 <!-- Support Blue Section  -->
 
@@ -423,9 +423,9 @@ include 'include/header.php'; ?>
               <div class="container">
                 <div class="row justify-content-center text-center mb-5">
                   <div class="col-lg-9" data-aos="fade-up">
-                    <h1 class="fw-semibold text-navy mb-3">The Finest Online Class Support in the USA For All
+                    <h2 class="fw-semibold text-navy mb-3">The Finest Online Class Support in the USA For All
                       Educational
-                      Levels</h1>
+                      Levels</h2>
                     <p class="text-secondary">Are you confused about whom I should contact for online class support?
                       Take it easy; we’re here to help you succeed academically and create an unforgettable experience
                       when you need help with your online class.</p>
@@ -477,7 +477,7 @@ include 'include/header.php'; ?>
                     <div class="support-box p-4 rounded-4 shadow-sm">
                       <h3 class="h4 fw-bold text-warning mb-3">Doctorate Level Class Help</h3>
                       <p class="small"><span style="font-weight: 400">Our&nbsp;</span><a
-                          href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                          href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                             style="font-weight: 400">doctoral-level course help&nbsp;</span></a><span
                           style="font-weight: 400">offers specialised support to research-oriented students focused on
                           dissertations, analytical writing, and data interpretation. Each of our projects is original,

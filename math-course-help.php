@@ -80,9 +80,9 @@ include 'include/header.php'; ?>
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Earn More Credits with Expert Math Course Help in the USA
-            </h1>
+            </h2>
             <p class="section-text">
               Math does not need to be overwhelming. In the USA, you are supported by our professional
               math course helpers, starting with algebra and calculus, moving to probability and applied
@@ -104,8 +104,8 @@ include 'include/header.php'; ?>
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">Comprehensive Help with Math Course in the USA
-        </h1>
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">Comprehensive Help with Math Course in the USA
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Having a hard time with math subjects? Our Math course assistance covers all sub-domains of this
           subject. Get 50% off on our math help and earn additional college credits stress-free.
@@ -213,8 +213,8 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
-              Want to Pay Someone to Complete Your Math Course with Top Grades? Trust Our Experts!</h1>
+            <h2 class="fw-medium mb-4">
+              Want to Pay Someone to Complete Your Math Course with Top Grades? Trust Our Experts!</h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -237,7 +237,7 @@ include 'include/header.php'; ?>
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">Take My Math Course Risk-free at Cheap Rates</h1>
+        <h2 class="fw-medium px-5 mb-3">Take My Math Course Risk-free at Cheap Rates</h2>
         <p class="mb-5 px-5 text-muted">
           Through our low-cost math course helpers, we are confident that every learner is able to access
           professional assistance without straining their economic resources. It could be the solving of
@@ -382,7 +382,7 @@ include 'include/header.php'; ?>
               <h3 class="h4 fw-bold text-warning mb-3">
                 McGraw-Hill Math Course Help </h3>
               <p class="small"><span style="font-weight: 400">Students using </span><a
-                  href="https://onlinecoursehelpers.com/mcgraw-hill-course-help/"><span style="font-weight: 400">the
+                  href="https://onlinecoursehelpers.com/mcgrawhill-course-help/"><span style="font-weight: 400">the
                     McGraw-Hill course h</span></a><span style="font-weight: 400">ave access to accurate and dependable
                   answers to projects,
                   tasks, and exams. We save time, enhance results, and ensure consistency with our
@@ -470,7 +470,7 @@ include 'include/header.php'; ?>
               <h3 class="h4 fw-bold text-warning mb-3">
                 Straighterline Math Course Help </h3>
               <p class="small"><span style="font-weight: 400">Our </span><a
-                  href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400"> is
                   cheap, dependable, and its support is available 24/7.
                   Our professionals make sure that your math course is completed effectively with
@@ -540,10 +540,10 @@ include 'include/header.php'; ?>
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">Hire Our Experts in USA to Finish Your Math Course For
+        <h2 class="fw-semibold mb-4 text-warning px-5">Hire Our Experts in USA to Finish Your Math Course For
           Additional
           Credits
-        </h1>
+        </h2>
         <p class="px-5">With our money-back guarantee, additional credits are risk-free. Get started today and
           see the
           difference!</p>
@@ -557,9 +557,9 @@ include 'include/header.php'; ?>
 <!-- Section  -->
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3">Can You Do my math course for All Educational Levels? Yes, Why
+                <h2 class="fw-bold mb-3">Can You Do my math course for All Educational Levels? Yes, Why
                   Not!
-                </h1>
+                </h2>
                 <p class="text-muted mb-5 mx-auto">
                   What is the big deal with submissions that are due when our math course helpers can
                   handle them? You may wish to complete your math course fast; we have the right team
@@ -658,7 +658,7 @@ include 'include/header.php'; ?>
                               doctoral students have
                               specific problems with the research, dissertation, and
                               mathematical theory. Our </span><a
-                              href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                              href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctorate level course
                                 help</span></a><span style="font-weight: 400"> is
                               detailed as it offers accuracy and consistency in every
@@ -729,7 +729,7 @@ include 'include/header.php'; ?>
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
 
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -749,7 +749,7 @@ include 'include/header.php'; ?>
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -771,7 +771,7 @@ include 'include/header.php'; ?>
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -813,7 +813,7 @@ include 'include/header.php'; ?>
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -834,7 +834,7 @@ include 'include/header.php'; ?>
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

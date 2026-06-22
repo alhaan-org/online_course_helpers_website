@@ -6,7 +6,7 @@
     </svg>
   </div>
   <div class="container text-center mt-5">
-    <h1 class="fw-bold mb-3" data-aos="fade-up">Do My Online Class on Every Major E-learning Platform</h1>
+    <h2 class="fw-bold mb-3" data-aos="fade-up">Do My Online Class on Every Major E-learning Platform</h2>
     <p class="mx-auto mb-5 text-muted" style="max-width: 800px;" data-aos="fade-up">
       We provide reliable, secure, and top-rated academic support on all major E-learning platforms. For all your
       “do my online class for me” requests, we’re your best and most affordable option.
@@ -40,7 +40,7 @@
             </div>
             <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
               <h5 class="text-warning">Mc Graw Hill</h5>
-              <p class="small"><a href="mcgraw-hill-course-help">McGraw-Hill class help</a> service is here to assist
+              <p class="small"><a href="mcgrawhill-course-help">McGraw-Hill class help</a> service is here to assist
                 you with your online platform requirements, ensuring fast turnarounds and improved academic performance.
               </p>
             </div>
@@ -75,7 +75,7 @@
             </div>
             <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
               <h5 class="text-warning">Straighter Line</h5>
-              <p class="small">Our <a href="straighterline-course-help">Straighter Line class help</a> guarantee
+              <p class="small">Our <a href="straighter-line-course-help">Straighter Line class help</a> guarantee
                 quality tutoring and timely task submissions for consistent grade improvement.</p>
             </div>
           </div>

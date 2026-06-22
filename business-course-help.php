@@ -82,9 +82,9 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Help With Business Course Services You Can Trust Across The USA
-            </h1>
+            </h2>
             <p class="section-text">
               Need reliable help with business course? Our team specializes in assisting US students with
               assignments, discussions, quizzes, and research work. We also guarantee originality,
@@ -106,9 +106,9 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">
           Affordable Business Course Assistance Across the USA for All Business Domains
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Our business course assistance helps students in the USA stay on track with their studies. Our
           support for assignments, quizzes, and exams is high-quality, timely, and tailored to help you build
@@ -263,9 +263,9 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
+            <h2 class="fw-medium mb-4">
               Finish Your Business Course Smoothly and Achieve Credit Success with Professional Guidance
-            </h1>
+            </h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -288,9 +288,9 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">
+        <h2 class="fw-medium px-5 mb-3">
           Pay Someone to Do Your Business Course with Expert Support in the USA
-        </h1>
+        </h2>
         <p class="mb-5 text-muted">
           Regarding deadlines, the most intelligent decision is to pay someone to handle your business. We
           also have professional workers who work on assignments, quizzes, and exams on such sites as Moodle,
@@ -383,9 +383,9 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Take Your Business Course Confidently with Trusted Support for Extra Credits
-            </h1>
+            </h2>
             <p class="mb-5">
               You do not need to stress your business course because you have professionals around you. We
               also support quizzes, projects, and exams on platforms such as Moodle, Pearson, and
@@ -407,7 +407,8 @@ include 'include/header.php';
           <div class="col-lg-5">
             <div class="hero-image-frame">
               <div class="cheap-price-section-image-placeholder">
-                <img src="assets/img/take-my-online-business-course.webp" alt="Take My Online Business Course" loading="lazy" />
+                <img src="assets/img/take-my-online-business-course.webp" alt="Take My Online Business Course"
+                  loading="lazy" />
               </div>
             </div>
           </div>
@@ -559,7 +560,7 @@ include 'include/header.php';
               <h3 class="h4 fw-bold text-warning mb-3">
                 StraighterLine Business Level Course Help </h3>
               <p class="small"><span style="font-weight: 400">Our </span><a
-                  href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400">s serve
                   the US students who study business online. We
                   handle assignments, quizzes, and other course materials carefully, confidentially,
@@ -616,10 +617,10 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">
+        <h2 class="fw-semibold mb-4 text-warning px-5">
           Achieve More – Let Professionals Do Your Business Course to Boost Your Credits
 
-        </h1>
+        </h2>
         <p class="px-5">
           Your business course does not have to be a burden if you have good support. Our experts oversee
           projects, discussions, and examinations on all trending sites, with precision and at the right time.
@@ -639,9 +640,9 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy"> Reliable Experts to Complete Your Business
+                <h2 class="fw-bold mb-3 px-5 text-navy"> Reliable Experts to Complete Your Business
                   Course Successfully
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   Balancing business studies with time constraints can be overwhelming, but our
                   professionals simplify the process. Each submission is novel, prompt, and in line
@@ -744,7 +745,7 @@ include 'include/header.php';
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level Business Course Help </h5>
                           <p style="font-size: 14px;"><span style="font-weight: 400">Our
-                            </span><a href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                            </span><a href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctorate level course
                                 help</span></a><span style="font-weight: 400"> provides
                               full support in terms of dissertation, advanced research,
@@ -814,8 +815,7 @@ include 'include/header.php';
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo"
-                  class="review-image">
+                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">The business course helpers handled my assignments, case
                 studies, and online discussions professionally. All the information remained
@@ -825,7 +825,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -845,7 +845,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -867,7 +867,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -911,7 +911,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -932,7 +932,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

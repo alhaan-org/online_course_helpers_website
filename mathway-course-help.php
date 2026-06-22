@@ -80,9 +80,9 @@ include 'include/header.php'; ?>
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Strengthen Core Math Skills with Our Affordable Mathway Course Help USA
-            </h1>
+            </h2>
             <p class="section-text">
               Elementary students usually have difficulties orienting themselves in the digital structure
               of Mathway, particularly on more advanced concepts. In the USA, Mathway course help offers
@@ -105,9 +105,9 @@ include 'include/header.php'; ?>
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">Your One-Stop Solution for Help with Mathway Course
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">Your One-Stop Solution for Help with Mathway Course
           Assistance
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Get credible help with Mathway course with regard to all math subjects you are addressing. Our
           professionals provide one-on-one tutoring, correct answers, and step-by-step instructions to improve
@@ -283,8 +283,8 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
-              Want to Pay Someone to Do Your Mathway Course? Let Us Help.</h1>
+            <h2 class="fw-medium mb-4">
+              Want to Pay Someone to Do Your Mathway Course? Let Us Help.</h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -307,8 +307,8 @@ include 'include/header.php'; ?>
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">Comprehensive Mathway Course Help for Fast Additional Credits
-        </h1>
+        <h2 class="fw-medium px-5 mb-3">Comprehensive Mathway Course Help for Fast Additional Credits
+        </h2>
         <p class="mb-5 text-muted">
           Using our Mathway course help implies our access to a service that is founded upon reliability,
           privacy and comprehensive academic support. We provide personalized assistance that makes you feel
@@ -399,9 +399,9 @@ include 'include/header.php'; ?>
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Complete Your Mathway Course at a Low Cost With Professional Middle School Assistance
-            </h1>
+            </h2>
             <p class="mb-5">
               Mathway is popularly applied in the middle school level math curriculum and is used to
               evaluate student comprehension in algebra, geometry, statistics, and other introductory
@@ -530,9 +530,9 @@ include 'include/header.php'; ?>
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">Looking for Experts to Take Your Mathway Course? We’re
+        <h2 class="fw-semibold mb-4 text-warning px-5">Looking for Experts to Take Your Mathway Course? We’re
           Here to Help
-        </h1>
+        </h2>
         <p class="px-5">If you are in a hurry, get yourself registered for the Mathway course, and our qualified
           professionals are going to handle all assignments, quizzes, and tests.</p>
         <div class="d-flex justify-content-center gap-3">
@@ -547,9 +547,9 @@ include 'include/header.php'; ?>
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy">Maximize Your Results with Expert Mathway Course
+                <h2 class="fw-bold mb-3 px-5 text-navy">Maximize Your Results with Expert Mathway Course
                   Helpers USA for Extra Credits
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   <a href="/">Online Course Helpers</a> offers you the capability to navigate through
                   all sections of
@@ -659,7 +659,7 @@ include 'include/header.php'; ?>
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level MATHWAY Course Help </h5>
                           <p style="font-size: 14px;"><span style="font-weight: 400">We offer
-                            </span><a href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                            </span><a href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctoral-level course
                                 help</span></a><span style="font-weight: 400">, which is
                               designed to support scholars engaged in advanced research
@@ -736,7 +736,7 @@ include 'include/header.php'; ?>
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -758,7 +758,7 @@ include 'include/header.php'; ?>
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -780,7 +780,7 @@ include 'include/header.php'; ?>
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -825,7 +825,7 @@ include 'include/header.php'; ?>
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -847,7 +847,7 @@ include 'include/header.php'; ?>
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

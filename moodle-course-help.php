@@ -66,13 +66,13 @@ include 'include/header.php';
         </svg>
       </div>
     </section>
-    
+
     <!-- University Slider Section -->
     <?php include 'include/university-slider.php'; ?>
 
     <!-- Academic Section -->
     <section class="academic-section">
-        <div class="container mt-5">
+      <div class="container mt-5">
         <div class="row align-items-center g-5">
           <!-- Right Image Placeholder -->
           <div class="col-lg-6" data-aos="fade-up">
@@ -83,19 +83,20 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Understand the Challenges of Online Learning with Our Cheap Moodle Course Help USA
-            </h1>
+
+            </h2>
             <p class="section-text">
-              Get affordable and reliable help with Moodle course from experienced Moodle course takers
-              who understand the unique challenges of online learning. Our team provides comprehensive
-              support for all your academic needs. We offer the best support for your Moodle course
-              challenges at the best price. Not only that, but our 24/7 professional support ensures you
-              are never alone when it comes to your courses. No matter how tough your course is or how
-              many additional credits you need, just text us and see your problems fade. With our aim to
-              retain 100% clients and offer full client satisfaction, we secure our clients with our 100%
-              money-back guarantee policy. So, next time when you decide to pay someone to take your
-              Moodle course for you, make sure it is Online Course Helpers.
+              Get affordable and reliable help with Moodle course from experienced <a
+                href="https://onlinecoursehelpers.com/">online course takers</a> who understand the unique challenges of
+              online learning. Our team provides comprehensive support for all your academic needs. We offer the best
+              support for your Moodle course challenges at the best price. Not only that, but our 24/7 professional
+              support ensures you are never alone when it comes to your courses. No matter how tough your course is or
+              how many additional credits you need, just text us and see your problems fade. With our aim to retain 100%
+              clients and offer full client satisfaction, we secure our clients with our 100% money-back guarantee
+              policy. So, next time when you decide to pay someone to take your Moodle course for you, make sure it is
+              Online Course Helpers.
             </p>
             <div class="d-flex gap-3 flex-wrap">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
@@ -109,12 +110,13 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3" style="color: #002a4d;">Affordable Online Moodle Course Takers For Various
-          Subjects
-        </h1>
+        <h2 class="fw-bold mb-3" style="color: #002a4d;">
+          Get Subjective-Specific Assistance from Our Online Moodle Course Takers
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
-          Comprehensive support in all Online Moodle courses; get one-on-one help, improve your grades, and
-          earn fast-paced credits confidently.
+          Our professionals have a vast knowledge base spanning all subjects, and our team of Ph.D. professionals brings
+          in-depth expertise to the table in all subjects. No matter how challenging a Moodle course is, our experts are
+          equipped to provide the support you need to excel.
         </p>
 
         <div class="horizontal-scroll-wrapper">
@@ -164,12 +166,13 @@ include 'include/header.php';
                   Business Course Help</h3>
                 <div class="card-content">
                   <p>
-                    Our business course helps simplify all the world's problems, as well as tricky
-                    numbers. Online Moodle Course help facilitate business case studies, assignments
-                    and exam preparation. Understand business ethics, rights, and obligations
-                    through easy-to-follow expert guidance. Ideally suited to students desiring to
-                    succeed in business without being confused by legal issues, inexpensive
-                    assistance is just a single click away.
+                    Business courses teach you about money, teams, selling, or planning. These things are helpful in
+                    real jobs. But sometimes the work becomes too much. You have to read, write, take tests, and follow
+                    tight deadlines. It gets even harder when you are busy in life. That’s why we offer our <a
+                      href="https://onlinecoursehelpers.com/business-course-help">business course help services</a>. We
+                    can take your Moodle business course, do your tests, write your work, and make your study time
+                    stress-free. You don’t have to think about due dates, hard topics, or difficult projects. We are
+                    here to help you succeed.
                   </p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
@@ -202,12 +205,15 @@ include 'include/header.php';
                   Chemistry Course Help</h3>
                 <div class="card-content">
                   <p>
-                    Thinking to pay someone to do my Moodle course for me? Our Moodle course help
-                    can help you with carbon’s central role, covalent bonds and structure and
-                    properties. We provide help in writing, in test preparation, and in the
-                    structure and organisation of chemical bonds. Learn about key aspects simply and
-                    inexpensively with the help of the experienced online Moodle course takers who
-                    understand the area in and out, and earn additional credits efficiently.
+                    Chemistry is the science that studies matter and how it changes. It includes ideas like atoms,
+                    molecules, reactions, and how substances interact. Many students find chemistry hard because it
+                    involves many formulas, symbols, and equations, a lot of calculations, and sometimes advanced math.
+                    We understand that chemistry is not an easy subject, especially when you are also busy with work,
+                    other courses, or personal matters. Some chemistry topics can be very confusing if you don’t get the
+                    right explanation. That is where we can help. We give you the best <a
+                      href="https://onlinecoursehelpers.com/chemistry-course-help">help with chemistry course</a> that
+                    matches your level. If you need help with quizzes, homework, exams, or the full Moodle course, our
+                    team is always ready.
                   </p>
                 </div>
                 <button class=" mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
@@ -220,12 +226,31 @@ include 'include/header.php';
                   Biology Course Help</h3>
                 <div class="card-content">
                   <p>
-                    Thinking to pay someone to do my Moodle course for me? Our Moodle course help
-                    can help you to enhance your understanding of living organisms with the
-                    fundamental concepts and principles of the study of life. Learn about key
-                    aspects simply and inexpensively with the help of the experienced online Moodle
-                    course takers who understand the area in and out, and earn additional credits
-                    efficiently.
+                    A biology course teaches you how living things work. You will learn about plants, animals, DNA, the
+                    brain, and much more. It has many scientific terms & can feel confusing. Some students also have
+                    jobs or family duties. This makes it hard to focus on studies. If you are facing trouble in your
+                    Moodle biology course, ask us to “<a href="https://onlinecoursehelpers.com/biology-course-help">take
+                      my biology course</a>”. Our specialists will break things down into simple parts to make learning
+                    easier for you and complete your course with guaranteed grades.
+                  </p>
+                </div>
+                <button class=" mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
+                  Chat</button>
+              </div>
+            </div>
+
+            <div class="course-card-container">
+              <div class="course-card">
+                <h3>
+                  Computer Science Course Help</h3>
+                <div class="card-content">
+                  <p>
+                    Are you stressed because of your difficult computer science course? Do you feel confused and don't
+                    know how to get help? Don't worry at all, we are here to provide the best <a
+                      href="https://onlinecoursehelpers.com/computer-course-help">computer science course help</a> with
+                    care and dedication. No matter if you are learning Python, Java, C++, HTML or any other coding
+                    language, our experts are ready to help you. Our main goal is to lower your stress and help you
+                    complete your computer science course smoothly.
                   </p>
                 </div>
                 <button class=" mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
@@ -263,8 +288,8 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-bold mb-4">
-              Can You Do My Moodle Course With Guaranteed Top Grades? Yes, We Can.</h1>
+            <h2 class="fw-bold mb-4">
+              Looking for “Do My Moodle Course” Online? We’ve Got You Covered.</h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -287,77 +312,77 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3">Our Reliable Moodle Course Help Services: Beyond Fast-paced Credits</h1>
-        <p class="mb-5 text-muted">
-          Our services range from personalised aid in all respects to data protection and for additional
-          credits, which are intended to provide the students with an advantage in all facets of their
-          studies.
-        </p>
+        <h2 class="fw-bold mb-3">Exclusive Guarantees That Make Our Moodle Course Help Reliable</h2>
+          <p class="mb-5 text-muted">
+            Want to know what makes us unique and trustworthy? Take a look at our exclusive guarantees, you will be
+            eager to ask us, "do my Moodle course for me” or “<a
+              href="https://onlinecoursehelpers.com/online-class-help">take my online class</a>.”
+          </p>
 
-        <div class="row g-4 mb-5">
-          <div class="col-md-4">
-            <div class="service-box py-5 px-4">
-              <i class="fa-solid fa-headset service-icon"></i>
-              <h3>Qualified
-                Moodle Course Expert</h3>
-              <p>Learn with expert online Moodle course takers who know your syllabus inside out and
-                provide expert-level assistance in all subjects.
-              </p>
+          <div class="row g-4 mb-5">
+            <div class="col-md-4">
+              <div class="service-box py-5 px-4">
+                <i class="fa-solid fa-headset service-icon"></i>
+                <h3>Qualified
+                  Moodle Course Expert</h3>
+                <p>Learn with expert online Moodle course takers who know your syllabus inside out and
+                  provide expert-level assistance in all subjects.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="service-box py-5 px-4">
+                <i class="fa-solid fa-clock-rotate-left service-icon"></i>
+                <h3>All-Time
+                  Experts Availability</h3>
+                <p>Access to competent professionals available 24/7 to help you when you need it, day or
+                  night.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="service-box py-5 px-4">
+                <i class="fa-solid fa-circle-info service-icon"></i>
+                <h3>Guaranteed A+ Performance</h3>
+                <p>We do not just help you score higher. Expect top grades, on-time submissions, and
+                  reliable academic
+                  excellence every time.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="service-box py-5 px-4">
+                <i class="fa-solid fa-dollar-sign service-icon"></i>
+                <h3>Affordable Pricing for All</h3>
+                <p>Good assistance should not be expensive. Savour the low prices and high-quality services
+                  to meet your
+                  study objectives.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="service-box py-5 px-4">
+                <i class="fa-solid fa-file-word service-icon"></i>
+                <h3>100% Unique & Original Content</h3>
+                <p>All papers are original, plagiarism-free, and precisely aligned with your course
+                  requirements and
+                  guidelines.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="service-box py-5 px-4">
+                <i class="fa-solid fa-lock service-icon"></i>
+                <h3>Complete Privacy & Security</h3>
+                <p>We keep your data and your identity secure. We operate encrypted systems and tight
+                  confidentiality
+                  protocols to provide you with complete peace of mind.</p>
+              </div>
             </div>
           </div>
-          <div class="col-md-4">
-            <div class="service-box py-5 px-4">
-              <i class="fa-solid fa-clock-rotate-left service-icon"></i>
-              <h3>All-Time
-                Experts Availability</h3>
-              <p>Access to competent professionals available 24/7 to help you when you need it, day or
-                night.</p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-box py-5 px-4">
-              <i class="fa-solid fa-circle-info service-icon"></i>
-              <h3>Guaranteed A+ Performance</h3>
-              <p>We do not just help you score higher. Expect top grades, on-time submissions, and
-                reliable academic
-                excellence every time.</p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-box py-5 px-4">
-              <i class="fa-solid fa-dollar-sign service-icon"></i>
-              <h3>Affordable Pricing for All</h3>
-              <p>Good assistance should not be expensive. Savour the low prices and high-quality services
-                to meet your
-                study objectives.</p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-box py-5 px-4">
-              <i class="fa-solid fa-file-word service-icon"></i>
-              <h3>100% Unique & Original Content</h3>
-              <p>All papers are original, plagiarism-free, and precisely aligned with your course
-                requirements and
-                guidelines.</p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-box py-5 px-4">
-              <i class="fa-solid fa-lock service-icon"></i>
-              <h3>Complete Privacy & Security</h3>
-              <p>We keep your data and your identity secure. We operate encrypted systems and tight
-                confidentiality
-                protocols to provide you with complete peace of mind.</p>
-            </div>
-          </div>
-        </div>
 
-        <div class="d-flex justify-content-center gap-3">
-          <button class="btn btn-yellow rounded-pill px-5 py-3 fw-bold">Live Call <i
-              class="fa-solid fa-phone ms-2"></i></button>
-          <button class="btn btn-light-grey rounded-pill px-5 py-3 fw-bold">Whatsapp <i
-              class="fa-brands fa-whatsapp ms-2"></i></button>
-        </div>
+          <div class="d-flex justify-content-center gap-3">
+            <button class="btn btn-yellow rounded-pill px-5 py-3 fw-bold">Live Call <i
+                class="fa-solid fa-phone ms-2"></i></button>
+            <button class="btn btn-light-grey rounded-pill px-5 py-3 fw-bold">Whatsapp <i
+                class="fa-brands fa-whatsapp ms-2"></i></button>
+          </div>
       </div>
     </section>
 
@@ -371,18 +396,17 @@ include 'include/header.php';
 
           <div class="col-lg-7">
             <h2 class="fw-bold mb-4 text-navy">
-              Can You Take My Moodle Course For Me At Cheap Price
+              Can I Pay Someone To Take My Moodle Course? Yes!
             </h2>
             <p class="mb-5">
-              Have you ever searched through all of Google, browsing “Can I pay someone to take my Moodle
-              course for me? Your search ends here! At Online Course Helpers, we provide professional,
-              safe, and inexpensive course-taking services that assure performance. Whether it is about
-              working on your assignments and quizzes or full semester workloads, our professionals are
-              available to come to your rescue. No juggling deadlines or falling behind anymore. Choose us
-              as your coursework partner to receive committed service, absolute confidentiality, and
-              genuine academic specialists working on your course carefully. Be it a single subject or
-              multiple, we have your back. Concentrate on life as we concentrate on your college credits –
-              because smart students outsource smartly.
+              If we are wondering, “Can I pay someone to take my Moodle course for me?” You’ve landed on the right page.
+              We’ve been around doing what we do best for quite some time now. And we’re telling you that a lot has
+              changed on the education scene over the last couple of years. Now that you’ve enrolled in online Moodle
+              courses, you will need an expert’s help to make sure you pass with flying colors in your chosen field.
+              When you pay someone to take your Moodle course, you increase the probability of passing your Moodle tests
+              and quizzes. Our expert <a href="https://onlinecoursehelpers.com/online-exam-help">online exam help</a>
+              provides this service to students wishing to have an expert take their quizzes or online tests or complete
+              a Moodle course on time.
             </p>
 
             <div class="container-fluid">
@@ -415,9 +439,8 @@ include 'include/header.php';
           <div class="col-lg-9" data-aos="fade-up">
             <h2 class="fw-bold text-dark mb-3">Expert Moodle Course Help For Various Educational Levels
             </h2>
-            <p class="text-secondary">Get expert help with Moodle course. We provide 24/7 service and
-              dedicated support, including online course assignments, quizzes, and assessments, for
-              various educational levels.
+            <p class="text-secondary">Our experts cover every level to make sure no student is left behind. Whether it’s
+              a single subject or a complete degree program, we’ve got you covered.
             </p>
           </div>
         </div>
@@ -491,10 +514,10 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h2 class="fw-bold mb-4 text-white">Need Help with Moodle course? Hire Experienced Professionals
+        <h2 class="fw-bold mb-4 text-white">Get Expert Help With Moodle Course Today!
         </h2>
-        <p>Get expert help with your Moodle course. We provide 24/7 service and dedicated support with Moodle
-          course assignments, quizzes, and tests for all domains.</p>
+        <p>Don’t let tough Moodle assignments, quizzes, and exams hold you back. Our Moodle course takers are here to
+          help you every step of the way.</p>
         <div class="d-flex justify-content-center gap-3">
           <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
               class="fa-solid fa-comment-dots ms-2"></i></a>
@@ -604,7 +627,7 @@ include 'include/header.php';
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level Moodle Course Help </h5>
                           <p style="font-size: 13px;"><span style="font-weight: 400">Our
-                            </span><a href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                            </span><a href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctoral-level course
                                 help</span></a><span style="font-weight: 400"> scholars
                               doing research, dissertations and submitting milestones. We
@@ -658,9 +681,9 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-white">
       <div class="container text-center" data-aos="fade-up">
-        <h2 class="fw-bold mb-2">What Students Say About Our Moodle Course Help</h2>
-        <p class="text-muted mb-5">Real experiences – Real results. See the way we have offered students success
-          in their Moodle courses through expert assistance.</p>
+        <h2 class="fw-bold mb-2"> Reviews From Our Most Satisfied Clients</h2>
+        <p class="text-muted mb-5">Here is what our successful and satisfied clients say about our top Moodle course
+          help. </p>
 
         <div class="row g-4 text-start">
           <div class="col-md-4">
@@ -669,15 +692,14 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">I have always appreciated The Online Course Helpers for keeping
-                their deadline commitments, but I was impressed when they provided me with prompt
-                support and a professional guide with Moodle course to accommodate my suggestions and
-                corrections in their work.
+              <p class="small opacity-75">I have always appreciated The Online Course Helpers for keeping their deadline
+                commitments, but I was impressed when they provided me with prompt support and a professional guide with
+                Moodle course to accommodate my suggestions and corrections in their work.
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -689,16 +711,15 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">Highly Recommended! The Online Course Helper’s online Moodle
-                course help service exceeded my expectations. Their professionalism and expertise shone
-                through in every interaction. They provided personalised support that helped me navigate
-                my Moodle course with confidence. I'm grateful for their assistance and would highly
-                recommend their services to anyone!
+              <p class="small opacity-75">Highly Recommended! The Online Course Helper’s online Moodle course help
+                service exceeded my expectations. Their professionalism and expertise shone through in every
+                interaction. They provided personalised support that helped me navigate my Moodle course with
+                confidence. I'm grateful for their assistance and would highly recommend their services to anyone!
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -710,17 +731,16 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/sitejabber-logo.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">Impressive Results! The Online Course Helper delivered
-                exceptional results with their top online Moodle course help service. Their tutors went
-                above and beyond to ensure I understood the course materials thoroughly. Their
-                personalized approach made learning enjoyable, and I saw a significant improvement in my
-                grades. I couldn't be happier with the outcome.
+              <p class="small opacity-75">Impressive Results! The Online Course Helper delivered exceptional results
+                with their top online Moodle course help service. Their tutors went above and beyond to ensure I
+                understood the course materials thoroughly. Their personalized approach made learning enjoyable, and I
+                saw a significant improvement in my grades. I couldn't be happier with the outcome.
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -733,10 +753,9 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/sitejabber-logo.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">The Online Course Helper helped me tremendously when I asked
-                them to do my Moodle course for me. Their online Moodle course takers are knowledgeable
-                and patient, taking me through challenging concepts with ease. Thanks to their
-                assistance, I aced my exams and assignments!
+              <p class="small opacity-75">The Online Course Helper helped me tremendously when I asked them to do my
+                Moodle course for me. Their online Moodle course takers are knowledgeable and patient, taking me through
+                challenging concepts with ease. Thanks to their assistance, I aced my exams and assignments!
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
@@ -755,16 +774,15 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">I was looking to pay someone to take my Moodle course for me
-                when I found The Online Course Helpers. The Online Course Helper’s online Moodle course
-                help service made my academic journey smooth and stress-free. Their online Moodle course
-                takers are not only experts in their fields but also incredibly supportive and
-                encouraging. Thanks to their help, I was able to excel in the Moodle course and achieve
-                my academic goals!</p>
+              <p class="small opacity-75">I was looking to pay someone to take my Moodle course for me when I found The
+                Online Course Helpers. The Online Course Helper’s online Moodle course help service made my academic
+                journey smooth and stress-free. Their online Moodle course takers are not only experts in their fields
+                but also incredibly supportive and encouraging. Thanks to their help, I was able to excel in the Moodle
+                course and achieve my academic goals!</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -776,16 +794,15 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">Top-Notch Service! The Online Course Helper's best online Moodle
-                course help service is unbelievable. From the first consultation to the final session,
-                their team was professional, responsive, and dedicated to my success. With their help, I
-                not only passed my Moodle course but also gained valuable knowledge that will benefit me
-                in the future. Thank you, The Online Course Helpers!</p>
+              <p class="small opacity-75">Top-Notch Service! The Online Course Helper's best online Moodle course help
+                service is unbelievable. From the first consultation to the final session, their team was professional,
+                responsive, and dedicated to my success. With their help, I not only passed my Moodle course but also
+                gained valuable knowledge that will benefit me in the future. Thank you, The Online Course Helpers!</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>
@@ -840,8 +857,7 @@ include 'include/header.php';
         <div class="row g-0 d-flex">
           <div class="left-box col-lg-7 p-5 rounded-start-3">
             <h2 class="fw-bold mb-4">Frequently Asked Questions</h2>
-            <p>Explore our most frequently asked questions to learn more about our Moodle course help. It’s
-              fast, secure, and stress-free.</p>
+            <p>FAQs about our online Moodle course help in USA. </p>
             <div class="accordion accordion-flush" id="faqAccordion">
               <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">
                 <h2 class="accordion-header">

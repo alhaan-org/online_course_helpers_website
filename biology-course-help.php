@@ -80,10 +80,10 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Pay Someone to Do Your Biology Course from Professionals in the USA
 
-            </h1>
+            </h2>
             <p class="section-text">
               It can be hard to cope with advanced biology subjects, deadlines, and exams, but our
               professionals can simplify things. When you pay someone to do your biology course, we
@@ -105,9 +105,9 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">
           Reliable Biology Course Helpers with Affordable Support for Additional Credits
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Our biology course helpers are very hardworking to offer reliable services to all students. Be it
           through the meticulous lab assignments or the online tests, all these are done on time and as per
@@ -271,10 +271,10 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
+            <h2 class="fw-medium mb-4">
               Finish Your Biology Course Confidently with On-Time Assistance from Trusted Experts Across
               the USA
-            </h1>
+            </h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -297,11 +297,11 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">
+        <h2 class="fw-medium px-5 mb-3">
           Let Professionals Take Your Biology Course and Help You Succeed Effortlessly
 
 
-        </h1>
+        </h2>
         <p class="mb-5 text-muted">
           Don’t be overwhelmed by deadlines and complicated biology courses. Let our team of experts take your
           biology course and have all your quizzes, lab reports, and tests accurately completed and on time.
@@ -396,10 +396,10 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Trusted Biology Course Helpers Ready to Complete Your Tasks on Time
 
-            </h1>
+            </h2>
             <p class="mb-5">
               You have our seasoned biology course assistants to take care of all aspects of your online
               biology course in a professional and timely manner. Whether it is quizzes and research
@@ -565,7 +565,7 @@ include 'include/header.php';
               <h3 class="h4 fw-bold text-warning mb-3">
                 StraighterLine Biology Course Help </h3>
               <p class="small"><span style="font-weight: 400">The </span><a
-                  href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400">
                   enables a student to accomplish their online studies
                   effectively and promptly. In all our quizzes, projects, and tests, our professionals
@@ -619,10 +619,10 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">
+        <h2 class="fw-semibold mb-4 text-warning px-5">
           Complete Your Biology Course Easily and
           Stress-Free with Professional Academic Assistance for Extra Credits
-        </h1>
+        </h2>
         <p class="px-5">
           You do not have to stress deadlines and complicated biology assignments anymore. Our
           experienced team assists you with your course in biology, taking care of all
@@ -640,9 +640,9 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy"> Do Your Biology Course with Skilled
+                <h2 class="fw-bold mb-3 px-5 text-navy"> Do Your Biology Course with Skilled
                   Professionals for All Education Levels
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   By selecting us to do your biology course, you have seasoned professionals who do
                   your assignments, quiz tests, and examinations to the best of your ability. All
@@ -742,7 +742,7 @@ include 'include/header.php';
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level Biology Course Help </h5>
                           <p style="font-size: 14px;"><span style="font-weight: 400">The
-                            </span><a href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                            </span><a href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctoral-level course
                                 help</span></a><span style="font-weight: 400"> is fully
                               supportive of the work of research-oriented students in
@@ -825,7 +825,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -846,7 +846,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -868,7 +868,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -913,7 +913,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -935,7 +935,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

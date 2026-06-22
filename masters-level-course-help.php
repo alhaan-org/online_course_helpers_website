@@ -82,9 +82,9 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Attractive Rates for Master's Level Courses to Earn Additional Credits Across the USA
-            </h1>
+            </h2>
             <p class="section-text">
               Get help with master’s level courses with knowledge of complex academic requirements. Our
               team at <a class="text-warning" href="/">Online Course Helpers</a> offers complete
@@ -104,9 +104,9 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">Take Your Master's Level Course with Expert
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">Take Your Master's Level Course with Expert
           Assistance in the USA
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Seeking professional advice to take your master’s level course? We ensure that all tasks are done
           right and on schedule to enable you to work towards your academic objectives without any stress.
@@ -269,8 +269,8 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
-              Is There a Way for You to Do My Masters Level Course? Absolutely, Yes!</h1>
+            <h2 class="fw-medium mb-4">
+              Is There a Way for You to Do My Masters Level Course? Absolutely, Yes!</h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -293,9 +293,9 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">Why Smart Students Prefer Us to Complete Their Master's Level Course
+        <h2 class="fw-medium px-5 mb-3">Why Smart Students Prefer Us to Complete Their Master's Level Course
           Efficiently
-        </h1>
+        </h2>
         <p class="mb-5 text-muted">
           Trying to find a good method to complete your master’s level course without having to meet
           deadlines? Our instructors are highly qualified and offer all-round academic support to enable you
@@ -388,9 +388,9 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Need to Finish Your master's Level Course? Your Success Starts Here!
-            </h1>
+            </h2>
             <p class="mb-5">
               When you are finding it challenging to meet deadlines or with complicated course tasks, our
               highly qualified master’s level course assistance is at hand. We also serve as supporters of
@@ -557,7 +557,7 @@ include 'include/header.php';
               <h3 class="h4 fw-bold text-warning mb-3">
                 StraighterLine Master's Level Course Help </h3>
               <p class="small"><span style="font-weight: 400">The </span><a
-                  href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400">
                   provide full academic assistance to those students who
                   want to do their master's level course in an effective way. We ensure accuracy, low
@@ -609,9 +609,9 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">Pay Someone to Do Your Master's Level Course and Secure
+        <h2 class="fw-semibold mb-4 text-warning px-5">Pay Someone to Do Your Master's Level Course and Secure
           Top Grades Without Stress
-        </h1>
+        </h2>
         <p class="px-5">Tight deadlines or a complex course slowing you down? You may trust someone to do your
           master’s level course, and leave the assignments for the final exam in the hands of our experts.
         </p>
@@ -627,9 +627,9 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy">All-in-One Course Assistance for Every Level of
+                <h2 class="fw-bold mb-3 px-5 text-navy">All-in-One Course Assistance for Every Level of
                   Learning
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   Regardless of the level of your degree, our professionals located in the USA provide
                   you with credible course support that simplifies the learning process and yields
@@ -722,7 +722,7 @@ include 'include/header.php';
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level Course Help </h5>
                           <p style="font-size: 14px;"><span style="font-weight: 400">Our
-                            </span><a href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                            </span><a href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctoral level course
                                 help</span></a><span style="font-weight: 400"> is
                               designed to assist research-oriented students in their
@@ -797,7 +797,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -817,7 +817,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -839,7 +839,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -884,7 +884,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -906,7 +906,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

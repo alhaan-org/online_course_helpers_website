@@ -82,9 +82,9 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Experienced Law Course Helpers Guiding Students to Success in USA
-            </h1>
+            </h2>
             <p class="section-text">
               Need a professional law course helper who cares about accuracy, privacy, and
               professionalism? The team of our experts supports all components of your legal studies, such
@@ -106,9 +106,9 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">
           Affordable Law Course assistance Across the USA For All Law Domains
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Students in the USA are using our law course assistance to remain at the top of their law schools.
           We deliver quality and prompt assistance in all your assignments and exams, which gives you
@@ -258,10 +258,10 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
+            <h2 class="fw-medium mb-4">
               Finish Your Law Course Quickly and Secure Better Grades with Expert Assistance
 
-            </h1>
+            </h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -284,10 +284,10 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">
+        <h2 class="fw-medium px-5 mb-3">
           Reliable Help for Students Who Want to Pay Someone to Do Their Law Course
 
-        </h1>
+        </h2>
         <p class="mb-5 text-muted">
           Our service offers US students who find it difficult to combine studies with their day-to-day life a
           safe and affordable way to have someone to do their law course. Our team of highly skilled workers
@@ -381,9 +381,9 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Take Your Law Course the Smart Way with Expert Help in the USA
-            </h1>
+            </h2>
             <p class="mb-5">
               Balancing a hectic law schedule is not as simple as it is made to seem when you leave your
               law course to professionals. Working with quizzes, projects, and exams on the most popular
@@ -540,7 +540,7 @@ include 'include/header.php';
                 Straighterline Psychology Course Help Support </h3>
               <p class="small"><span style="font-weight: 400">Students can do their course efficiently and
                   on time
-                  through </span><a href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  through </span><a href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400">. We
                   can offer quality support from our trained
                   professionals for any job in the psychology program. We are precise and professional
@@ -589,9 +589,9 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">
+        <h2 class="fw-semibold mb-4 text-warning px-5">
           Smarter Way to Excel – Let Professionals Do Your Law Course for Extra Credits
-        </h1>
+        </h2>
         <p class="px-5">
           Having problems with workloads or deadlines? Our law course helpers in the US fully take care of
           your assignments, discussions, and projects with full accuracy and confidentiality. All the work is
@@ -610,10 +610,10 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy"> Professional Support to Complete Your Law
+                <h2 class="fw-bold mb-3 px-5 text-navy"> Professional Support to Complete Your Law
                   Course in the USA
 
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   All levels of education in the USA have our professional psychology course helpers
                   providing assistance. We are experts in handling assignments, projects, and exams
@@ -715,7 +715,7 @@ include 'include/header.php';
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level Law Course Help </h5>
                           <p style="font-size: 14px;"><span style="font-weight: 400">Our
-                            </span><a href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                            </span><a href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctorate level course
                                 help</span></a><span style="font-weight: 400"> provides
                               full dissertation guidance, legal analysis, and
@@ -797,7 +797,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -818,7 +818,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -840,7 +840,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -887,7 +887,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -909,7 +909,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

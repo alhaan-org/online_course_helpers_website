@@ -66,7 +66,7 @@
 
     <!-- University Slider Section -->
     <?php include 'include/university-slider.php'; ?>
-    
+
     <!-- Academic Section -->
     <section class="academic-section">
       <div class="container mt-5">
@@ -80,9 +80,9 @@
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Reach New Academic Heights with Our Cheap Online Course Help USA
-            </h1>
+            </h2>
             <p class="section-text">
               With the surety of exceptional grades, ask expert online course takers at Online Course Helpers to
               do my online course for me. We offer the best support for your online course challenges at the best
@@ -106,7 +106,7 @@
 
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002e3a;">Affordable Help with Online Course for All Domains</h1>
+        <h2 class="fw-semibold mb-3" style="color: #002e3a;">Affordable Help with Online Course for All Domains</h2>
         <p class="mx-auto mb-5 px-5" style="color: #002e3a;">
           With our professional course helpers, you can be sure of earning additional credits fast. Instead of wasting
           time trying multiple services that let you down with your credits, you should hire us because we have been
@@ -126,8 +126,10 @@
                     knowledge of financial terms, rules, and concepts. So, you should be very focused while attending
                     your accounting class online. Due to the technical nature of the subject and the necessity for
                     accuracy and certainty, completing accounting classes may be difficult for a few students.
-                    Therefore, a significant number of individuals are in search of expert help whom they can request to
-                    “<a href="accounting-course-help">do my accounting course for me</a>”. Experts at the Online Course
+                    Therefore, a significant number of individuals are in search of expert help whom they can request
+                    to
+                    “<a href="accounting-course-help">do my accounting course for me</a>”. Experts at the Online
+                    Course
                     Helpers are available 24/7 with the
                     perfect answer to all your queries related to your online accounting course.
                   </p>
@@ -142,11 +144,14 @@
                 <div class="card-content">
                   <p>
                     Stressed about your online algebra course? Don’t worry, you can now pay someone to handle it for
-                    you! At the Online Course Helpers, we provide comprehensive <a href="algebra-course-help">help with
+                    you! At the Online Course Helpers, we provide comprehensive <a href="algebra-course-help">help
+                      with
                       algebra course</a>. Whether you
                     need assistance with homework or full course completion, our team of experts is ready to support
-                    you. Simply tell us your difficulties, and our specialists will log into your online algebra course
-                    to complete your homework and exams. We guarantee high-quality results and extra college credits, no
+                    you. Simply tell us your difficulties, and our specialists will log into your online algebra
+                    course
+                    to complete your homework and exams. We guarantee high-quality results and extra college credits,
+                    no
                     matter the complexity of the problems.
                   </p>
                 </div>
@@ -159,8 +164,10 @@
                 <h4 class="fw-bold">Business Course Help</h4>
                 <div class="card-content">
                   <p>Business is a field that studies how businesses and organizations operate and function over time,
-                    encompassing various disciplines such as management, finance, economics, operations, and marketing.
-                    This can all become overwhelming as you work alongside and wish to seek help with assignments, exams
+                    encompassing various disciplines such as management, finance, economics, operations, and
+                    marketing.
+                    This can all become overwhelming as you work alongside and wish to seek help with assignments,
+                    exams
                     or simply attend courses on your behalf. Do not worry! Online Course Helpers has made it easy for
                     you to sit back and focus on what is important, while our online <a
                       href="business-course-help">business course helpers</a> will assist
@@ -174,7 +181,8 @@
               <div class="course-card">
                 <h4 class="fw-bold">Chemistry Course Help</h4>
                 <div class="card-content">
-                  <p>It is a scientific study of matter, molecules, and atoms, examining their composition, properties,
+                  <p>It is a scientific study of matter, molecules, and atoms, examining their composition,
+                    properties,
                     structure, and the changes they undergo, such as chemical reactions. Even the periodic table can
                     become confusing to the point where one wishes to give up. Therefore, you can seek our help by
                     simply searching “<a href="chemistry-course-help">take my chemistry course</a>”, wherever it gets
@@ -191,7 +199,7 @@
                   <p>Computer science is the study of computer technology, including hardware and software. Because
                     computers dominate many aspects of modern life, computer science is a popular area of study for
                     college students. If you're a college student taking a challenging computer science course and you
-                    need extra <a href="computer-science-course-help">help with computer science course</a>, or grasping
+                    need extra <a href="computer-course-help">help with computer science course</a>, or grasping
                     important concepts, Online Course Helpers has a team of computer science experts to help. Whether
                     you're just starting to learn about computer science, taking advanced courses or want to earn
                     additional credits, we'll match you with the right expert to help you succeed.</p>
@@ -204,11 +212,13 @@
               <div class="course-card">
                 <h4 class="fw-bold">Psychology Course Help</h4>
                 <div class="card-content">
-                  <p>Learning psychology helps people understand how the human brain works, why we think the way we do,
+                  <p>Learning psychology helps people understand how the human brain works, why we think the way we
+                    do,
                     and what makes us act in certain ways. It's an interesting subject, but it can also be very hard,
                     especially for students studying online. That's why we created its trusted online
                     <a href="psychology-course-help">psychology course help</a> service to make studying psychology
-                    easier and stress-free for every student. Our goal is to give you real help so students can focus on
+                    easier and stress-free for every student. Our goal is to give you real help so students can focus
+                    on
                     their goals without worrying about deadlines. We have a team of trained experts who take care of
                     your full online psychology course.
                   </p>
@@ -226,8 +236,10 @@
                     managing other courses or responsibilities. As philosophical theories become more complex, even
                     small delays can increase academic pressure across the course. Our <a
                       href="philosophy-course-help">online philosophy course helpers</a> don't just do your work, they
-                    help you understand it, too. They make sure every answer is written clearly and simply so it's easy
-                    to read and matches your professor's expectations. Online Course Helpers gives you comfort, privacy,
+                    help you understand it, too. They make sure every answer is written clearly and simply so it's
+                    easy
+                    to read and matches your professor's expectations. Online Course Helpers gives you comfort,
+                    privacy,
                     and great grades, all in one place.</p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
@@ -240,7 +252,8 @@
                 <div class="card-content">
                   <p>Nursing is one of the most beautiful professions in the world. It’s about care, compassion, and
                     saving lives. But studying nursing is not always easy. Many students in the USA struggle with long
-                    study hours, medical terms, and complicated subjects like anatomy or pharmacology. Balancing study,
+                    study hours, medical terms, and complicated subjects like anatomy or pharmacology. Balancing
+                    study,
                     work, and daily life can be stressful. That’s why Online Course Helpers is here to help. By using
                     our <a href="nursing-course-help">online nursing course help</a>, you can earn additional college
                     credits with ease.
@@ -258,8 +271,10 @@
                     and consumer behavior models. To counter students' academic hurdles, our online <a
                       href="marketing-course-help">marketing course
                       help</a> service is available. We thoroughly understand that marketing isn’t just about learning
-                    theories, but rather it is about applying concepts in real business situations. Our highly-qualified
-                    experts simplify complex marketing topics. Therefore, students can assimilate information better and
+                    theories, but rather it is about applying concepts in real business situations. Our
+                    highly-qualified
+                    experts simplify complex marketing topics. Therefore, students can assimilate information better
+                    and
                     earn college credits more quickly.</p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
@@ -272,7 +287,8 @@
                 <div class="card-content">
                   <p>Coding involves many small details, long projects, and strict deadlines that can make it hard to
                     manage everything together. Many students find it difficult to focus on all their subjects,
-                    especially when they are also working or managing other responsibilities. That is why we offer easy
+                    especially when they are also working or managing other responsibilities. That is why we offer
+                    easy
                     and trustworthy online <a href="programming-course-help">programming course help</a> for those who
                     take online courses through US
                     universities and colleges and want to earn extra college credits stress-free.</p>
@@ -286,7 +302,8 @@
                 <h4 class="fw-bold">Math Course Help</h4>
                 <div class="card-content">
                   <p>Math can feel very hard when numbers, formulas, and equations start to add up. Many students feel
-                    stressed when they have too many online courses, quizzes or online math lessons at the same time. At
+                    stressed when they have too many online courses, quizzes or online math lessons at the same time.
+                    At
                     Online Course Helpers, we understand this problem deeply, and that's why we offer simple and clear
                     online <a href="math-course-help">math course help</a> in USA.</p>
                 </div>
@@ -315,8 +332,10 @@
                 <div class="card-content">
                   <p>Is it getting hard to focus on your online calculus course while you work a full-time job? Unable
                     to wrap your head around challenging maths integrals, and looking for an online <a
-                      href="calculus-course-help">calculus course helper</a> to assist you with hard-to-solve questions?
-                    If yes, then you are at the right place. Hire our services today and get a study partner as soon as
+                      href="calculus-course-help">calculus course helper</a> to assist you with hard-to-solve
+                    questions?
+                    If yes, then you are at the right place. Hire our services today and get a study partner as soon
+                    as
                     possible.</p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
@@ -332,7 +351,8 @@
                     professional experts who are available 24/7. Many students come online to search for "<a
                       href="criminal-justice-course-help">take my criminal justice course for me</a>," in hopes of
                     finding someone worthy of being paid a decent amount in exchange for completing their course. With
-                    us, life can be easy! What are you waiting for? Hire our services now to earn additional credits in
+                    us, life can be easy! What are you waiting for? Hire our services now to earn additional credits
+                    in
                     your criminal justice course!</p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
@@ -344,9 +364,11 @@
                 <h4 class="fw-bold">Finance Course Help</h4>
                 <div class="card-content">
                   <p>Finance is one of the toughest subjects in the academic field, encompassing detailed formulas,
-                    financial models, and real world case studies. Are you the one student who finds difficulty managing
+                    financial models, and real world case studies. Are you the one student who finds difficulty
+                    managing
                     the complex finance subject alone? Many students struggle to balance studies, part time jobs, and
-                    personal commitments amidst all this chaos. Our online <a href="finance-course-help">finance course
+                    personal commitments amidst all this chaos. Our online <a href="finance-course-help">finance
+                      course
                       help</a> steps in and make the academic journey easier, smarter, and more successful.</p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
@@ -358,11 +380,14 @@
                 <h4 class="fw-bold">Business Law Course Help</h4>
                 <div class="card-content">
                   <p>Business law as a field of study requires strong analytical skills, a deep comprehension, and
-                    critical thinking to interpret complex business legal systems, precedents, and statutes. Our online
+                    critical thinking to interpret complex business legal systems, precedents, and statutes. Our
+                    online
                     <a href="law-course-help">law course help</a> provide a structured learning experience that serves
                     as a bridge between studies and
-                    personal responsibilities. Our experts specialize in different areas of the business law discipline
-                    and have a strong background in this field. Connect with our experts and develop the crucial skills
+                    personal responsibilities. Our experts specialize in different areas of the business law
+                    discipline
+                    and have a strong background in this field. Connect with our experts and develop the crucial
+                    skills
                     that are must-have at the global level.
                   </p>
                 </div>
@@ -374,12 +399,14 @@
               <div class="course-card">
                 <h4 class="fw-bold">Statistics Course Help</h4>
                 <div class="card-content">
-                  <p>In statistics, there are so many formulas, data tables, and detailed calculations that it's easy to
+                  <p>In statistics, there are so many formulas, data tables, and detailed calculations that it's easy
+                    to
                     get confused. That's why we bring you the best online <a href="statistics-course-help">statistics
                       course help</a> in the USA. We make it
                     easy for students who are struggling with their online statistics course without stress. Our team
                     includes expert statisticians and academic professionals who understand how online university
-                    portals work. Whether your course is on Canvas, Blackboard, or any other platform, we log in safely
+                    portals work. Whether your course is on Canvas, Blackboard, or any other platform, we log in
+                    safely
                     and complete every task for you.</p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
@@ -390,7 +417,8 @@
               <div class="course-card">
                 <h4 class="fw-bold">Biology Course Help</h4>
                 <div class="card-content">
-                  <p>Biology encompasses a wide range of fields in itself. Biology is vast, widespread, and deep. It may
+                  <p>Biology encompasses a wide range of fields in itself. Biology is vast, widespread, and deep. It
+                    may
                     sound complicated, and it definitely is a challenging field, encompassing a wealth of scientific
                     knowledge and fundamental processes in physiology, genetics, and ecology. No need to search for
                     online <a href="biology-course-help">biology course helpers</a>; instead, sign up now and get our
@@ -424,9 +452,9 @@
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60 mb-5">
-            <h1 class="fw-medium mb-4">Can You Do My Course With Guaranteed Top Grades? <span
+            <h2 class="fw-medium mb-4">Can You Do My Course With Guaranteed Top Grades? <span
                 class="fw-semibold highlight">Yes,
-                We Can.</span></h1>
+                We Can.</span></h2>
             <div class="d-flex gap-3">
               <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -446,7 +474,7 @@
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">Our Reliable Online Course Help Services: Beyond Just Grades</h1>
+        <h2 class="fw-medium px-5 mb-3">Our Reliable Online Course Help Services: Beyond Just Grades</h2>
         <p class="mb-5 px-5 text-muted">
           Our services range from personalized aid in all respects to data protection and grade-enhancing services,
           which are intended to provide the students with an advantage in all facets of their studies. We offer
@@ -528,9 +556,9 @@
         <div class="row align-items-center g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-medium mb-4 text-navy">
+            <h2 class="fw-medium mb-4 text-navy">
               Can You <span class="fw-medium text-highlight">Take My Online Course</span> For Me At Cheap Price
-            </h1>
+            </h2>
             <p class="mb-5">
               Have you ever searched through all of Google, browsing “Can I pay someone to take my online course
               for me? Your search ends here! At Online Course Helpers, we provide professional, safe, and
@@ -766,8 +794,8 @@
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold px-5 mb-4 text-warning">Want to Complete Your Online Course Fast For Extra Credits? Hire
-          experienced professionals</h1>
+        <h2 class="fw-semibold px-5 mb-4 text-warning">Want to Complete Your Online Course Fast For Extra Credits? Hire
+          experienced professionals</h2>
         <p class="px-5">Get expert help with your online course. We provide 24/7 service and dedicated support with
           online course
           assignments, quizzes and assessments on all platforms.</p>
@@ -777,114 +805,124 @@
           <a href="#" class="btn btn-call rounded-pill px-4">Whatsapp <i class="fa-brands fa-whatsapp ms-2""></i></a>
         </div>
     </div>
-</section>
+    </section>
 <!-- Section  -->
 
-  <section class=" py-5 bg-light">
+    <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-semibold mb-3 px-5 text-navy">Trusted Professionals to Help You Succeed at All Educational
+                <h1 class="fw-semibold mb-3 px-5 text-navy">Trusted Professionals to Help You Succeed at All
+                  Educational
                   Levels
-                </h1>
-                <p class="text-muted mb-5 px-5 mx-auto text-navy">
-                  Enroll in the stress-free program in the USA with experienced course helpers to guide you
-                  through your education.
-                  Your course is done efficiently by our team, maintaining your academic standards.
-                </p>
-                <div class="coverflow-swiper swiper my3dSwiper py-3">
-                  <div class="h-100 swiper-wrapper ">
-                    <div class="swiper-slide">
-                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 5px;">
-                        <div class="card-body">
-                          <h4 class="text-warning fw-bold mb-3">High School Course Help</h4>
-                          <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
-                              href="https://onlinecoursehelpers.com/high-school-level-course-help/"
-                              class="text-warning"><span style="font-weight: 400">high school level
-                                course help</span></a><span style="font-weight: 400"> is created to assist students who
-                              want to enter the field of
-                              higher studies and scholarship development. Our professionals offer individualized
-                              guidance
-                              in projects, assignments, and tests, enabling students to develop good analytical and
-                              critical thinking abilities. Through our carefully organized assistance, students can be
-                              confident and can readily move on to the next level of learning.</span></p>
+                  </h2>
+                  <p class="text-muted mb-5 px-5 mx-auto text-navy">
+                    Enroll in the stress-free program in the USA with experienced course helpers to guide you
+                    through your education.
+                    Your course is done efficiently by our team, maintaining your academic standards.
+                  </p>
+                  <div class="coverflow-swiper swiper my3dSwiper py-3">
+                    <div class="h-100 swiper-wrapper ">
+                      <div class="swiper-slide">
+                        <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                          style="background-color: #242f3e; border-radius: 5px;">
+                          <div class="card-body">
+                            <h4 class="text-warning fw-bold mb-3">High School Course Help</h4>
+                            <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
+                                href="https://onlinecoursehelpers.com/high-school-level-course-help/"
+                                class="text-warning"><span style="font-weight: 400">high school level
+                                  course help</span></a><span style="font-weight: 400"> is created to assist students
+                                who
+                                want to enter the field of
+                                higher studies and scholarship development. Our professionals offer individualized
+                                guidance
+                                in projects, assignments, and tests, enabling students to develop good analytical and
+                                critical thinking abilities. Through our carefully organized assistance, students can
+                                be
+                                confident and can readily move on to the next level of learning.</span></p>
+                          </div>
                         </div>
                       </div>
-                    </div>
 
-                    <div class="swiper-slide">
-                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 5px;">
-                        <div class="card-body">
-                          <h4 class="text-warning fw-bold mb-3">Undergraduate Level Course Help</h4>
-                          <p style="font-size: 14px;"><span style="font-weight: 400">Struggling with your degree course?
-                              Our </span><a href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"
-                              class="text-warning"><span style="font-weight: 400">undergraduate level course
-                                help</span></a><span style="font-weight: 400"> is designed for students who strive to
-                              achieve academic excellence
-                              without having to stress themselves in the process. We are ready to help with essays,
-                              online
-                              discussions, and exams, and make sure it is accurate, confidential, and ready on
-                              time.</span></p>
+                      <div class="swiper-slide">
+                        <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                          style="background-color: #242f3e; border-radius: 5px;">
+                          <div class="card-body">
+                            <h4 class="text-warning fw-bold mb-3">Undergraduate Level Course Help</h4>
+                            <p style="font-size: 14px;"><span style="font-weight: 400">Struggling with your degree
+                                course?
+                                Our </span><a href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"
+                                class="text-warning"><span style="font-weight: 400">undergraduate level course
+                                  help</span></a><span style="font-weight: 400"> is designed for students who strive
+                                to
+                                achieve academic excellence
+                                without having to stress themselves in the process. We are ready to help with essays,
+                                online
+                                discussions, and exams, and make sure it is accurate, confidential, and ready on
+                                time.</span></p>
+                          </div>
                         </div>
                       </div>
-                    </div>
 
-                    <div class="swiper-slide">
-                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 5px;">
-                        <div class="card-body">
-                          <h4 class="text-warning fw-bold mb-3">Master's Level Course Help</h4>
-                          <p style="font-size: 14px;"><span style="font-weight: 400">We have a </span><a
-                              href="https://onlinecoursehelpers.com/masters-level-course-help/"
-                              class="text-warning"><span style="font-weight: 400">masters level course
-                                help</span></a><span style="font-weight: 400"> that best fits graduate students with
-                              advanced theories,
-                              data-driven research or project based studies. With professional guidance and individual
-                              academic support, you can comfortably </span><span style="font-weight: 400">complete your
-                              course</span><span style="font-weight: 400"> and succeed in graduation.</span></p>
+                      <div class="swiper-slide">
+                        <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                          style="background-color: #242f3e; border-radius: 5px;">
+                          <div class="card-body">
+                            <h4 class="text-warning fw-bold mb-3">Master's Level Course Help</h4>
+                            <p style="font-size: 14px;"><span style="font-weight: 400">We have a </span><a
+                                href="https://onlinecoursehelpers.com/masters-level-course-help/"
+                                class="text-warning"><span style="font-weight: 400">masters level course
+                                  help</span></a><span style="font-weight: 400"> that best fits graduate students with
+                                advanced theories,
+                                data-driven research or project based studies. With professional guidance and
+                                individual
+                                academic support, you can comfortably </span><span style="font-weight: 400">complete
+                                your
+                                course</span><span style="font-weight: 400"> and succeed in graduation.</span></p>
+                          </div>
                         </div>
                       </div>
-                    </div>
 
-                    <div class="swiper-slide">
-                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 5px;">
-                        <div class="card-body">
-                          <h4 class="text-warning fw-bold mb-3">Associative Level Course Help</h4>
-                          <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
-                              href="https://onlinecoursehelpers.com/associate-level-course-help/"
-                              class="text-warning"><span style="font-weight: 400">associate-level course
-                                help</span></a><span style="font-weight: 400"> services assist students in enhancing
-                              their
-                              knowledge of critical
-                              academic concepts. Our professionals in the U.S. provide quality, well-formatted work in
-                              terms of assignments, research projects, and case studies. We assist you in catering to
-                              difficult subjects and excelling in all subjects.</span></p>
+                      <div class="swiper-slide">
+                        <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                          style="background-color: #242f3e; border-radius: 5px;">
+                          <div class="card-body">
+                            <h4 class="text-warning fw-bold mb-3">Associative Level Course Help</h4>
+                            <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
+                                href="https://onlinecoursehelpers.com/associate-level-course-help/"
+                                class="text-warning"><span style="font-weight: 400">associate-level course
+                                  help</span></a><span style="font-weight: 400"> services assist students in enhancing
+                                their
+                                knowledge of critical
+                                academic concepts. Our professionals in the U.S. provide quality, well-formatted work
+                                in
+                                terms of assignments, research projects, and case studies. We assist you in catering
+                                to
+                                difficult subjects and excelling in all subjects.</span></p>
+                          </div>
                         </div>
                       </div>
-                    </div>
 
-                    <div class="swiper-slide">
-                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 5px;">
-                        <div class="card-body">
-                          <h4 class="text-warning fw-bold mb-3">Doctorate Level Course Help</h4>
-                          <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
-                              href="https://onlinecoursehelpers.com/doctorate-level-course-help/"
-                              class="text-warning"><span style="font-weight: 400">doctoral-level course
-                                help</span></a><span style="font-weight: 400"> offers specialized support to
-                              research-oriented students focused
-                              on dissertations, analytical writing, and data interpretation. Each of our projects is
-                              original, accurate, and supported by the best in the U.S. expertise, academic excellence,
-                              and the highest level of scholarly integrity. </span></p>
+                      <div class="swiper-slide">
+                        <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                          style="background-color: #242f3e; border-radius: 5px;">
+                          <div class="card-body">
+                            <h4 class="text-warning fw-bold mb-3">Doctorate Level Course Help</h4>
+                            <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
+                                href="https://onlinecoursehelpers.com/doctoral-level-course-help/"
+                                class="text-warning"><span style="font-weight: 400">doctoral-level course
+                                  help</span></a><span style="font-weight: 400"> offers specialized support to
+                                research-oriented students focused
+                                on dissertations, analytical writing, and data interpretation. Each of our projects is
+                                original, accurate, and supported by the best in the U.S. expertise, academic
+                                excellence,
+                                and the highest level of scholarly integrity. </span></p>
+                          </div>
                         </div>
                       </div>
                     </div>
                   </div>
-                </div>
-                <div class="d-none">
-                  <div class="swiper-pagination"></div>
-                </div>
+                  <div class="d-none">
+                    <div class="swiper-pagination"></div>
+                  </div>
               </div>
     </section>
     <!-- Section  -->
@@ -917,7 +955,6 @@
           clickable: true,
         },
       });
-
     </script>
     <!-- Section  -->
     <section class="py-5 bg-white">
@@ -931,8 +968,7 @@
             <div class="card h-100 border-0 shadow-sm text-white px-4 py-3"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo"
-                  class="review-image">
+                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="opacity-75">These guys helped me do my online course. All activities were completed within the
                 set deadline, and the outcomes were awesome.</p>

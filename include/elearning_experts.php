@@ -6,7 +6,7 @@
     </svg>
   </div>
   <div class="container text-center mt-5">
-    <h1 class="fw-bold mb-3" data-aos="fade-up">Can You Take My Exam On All Major E-learning Platforms? Yes!</h1>
+    <h2 class="fw-bold mb-3" data-aos="fade-up">Can You Take My Exam On All Major E-learning Platforms? Yes!</h2>
     <p class="mx-auto mb-5 text-muted" style="max-width: 800px;" data-aos="fade-up">
       Thinking “Is there an option for me to pay someone to take my exam?”, so the answer is yes. Our professionals
       have experience in handling online exam on different e-learning platforms.
@@ -40,7 +40,7 @@
             </div>
             <div class="flip-card-back d-flex flex-column align-items-center justify-content-center px-3">
               <h5 class="text-warning">Mc Graw Hill</h5>
-              <p class="small"><a href="mcgraw-hill-course-help">McGraw-Hill course help</a> service is here to assist
+              <p class="small"><a href="mcgrawhill-course-help">McGraw-Hill course help</a> service is here to assist
                 you with your online platform requirements, ensuring fast turnarounds and improved academic performance.
               </p>
             </div>

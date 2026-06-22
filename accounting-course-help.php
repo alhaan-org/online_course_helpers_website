@@ -82,9 +82,9 @@ include 'include/header.php'; ?>
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Can You Take My Accounting Course in Short Time?
-            </h1>
+            </h2>
             <p class="section-text">
               We have been delivering precision, reliability, and timely solutions to the students in the
               USA as they trust our accounting course help. You may want to pay someone to take your
@@ -102,13 +102,13 @@ include 'include/header.php'; ?>
         </div>
       </div>
     </section>
-    
+
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3" style="color: #002a4d;">Most Reliable Accounting Course Help for All Subjects
+        <h2 class="fw-bold mb-3" style="color: #002a4d;">Most Reliable Accounting Course Help for All Subjects
           at a Cheap Price
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Our professional accounting course helpers in the USA provide a reliable solution to pass your
           course with ease and earn additional course credits fast.
@@ -261,9 +261,9 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-bold mb-4">
+            <h2 class="fw-bold mb-4">
               Can you do my accounting course for me at discounted price? Yes, order today & get 50% off!
-            </h1>
+            </h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -286,7 +286,7 @@ include 'include/header.php'; ?>
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3">Finish Your Accounting Course Fast for Easy Additional Credits</h1>
+        <h2 class="fw-bold mb-3">Finish Your Accounting Course Fast for Easy Additional Credits</h2>
         <p class="mb-5 text-muted">
           Online courses are often difficult to keep up with, and that is why we offer our reliable services,
           such as Aleks accounting course and Pearson accounting course help. Students often ask if they can
@@ -402,6 +402,7 @@ include 'include/header.php'; ?>
         </div>
       </div>
     </section>
+
     <!-- Section  -->
     <!-- Support Blue Section  -->
     <section class=" support-section py-5 bg-light">
@@ -462,7 +463,7 @@ include 'include/header.php'; ?>
               <h3 class="h4 fw-bold text-warning mb-3">
                 Straighterline Accounting Course Help Support </h3>
               <p class="small"><span style="font-weight: 400">We offer </span><a
-                  href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400">, where
                   a range of affordable and efficient help is
                   available. Get additional credits easily since our experts get your job done
@@ -520,7 +521,7 @@ include 'include/header.php'; ?>
               <h3 class="h4 fw-bold text-warning mb-3">
                 McGraw-Hill Accounting Course Help </h3>
               <p class="small"><span style="font-weight: 400">Our </span><a
-                  href="https://onlinecoursehelpers.com/mcgraw-hill-course-help/"><span
+                  href="https://onlinecoursehelpers.com/mcgrawhill-course-help/"><span
                     style="font-weight: 400">McGraw-Hill course help</span></a><span style="font-weight: 400"> is
                   accurate in terms of projects, assignments, or online
                   examination. Our support is reliable and helps students to get good outcomes and
@@ -567,6 +568,7 @@ include 'include/header.php'; ?>
         </div>
       </div>
     </section>
+
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
@@ -585,9 +587,7 @@ include 'include/header.php'; ?>
 <!-- Section  -->
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h2 class="fw-bold mb-3">Let Us Complete your Accounting Course For All Educational
-                  Levels
-                </h2>
+                <h2 class="fw-bold mb-3">Let Us Complete your Accounting Course For All Educational Levels </h2>
                 <p class="text-muted mb-5 mx-auto">
                   If you have ever wondered who can do your accounting course without errors, our
                   accounting helpers in USA are the answer.
@@ -680,7 +680,7 @@ include 'include/header.php'; ?>
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate Level Accounting Course Help </h5>
                           <p class="font-size: 13px;"><span style="font-weight: 400">Our
-                            </span><a href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                            </span><a href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctorate course
                                 help</span></a><span style="font-weight: 400">
                               facilitate dissertations, research, and area-based
@@ -753,7 +753,7 @@ include 'include/header.php'; ?>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -772,7 +772,7 @@ include 'include/header.php'; ?>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -792,7 +792,7 @@ include 'include/header.php'; ?>
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -834,7 +834,7 @@ include 'include/header.php'; ?>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -854,7 +854,7 @@ include 'include/header.php'; ?>
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

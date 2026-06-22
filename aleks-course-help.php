@@ -79,9 +79,9 @@ include 'include/header.php'; ?>
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Reach New Academic Heights with Our Cheap Aleks Elementary Course Help USA
-            </h1>
+            </h2>
             <p class="section-text">
               ALEKS provides students in grades 3–12 with individualised digital math instruction that can be customized
               to align with your curriculum. Aleks elementary course covers topics such as Aleks adventure kindergarten,
@@ -106,8 +106,8 @@ include 'include/header.php'; ?>
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">Best Help With Aleks Course For All Subjects
-        </h1>
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">Best Help With Aleks Course For All Subjects
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Comprehensive support in all Aleks subjects; get one-on-one help, improve your grades, and earn additional
           credits confidently.
@@ -283,8 +283,8 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
-              Can You Do My ALEKS Course With Guaranteed Top Grades? Yes, We Can.</h1>
+            <h2 class="fw-medium mb-4">
+              Can You Do My ALEKS Course With Guaranteed Top Grades? Yes, We Can.</h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -298,6 +298,7 @@ include 'include/header.php'; ?>
         </div>
       </div>
     </section>
+    
     <section class="curved">
       <div class="d-none">content goes here this is dummy content</div>
     </section>
@@ -307,7 +308,7 @@ include 'include/header.php'; ?>
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">Our Reliable Aleks Course Help Services: Beyond Fast-paced Credits</h1>
+        <h2 class="fw-medium px-5 mb-3">Our Reliable Aleks Course Help Services: Beyond Fast-paced Credits</h2>
         <p class="mb-5 px-5 text-muted">
           Our services range from personalised aid in all respects to data protection and for additional credits, which
           are intended to provide the students with an advantage in all facets of their studies.
@@ -512,8 +513,7 @@ include 'include/header.php'; ?>
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
                 <h2 class="fw-semibold mb-3 px-5 text-navy">Achieve Academic Success with Reliable ALEKS Course Help for
-                  Extra Credits
-                </h2>
+                  Extra Credits </h2>
                 <p class="text-muted mb-5 px-5 mx-auto text-navy">
                   Online Course Helpers simplify your experience with ALEKS and make it rewarding. Our U.S.
                   professionals help you through each step to accomplish your course effectively and with honesty.
@@ -602,7 +602,7 @@ include 'include/header.php'; ?>
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level ALEKS Course Help </h5>
                           <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
-                              href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                              href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctoral-level course help</span></a><span
                               style="font-weight: 400"> supports research-based scholars. Our ALEKS specialists provide
                               accurate, original, and well-documented services: whether statistical modelling,
@@ -618,6 +618,7 @@ include 'include/header.php'; ?>
                   <div class="swiper-pagination"></div>
                 </div>
               </div>
+
     </section>
     <!-- Section  -->
 
@@ -663,8 +664,7 @@ include 'include/header.php'; ?>
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo"
-                  class="review-image">
+                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
               <p class="small opacity-75">Top-Notch Service! Online Course Helpers' best Alex course help service is
                 unbelievable. From the first consultation to the final session, their team was professional, responsive,

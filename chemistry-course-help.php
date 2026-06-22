@@ -82,9 +82,9 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Affordable Help with Chemistry Course for Students in USA
-            </h1>
+            </h2>
             <p class="section-text">
               Need to find cheap help with chemistry courses? Our hardworking team supports you with the
               quality of assignments, quizzes, discussions, and exams for all your chemistry courses. All
@@ -105,9 +105,9 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">
           Professional Chemistry Course Helpers Assisting with Diverse Expertise
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Our professional chemistry course helpers assist students in the USA to cope with assignments,
           quizzes, and exams. All the work is done promptly and in accordance with academic expectations,
@@ -261,9 +261,9 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
+            <h2 class="fw-medium mb-4">
               Complete Your Chemistry Course Successfully and Gain Pace Up Your Academic Journey
-            </h1>
+            </h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -286,10 +286,10 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">
+        <h2 class="fw-medium px-5 mb-3">
           Reliable Help for Students Who Want Us to Take Their Chemistry Course with Ease
 
-        </h1>
+        </h2>
         <p class="mb-5 text-muted">
           We offer US students the opportunity to take their chemistry course at an affordable price, without
           any stress. Our proficient team delivers tasks, exams, and projects with precision, punctuality, and
@@ -384,10 +384,10 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Finish Your Chemistry Course Successfully with Reliable Help in the USA
 
-            </h1>
+            </h2>
             <p class="mb-5">
               Our professional team in the USA is trusted by students for assignments, quizzes, and exams.
               We operate on platforms like Moodle, Pearson, and Blackboard, where all tasks are completed
@@ -551,7 +551,7 @@ include 'include/header.php';
 
                 StraighterLine Chemistry Level Course Help </h3>
               <p class="small"><span style="font-weight: 400">Our </span><a
-                  href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400">s
                   students study online chemistry. Quizzes and assignments
                   are done properly, in a confidential and very keen manner. Get professional help now
@@ -604,10 +604,10 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">
+        <h2 class="fw-semibold mb-4 text-warning px-5">
           Pay Someone to Do Your Chemistry Course with Expert Help & Achieve Better Grades
 
-        </h1>
+        </h2>
         <p class="px-5">
           It seems difficult to balance chemistry studies with day-to-day life, but our professionals help it
           run smoothly. We are careful and accurate in doing quizzes, assignments, and exams. Everything is
@@ -626,10 +626,10 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy"> Take My Chemistry Course Stress‑Free with
+                <h2 class="fw-bold mb-3 px-5 text-navy"> Take My Chemistry Course Stress‑Free with
                   Reliable Help in the USA
 
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   Our committed experts turn in chemistry assignments, discussions, and tests on time.
                   Everything is done according to academic standards and treated carefully. Select
@@ -733,7 +733,7 @@ include 'include/header.php';
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level Chemistry Course Help </h5>
                           <p style="font-style: 14px;"><span style="font-weight: 400">Our</span><a
-                              href="https://onlinecoursehelpers.com/doctorate-level-course-help/">
+                              href="https://onlinecoursehelpers.com/doctoral-level-course-help/">
                               <span style="font-weight: 400">doctorate level course
                                 help</span></a><span style="font-weight: 400"> serves as
                               a full dissertation guide, advanced chemical analysis and
@@ -816,7 +816,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -836,7 +836,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -857,7 +857,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -903,7 +903,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -925,7 +925,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

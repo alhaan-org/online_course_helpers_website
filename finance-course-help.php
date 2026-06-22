@@ -81,9 +81,9 @@ include 'include/header.php'; ?>
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Earn Extra Credits With The Most Professional Finance Course Help USA
-            </h1>
+            </h2>
             <p class="section-text">
               Students throughout the USA trust our finance course help service and rely on our expertise to assist them
               with their online courses, such as financial management, accounting, and banking. We ensure guaranteed
@@ -103,8 +103,8 @@ include 'include/header.php'; ?>
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3" style="color: #002a4d;">Reliable Finance Course Helpers for All Subjects in the USA
-        </h1>
+        <h2 class="fw-bold mb-3" style="color: #002a4d;">Reliable Finance Course Helpers for All Subjects in the USA
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           We have a team of top finance helpers in USA who are ever-ready to improve your grades and assist in course
           completion, making additional credits a piece of cake.
@@ -247,8 +247,8 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-bold mb-4">
-              Can You Complete My Finance Course To Earn Me Extra Credits? Yes, We Can Do That At 50% Off.</h1>
+            <h2 class="fw-bold mb-4">
+              Can You Complete My Finance Course To Earn Me Extra Credits? Yes, We Can Do That At 50% Off.</h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -271,7 +271,7 @@ include 'include/header.php'; ?>
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3">Benefits with Our Professional Help with Finance Course USA</h1>
+        <h2 class="fw-bold mb-3">Benefits with Our Professional Help with Finance Course USA</h2>
         <p class="mb-5 text-muted">
           Our expert assistance with finance course in the USA delivers dependable support for complete course
           components, including discussions, quizzes, assignments, projects, and exams. Flexible academic assistance is
@@ -517,7 +517,7 @@ include 'include/header.php'; ?>
           <div class="item h-100">
             <div class="support-box p-4 rounded-4 shadow-sm">
               <h3 class="h4 fw-bold text-warning mb-3">Straighterline Finance Course Help Support </h3>
-              <p class="small"><a href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+              <p class="small"><a href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400"> is
                   step-by-step financial assistance in assignments, projects, and tests. Professional help improves your
                   grades, earns credits, and brings the concepts of finance into an easier-to-understand format.</span>
@@ -635,7 +635,7 @@ include 'include/header.php'; ?>
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level ALEKS Course Help </h5>
                           <p style="font-size: 12px;"><span style="font-weight: 400">Our </span><a
-                              href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                              href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctoral-level course help</span></a><span
                               style="font-weight: 400"> supports research-based scholars. Our ALEKS specialists provide
                               accurate, original, and well-documented services: whether statistical modelling,
@@ -706,7 +706,7 @@ include 'include/header.php'; ?>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -725,7 +725,7 @@ include 'include/header.php'; ?>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -744,7 +744,7 @@ include 'include/header.php'; ?>
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -784,7 +784,7 @@ include 'include/header.php'; ?>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -804,7 +804,7 @@ include 'include/header.php'; ?>
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

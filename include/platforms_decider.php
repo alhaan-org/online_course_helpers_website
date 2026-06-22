@@ -88,8 +88,8 @@ $all_cards_data = [
 
 <section class="py-5 finish-my-course" style="background-color: #dadadaff;" data-aos="fade-up">
     <div class="container text-center">
-        <h1 class="fw-medium mb-4 px-5">Finish My Online Course With Top Grades and Guaranteed Credits on Top Platforms
-        </h1>
+        <h2 class="fw-medium mb-4 px-5">Finish My Online Course With Top Grades and Guaranteed Credits on Top Platforms
+        </h2>
         <p class="px-5">Get expert help with your online course. We provide 24/7 service and dedicated support with
             online course
             assignments, quizzes and assessments on all platforms.</p>

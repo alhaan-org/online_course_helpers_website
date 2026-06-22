@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row g-4 mb-5">
       <div class="col-lg-3">
-        <a href="/">
+        <a href="https://onlinecoursehelpers.com">
           <img src="assets/img/online-course-helpers-logo.png" alt="Online Course Helpers" class="footer-logo mb-3" loading="lazy">
         </a>
         <p class="small opacity-75">Online Course Helpers offers a one-stop solution to students seeking
@@ -13,12 +13,12 @@
         <ul class="list-unstyled small opacity-75 lh-lg">
           <li class="footer-link"><a href="aleks-course-help">Aleks Course Help</a></li>
           <li class="footer-link"><a href="pearson-course-help">Pearson Course Help</a></li>
-          <li class="footer-link"><a href="mcgraw-hill-course-help">McGraw Hill Course Help</a></li>
+          <li class="footer-link"><a href="mcgrawhill-course-help">McGraw Hill Course Help</a></li>
           <li class="footer-link"><a href="blackboard-course-help">Blackboard Course Help</a></li>
           <li class="footer-link"><a href="brightspace-course-help">Brightspace Course Help</a></li>
           <li class="footer-link"><a href="sophia-course-help">Sophia Course Help</a></li>
           <li class="footer-link"><a href="wgu-course-help">WGU Course Help</a></li>
-          <li class="footer-link"><a href="straighterline-course-help">Straighterline Course Help</a></li>
+          <li class="footer-link"><a href="straighter-line-course-help">Straighterline Course Help</a></li>
           <li class="footer-link"><a href="cengage-course-help">Cengage Course Help</a></li>
           <li class="footer-link"><a href="act-course-help">ACT Course Help</a></li>
           <li class="footer-link"><a href="moodle-course-help">Moodle Course Help</a></li>
@@ -29,8 +29,8 @@
       <div class="col-lg-2">
         <h5 class="text-warning fw-bold mb-4">Information</h5>
         <ul class="list-unstyled small opacity-75 lh-lg">
-          <li class="footer-link"><a href="/">Home</a></li>
-          <li class="footer-link"><a href="https://onlinecoursehelpers.com/blog/">Blog</a></li>
+          <li class="footer-link"><a href="https://onlinecoursehelpers.com">Home</a></li>
+          <li class="footer-link"><a href="#">Blog</a></li>
           <li class="footer-link"><a href="https://onlinecoursehelpers.com/terms-conditions/">Terms and
               Conditions</a></li>
           <li class="footer-link"><a href="https://onlinecoursehelpers.com/refund-policy/">Refund Policy</a>

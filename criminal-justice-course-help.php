@@ -84,10 +84,10 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Pay Someone to Do Your Criminal Justice Course for Guaranteed Success
 
-            </h1>
+            </h2>
             <p class="section-text">
               Combining more complicated topics and several deadlines may be difficult, and that is why
               our professionals offer you accurate and low-cost help with criminal justice courses that
@@ -110,9 +110,9 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">
           Dedicated Help With Your Criminal Justice Course For All Topics
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Our professional accounting course helpers in the USA provide a reliable solution to pass your
           course with ease and earn additional course credits fast.
@@ -280,10 +280,10 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
+            <h2 class="fw-medium mb-4">
               Expert Criminal Justice Course Helpers Offering Affordable, Confidential, and On-Time
               Assistance for Students in the USA
-            </h1>
+            </h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -306,10 +306,10 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">
+        <h2 class="fw-medium px-5 mb-3">
           Expert Assistance to Finish Your Criminal Justice Course Fast for Additional Credits
 
-        </h1>
+        </h2>
         <p class="mb-5 text-muted">
           It can be difficult to balance your civilian life with criminal justice studies. Whenever you engage
           our professionals to finish your criminal justice course, all the work is done correctly, on time,
@@ -402,9 +402,9 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
               Get Professional Help to Do Your Criminal Justice Course and Achieve Fast Credits
-            </h1>
+            </h2>
             <p class="mb-5">
               Balancing between several courses and assignments does not always have to be stressful. We
               have experts to do your criminal justice course on your behalf and guarantee that all
@@ -575,7 +575,7 @@ include 'include/header.php';
 
                 StraighterLine Criminal Justice Course Help </h3>
               <p class="small"><span style="font-weight: 400">Our </span><a
-                  href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">Straighterline course help</span></a><span style="font-weight: 400"> assist
                   the students in accomplishing their online
                   education demands effectively. All quizzes and assignments are completed on time
@@ -633,10 +633,10 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">
+        <h2 class="fw-semibold mb-4 text-warning px-5">
           Let Us Take Your Criminal Justice Course Securely and Confidentialy
 
-        </h1>
+        </h2>
         <p class="px-5">
           Students do not have to make it difficult to control their studies. When you choose to have our
           professionals do your course in criminal justice on your behalf, we make sure that all the
@@ -658,11 +658,8 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy"> Complete Your Criminal Justice Course
-                  Confidently for All Levels
-
-
-                </h1>
+                <h2 class="fw-bold mb-3 px-5 text-navy"> Complete Your Criminal Justice Course
+                  Confidently for All Levels </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   Our professional team completes your criminal justice course with quality,
                   commitment, and privacy. All assignments, quizzes, and discussions have been
@@ -765,7 +762,7 @@ include 'include/header.php';
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level Criminal JusticeCourse Help </h5>
                           <p style="font-size: 14px;"><span style="font-weight: 400">The
-                            </span><a href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                            </span><a href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctoral-level course
                                 help</span></a><span style="font-weight: 400"> is
                               provided by experts to give expert advice to
@@ -822,10 +819,7 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-white">
       <div class="container text-center" data-aos="fade-up">
-        <h2 class="fw-bold mb-2"> What Students Say About Our Criminal Justice Course Help USA
-
-
-        </h2>
+        <h2 class="fw-bold mb-2"> What Students Say About Our Criminal Justice Course Help USA </h2>
         <p class="text-muted mb-5">
           Students rely on us to offer reliable help with criminal justice course whenever their timetable
           overwhelms them. They like the fact that we are dedicated to delivering on time, quality work, and
@@ -854,7 +848,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -877,7 +871,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -900,7 +894,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -949,7 +943,7 @@ include 'include/header.php';
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -973,7 +967,7 @@ include 'include/header.php';
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

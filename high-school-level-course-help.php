@@ -81,9 +81,9 @@ include 'include/header.php'; ?>
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
               Get Someone to Complete My High School Level Course in USA
-            </h1>
+            </h2>
             <p class="section-text">
               Tired of asking everywhere to complete my high school level course for me? Let our experts
               give an answer to your call, and you will get exactly what you’re looking for! Their
@@ -104,9 +104,9 @@ include 'include/header.php'; ?>
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3" style="color: #002a4d;">Access Expert Help with High School Level Course for
+        <h2 class="fw-bold mb-3" style="color: #002a4d;">Access Expert Help with High School Level Course for
           All Subjects
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Need some help with high school level course for your multiple subjects? Hire our course helpers now
           and receive the most professional assistance in a limited time.
@@ -328,9 +328,9 @@ include 'include/header.php'; ?>
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-bold mb-4">
+            <h2 class="fw-bold mb-4">
               Is There a Way to Finish My High School Level Course By Hiring an Affordable Help?
-              Absolutely, Yes!</h1>
+              Absolutely, Yes!</h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -353,8 +353,8 @@ include 'include/header.php'; ?>
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3">Hire a Professional High School Level Course Helper for Additional Benefits
-        </h1>
+        <h2 class="fw-bold mb-3">Hire a Professional High School Level Course Helper for Additional Benefits
+        </h2>
         <p class="mb-5 text-muted">
           Finding professional yet reliable high school level course helpers can be challenging. But not with
           Oline Course Helpers, who offer to deliver thorough support in completing all the components of your
@@ -557,7 +557,7 @@ include 'include/header.php'; ?>
               <p class="small"><span style="font-weight: 400">StraighterLine course is the best way for
                   high schoolers
                   to move forward in their academic journey. We encourage students to get </span><a
-                  href="https://onlinecoursehelpers.com/straighterline-course-help/"><span
+                  href="https://onlinecoursehelpers.com/straighter-line-course-help/"><span
                     style="font-weight: 400">StraighterLine course help</span></a><span style="font-weight: 400"> to
                   improve their grades by helping them understand their
                   course concepts.</span></p>
@@ -618,7 +618,7 @@ include 'include/header.php'; ?>
               <h3 class="h4 fw-bold text-warning mb-3">
                 High School Level McGraw-Hill Course Help </h3>
               <p class="small"><span style="font-weight: 400">With </span><a
-                  href="https://onlinecoursehelpers.com/mcgraw-hill-course-help/"><span
+                  href="https://onlinecoursehelpers.com/mcgrawhill-course-help/"><span
                     style="font-weight: 400">McGraw-Hill course help</span></a><span style="font-weight: 400">, we offer
                   to assist students with the whole curriculum
                   they received through the platform. All the checkpoint quizzes and end-of-unit tests
@@ -776,7 +776,7 @@ include 'include/header.php'; ?>
                               not at all easy. The amount of focus and critical thinking
                               that it requires is enough to make anyone give up easily.
                               But not when you have a professional </span><a
-                              href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                              href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctorate level course
                                 help</span></a><span style="font-weight: 400"> at your
                               side to support you complete your degree!</span></p>
@@ -844,7 +844,7 @@ include 'include/header.php'; ?>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -863,7 +863,7 @@ include 'include/header.php'; ?>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -884,7 +884,7 @@ include 'include/header.php'; ?>
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -926,7 +926,7 @@ include 'include/header.php'; ?>
               <div class="d-flex align-items-center mt-4">
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -946,7 +946,7 @@ include 'include/header.php'; ?>
                 <div class="rounded-circle bg-secondary me-3" style="width: 40px; height: 40px;"></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>

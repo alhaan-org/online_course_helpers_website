@@ -80,19 +80,22 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
-              Navigate Your CANVAS Courses with Our Cheap CANVAS Course Help USA
-            </h1>
+            <h2 class="heading-title">
+              Navigate Your CANVAS Courses with Our Cheap Canvas Course Help USA
+            </h2>
             <p class="section-text">
-              Online Course Helpers offers committed online academic support. Our experts, who have
-              degrees in various fields, are equipped to handle any educational problem at any academic
-              level to accomplish your objective. Your online exams should be easy if you are
-              well-informed and possess strong research abilities. Our top-notch help with CANVAS course
-              programs is intended to reduce your stress and assist you in earning the marks you are due.
-              You can focus on what is important to you and confidently navigate your CANVAS course using
-              Online Course Helpers. No matter how tough your course is or how many additional credits you
-              need, just text us and see your problems fade. So, next time when you decide to pay someone
-              to take your CANVAS course for you, make sure it is Online Course Helpers.
+              We understand that Canvas courses can be tricky. We know that students have a lot to do, such as Canvas
+              tasks, jobs, and other activities. This can make it hard to pay attention to every part of the course.
+              That’s why we’re here. Our help with Canvas course is made to support you in any way you need, whether
+              it’s homework, quizzes, or exams, all at an unbeatable price. Furthermore, if you are having trouble with
+              your online class or just need help finishing your work, we can help you out. We offer<a
+                href="https://onlinecoursehelpers.com/online-class-help"> online class help</a> services to make sure
+              you don’t fall behind. Our team of experts is ready to give you the best help possible. With our support,
+              you can keep up with your academic tasks and feel confident.
+
+              <br>
+
+              Don’t let the Canvas course stress you out. Contact us now and focus on what matters most!
             </p>
             <div class="d-flex gap-3 flex-wrap">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
@@ -106,12 +109,12 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">Affordable Online CANVAS Course Takers For Various
-          Subjects
-        </h1>
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">Hire Our Canvas Course Takers For All Subjects
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
-          Comprehensive support in all online CANVAS courses; get one-on-one help, improve your grades, and
-          earn fast-paced credits confidently.
+          Our <a href="https://onlinecoursehelpers.com/">online course helpers</a> are dedicated to their jobs. They
+          make students' understanding of the material better for their academic journey, making it easier and more
+          successful. With us, you can easily earn fast-paced credits in any of your Canvas courses.
         </p>
 
         <div class="horizontal-scroll-wrapper">
@@ -142,12 +145,14 @@ include 'include/header.php';
                   Biology Course Help</h4>
                 <div class="card-content">
                   <p>
-                    Thinking to pay someone to do my CANVAS course for me? Our CANVAS course help
-                    can help you to enhance your understanding of living organisms with the
-                    fundamental concepts and principles of the study of life. Learn about key
-                    aspects simply and inexpensively with the help of the experienced online CANVAS
-                    course takers who understand the area in and out, and earn additional credits
-                    efficiently.
+                    Biology is one of the finest science subjects. It will amaze you with its diverse concepts of living
+                    organisms. You can quickly learn it with more effort. If you find it challenging and need to utilize
+                    time for other activities, search for possible ways to handle your Canvas biology course. Online
+                    Course Helpers is a trusted platform that employs top course takers online to assist students with
+                    their online Biology course requirements. If you’re in desperate need of someone to take your online
+                    biology courses, call us and ask, “Can I <a
+                      href="https://onlinecoursehelpers.com/biology-course-help">pay someone to do my biology
+                      course</a>?”
                   </p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
@@ -178,13 +183,13 @@ include 'include/header.php';
                   Finance Course Help</h4>
                 <div class="card-content">
                   <p>
-                    Need professional <a href="finance-course-help" class="efheadinglink"> finance
-                      course help</a>? We address investment strategies, budgeting, financial
-                    planning, and risk analysis. Our expert online CANVAS course takers enable you
-                    to understand financial formulas, real-life case studies and assignments. Be it
-                    micro or corporate finance, we give you credible academic assistance so that you
-                    can excel and earn fast-paced credits. Learn more effectively and understand
-                    your finances with low-cost, professional advice.
+                    Finance courses teach about money, how people save, spend or invest. These ideas are helpful for
+                    future job or personal life. But learning these things can feel hard. You have to study terms, solve
+                    problems and understand different topics. Many students feel they cannot do it alone. We are here to
+                    support you with our team of experts who are ready to help at any time. If you don’t have time, we
+                    can take the whole course for you. If you only want help with certain parts, we can do that too.
+                    Just send us a message saying, “<a href="https://onlinecoursehelpers.com/finance-course-help">take
+                      my finance course</a>” and we will handle the rest for you.
                   </p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
@@ -197,13 +202,13 @@ include 'include/header.php';
                   Math Course Help</h4>
                 <div class="card-content">
                   <p>
-                    Our <a href="math-course-help" class="efheadinglink"> math course help</a>
-                    simplify every formula and number, and steps in the easiest way for all
-                    learners. We offer specific help with assignments and exams, being familiar with
-                    various complex formulas and concepts. Discover the intricacies of math through
-                    stimulating advice that makes math fun. A cheap online CANVAS course help in USA
-                    is now a click away; you can earn additional credits using the online course
-                    helpers.
+                    Math is a subject where you use numbers, symbols or rules to solve questions. It helps us solve
+                    real-world problems, but many students find it hard. Math has ideas like variables, formulas, graphs
+                    and many steps that must be followed in the right order. These things can be confusing. Word
+                    problems are even harder because you have to change a story into a math question. Some students
+                    don’t get enough time to practice, which makes things worse. But the good news is, with our <a
+                      href="https://onlinecoursehelpers.com/math-course-help">online math course helpers</a>, Math
+                    becomes easier. We make it easier for you to finish your Canvas math course with confidence.
                   </p>
                 </div>
                 <button class=" mt-5 btn btn-dark rounded-pill">Live Chat</button>
@@ -216,16 +221,14 @@ include 'include/header.php';
                   Business Course Help</h4>
                 <div class="card-content">
                   <p>
-                    Need professional <a href="#">finance course help</a>? We
-                    address investment strategies, budgeting, financial planning, and risk
-                    analysis. Our expert online
-                    ALEKS course takers enable you to understand financial formulas, real-life
-                    case studies and
-                    assignments. Be it micro or corporate finance, we give you credible academic
-                    assistance so that
-                    you can excel and earn fast-paced credits. Learn more effectively and
-                    understand your finances
-                    with low-cost, professional advice.
+                    A business course teaches how companies work or how people lead and manage work. It talks about
+                    marketing, budgets, customers, and planning for growth. These lessons can help you find a better job
+                    in the future. But the topics can sometimes feel boring or hard to understand. If you are stuck or
+                    falling behind, we can help. We give fast help, full support and easy prices that fit your budget.
+                    When you come to us, you never have to worry about doing your business course alone. Our goal is to
+                    help every learner succeed. That’s why we also offer services for students who are looking for a <a
+                      href="https://onlinecoursehelpers.com/business-course-help"> business course helper</a> in the
+                    USA.
                   </p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill">Live Chat</button>
@@ -280,8 +283,8 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
-              Our Reliable CANVAS Course Help Services: Beyond Fast-paced Credits</h1>
+            <h2 class="fw-medium mb-4">
+              Wondering “Who Can Do My Canvas Course”? Let Our Experts Do Your Canvas Course From Start To Finish.</h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -304,11 +307,10 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">Our Reliable ACT Course Help Services: Beyond Fast-paced Credits</h1>
+        <h2 class="fw-medium px-5 mb-3">Prime Features of Our Canvas Course Help Services</h2>
         <p class="mb-5 px-5 text-muted">
-          Our services range from personalised aid in all respects to data protection and for additional
-          credits, which are intended to provide the students with an advantage in all facets of their
-          studies.
+          Get individual Canvas course help from professionals who are always there to help 24/7. Take a break and let
+          our experts take your Canvas course for you!
         </p>
 
         <div class="row g-4 mb-5">
@@ -396,18 +398,19 @@ include 'include/header.php';
 
           <div class="col-lg-7">
             <h2 class="fw-bold mb-4 text-navy">
-              Can You Take My CANVAS Course For Me At Cheap Price
+              Take My CANVAS Course To Hit Every Deadline At Cheap Price
             </h2>
             <p class="mb-5">
-              Have you ever searched through all of Google, browsing “Can I pay someone to take my CANVAS
-              course for me? Your search ends here! At Online Course Helpers, we provide professional,
-              safe, and inexpensive course-taking services that assure performance. Whether it is about
-              working on your assignments and quizzes or full semester workloads, our professionals are
-              available to come to your rescue. No juggling deadlines or falling behind anymore. Choose us
-              as your coursework partner to receive committed service, absolute confidentiality, and
-              genuine academic specialists working on your course carefully. Be it a single subject or
-              multiple, we have your back. Concentrate on life as we concentrate on your college credits –
-              because smart students outsource smartly.
+              In the US, most students take Canvas courses, work part-time to manage their expenses, and have personal
+              commitments to fulfil. Technology and advancement have proved to be significant in helping students take
+              courses online with flexibility and convenience. However, the weekly quizzes, never-ending assignments,
+              and tough quizzes and exams make it challenging to meet deadlines while fulfilling personal commitments.
+              Resultantly, searching for “can someone take my Canvas Course for me” in Google is their only option to
+              survive. If you are overwhelmed with your Canvas courses, let us do your Canvas course while you reclaim
+              your free time. Whether you need urgent Canvas course help or <a
+                href="https://onlinecoursehelpers.com/online-exam-help">online exam assistance</a>, we are here to help
+              you gain academic excellence. So, what are you waiting for? Hire us now and complete your Canvas course on
+              time at a cheap price.
             </p>
 
             <div class="container-fluid">
@@ -438,11 +441,12 @@ include 'include/header.php';
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
           <div class="col-lg-9" data-aos="fade-up">
-            <h2 class="fw-semibold text-navy mb-3">Expert CANVAS Course Help For Various Educational Levels
+            <h2 class="fw-semibold text-navy mb-3">Comprehensive CANVAS Course Help For All Educational Levels
             </h2>
-            <p class="text-secondary">Get expert help with CANVAS course. We provide 24/7 service and
-              dedicated support, including online course assignments, quizzes, and assessments, for
-              various educational levels.
+            <p class="text-secondary">We have a team of PhD degree holders in our team, ready to help you at all levels.
+              From K-12 education courses to professional development courses, our experts have hands-on experience in
+              handling these courses while maintaining strict requirements of the university, ensuring you get extra
+              credits.
             </p>
           </div>
         </div>
@@ -506,16 +510,15 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning">Need Help with CANVAS course? Hire Experienced Professionals
-        </h1>
-        <p class="px-5">Get expert help with your CANVAS course. We provide 24/7 service and dedicated support
-          with CANVAS
-          course assignments, quizzes, and tests for all domains.
-        </p>
-        <div class="d-flex justify-content-center gap-3">
-          <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
-              class="fa-solid fa-comment-dots ms-2"></i></a>
-          <a href="#" class="btn btn-call rounded-pill px-4">Whatsapp <i class="fa-brands fa-whatsapp ms-2""></i></a>
+        <h2 class="fw-semibold mb-4 text-warning">Achieve Academic Success With Best Help with Canvas Course
+          </h2>
+          <p class="px-5">Choosing our Canvas course help ensures that we provide original and accurate work written by
+            a qualified writer who knows your subject very well.
+          </p>
+          <div class="d-flex justify-content-center gap-3">
+            <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
+                class="fa-solid fa-comment-dots ms-2"></i></a>
+            <a href="#" class="btn btn-call rounded-pill px-4">Whatsapp <i class="fa-brands fa-whatsapp ms-2""></i></a>
         </div>
     </div>
     </section>
@@ -523,126 +526,126 @@ include 'include/header.php';
 
 
     <section class=" py-5 bg-light">
-              <div class="container text-center" data-aos="fade-up">
-                <h2 class="fw-semibold mb-3 px-5 text-navy">Make Online Learning Easier with Expert
-                  Canvas Course Help
-                </h2>
-                <p class="text-muted mb-5 px-5 mx-auto text-navy">
-                  Online Course Helpers simplify your Canvas education experience and make it
-                  systematic, effective, and stress-free. Your quizzes, essays, and group projects are
-                  done by our professionals with accuracy and in time so that you remain on track with
-                  your subjects. We are there to keep you on track, keep you confident, and reach all
-                  your academic goals without a problem.
-                </p>
-                <div class="coverflow-swiper swiper my3dSwiper py-3">
-                  <div class="h-100 swiper-wrapper">
-                    <div class="swiper-slide">
-                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 5px;">
-                        <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">
-                            High School Canvas Course Help </h5>
-                          <p style="font-size: 14px;"><span style="font-weight: 400">Our
-                            </span><a href="https://onlinecoursehelpers.com/high-school-level-course-help/"><span
-                                style="font-weight: 400">high school-level course
-                                help</span></a><span style="font-weight: 400"> students
-                              make their initial steps towards online education. We also
-                              serve assignments and quizzes on some of the most important
-                              subjects, including Predictive Modeling, Professional
-                              Research Methods, and Strategic Innovation. With our help,
-                              they have achieved consistency, attention, and academic
-                              discipline that make them successful in higher
-                              education.</span></p>
+                <div class="container text-center" data-aos="fade-up">
+                  <h2 class="fw-semibold mb-3 px-5 text-navy">Make Online Learning Easier with Expert
+                    Canvas Course Help
+                  </h2>
+                  <p class="text-muted mb-5 px-5 mx-auto text-navy">
+                    Online Course Helpers simplify your Canvas education experience and make it
+                    systematic, effective, and stress-free. Your quizzes, essays, and group projects are
+                    done by our professionals with accuracy and in time so that you remain on track with
+                    your subjects. We are there to keep you on track, keep you confident, and reach all
+                    your academic goals without a problem.
+                  </p>
+                  <div class="coverflow-swiper swiper my3dSwiper py-3">
+                    <div class="h-100 swiper-wrapper">
+                      <div class="swiper-slide">
+                        <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                          style="background-color: #242f3e; border-radius: 5px;">
+                          <div class="card-body">
+                            <h5 class="text-warning fw-bold mb-3">
+                              High School Canvas Course Help </h5>
+                            <p style="font-size: 14px;"><span style="font-weight: 400">Our
+                              </span><a href="https://onlinecoursehelpers.com/high-school-level-course-help/"><span
+                                  style="font-weight: 400">high school-level course
+                                  help</span></a><span style="font-weight: 400"> students
+                                make their initial steps towards online education. We also
+                                serve assignments and quizzes on some of the most important
+                                subjects, including Predictive Modeling, Professional
+                                Research Methods, and Strategic Innovation. With our help,
+                                they have achieved consistency, attention, and academic
+                                discipline that make them successful in higher
+                                education.</span></p>
+                          </div>
                         </div>
                       </div>
-                    </div>
 
-                    <div class="swiper-slide">
-                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 5px;">
-                        <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">
-                            Associate Level Canvas Course Help </h5>
-                          <p style="font-size: 14px;"><span style="font-weight: 400">Our
-                            </span><a href="https://onlinecoursehelpers.com/associate-level-course-help/"><span
-                                style="font-weight: 400">associate-level course
-                                help</span></a><span style="font-weight: 400"> serves
-                              students taking either a general education or professional
-                              development course. The projects we handle include
-                              presentations and quizzes in subjects such as Accounting
-                              Principles, Human Resource Management, and Media Literacy.
-                              Each assignment is done with accuracy and dependability to
-                              enable you to gain transferable credit without any form of
-                              stress.</span></p>
+                      <div class="swiper-slide">
+                        <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                          style="background-color: #242f3e; border-radius: 5px;">
+                          <div class="card-body">
+                            <h5 class="text-warning fw-bold mb-3">
+                              Associate Level Canvas Course Help </h5>
+                            <p style="font-size: 14px;"><span style="font-weight: 400">Our
+                              </span><a href="https://onlinecoursehelpers.com/associate-level-course-help/"><span
+                                  style="font-weight: 400">associate-level course
+                                  help</span></a><span style="font-weight: 400"> serves
+                                students taking either a general education or professional
+                                development course. The projects we handle include
+                                presentations and quizzes in subjects such as Accounting
+                                Principles, Human Resource Management, and Media Literacy.
+                                Each assignment is done with accuracy and dependability to
+                                enable you to gain transferable credit without any form of
+                                stress.</span></p>
+                          </div>
                         </div>
                       </div>
-                    </div>
 
-                    <div class="swiper-slide">
-                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 5px;">
-                        <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">
-                            Undergraduate Canvas Course Help </h5>
-                          <p style="font-size: 14px;"><span style="font-weight: 400">Our
-                            </span><a href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"><span
-                                style="font-weight: 400">undergraduate-level course
-                                help</span></a><span style="font-weight: 400"> students
-                              to juggle between demanding courses and meeting deadlines.
-                              Whether it is a research project, analytical essay, or an
-                              online discussion assignment, we guarantee that all our
-                              submissions are of academic excellence and depict
-                              originality, professionalism, and accuracy.</span></p>
+                      <div class="swiper-slide">
+                        <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                          style="background-color: #242f3e; border-radius: 5px;">
+                          <div class="card-body">
+                            <h5 class="text-warning fw-bold mb-3">
+                              Undergraduate Canvas Course Help </h5>
+                            <p style="font-size: 14px;"><span style="font-weight: 400">Our
+                              </span><a href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"><span
+                                  style="font-weight: 400">undergraduate-level course
+                                  help</span></a><span style="font-weight: 400"> students
+                                to juggle between demanding courses and meeting deadlines.
+                                Whether it is a research project, analytical essay, or an
+                                online discussion assignment, we guarantee that all our
+                                submissions are of academic excellence and depict
+                                originality, professionalism, and accuracy.</span></p>
+                          </div>
                         </div>
                       </div>
-                    </div>
 
-                    <div class="swiper-slide">
-                      <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 5px;">
-                        <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">
-                            Master’s Level Canvas Course Help </h5>
-                          <p style="font-size: 14px;"><span style="font-weight: 400">Our
-                            </span><a href="https://onlinecoursehelpers.com/masters-level-course-help/"><span
-                                style="font-weight: 400">masters level course
-                                help</span></a><span style="font-weight: 400"> students
-                              with research-based and critical pieces of work. We oversee
-                              data appraisal, organized writing, and theoretical tests
-                              that are in line with the graduate requirements. Our
-                              professionals are quite ethical and accurate in all their
-                              tasks.</span></p>
+                      <div class="swiper-slide">
+                        <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                          style="background-color: #242f3e; border-radius: 5px;">
+                          <div class="card-body">
+                            <h5 class="text-warning fw-bold mb-3">
+                              Master’s Level Canvas Course Help </h5>
+                            <p style="font-size: 14px;"><span style="font-weight: 400">Our
+                              </span><a href="https://onlinecoursehelpers.com/masters-level-course-help/"><span
+                                  style="font-weight: 400">masters level course
+                                  help</span></a><span style="font-weight: 400"> students
+                                with research-based and critical pieces of work. We oversee
+                                data appraisal, organized writing, and theoretical tests
+                                that are in line with the graduate requirements. Our
+                                professionals are quite ethical and accurate in all their
+                                tasks.</span></p>
+                          </div>
                         </div>
                       </div>
-                    </div>
 
-                    <div class="swiper-slide">
-                      <div class="ccoverflow-card vh-50 vh-md-100 text-white p-4"
-                        style="background-color: #242f3e; border-radius: 5px;">
-                        <div class="card-body">
-                          <h5 class="text-warning fw-bold mb-3">
-                            Doctorate-Level Canvas Course Help </h5>
-                          <p style="font-size: 14px;"><span style="font-weight: 400">Full
-                              support to scholars engaged
-                              in research and development of dissertations and milestones
-                              is offered by our </span><a
-                              href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
-                                style="font-weight: 400">doctoral-level course
-                                help</span></a><span style="font-weight: 400">. We are
-                              original and precise when it comes to data arrangement,
-                              refinement of the writing process, and management of the
-                              project. With our professional help, you can achieve all
-                              academic requirements and finish your doctoral work with a
-                              high level of confidence and excellence.</span></p>
+                      <div class="swiper-slide">
+                        <div class="ccoverflow-card vh-50 vh-md-100 text-white p-4"
+                          style="background-color: #242f3e; border-radius: 5px;">
+                          <div class="card-body">
+                            <h5 class="text-warning fw-bold mb-3">
+                              Doctorate-Level Canvas Course Help </h5>
+                            <p style="font-size: 14px;"><span style="font-weight: 400">Full
+                                support to scholars engaged
+                                in research and development of dissertations and milestones
+                                is offered by our </span><a
+                                href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
+                                  style="font-weight: 400">doctoral-level course
+                                  help</span></a><span style="font-weight: 400">. We are
+                                original and precise when it comes to data arrangement,
+                                refinement of the writing process, and management of the
+                                project. With our professional help, you can achieve all
+                                academic requirements and finish your doctoral work with a
+                                high level of confidence and excellence.</span></p>
+                          </div>
                         </div>
                       </div>
                     </div>
                   </div>
+                  <div class="d-none">
+                    <div class="swiper-pagination"></div>
+                  </div>
                 </div>
-                <div class="d-none">
-                  <div class="swiper-pagination"></div>
-                </div>
-              </div>
     </section>
     <!-- Section  -->
 
@@ -679,29 +682,27 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-white">
       <div class="container text-center" data-aos="fade-up">
-        <h2 class="fw-semibold mb-2">What Students Say About Our CANVAS Course Help</h2>
-        <p class="text-muted mb-5">Real experiences – Real results. See the way we have offered students success
-          in their CANVAS courses through expert assistance. </p>
+        <h2 class="fw-semibold mb-2">Our Client’s Success Stories </h2>
+        <p class="text-muted mb-5">Discover what our clients have to say about their journey with us
+        </p>
 
         <div class="row g-4 text-start">
           <div class="col-md-4">
             <div class="card h-100 border-0 shadow-sm text-white p-4"
               style="background-color: #00334d; border-radius: 15px;">
               <div class="mb-3 d-flex justify-content-between align-items-center">
-                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo"
-                  class="review-image">
+                <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">I was struggling to keep up with my CANVAS coursework, but the
-                expert online CANVAS course takers at the Online Course Helpers provided the guidance I
-                needed. Their support helped me excel. The Online Course Helpers have been a
-                game-changer for me. The personalised support made complex subjects easy to understand,
-                and my grades have never been better!
+              <p class="small opacity-75">I was struggling to keep up with my Canvas course, but the expert online
+                Canvas course takers at the Online Course Helpers provided the guidance I needed. Their support helped
+                me excel. The Online Course Helpers have been a game-changer for me. The personalised support made
+                complex subjects easy to understand, and my grades have never been better!
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Jonathan Preston</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -713,16 +714,15 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">The Online Course Helpers made a huge difference in my studies.
-                Their tailored approach fit my needs perfectly, and I saw my grades improve almost
-                immediately! This brand is 100% recommended by me. I hired them to get help with CANVAS
-                course, and their work was excellent.
+              <p class="small opacity-75">The Online Course Helpers made a huge difference in my studies. Their tailored
+                approach fit my needs perfectly, and I saw my grades improve almost immediately! This brand is 100%
+                recommended by me. I hired them to get help with Canvas course, and their work was excellent.
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -734,16 +734,15 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/sitejabber-logo.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">I was overwhelmed with my CANVAS courses, but the Online Course
-                Helpers provided the great help with CANVAS course I needed to succeed. They were
-                professional, reliable, and truly cared about my progress. I wouldn’t have made it
-                through the semester without their help!</p>
+              <p class="small opacity-75">I was overwhelmed with my Canvas courses, but the Online Course Helpers
+                provided the great help with canvas course I needed to succeed. They were professional, reliable, and
+                truly cared about my progress. I wouldn’t have made it through the semester without their help!</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                    Shelly Benitez
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -756,9 +755,9 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/sitejabber-logo.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">I was hesitant to try the online CANVAS course help from here,
-                but it turned out to be the best decision! They went above and beyond to help me grasp
-                complex topics of my CANVAS course. I couldn’t have done it without them!
+              <p class="small opacity-75">I was hesitant to try the online Canvas course help from here, but it turned
+                out to be the best decision! They went above and beyond to help me grasp complex topics of my Canvas
+                course. I couldn’t have done it without them!
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
@@ -778,16 +777,15 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">I can't believe how much stress has been lifted from my
-                shoulders. I didn’t know I could pay someone to take my CANVAS course for me, but since
-                I started using the Online Course Helpers for my CANVAS course. They are true
-                professionals, and they made the process so easy.
+              <p class="small opacity-75">I can't believe how much stress has been lifted from my shoulders. I didn’t
+                know I could pay someone to take my Canvas course for me, but since I started using the Online Course
+                Helpers for my Canvas course. They are true professionals, and they made the process so easy.
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Sharon Lucas</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -799,18 +797,18 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">I have used a few different online Canvas course help services
-                in the past, but the Online Course Helpers was by far the best. All I had to do was
-                contact them to do my CANVAS course, and they solved all my problems. They were super
-                organized and always kept me updated on my assignments and grades. I was able to focus
-                on my job while they took care of my classes, and my GPA has never been better.
+              <p class="small opacity-75">I have used a few different online Canvas course help services in the past,
+                but the Online Course Helpers was by far the best. All I had to do was contact them to do my Canvas
+                course, and they solved all my problems. They were super organized and always kept me updated on my
+                assignments and grades. I was able to focus on my job while they took care of my classes, and my GPA has
+                never been better.
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Annar
+                    Shelly Benitezr
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>
@@ -865,8 +863,7 @@ include 'include/header.php';
         <div class="row g-0 d-flex">
           <div class="left-box col-lg-7 p-5 rounded-start-3">
             <h2 class="fw-bold mb-4">Frequently Asked Questions</h2>
-            <p>Explore our most frequently asked questions to learn more about our CANVAS course help. It’s
-              fast, secure, and stress-free.</p>
+            <p>Frequently asked questions by students for Canvas course help service.</p>
             <div class="d-flex flex-column gap-3">
               <div class="accordion accordion-flush" id="faqAccordion">
                 <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">

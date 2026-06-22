@@ -81,11 +81,11 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
+            <h2 class="heading-title">
 
               Trusted Management Course Assistance Offering Support for Students Nationwide
 
-            </h1>
+            </h2>
             <p class="section-text">
 
 
@@ -110,11 +110,11 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-3" style="color: #002a4d;">
+        <h2 class="fw-semibold mb-3" style="color: #002a4d;">
 
           Finish Your Management Course Successfully with Guidance from Dedicated Team Nationwide
 
-        </h1>
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
           Our management course assistance is experienced to serve students who desire a faster, safer, and
           less stressful course of learning. We assist you with instruction interpretation, schedule planning,
@@ -281,12 +281,12 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
+            <h2 class="fw-medium mb-4">
 
               Expert Management Course Helpers Offering Secure Assistance to Help Students Boost Credits
               with Ease Nationwide
 
-            </h1>
+            </h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -309,9 +309,9 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">
+        <h2 class="fw-medium px-5 mb-3">
           Need Support After Searching “Pay Someone to Do Your Management Course”? We Are the Best
-        </h1>
+        </h2>
         <p class="mb-5 text-muted">
 
 
@@ -408,11 +408,11 @@ include 'include/header.php';
         <div class="row align-items-start g-5">
 
           <div class="col-lg-7">
-            <h1 class="fw-bold mb-4 text-navy">
+            <h2 class="fw-bold mb-4 text-navy">
 
               A Reliable Option for Students Who Look Up Take Your Management Course in USA
 
-            </h1>
+            </h2>
             <p class="mb-5">
 
 
@@ -632,9 +632,9 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold mb-4 text-warning px-5">
+        <h2 class="fw-semibold mb-4 text-warning px-5">
           Do Your Management Course Successfully with Expert Learning Assistance for Extra Credits
-        </h1>
+        </h2>
         <p class="px-5">
           When your management course is proving tricky, qualified professionals are there to be with you
           throughout. You can complete your management course more effectively and without stress because you
@@ -652,10 +652,10 @@ include 'include/header.php';
 
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-bold mb-3 px-5 text-navy"> Get the Support You Need to Finish Your
+                <h2 class="fw-bold mb-3 px-5 text-navy"> Get the Support You Need to Finish Your
                   Management Course Successfully
 
-                </h1>
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
 
 

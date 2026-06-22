@@ -38,7 +38,7 @@ include 'include/header.php';
               </p>
               <p class="feature-item">
                 <i class="fa fa-file-text feature-icon"></i>
-                <span>Expert Course Takers</span>
+                <span>Cengage Course Takers</span>
               </p>
             </div>
 
@@ -80,19 +80,11 @@ include 'include/header.php';
           </div>
           <!-- Left Content -->
           <div class="col-lg-6" data-aos="fade-up">
-            <h1 class="heading-title">
-              Reach New Academic Heights with Our Cheap Cengage Course Help USA
-            </h1>
+            <h2 class="heading-title">
+             Cheap Cengage Course Help USA for College Students Who Need Full Semester Support
+            </h2>
             <p class="section-text">
-              With the surety of exceptional grades, ask expert online Cengage course takers at Online
-              Course Helpers to do my Cengage course for me. We offer the best support for your Cengage
-              course challenges at the best price. Not only that, but our 24/7 professional support
-              ensures you are never alone when it comes to your Cengage courses. No matter how tough your
-              course is, or how confused you are or how many additional credits you need, text us and see
-              your problems fade. With our goal of retaining 100% of our clients and ensuring full client
-              satisfaction, we secure their trust with our 100% money-back guarantee policy. Aren’t all
-              these offers so fascinating? So, next time when you decide to pay someone to take your
-              Cengage course for you, make sure it is Online Course Helpers.
+              Too many online courses, quizzes, projects, and exams piling up at the same time? You’re not alone. Cengage courses can look easy at first, but once deadlines start coming fast, it becomes stressful to manage everything, especially if you’re working or taking multiple courses. That’s exactly why many students come to us with their “<a href="https://onlinecoursehelpers.com/">do my online course for me</a>” request. We support you through your entire semester, handling weekly tasks, assignments, quizzes, and exams with care and accuracy, all at an affordable price. Backed by a professional team of online Cengage course takers and a 24/7 customer support team, is what makes our platform an obvious choice. No matter how challenging a course is, with our professional assistance, the road to success becomes clear and simple.
             </p>
             <div class="d-flex gap-3 flex-wrap">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
@@ -106,12 +98,10 @@ include 'include/header.php';
     <!-- Benefits Section -->
     <section class="yellow-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-bold mb-3" style="color: #002a4d;">Affordable Online Cengage Course Takers For Various
-          Subjects
-        </h1>
+        <h2 class="fw-bold mb-3" style="color: #002a4d;">Do My Cengage Course in All Major Subjects
+        </h2>
         <p class="mx-auto mb-5" style="color: #002a4d;">
-          Comprehensive support in all Online Cengage courses; get one-on-one help, improve your grades, and
-          earn fast-paced credits confidently.
+          Whatever the subject or complexity, our writers are ready 24/7. So if the question is, "can I pay someone to do my Cengage course?" The answer is yes. Take a look at some of the areas we cover:
         </p>
 
         <div class="horizontal-scroll-wrapper">
@@ -122,13 +112,7 @@ include 'include/header.php';
                   Healthcare Course Help</h4>
                 <div class="card-content">
                   <p>
-                    Need healthcare course help? We help with various specialisations such as
-                    nursing, public health, mental health and medical terminology and so on. Whether
-                    you need help in completing assignments or exams, our professional online
-                    Cengage course takers make complex healthcare issues simple. Master
-                    problem-solving skills as you get assistance with projects, quizzes and exams.
-                    It is easy and more affordable to earn additional credits in your healthcare
-                    courses with our help.
+                   Need healthcare course help? We help with various specialisations such as nursing, public health, mental health and medical terminology and so on. Whether you need help in completing assignments or exams, our professional online Cengage course takers make complex healthcare issues simple. Master problem-solving skills as you get assistance with projects, quizzes and exams. It is easy and more affordable to earn additional credits in your healthcare courses with our help.
                   </p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
@@ -142,13 +126,7 @@ include 'include/header.php';
                   Math Course Help</h4>
                 <div class="card-content">
                   <p>
-                    Our <a href="/math-course-help"> math course help</a>
-                    simplify every formula and number, and steps in the easiest way for all
-                    learners. We offer specific help with assignments and exams, being familiar with
-                    various complex formulas and concepts. Discover the intricacies of math through
-                    stimulating advice that makes math fun. A cheap online Cengage course help in
-                    USA is now a click away; you can earn additional credits using the online course
-                    helpers.
+                   Math can be one of the most demanding subjects, requiring significant time and effort. By choosing us to <a href="https://onlinecoursehelpers.com/math-course-help">pay someone to take your math course</a>, you are investing in your academic success and freeing up your time for other priorities. Our service is designed to provide USA students with the peace of mind that comes from knowing their Cengage course is in expert hands. Get confidential and reliable help with your math course today and achieve A+ grade.
                   </p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
@@ -162,12 +140,7 @@ include 'include/header.php';
                   Business Course Helpp</h4>
                 <div class="card-content">
                   <p>
-                    Our business course helps simplify all the world's problems, as well as tricky
-                    numbers. Online Cengage Course help facilitate business case studies,
-                    assignments and exam preparation. Understand business ethics, rights, and
-                    obligations through easy-to-follow expert guidance. Ideally suited to students
-                    desiring to succeed in business without being confused by legal issues,
-                    inexpensive assistance is just a single click away.
+                   Are you having trouble keeping up with your studies, online business course, and social life? Let’s face it: we’d all like a life where there are no worries or responsibilities. Maybe that would be boring, but it would be free of those pesky online courses. However, that is not possible. If you’ve ever wished, “I wish someone could <a href="https://onlinecoursehelpers.com/business-course-help">take my business course for me</a>,” you’re not alone. Managing everything on your plate can feel impossible, but solutions exist to make life easier. We offer you a safe manner in which you can hire an expert for your Cengage business course. We have some of the best Cengage course takers who will take your business course while maintaining confidentiality and helping to improve your grades.
                   </p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
@@ -181,12 +154,7 @@ include 'include/header.php';
                   Chemistry Course Help</h4>
                 <div class="card-content">
                   <p>
-                    Thinking to pay someone to do my Cengage course for me? Our Cengage course help
-                    can help you with carbon’s central role, covalent bonds and structure and
-                    properties. We provide help in writing, in test preparation, and in the
-                    structure and organisation of chemical bonds. Learn about key aspects simply and
-                    inexpensively with the help of the experienced online Cengage course takers who
-                    understand the area in and out, and earn additional credits efficiently.
+               Chemistry is a demanding subject, and online courses add a layer of complexity. We provide a streamlined, professional solution for students in the USA who need to excel without the stress. When you hire someone to <a href="https://onlinecoursehelpers.com/chemistry-course-help">do your chemistry course online</a>, you're not just getting your course done, you're investing in a top grade and your peace of mind. Our online Cengage course help service ensure you maintain your GPA while focusing on other priorities.
                   </p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
@@ -200,12 +168,7 @@ include 'include/header.php';
                   Biology Course Help</h4>
                 <div class="card-content">
                   <p>
-                    Thinking to pay someone to do my Cengage course for me? Our Cengage course help
-                    can help you to enhance your understanding of living organisms with the
-                    fundamental concepts and principles of the study of life. Learn about key
-                    aspects simply and inexpensively with the help of the experienced online Cengage
-                    course takers who understand the area in and out, and earn additional credits
-                    efficiently.
+                   Struggling with your Cengage biology course? When you need an expert to <a href="https://onlinecoursehelpers.com/biology-course-help">take your biology course for you</a>, we provide the help you need. Our specialists handle all your work, from virtual labs to complex topics like mitosis and genetics. We guarantee an A+ in your course, so you can stop stressing and get the grade you want.
                   </p>
                 </div>
                 <button class=" mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
@@ -237,13 +200,7 @@ include 'include/header.php';
                   Finance Course Help</h4>
                 <div class="card-content">
                   <p>
-                    Need professional <a href="/finance-course-help" class="efheadinglink"> finance
-                      course help</a>? We address investment strategies, budgeting, financial
-                    planning, and risk analysis. Our expert online Cengage course takers enable you
-                    to understand financial formulas, real-life case studies and assignments. Be it
-                    micro or corporate finance, we give you credible academic assistance so that you
-                    can excel and earn fast-paced credits. Learn more effectively and understand
-                    your finances with low-cost, professional advice.
+                    Experience the ease of completing your online finance with exceptional grades. At online <a href="https://onlinecoursehelpers.com/finance-course-help">finance course help</a>, our team of experts is armed with master's and doctoral degrees. We ensure your path to success is smooth and rewarding. Our dedicated professionals not only assist you with your Cengage finance course but also excel in completing assignments and meeting deadlines. With us, your participation is seamless, and your identity remains confidential, ensuring a stress-free academic journey.
                   </p>
                 </div>
                 <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
@@ -299,8 +256,8 @@ include 'include/header.php';
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div class="content-left text-white w-60">
-            <h1 class="fw-medium mb-4">
-              Can You Do My Cengage Course With Guaranteed Top Grades? Yes, We Can.</h1>
+            <h2 class="fw-medium mb-4">
+              Don’t Let Busy Schedules Lower Your Grades. Hire Our Cengage Course Taker Online to Protect Your GPA With Confidence.</h2>
             <div class="d-flex gap-3">
               <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
               <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
@@ -323,11 +280,9 @@ include 'include/header.php';
 
     <section class="services-section py-5">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-medium px-5 mb-3">Our Reliable Cengage Course Help Services: Beyond Fast-paced Credits</h1>
+        <h2 class="fw-medium px-5 mb-3">Why We're the #1 Choice for Your Cengage Course Help in the USA</h2>
         <p class="mb-5 px-5 text-muted">
-          Our services range from personalised aid in all respects to data protection and for additional
-          credits, which are intended to provide the students with an advantage in all facets of their
-          studies.
+          When you decide to pay someone to do your Cengage course, you need a service that's reliable, professional, and tailored for students in the USA. Here’s why we are the trusted partner for your academic success.
         </p>
 
         <div class="row g-4 mb-5">
@@ -407,18 +362,10 @@ include 'include/header.php';
 
           <div class="col-lg-7">
             <h2 class="fw-bold mb-4 text-navy">
-              Can You Take My Cengage Course For Me At Cheap Price
+             Take My Cengage Course for Me Before the Deadline Ends
             </h2>
             <p class="mb-5">
-              Have you ever searched through all of Google, browsing “Can I pay someone to take my Cengage
-              course for me? Your search ends here! At Online Course Helpers, we provide professional,
-              safe, and inexpensive course-taking services that assure performance. Whether it is about
-              working on your assignments and quizzes or full semester workloads, our professionals are
-              available to come to your rescue. No juggling deadlines or falling behind anymore. Choose us
-              as your coursework partner to receive committed service, absolute confidentiality, and
-              genuine academic specialists working on your course carefully. Be it a single subject or
-              multiple, we have your back. Concentrate on life as we concentrate on your college credits –
-              because smart students outsource smartly.
+           When enrolled in an online program, expect challenging courses and strict deadlines. We understand the intense pressure a student goes through. All you need to do is type ‘take my Cengage course for me’ and make your life simpler. Just a single click will enable you to hire a highly-qualified Cengage course helper whose years of experience and smart strategic methods will support your courses in the best way possible. If you’re taking online classes, our services are designed just for you. Whether you’re a busy professional, a parent, or simply overwhelmed with your workload, a single search of ‘<a href="https://onlinecoursehelpers.com/online-class-help">do my online class</a>’ can make your life easier. Don’t let tight deadlines affect your GPA and hire a trusted expert now to take your Cengage course for you and stay ahead in every course.
             </p>
 
             <div class="container-fluid">
@@ -449,11 +396,9 @@ include 'include/header.php';
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
           <div class="col-lg-9" data-aos="fade-up">
-            <h2 class="fw-semibold text-navy mb-3">Expert Cengage Course Help For Various Educational Levels
+            <h2 class="fw-semibold text-navy mb-3">Best Cengage Course Help For All Educational Levels in USA
             </h2>
-            <p class="text-secondary">Get expert help with Cengage course. We provide 24/7 service and
-              dedicated support, including online course assignments, quizzes, and assessments, for
-              various educational levels.
+            <p class="text-secondary">Many US students from different levels trust us for guaranteed A/B grades for their Cengage course. Our experts are equipped to <a href="https://onlinecoursehelpers.com/online-exam-help">assist with online exam</a> and course security and safety for all levels.
             </p>
           </div>
         </div>
@@ -531,24 +476,21 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-navy text-white text-center" style="background-color: #00334d;">
       <div class="container" data-aos="fade-up">
-        <h1 class="fw-semibold px-5 text-warning mb-4">Need Help with Cengage course? Hire Experienced Professionals
-        </h1>
-        <p class="px-5">Get expert help with your Cengage course. We provide 24/7 service and dedicated support with
-          Cengage
-          course assignments, quizzes, and tests for all domains.</p>
+        <h2 class="fw-semibold px-5 text-warning mb-4">Need Help with Cengage course? Hire Experienced Professionals
+        </h2>
+        <p class="px-5">Want someone to take your Cengage course online? Get help from top Cengage course helpers now!</p>
         <div class="d-flex justify-content-center gap-3">
           <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
               class="fa-solid fa-comment-dots ms-2"></i></a>
-          <a href="#" class="btn btn-call rounded-pill px-4">Whatsapp <i class="fa-brands fa-whatsapp ms-2""></i></a>
+          <a href="#" class="btn btn-call rounded-pill px-4">Whatsapp <i class="fa-brands fa-whatsapp ms-2"></i></a>
         </div>
     </div>
     </section>
 <!-- Section  -->
     <section class=" py-5 bg-light">
               <div class="container text-center" data-aos="fade-up">
-                <h1 class="text-navy px-5 fw-bold mb-3">Achieve Academic Success with Reliable Cengage Course Help For
-                  Extra Credits
-                </h1>
+                <h2 class="text-navy px-5 fw-bold mb-3">Get the Best Online Cengage Course Assistance in USA
+                </h2>
                 <p class="text-muted px-5 mb-5 mx-auto">
                   <a href="/" class="text-warning">Online Course Helpers</a> ensure that your
                   experience with Cengage is stress-free and
@@ -626,7 +568,7 @@ include 'include/header.php';
                           <h5 class="text-warning fw-bold mb-3">
                             Doctorate-Level Cengage Course Help </h5>
                           <p style="font-size: 13px;"><span style="font-weight: 400">Our
-                            </span><a href="https://onlinecoursehelpers.com/doctorate-level-course-help/"><span
+                            </span><a href="https://onlinecoursehelpers.com/doctoral-level-course-help/"><span
                                 style="font-weight: 400">doctoral-level course
                                 help</span></a><span style="font-weight: 400"> is
                               designed with reference to readers and researchers working
@@ -681,9 +623,8 @@ include 'include/header.php';
     <!-- Section  -->
     <section class="py-5 bg-white">
       <div class="container text-center" data-aos="fade-up">
-        <h1 class="fw-semibold mb-2 px-5">What Students Say About Our Cengage Course Help</h1>
-        <p class="text-muted mb-5 px-5">Real experiences – Real results. See the way we have offered students success
-          in their Cengage courses through expert assistance.</p>
+        <h2 class="fw-semibold mb-2 px-5">What Students Are Saying About Us</h2>
+        <p class="text-muted mb-5 px-5">Customer satisfaction is what we always prioritize, and here's the proof of it. Our clients consistently share positive feedback about our fast, reliable, and high-quality service.</p>
 
         <div class="row g-4 text-start">
           <div class="col-md-4">
@@ -693,17 +634,13 @@ include 'include/header.php';
                 <img loading="lazy" src="assets/img/reviews-io-logo.webp" alt="Review Logo"
                   class="review-image">
               </div>
-              <p class="small opacity-75">I took Cengage course help for my various Cengage courses from
-                The Online Course Helpers, and they did an excellent job. They completed all of them and
-                provided me with even the short notes following each of those courses. The online
-                Cengage course takers are professional, know what they are doing, and follow every piece
-                of the guidelines.
+              <p class="small opacity-75">I took Cengage course help for my various Cengage courses from The Online Course Helpers, and they did an excellent job. They completed all of them and provided me with even the short notes following each of those courses. The online Cengage course takers are professional, know what they are doing, and follow every piece of the guidelines.
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Ahsan</h6>
+                  <h6 class="mb-0 fw-bold">Shirley Rockwell</h6>
                   <small class="opacity-50">New York</small>
                 </div>
               </div>
@@ -715,16 +652,13 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">One thing I like about the site, The Online Course Helpers, is
-                their commitment to us, students. I usually ask for help with Cengage course, and when
-                facing issues with managing time and approaching them, they take it seriously. When I
-                pointed out some points that their expert needed to follow, they never ignored those.
+              <p class="small opacity-75">One thing I like about the site, The Online Course Helpers, is their commitment to us, students. I usually ask for help with Cengage course, and when facing issues with managing time and approaching them, they take it seriously. When I pointed out some points that their expert needed to follow, they never ignored those.
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Laurel Combs</h6>
                   <small class="opacity-50">Seattle</small>
                 </div>
               </div>
@@ -736,17 +670,13 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/sitejabber-logo.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">It’s been almost a year since I started using The Online Course
-                Helpers to take my Cengage course for me. They are helping me maintain balance in my
-                life. I also work part-time along with my studies, so it’s convenient for me, and I
-                reached great experts who manage my Cengage course on time and were responsive all the
-                time!</p>
+              <p class="small opacity-75">It’s been almost a year since I started using The Online Course Helpers to take my Cengage course for me. They are helping me maintain balance in my life. I also work part-time along with my studies, so it’s convenient for me, and I reached great experts who manage my Cengage course on time and were responsive all the time!</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                   Bradley Hale
                   </h6>
                   <small class="opacity-50">Atlanta</small>
                 </div>
@@ -759,11 +689,7 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/sitejabber-logo.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">I want to thank the team of expert online Cengage course takers
-                of The Online Course Helpers for helping me with my Cengage course. Several service
-                providers are promising to deliver work on time, yet failing to maintain the quality of
-                work. But The Online Course Helpers stands out from the rest and never fails to send the
-                finished work. Thanks a lot!!
+              <p class="small opacity-75">I want to thank the team of expert online Cengage course takers of The Online Course Helpers for helping me with my Cengage course. Several service providers are promising to deliver work on time, yet failing to maintain the quality of work. But The Online Course Helpers stands out from the rest and never fails to send the finished work. Thanks a lot!!
               </p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
@@ -783,17 +709,12 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/trustpilot-logo-white-300x88.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">I want to pay someone to do my Cengage course for me. I hired
-                The Online Course Helpers, and I got my Cengage coursework done correctly. The entire
-                coursework was appropriately written. Also, the online Cengage takes have used great
-                diagrams, making the coursework way more understandable when going through. I would
-                recommend The Online Course Helpers remarkably, where they also have fantastic
-                round-the-clock customer service.</p>
+              <p class="small opacity-75">I want to pay someone to do my Cengage course for me. I hired The Online Course Helpers, and I got my Cengage coursework done correctly. The entire coursework was appropriately written. Also, the online Cengage takes have used great diagrams, making the coursework way more understandable when going through. I would recommend The Online Course Helpers remarkably, where they also have fantastic round-the-clock customer service.</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
-                  <h6 class="mb-0 fw-bold">Hannah</h6>
+                  <h6 class="mb-0 fw-bold">Carmen Smith</h6>
                   <small class="opacity-50">San Diego</small>
                 </div>
               </div>
@@ -805,17 +726,13 @@ include 'include/header.php';
               <div class="mb-3 d-flex justify-content-between align-items-center">
                 <img src="assets/img/reviews-io-logo.webp" alt="Review Logo" class="review-image">
               </div>
-              <p class="small opacity-75">I honestly felt nervous when I got a sudden online Cengage
-                course and was not confident in handling it myself. I approached The Online Course
-                Helpers to do my Cengage course and placed the order. The customer service was very
-                responsive and did not take time to reach me at my Cengage course attendant. The expert
-                attended the course following all my instructions.</p>
+              <p class="small opacity-75">I honestly felt nervous when I got a sudden online Cengage course and was not confident in handling it myself. I approached The Online Course Helpers to do my Cengage course and placed the order. The customer service was very responsive and did not take time to reach me at my Cengage course attendant. The expert attended the course following all my instructions.</p>
               <div class="d-flex align-items-center mt-4">
                 <div class="d-flex rounded-circle bg-secondary me-3 align-items-center justify-content-center"
                   style="width: 40px; height: 40px;"><i class="fa fa-user"></i></div>
                 <div>
                   <h6 class="mb-0 fw-bold">
-                    Anna
+                 John Adamo
                   </h6>
                   <small class="opacity-50">Miami</small>
                 </div>
@@ -870,8 +787,7 @@ include 'include/header.php';
         <div class="row g-0 d-flex">
           <div class="left-box col-lg-7 p-5 rounded-start-3">
             <h2 class="fw-bold mb-4">Frequently Asked Questions</h2>
-            <p>Explore our most frequently asked questions to learn more about our Cengage course help. It’s
-              fast, secure, and stress-free.</p>
+            <p>Some commonly asked questions about our online Cengage course help in USA. </p>
             <div class="d-flex flex-column gap-3">
               <div class="accordion accordion-flush" id="faqAccordion">
                 <div class="accordion-item bg-white border-bottom border-dark py-2 px-4">

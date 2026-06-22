@@ -413,12 +413,10 @@ include 'include/header.php';
             </p>
 
             <div class="container-fluid">
-              <a href="#" class="btn btn-call rounded-pill px-4 py-3 fw-bold">
-                Live Call <i class="fa-solid fa-phone ms-2"></i>
-              </a>
-              <a href="#" class="btn btn-chat rounded-pill px-4 py-3 fw-bold">
-                Live Chat <i class="fa-solid fa-comment-dots ms-2"></i>
-              </a>
+              <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+              <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+                  class="fa fa-comments me-2"></i>Live
+                Chat</a>
             </div>
           </div>
 

@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 :root {
   --dark-cyan: #002a4d;
@@ -35,7 +34,6 @@ body {
   width: 100%;
 }
 
-
 .dropdown-menu .dropdown-item:hover,
 .dropdown-menu .dropdown-item:focus {
   background-color: var(--dark-cyan);
@@ -47,7 +45,9 @@ body {
 
 /* Optional: Add a smooth transition so it doesn't "snap" */
 .dropdown-item {
-  transition: background-color 0.2s ease, color 0.2s ease;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
 }
 
 .hero-section {
@@ -59,7 +59,6 @@ body {
   padding: 12rem 0;
 }
 
-
 .hero-section::before {
   position: absolute;
   top: 0;
@@ -67,12 +66,18 @@ body {
   left: 0;
   right: 0;
   content: "";
-  background: linear-gradient(135deg, #002a4d 0%, #001e36 60%, rgb(0 26 48) 80%, #f3ef00 120%);
+  background: linear-gradient(
+    135deg,
+    #002a4d 0%,
+    #001e36 60%,
+    rgb(0 26 48) 80%,
+    #f3ef00 120%
+  );
   z-index: 1;
   opacity: 0.925;
 }
 
-.hero-section>* {
+.hero-section > * {
   position: relative;
   z-index: 2;
 }
@@ -90,7 +95,6 @@ body {
   height: 25rem !important;
   min-height: 25rem !important;
 }
-
 
 .limited-offer-badge {
   position: absolute;
@@ -140,7 +144,6 @@ body {
 .navbar.scrolled {
   background-color: #002a4d !important;
 }
-
 
 .hero-title {
   color: var(--vibrant-yellow);
@@ -233,8 +236,6 @@ body {
   height: 48px;
 }
 
-
-
 .custom-shape-divider-bottom-1768237457 {
   position: absolute;
   bottom: -1px;
@@ -254,7 +255,7 @@ body {
 }
 
 .custom-shape-divider-bottom-1768237457 .shape-fill {
-  fill: #FFFFFF;
+  fill: #ffffff;
 }
 
 .academic-section {
@@ -310,9 +311,18 @@ body {
   background-color: #000000;
   color: #e2e2e2;
 }
-
-.btn-darkcyan {
-  background-color: var(--dark-cyan);
+.course-card-btn {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+.course-card-btn a {
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+.btn-dark {
+  background-color: #274869;
   color: #ffffff;
   font-weight: 600;
   border: none;
@@ -320,9 +330,10 @@ body {
   border-radius: 30px;
 }
 
-.btn-darkcyan:hover {
+.btn-dark:hover {
   background-color: var(--dark-cyan-variation);
   color: #ffffff;
+  text-decoration: underline;
 }
 
 .image-placeholder {
@@ -334,8 +345,6 @@ body {
   justify-content: center;
   align-items: center;
 }
-
-
 
 .slider-images-container {
   display: flex;
@@ -349,7 +358,6 @@ body {
   gap: 5px;
   overflow-x: auto;
   white-space: nowrap;
-
 
   /* Hide scrollbar for Chrome, Safari, Edge, and Opera */
   &::-webkit-scrollbar {
@@ -390,7 +398,6 @@ body {
   animation-play-state: paused;
 }
 
-
 .yellow-section {
   background-color: var(--vibrant-yellow);
   /* Vibrant yellow from your screenshot */
@@ -412,9 +419,6 @@ body {
 .yellow-section .swiperpag-control {
   display: none;
 }
-
-
-
 
 .coverflow-swiper .swiper-wrapper {
   display: flex;
@@ -460,7 +464,6 @@ body {
   scrollbar-color: var(--dark-cyan) transparent;
   scrollbar-width: thin;
 }
-
 
 .course-card-container {
   flex: 0 0 350px;
@@ -564,6 +567,7 @@ body {
   background-color: var(--vibrant-yellow);
   color: var(--dark-cyan);
   border: none;
+  padding: 10px 20px;
 }
 
 .btn-yellow:hover {
@@ -592,7 +596,7 @@ body {
 }
 
 .curved:before {
-  content: '';
+  content: "";
   background: inherit;
   position: absolute;
   top: 0;
@@ -616,7 +620,7 @@ body {
 }
 
 .curved-1:before {
-  content: '';
+  content: "";
   background: inherit;
   position: absolute;
   top: 0;
@@ -632,7 +636,7 @@ body {
 
 /* Section Background */
 .platform-section {
-  background-image: url('../img/banner3.jpg');
+  background-image: url("../img/banner3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: fit-content;
@@ -641,7 +645,7 @@ body {
 }
 
 .platform-section::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
@@ -706,7 +710,6 @@ body {
   aspect-ratio: 1 / 1;
 }
 
-
 .custom-shape-divider-top-1768582152 {
   position: absolute;
   top: -1px;
@@ -730,6 +733,10 @@ body {
 /* Branding Colors */
 .text-navy {
   color: #00334d;
+}
+.platform-btns {
+  position: relative;
+  z-index: 2;
 }
 
 .text-highlight {
@@ -757,8 +764,6 @@ body {
   margin: 0 auto;
 }
 
-
-
 .custom-shape-divider-bottom-1768583792 {
   position: absolute;
   bottom: -5px;
@@ -776,12 +781,9 @@ body {
   height: 78px;
 }
 
-
 .custom-shape-divider-bottom-1768583792 .shape-fill {
-  fill: #FFFFFF;
+  fill: #ffffff;
 }
-
-
 
 .custom-scrollbar::-webkit-scrollbar {
   width: 6px;
@@ -807,7 +809,6 @@ body {
   margin: 8px 0px;
 }
 
-
 .inner-box-content table,
 th,
 td {
@@ -819,16 +820,15 @@ td {
 
 .bg-innerbox-content {
   position: relative;
-  background-image: url('../img/banner3.jpg');
+  background-image: url("../img/banner3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 1;
 }
 
-
 .bg-innerbox-content::before {
   position: absolute;
-  content: '';
+  content: "";
   inset: 0;
   background-color: #00334d;
   z-index: -1;
@@ -847,8 +847,8 @@ td {
 
 .left-box::before {
   position: absolute;
-  background-image: url('../img/Homework_help_1_0cc488f467.png');
-  content: '';
+  background-image: url("../img/Homework_help_1_0cc488f467.png");
+  content: "";
   inset: 0;
   z-index: -1;
 }
@@ -875,6 +875,21 @@ td {
 .footer-link a:hover {
   color: var(--vibrant-yellow);
 }
+.footer-contact {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.footer-contact a {
+  color: #ffffff;
+  text-decoration: none;
+  transition: 200ms ease-in-out;
+}
+
+.footer-contact a:hover {
+  color: var(--vibrant-yellow);
+  text-decoration: underline;
+}
 
 .footer-social-icon {
   color: #ffffff;
@@ -894,9 +909,8 @@ td {
 .accordion-button:focus {
   box-shadow: none;
   outline: none;
-  border-color: rgba(0, 0, 0, .125);
+  border-color: rgba(0, 0, 0, 0.125);
 }
-
 
 .accordion-button:not(.collapsed) {
   background-color: #ffffff;
@@ -977,7 +991,6 @@ td {
 
 /* Breakpoints on Mobile Screen */
 @media (max-width: 768px) {
-
   .btn-call,
   .btn-chat,
   .btn-darkcyan {
@@ -1012,8 +1025,6 @@ td {
   .my3dSwiper .swiper-slide {
     width: 85% !important;
   }
-
-
 
   #flip-card-img {
     width: 150px;

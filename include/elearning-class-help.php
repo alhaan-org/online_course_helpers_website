@@ -220,14 +220,13 @@
       </div>
     </div>
 
-    <div class="d-flex justify-content-center gap-3 mt-5">
-      <button class="btn btn-darkcyan rounded-pill px-4 py-3 fw-bold" style="z-index: 2;">
-        Live Call <i class="fa-solid fa-phone ms-2"></i>
-      </button>
-      <button class="btn btn-chat rounded-pill px-4 py-3 fw-bold" style="z-index: 2;">
-        Whatsapp <i class="fa-brands fa-whatsapp ms-2"></i>
-      </button>
+    <div class="platform-btns d-flex justify-content-center gap-3 mt-5">
+      <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+      <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+          class="fa fa-comments me-2"></i>Live
+        Chat</a>
     </div>
+
   </div>
   <div class="custom-shape-divider-bottom-1768583792">
     <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">

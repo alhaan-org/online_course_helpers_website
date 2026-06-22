@@ -50,9 +50,9 @@ include 'include/header.php';
               </div>
             </div>
 
-            <button class="btn btn-primary-custom" onclick="Tawk_API.toggle()">
+            <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn btn-primary-custom">
               Live Chat <i class="fa fa-comments ms-2"></i>
-            </button>
+            </a>
           </div>
           <!-- Right Form -->
           <div class="col-lg-4">
@@ -93,9 +93,9 @@ include 'include/header.php';
               performance.
             </p>
             <div class="d-flex gap-3 flex-wrap">
-              <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
-              <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
-                Chat</button>
+              <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+              <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+                  class="fa fa-comments me-2"></i>Live Chat</a>
             </div>
           </div>
         </div>
@@ -249,9 +249,9 @@ include 'include/header.php';
               Can You Complete My Doctorate Level Course at an Affordable Price? It’s a Definite, Yes!
             </h2>
             <div class="d-flex gap-3">
-              <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
-              <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
-                Chat</button>
+              <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+              <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+                  class="fa fa-comments me-2"></i>Live Chat</a>
             </div>
           </div>
           <div class="image-right mt-4 mt-md-0">
@@ -348,10 +348,9 @@ include 'include/header.php';
         </div>
 
         <div class="d-flex justify-content-center gap-3">
-          <button class="btn btn-yellow rounded-pill px-5 py-3 fw-bold">Live Call <i
-              class="fa-solid fa-phone ms-2"></i></button>
-          <button class="btn btn-light-grey rounded-pill px-5 py-3 fw-bold">Whatsapp <i
-              class="fa-brands fa-whatsapp ms-2"></i></button>
+          <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+          <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+              class="fa fa-comments me-2"></i>Live Chat</a>
         </div>
       </div>
     </section>
@@ -582,9 +581,10 @@ include 'include/header.php';
           get your course completed within a few weeks!
         </p>
         <div class="d-flex justify-content-center gap-3">
-          <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
-              class="fa-solid fa-comment-dots ms-2"></i></a>
-          <a href="#" class="btn btn-call rounded-pill px-4">Whatsapp <i class="fa-brands fa-whatsapp ms-2""></i></a>
+          <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+          <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+              class="fa fa-comments me-2"></i>Live
+            Chat</a>
         </div>
     </div>
     </section>
@@ -876,9 +876,10 @@ include 'include/header.php';
         </div>
 
         <div class="mt-5 d-flex justify-content-center gap-3">
-          <button class="btn btn-call fw-bold rounded-pill">Live Call <i class="fa fa-phone ms-2"></i></button>
-          <button class="btn btn-chat fw-bold rounded-pill" onclick="Tawk_API.toggle()">Live Chat <i
-              class="fa fa-comments ms-2"></i></button>
+          <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+          <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+              class="fa fa-comments me-2"></i>Live
+            Chat</a>
         </div>
       </div>
     </section>
@@ -911,7 +912,7 @@ include 'include/header.php';
           </div>
         </div>
         <div class="text-center mt-4">
-          <button class="btn btn-call fw-bold rounded-pill">Live Call <i class="fa fa-phone ms-2"></i></button>
+          <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
         </div>
       </div>
     </section>

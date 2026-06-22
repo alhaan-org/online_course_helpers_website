@@ -49,9 +49,9 @@ include 'include/header.php';
               </div>
             </div>
 
-            <button class="btn btn-primary-custom" onclick="Tawk_API.toggle()">
+            <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn btn-primary-custom">
               Live Chat <i class="fa fa-comments ms-2"></i>
-            </button>
+            </a>
           </div>
           <!-- Right Form -->
           <div class="col-lg-4">
@@ -87,9 +87,9 @@ include 'include/header.php';
               Too many online courses, quizzes, projects, and exams piling up at the same time? You’re not alone. Cengage courses can look easy at first, but once deadlines start coming fast, it becomes stressful to manage everything, especially if you’re working or taking multiple courses. That’s exactly why many students come to us with their “<a href="https://onlinecoursehelpers.com/">do my online course for me</a>” request. We support you through your entire semester, handling weekly tasks, assignments, quizzes, and exams with care and accuracy, all at an affordable price. Backed by a professional team of online Cengage course takers and a 24/7 customer support team, is what makes our platform an obvious choice. No matter how challenging a course is, with our professional assistance, the road to success becomes clear and simple.
             </p>
             <div class="d-flex gap-3 flex-wrap">
-              <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
-              <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
-                Chat</button>
+              <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+              <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+                  class="fa fa-comments me-2"></i>Live Chat</a>
             </div>
           </div>
         </div>
@@ -115,8 +115,9 @@ include 'include/header.php';
                    Need healthcare course help? We help with various specialisations such as nursing, public health, mental health and medical terminology and so on. Whether you need help in completing assignments or exams, our professional online Cengage course takers make complex healthcare issues simple. Master problem-solving skills as you get assistance with projects, quizzes and exams. It is easy and more affordable to earn additional credits in your healthcare courses with our help.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
-                  Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -129,8 +130,9 @@ include 'include/header.php';
                    Math can be one of the most demanding subjects, requiring significant time and effort. By choosing us to <a href="https://onlinecoursehelpers.com/math-course-help">pay someone to take your math course</a>, you are investing in your academic success and freeing up your time for other priorities. Our service is designed to provide USA students with the peace of mind that comes from knowing their Cengage course is in expert hands. Get confidential and reliable help with your math course today and achieve A+ grade.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
-                  Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -143,8 +145,9 @@ include 'include/header.php';
                    Are you having trouble keeping up with your studies, online business course, and social life? Let’s face it: we’d all like a life where there are no worries or responsibilities. Maybe that would be boring, but it would be free of those pesky online courses. However, that is not possible. If you’ve ever wished, “I wish someone could <a href="https://onlinecoursehelpers.com/business-course-help">take my business course for me</a>,” you’re not alone. Managing everything on your plate can feel impossible, but solutions exist to make life easier. We offer you a safe manner in which you can hire an expert for your Cengage business course. We have some of the best Cengage course takers who will take your business course while maintaining confidentiality and helping to improve your grades.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
-                  Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -157,8 +160,9 @@ include 'include/header.php';
                Chemistry is a demanding subject, and online courses add a layer of complexity. We provide a streamlined, professional solution for students in the USA who need to excel without the stress. When you hire someone to <a href="https://onlinecoursehelpers.com/chemistry-course-help">do your chemistry course online</a>, you're not just getting your course done, you're investing in a top grade and your peace of mind. Our online Cengage course help service ensure you maintain your GPA while focusing on other priorities.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
-                  Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -203,8 +207,9 @@ include 'include/header.php';
                     Experience the ease of completing your online finance with exceptional grades. At online <a href="https://onlinecoursehelpers.com/finance-course-help">finance course help</a>, our team of experts is armed with master's and doctoral degrees. We ensure your path to success is smooth and rewarding. Our dedicated professionals not only assist you with your Cengage finance course but also excel in completing assignments and meeting deadlines. With us, your participation is seamless, and your identity remains confidential, ensuring a stress-free academic journey.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
-                  Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
             <div class="course-card-container">
@@ -221,8 +226,9 @@ include 'include/header.php';
                     inexpensive assistance is just a single click away.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live
-                  Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
           </div>
@@ -259,9 +265,9 @@ include 'include/header.php';
             <h2 class="fw-medium mb-4">
               Don’t Let Busy Schedules Lower Your Grades. Hire Our Cengage Course Taker Online to Protect Your GPA With Confidence.</h2>
             <div class="d-flex gap-3">
-              <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
-              <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
-                Chat</button>
+              <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+              <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+                  class="fa fa-comments me-2"></i>Live Chat</a>
             </div>
           </div>
           <div class="image-right mt-4 mt-md-0">
@@ -344,10 +350,9 @@ include 'include/header.php';
         </div>
 
         <div class="d-flex justify-content-center gap-3">
-          <button class="btn btn-yellow rounded-pill px-5 py-3 fw-bold">Live Call <i
-              class="fa-solid fa-phone ms-2"></i></button>
-          <button class="btn btn-light-grey rounded-pill px-5 py-3 fw-bold">Whatsapp <i
-              class="fa-brands fa-whatsapp ms-2"></i></button>
+          <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+          <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+              class="fa fa-comments me-2"></i>Live Chat</a>
         </div>
       </div>
     </section>
@@ -369,12 +374,10 @@ include 'include/header.php';
             </p>
 
             <div class="container-fluid">
-              <a href="#" class="btn btn-call rounded-pill px-4 py-3 fw-bold">
-                Live Call <i class="fa-solid fa-phone ms-2"></i>
-              </a>
-              <a href="#" class="btn btn-chat rounded-pill px-4 py-3 fw-bold" onclick="Tawk_API.toggle()">
-                Live Chat <i class="fa-solid fa-comment-dots ms-2"></i>
-              </a>
+              <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+              <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+                  class="fa fa-comments me-2"></i>Live
+                Chat</a>
             </div>
           </div>
 
@@ -742,9 +745,10 @@ include 'include/header.php';
         </div>
 
         <div class="mt-5 d-flex justify-content-center gap-3">
-          <button class="btn btn-call fw-bold rounded-pill">Live Call <i class="fa fa-phone ms-2"></i></button>
-          <button class="btn btn-chat fw-bold rounded-pill" onclick="Tawk_API.toggle()">Live Chat <i
-              class="fa fa-comments ms-2"></i></button>
+          <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+          <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+              class="fa fa-comments me-2"></i>Live
+            Chat</a>
         </div>
       </div>
     </section>
@@ -777,7 +781,7 @@ include 'include/header.php';
           </div>
         </div>
         <div class="text-center mt-4">
-          <button class="btn btn-call fw-bold rounded-pill">Live Call <i class="fa fa-phone ms-2"></i></button>
+          <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
         </div>
       </div>
     </section>

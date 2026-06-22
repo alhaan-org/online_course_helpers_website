@@ -46,9 +46,9 @@
               </div>
             </div>
 
-            <button class="btn btn-primary-custom px-5 py-3" onclick="Tawk_API.toggle()">
+            <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn btn-primary-custom">
               Live Chat <i class="fa fa-comments ms-2"></i>
-            </button>
+            </a>
           </div>
           <!-- Right Form -->
           <div class="col-lg-4">
@@ -94,8 +94,9 @@
               online course for you, make sure it is Online Course Helpers.
             </p>
             <div class="d-flex gap-3 flex-wrap">
-              <button class="btn btn-call px-5 py-3"><i class="fa fa-phone me-2"></i>Live Call</button>
-              <button class="btn btn-chat px-5 py-3"><i class="fa fa-comments me-2"></i>Live Chat</button>
+              <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+              <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+                  class="fa fa-comments me-2"></i>Live Chat</a>
             </div>
           </div>
         </div>
@@ -134,7 +135,9 @@
                     perfect answer to all your queries related to your online accounting course.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -155,7 +158,11 @@
                     matter the complexity of the problems.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
+
               </div>
             </div>
 
@@ -173,7 +180,9 @@
                       href="business-course-help">business course helpers</a> will assist
                     you in your online business course.</p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -188,7 +197,9 @@
                     simply searching “<a href="chemistry-course-help">take my chemistry course</a>”, wherever it gets
                     hard to make sense. We handle your labs, equations and exams with absolute precision.</p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -204,7 +215,9 @@
                     you're just starting to learn about computer science, taking advanced courses or want to earn
                     additional credits, we'll match you with the right expert to help you succeed.</p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -223,7 +236,9 @@
                     your full online psychology course.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -242,7 +257,9 @@
                     privacy,
                     and great grades, all in one place.</p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -259,7 +276,9 @@
                     credits with ease.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -277,7 +296,9 @@
                     and
                     earn college credits more quickly.</p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -293,7 +314,9 @@
                     take online courses through US
                     universities and colleges and want to earn extra college credits stress-free.</p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -307,7 +330,9 @@
                     Online Course Helpers, we understand this problem deeply, and that's why we offer simple and clear
                     online <a href="math-course-help">math course help</a> in USA.</p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -322,7 +347,9 @@
                     assist students in their academic journey and make studies smoother, smarter and result-oriented.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -338,7 +365,9 @@
                     as
                     possible.</p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -355,7 +384,9 @@
                     in
                     your criminal justice course!</p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -371,7 +402,9 @@
                       course
                       help</a> steps in and make the academic journey easier, smarter, and more successful.</p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -391,7 +424,9 @@
                     that are must-have at the global level.
                   </p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -409,7 +444,9 @@
                     safely
                     and complete every task for you.</p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -424,7 +461,9 @@
                     online <a href="biology-course-help">biology course helpers</a>; instead, sign up now and get our
                     professional help with the best highly-qualified experts in the US.</p>
                 </div>
-                <button class="mt-5 btn btn-dark rounded-pill" onclick="Tawk_API.toggle()">Live Chat</button>
+                <div class="course-card-btn">
+                  <a href="javascript:void(0)" onclick="Tawk_API.toggle()" class="btn-dark">Live Chat</a>
+                </div>
               </div>
             </div>
 
@@ -457,8 +496,8 @@
                 We Can.</span></h2>
             <div class="d-flex gap-3">
               <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
-              <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
-                Chat</button>
+              <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+                  class="fa fa-comments me-2"></i>Live Chat</a>
             </div>
           </div>
           <div class="image-right mt-4 mt-md-0">
@@ -505,8 +544,7 @@
               <i class="fa-solid fa-circle-info service-icon"></i>
               <h3 class="fs-4">Guaranteed A+ Performance</h3>
               <p class="fs-6">We do not just help you score higher. Expect top grades, on-time submissions, and reliable
-                academic
-                excellence every time.</p>
+                academic excellence every time.</p>
             </div>
           </div>
           <div class="col-md-4">
@@ -514,8 +552,7 @@
               <i class="fa-solid fa-dollar-sign service-icon"></i>
               <h3 class="fs-4">Affordable Pricing for All</h3>
               <p class="fs-6">Good assistance should not be expensive. Savour the low prices and high-quality services
-                to meet your
-                study objectives.</p>
+                to meet your study objectives.</p>
             </div>
           </div>
           <div class="col-md-4">
@@ -523,8 +560,7 @@
               <i class="fa-solid fa-file-word service-icon"></i>
               <h3 class="fs-4">100% Unique & Original Content</h3>
               <p class="fs-6">All papers are original, plagiarism-free, and precisely aligned with your course
-                requirements and
-                guidelines.</p>
+                requirements and guidelines.</p>
             </div>
           </div>
           <div class="col-md-4">
@@ -532,17 +568,15 @@
               <i class="fa-solid fa-lock service-icon"></i>
               <h3 class="fs-4">Complete Privacy & Security</h3>
               <p class="fs-6">We keep your data and your identity secure. We operate encrypted systems and tight
-                confidentiality
-                protocols to provide you with complete peace of mind.</p>
+                confidentiality protocols to provide you with complete peace of mind.</p>
             </div>
           </div>
         </div>
 
         <div class="d-flex justify-content-center gap-3">
-          <button class="btn btn-yellow rounded-pill px-5 py-3 fw-bold">Live Call <i
-              class="fa-solid fa-phone ms-2"></i></button>
-          <button class="btn btn-light-grey rounded-pill px-5 py-3 fw-bold">Whatsapp <i
-              class="fa-brands fa-whatsapp ms-2"></i></button>
+          <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+          <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+              class="fa fa-comments me-2"></i>Live Chat</a>
         </div>
       </div>
     </section>
@@ -571,12 +605,10 @@
             </p>
 
             <div class="container-fluid">
-              <a href="#" class="btn btn-call rounded-pill px-4 py-3 fw-bold">
-                Live Call <i class="fa-solid fa-phone ms-2"></i>
-              </a>
-              <a href="#" class="btn btn-chat rounded-pill px-4 py-3 fw-bold">
-                Live Chat <i class="fa-solid fa-comment-dots ms-2"></i>
-              </a>
+              <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+              <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+                  class="fa fa-comments me-2"></i>Live
+                Chat</a>
             </div>
           </div>
 
@@ -800,130 +832,131 @@
           online course
           assignments, quizzes and assessments on all platforms.</p>
         <div class="d-flex justify-content-center gap-3">
-          <a href="#" class="btn btn-chat rounded-pill px-4" onclick="Tawk_API.toggle()">Live Chat <i
-              class="fa-solid fa-comment-dots ms-2"></i></a>
-          <a href="#" class="btn btn-call rounded-pill px-4">Whatsapp <i class="fa-brands fa-whatsapp ms-2""></i></a>
+          <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+          <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+              class="fa fa-comments me-2"></i>Live
+            Chat</a>
         </div>
-    </div>
+      </div>
     </section>
-<!-- Section  -->
+    <!-- Section  -->
 
     <section class=" py-5 bg-light">
-              <div class="container text-center" data-aos="fade-up">
-                <h1 class="fw-semibold mb-3 px-5 text-navy">Trusted Professionals to Help You Succeed at All
-                  Educational
-                  Levels
-                  </h2>
-                  <p class="text-muted mb-5 px-5 mx-auto text-navy">
-                    Enroll in the stress-free program in the USA with experienced course helpers to guide you
-                    through your education.
-                    Your course is done efficiently by our team, maintaining your academic standards.
-                  </p>
-                  <div class="coverflow-swiper swiper my3dSwiper py-3">
-                    <div class="h-100 swiper-wrapper ">
-                      <div class="swiper-slide">
-                        <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
-                          style="background-color: #242f3e; border-radius: 5px;">
-                          <div class="card-body">
-                            <h4 class="text-warning fw-bold mb-3">High School Course Help</h4>
-                            <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
-                                href="https://onlinecoursehelpers.com/high-school-level-course-help/"
-                                class="text-warning"><span style="font-weight: 400">high school level
-                                  course help</span></a><span style="font-weight: 400"> is created to assist students
-                                who
-                                want to enter the field of
-                                higher studies and scholarship development. Our professionals offer individualized
-                                guidance
-                                in projects, assignments, and tests, enabling students to develop good analytical and
-                                critical thinking abilities. Through our carefully organized assistance, students can
-                                be
-                                confident and can readily move on to the next level of learning.</span></p>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="swiper-slide">
-                        <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
-                          style="background-color: #242f3e; border-radius: 5px;">
-                          <div class="card-body">
-                            <h4 class="text-warning fw-bold mb-3">Undergraduate Level Course Help</h4>
-                            <p style="font-size: 14px;"><span style="font-weight: 400">Struggling with your degree
-                                course?
-                                Our </span><a href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"
-                                class="text-warning"><span style="font-weight: 400">undergraduate level course
-                                  help</span></a><span style="font-weight: 400"> is designed for students who strive
-                                to
-                                achieve academic excellence
-                                without having to stress themselves in the process. We are ready to help with essays,
-                                online
-                                discussions, and exams, and make sure it is accurate, confidential, and ready on
-                                time.</span></p>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="swiper-slide">
-                        <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
-                          style="background-color: #242f3e; border-radius: 5px;">
-                          <div class="card-body">
-                            <h4 class="text-warning fw-bold mb-3">Master's Level Course Help</h4>
-                            <p style="font-size: 14px;"><span style="font-weight: 400">We have a </span><a
-                                href="https://onlinecoursehelpers.com/masters-level-course-help/"
-                                class="text-warning"><span style="font-weight: 400">masters level course
-                                  help</span></a><span style="font-weight: 400"> that best fits graduate students with
-                                advanced theories,
-                                data-driven research or project based studies. With professional guidance and
-                                individual
-                                academic support, you can comfortably </span><span style="font-weight: 400">complete
-                                your
-                                course</span><span style="font-weight: 400"> and succeed in graduation.</span></p>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="swiper-slide">
-                        <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
-                          style="background-color: #242f3e; border-radius: 5px;">
-                          <div class="card-body">
-                            <h4 class="text-warning fw-bold mb-3">Associative Level Course Help</h4>
-                            <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
-                                href="https://onlinecoursehelpers.com/associate-level-course-help/"
-                                class="text-warning"><span style="font-weight: 400">associate-level course
-                                  help</span></a><span style="font-weight: 400"> services assist students in enhancing
-                                their
-                                knowledge of critical
-                                academic concepts. Our professionals in the U.S. provide quality, well-formatted work
-                                in
-                                terms of assignments, research projects, and case studies. We assist you in catering
-                                to
-                                difficult subjects and excelling in all subjects.</span></p>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="swiper-slide">
-                        <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
-                          style="background-color: #242f3e; border-radius: 5px;">
-                          <div class="card-body">
-                            <h4 class="text-warning fw-bold mb-3">Doctorate Level Course Help</h4>
-                            <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
-                                href="https://onlinecoursehelpers.com/doctoral-level-course-help/"
-                                class="text-warning"><span style="font-weight: 400">doctoral-level course
-                                  help</span></a><span style="font-weight: 400"> offers specialized support to
-                                research-oriented students focused
-                                on dissertations, analytical writing, and data interpretation. Each of our projects is
-                                original, accurate, and supported by the best in the U.S. expertise, academic
-                                excellence,
-                                and the highest level of scholarly integrity. </span></p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+      <div class="container text-center" data-aos="fade-up">
+        <h1 class="fw-semibold mb-3 px-5 text-navy">Trusted Professionals to Help You Succeed at All
+          Educational
+          Levels
+          </h2>
+          <p class="text-muted mb-5 px-5 mx-auto text-navy">
+            Enroll in the stress-free program in the USA with experienced course helpers to guide you
+            through your education.
+            Your course is done efficiently by our team, maintaining your academic standards.
+          </p>
+          <div class="coverflow-swiper swiper my3dSwiper py-3">
+            <div class="h-100 swiper-wrapper ">
+              <div class="swiper-slide">
+                <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                  style="background-color: #242f3e; border-radius: 5px;">
+                  <div class="card-body">
+                    <h4 class="text-warning fw-bold mb-3">High School Course Help</h4>
+                    <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
+                        href="https://onlinecoursehelpers.com/high-school-level-course-help/" class="text-warning"><span
+                          style="font-weight: 400">high school level
+                          course help</span></a><span style="font-weight: 400"> is created to assist students
+                        who
+                        want to enter the field of
+                        higher studies and scholarship development. Our professionals offer individualized
+                        guidance
+                        in projects, assignments, and tests, enabling students to develop good analytical and
+                        critical thinking abilities. Through our carefully organized assistance, students can
+                        be
+                        confident and can readily move on to the next level of learning.</span></p>
                   </div>
-                  <div class="d-none">
-                    <div class="swiper-pagination"></div>
-                  </div>
+                </div>
               </div>
+
+              <div class="swiper-slide">
+                <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                  style="background-color: #242f3e; border-radius: 5px;">
+                  <div class="card-body">
+                    <h4 class="text-warning fw-bold mb-3">Undergraduate Level Course Help</h4>
+                    <p style="font-size: 14px;"><span style="font-weight: 400">Struggling with your degree
+                        course?
+                        Our </span><a href="https://onlinecoursehelpers.com/undergraduate-level-course-help/"
+                        class="text-warning"><span style="font-weight: 400">undergraduate level course
+                          help</span></a><span style="font-weight: 400"> is designed for students who strive
+                        to
+                        achieve academic excellence
+                        without having to stress themselves in the process. We are ready to help with essays,
+                        online
+                        discussions, and exams, and make sure it is accurate, confidential, and ready on
+                        time.</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="swiper-slide">
+                <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                  style="background-color: #242f3e; border-radius: 5px;">
+                  <div class="card-body">
+                    <h4 class="text-warning fw-bold mb-3">Master's Level Course Help</h4>
+                    <p style="font-size: 14px;"><span style="font-weight: 400">We have a </span><a
+                        href="https://onlinecoursehelpers.com/masters-level-course-help/" class="text-warning"><span
+                          style="font-weight: 400">masters level course
+                          help</span></a><span style="font-weight: 400"> that best fits graduate students with
+                        advanced theories,
+                        data-driven research or project based studies. With professional guidance and
+                        individual
+                        academic support, you can comfortably </span><span style="font-weight: 400">complete
+                        your
+                        course</span><span style="font-weight: 400"> and succeed in graduation.</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="swiper-slide">
+                <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                  style="background-color: #242f3e; border-radius: 5px;">
+                  <div class="card-body">
+                    <h4 class="text-warning fw-bold mb-3">Associative Level Course Help</h4>
+                    <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
+                        href="https://onlinecoursehelpers.com/associate-level-course-help/" class="text-warning"><span
+                          style="font-weight: 400">associate-level course
+                          help</span></a><span style="font-weight: 400"> services assist students in enhancing
+                        their
+                        knowledge of critical
+                        academic concepts. Our professionals in the U.S. provide quality, well-formatted work
+                        in
+                        terms of assignments, research projects, and case studies. We assist you in catering
+                        to
+                        difficult subjects and excelling in all subjects.</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="swiper-slide">
+                <div class="coverflow-card vh-50 vh-md-100 text-white p-4"
+                  style="background-color: #242f3e; border-radius: 5px;">
+                  <div class="card-body">
+                    <h4 class="text-warning fw-bold mb-3">Doctorate Level Course Help</h4>
+                    <p style="font-size: 14px;"><span style="font-weight: 400">Our </span><a
+                        href="https://onlinecoursehelpers.com/doctoral-level-course-help/" class="text-warning"><span
+                          style="font-weight: 400">doctoral-level course
+                          help</span></a><span style="font-weight: 400"> offers specialized support to
+                        research-oriented students focused
+                        on dissertations, analytical writing, and data interpretation. Each of our projects is
+                        original, accurate, and supported by the best in the U.S. expertise, academic
+                        excellence,
+                        and the highest level of scholarly integrity. </span></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="d-none">
+            <div class="swiper-pagination"></div>
+          </div>
+      </div>
     </section>
     <!-- Section  -->
 
@@ -1079,10 +1112,10 @@
         </div>
 
         <div class="mt-5 d-flex justify-content-center gap-3">
-          <button class="btn btn-call fw-bold rounded-pill px-5 py-3">Live Call <i
-              class="fa fa-phone ms-2"></i></button>
-          <button class="btn btn-chat fw-bold rounded-pill px-5 py-3" onclick="Tawk_API.toggle()">Live Chat <i
-              class="fa fa-comments ms-2"></i></button>
+          <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+          <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+              class="fa fa-comments me-2"></i>Live
+            Chat</a>
         </div>
       </div>
     </section>
@@ -1112,8 +1145,7 @@
           </div>
         </div>
         <div class="text-center mt-4">
-          <button class="btn btn-call fw-bold rounded-pill px-5 py-3">Live Call <i
-              class="fa fa-phone ms-2"></i></button>
+          <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
         </div>
       </div>
     </section>
@@ -1220,10 +1252,11 @@
               </li>
             </ul>
             <div class="text-center mt-5">
-              <p>Get all features for <a href="#" class="text-warning me-2">FREE</a></p>
+              <p>Get all features for <a href="tel:+12184192935" class="text-warning me-2">FREE</a></p>
             </div>
             <div class="text-center mt-3">
-              <button class="btn btn-warning fw-bold rounded-pill px-5">Place an order</button>
+              <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();"
+                class="btn btn-warning fw-bold rounded-pill px-5">Place an order</a>
             </div>
           </div>
         </div>

@@ -39,12 +39,12 @@
           </li>
         </ul>
       </div>
-      <div class="col-lg-4">
+      <div class="col-lg-4 footer-contact">
         <h5 class="text-warning fw-bold mb-4">Contact us</h5>
+        <a href="mailto:info@onlinecoursehelpers.com" class="small"><i class="fa fa-envelope text-warning me-2"></i> info@onlinecoursehelpers.com</a>
+        <a href="tel:+12184192935" class="small"><i class="fa fa-phone text-warning me-2"></i> (+1) 218 419 2935</a>
         <p class="small mb-2"><i class="fa fa-location text-warning me-2"></i> 110 Central Ave, Jersey City, NJ
           07307</p>
-        <p class="small mb-2"><i class="fa fa-envelope text-warning me-2"></i> info@onlinecoursehelpers.com</p>
-        <p class="small mb-4"><i class="fa fa-phone text-warning me-2"></i> (+1) 218 419 2935</p>
         <h5 class="text-warning fw-bold mt-4">Follow us</h5>
         <div class="d-flex gap-3 fs-5">
           <a href="https://www.facebook.com/onlinecoursehelperss/"><i

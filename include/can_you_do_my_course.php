@@ -6,9 +6,9 @@
             class="fw-semibold highlight">Yes,
             We Can.</span></h2>
         <div class="d-flex gap-3">
-          <button class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</button>
-          <button class="btn btn-chat" onclick="Tawk_API.toggle()"><i class="fa fa-comments me-2"></i>Live
-            Chat</button>
+          <a href="tel:+12184192935" class="btn btn-call"><i class="fa fa-phone me-2"></i>Live Call</a>
+          <a href="javascript:void(0)" onclick="parent.Tawk_API.toggle();" class="btn btn-chat"><i
+              class="fa fa-comments me-2"></i>Live Chat</a>
         </div>
       </div>
       <div class="image-right mt-4 mt-md-0">

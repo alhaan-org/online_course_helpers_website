@@ -2,8 +2,8 @@
 <html lang="en">
 
 <?php
-$pageTitle = 'Management Course Help';
-$pageDescription = 'Get top-quality Management Course Help service in the USA at unbeatable prices. Earn extra credits with on-time submissions and enjoy a money-back guarantee!';
+$pageTitle = 'Management Course Help | Expert Assignment Support Online';
+$pageDescription = 'Get expert management course help for assignments, case studies, projects, and exams. Fast, reliable academic support to improve your grades.';
 include 'include/header.php';
 ?>
 

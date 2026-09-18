@@ -32,6 +32,8 @@ body {
   font-family: "Lexend", sans-serif, Helvetica;
   box-sizing: border-box;
   width: 100%;
+  overflow-x: hidden;
+
 }
 
 .dropdown-menu .dropdown-item:hover,
@@ -66,18 +68,16 @@ body {
   left: 0;
   right: 0;
   content: "";
-  background: linear-gradient(
-    135deg,
-    #002a4d 0%,
-    #001e36 60%,
-    rgb(0 26 48) 80%,
-    #f3ef00 120%
-  );
+  background: linear-gradient(135deg,
+      #002a4d 0%,
+      #001e36 60%,
+      rgb(0 26 48) 80%,
+      #f3ef00 120%);
   z-index: 1;
   opacity: 0.925;
 }
 
-.hero-section > * {
+.hero-section>* {
   position: relative;
   z-index: 2;
 }
@@ -311,16 +311,19 @@ body {
   background-color: #000000;
   color: #e2e2e2;
 }
+
 .course-card-btn {
   display: flex;
   justify-content: center;
   padding: 20px 0;
 }
+
 .course-card-btn a {
   text-decoration: none;
   display: inline-block;
   transition: all 0.3s ease;
 }
+
 .btn-dark {
   background-color: #274869;
   color: #ffffff;
@@ -734,6 +737,7 @@ body {
 .text-navy {
   color: #00334d;
 }
+
 .platform-btns {
   position: relative;
   z-index: 2;
@@ -755,12 +759,14 @@ body {
 .hero-image-frame {
   position: relative;
   /* padding: 10px; */
+  width: clamp(10em, 60vw, 30em);
+  right: 30px;
 }
 
 .hero-image-frame .cheap-price-section-image-placeholder {
-  width: clamp(10em, 60vw, 35em);
+  width: clamp(10em, 60vw, 32em);
   display: flex;
-  aspect-ratio: 1/1.1;
+  aspect-ratio: 1/1;
   margin: 0 auto;
 }
 
@@ -875,11 +881,13 @@ td {
 .footer-link a:hover {
   color: var(--vibrant-yellow);
 }
+
 .footer-contact {
   display: flex;
   flex-direction: column;
   gap: 8px;
 }
+
 .footer-contact a {
   color: #ffffff;
   text-decoration: none;
@@ -991,6 +999,7 @@ td {
 
 /* Breakpoints on Mobile Screen */
 @media (max-width: 768px) {
+
   .btn-call,
   .btn-chat,
   .btn-darkcyan {
